@@ -1,35 +1,35 @@
 {
  "date": "2026-10-01",
  "edition": "Evening edition · prep for Fri Oct 2",
- "generatedAt": "2026-10-02T00:10:00Z",
- "headline": "10-year hits 5.34%, highest since 2002, then fades as stocks close Q4's first day slightly higher. September jobs report at 7:30 AM tomorrow decides whether the Fed hikes again Oct 28.",
+ "generatedAt": "2026-10-02T01:40:40Z",
+ "headline": "Soft August PCE cut October hike odds to about 35–38% and the 10-year faded from 5.34% to 5.24%, but December is priced near-certain; Friday's 7:30 AM CT payrolls (+90K est.) decides if October comes back.",
  "summary": [
-  "Global bond selloff: the 10Y touched 5.34% and the 30Y 5.68% intraday, both 24-year highs, before easing to about 5.24%. France's deficit and German Bunds at 15-year highs fed it.",
-  "Inflation pressure is in the factory data: ISM manufacturing 54.5 (est. 55.0) but prices paid jumped 6.8 pts to 77.9.",
-  "Labor still tight: jobless claims fell to 197K, the fourth straight weekly decline. Consensus for Friday's payrolls is about +90K with unemployment at 4.1%.",
-  "Oil spiked after China halted October fuel exports. Brent is back above $100 and WTI near $92–93, which adds to the inflation story.",
-  "AI and deals: Anthropic's IPO filing shows Broadcom will lend up to $42B for chip leases. Accenture jumped about 20% on record bookings. Nike fell after hours on weak sales and layoffs."
+  "Fed repricing: core PCE came in at 3.0% y/y vs 3.3% expected. October hike odds fell to roughly 35–38% (from ~51% a day earlier) while December is priced above 95%. Goldman moved its next-hike call to December.",
+  "Bond selloff paused, not ended: the 10Y touched 5.344% (highest since 2002) then closed near 5.24%, the 30Y near 5.61% and the 2Y near 4.80%. A 10 bp drop in the 2Y during the day was a bull-steepening.",
+  "Jobs report Friday 7:30 AM CT: consensus +90K, unemployment 4.1%, wages +0.3% m/m, vs +162K prior. ADP printed +90K and JOLTS openings fell to 7.08M, but claims at 197K and ISM prices paid at 77.9 say inflation pressure is still live.",
+  "Oil is the inflation wildcard: WTI settled about $92.48 (+2.3%) and Brent is around $100–102 after China halted fuel exports and a third U.S. carrier group headed to the Middle East.",
+  "Metals bounced but stay hurt by real yields: COMEX gold $4,190 (+0.4%), silver $60.78 (+0.8%), copper $6.64 (−0.9%). Nike fell up to 6% after hours on a revenue miss and a restructuring through 2031."
  ],
  "markets_asof": "Thu Oct 1 close",
  "markets": [
   {
    "label": "S&P 500",
-   "value": "≈7,670",
-   "change": "+0.2–0.3%",
+   "value": "7,666.45",
+   "change": "+0.19%",
    "dir": "up",
    "note": "~1.7% below Aug record"
   },
   {
    "label": "Dow",
-   "value": "50,912",
-   "change": "+0.01%",
+   "value": "50,926.56",
+   "change": "+0.04%",
    "dir": "flat"
   },
   {
    "label": "Nasdaq",
-   "value": "26,930",
-   "change": "+0.25%",
-   "dir": "up",
+   "value": "26,871.60",
+   "change": "+0.04%",
+   "dir": "flat",
    "note": "Micron, chips led"
   },
   {
@@ -42,56 +42,65 @@
   {
    "label": "UST 10Y",
    "value": "≈5.24%",
-   "change": "hi 5.34%",
+   "change": "hi 5.344%",
    "dir": "up",
-   "note": "Highest since Apr 2002"
+   "note": "Highest since Apr 2002; −5 bp on day"
+  },
+  {
+   "label": "UST 2Y",
+   "value": "≈4.80%",
+   "change": "−10 bp intraday",
+   "dir": "down",
+   "note": "Led the rally after PCE"
   },
   {
    "label": "UST 30Y",
-   "value": "≈5.67%",
-   "change": "hi 5.68%",
-   "dir": "up",
-   "note": "Highest since Jul 2002"
+   "value": "≈5.61%",
+   "change": "−3 bp",
+   "dir": "down",
+   "note": "Hit a 24-yr high intraday"
   },
   {
    "label": "Fed funds",
    "value": "3.75–4.00%",
-   "change": "hiked Sep 16",
+   "change": "Oct hike ~35–38%",
    "dir": "flat",
-   "note": "Next FOMC Oct 27–28"
+   "note": "FOMC Oct 27–28; Dec >95%"
   },
   {
    "label": "WTI crude",
-   "value": "$92.3–92.9",
-   "change": "+2.1–2.7%",
+   "value": "$92.48",
+   "change": "+2.28%",
    "dir": "up",
    "note": "China fuel-export halt"
   },
   {
    "label": "Brent",
-   "value": "≈$103",
-   "change": "back > $100",
-   "dir": "up"
+   "value": "≈$100–102",
+   "change": "Dec ctr $100.09",
+   "dir": "up",
+   "note": "Front-month roll; expiring >$102"
   },
   {
    "label": "Gold",
-   "value": "$4,212",
-   "change": "+0.6%",
+   "value": "$4,190.10",
+   "change": "+0.37%",
    "dir": "up",
-   "note": "Sep: −8.5%"
+   "note": "COMEX; Sep: −8.5%"
   },
   {
    "label": "Silver",
-   "value": "$61.55",
-   "change": "+1.6%",
+   "value": "$60.78",
+   "change": "+0.78%",
    "dir": "up",
-   "note": "Sep: −13.5%"
+   "note": "COMEX; Sep: −13.5%"
   },
   {
    "label": "Copper",
-   "value": "≈$6.6/lb",
-   "change": "flat",
-   "dir": "flat"
+   "value": "$6.638/lb",
+   "change": "−0.94%",
+   "dir": "down",
+   "note": "COMEX"
   },
   {
    "label": "KBW Bank Index",
@@ -99,12 +108,6 @@
    "change": "−0.7%",
    "dir": "down",
    "note": "Rate worries"
-  },
-  {
-   "label": "Dollar index",
-   "value": "≈101.4",
-   "change": "2-mo high (Tue)",
-   "dir": "up"
   }
  ],
  "calendar": [
@@ -113,12 +116,12 @@
    "event": "September jobs report (BLS)",
    "consensus": "+90K · 4.1%",
    "prior": "+162K · 4.1%",
-   "why": "A hot print pushes Oct 28 hike odds above 50% and puts more pressure on the long end. A miss helps metals."
+   "why": "A beat revives October hike odds (now ~35–38%) and pressures the long end. A miss supports the December-only view and helps metals."
   },
   {
    "time": "7:30 AM",
    "event": "Average hourly earnings (in jobs report)",
-   "consensus": "watch",
+   "consensus": "+0.3% m/m",
    "prior": "—",
    "why": "Wage growth is the Fed's read on services inflation"
   },
@@ -132,16 +135,16 @@
   {
    "time": "Oct 27–28",
    "event": "FOMC meeting",
-   "consensus": "~50/50 hike vs hold",
+   "consensus": "Oct hike ~35–38% · Dec >95%",
    "prior": "+25 bp (Sep 16)",
-   "why": "Dot plot shows 16 of 19 officials expect at least one more hike in 2026"
+   "why": "Dots show 16 of 19 officials expect at least one more hike in 2026; Goldman and JPMorgan now say December"
   }
  ],
  "desk": {
   "rates": [
    {
     "title": "Long end leads a global selloff",
-    "body": "The 10Y hit 5.342% and the 30Y 5.683%, both 24-year highs. Bund 10Y reached 3.63% and the OAT–Bund spread widened to 132 bp, a 14-year extreme, on France's 5% deficit budget. Strategists now describe the outlook as \"much higher for a lot longer.\"",
+    "body": "The 10Y hit 5.344% and the 30Y a 24-year high before easing to about 5.24% and 5.61%; the 2Y fell about 10 bp to near 4.80%. Bund 10Y reached 3.63% and the OAT–Bund spread widened to 132 bp on France's 5% deficit budget.",
     "source": "Quartz / TheStreet",
     "url": "https://qz.com/us-treasury-yields-24-year-highs-bond-selloff-100126",
     "simple": "When investors sell bonds, bond prices fall and their yields (the interest they pay) go up. Long-term U.S. government debt now pays the most since 2002 because investors worry governments here and in Europe are borrowing too much, so they demand extra pay to lend for 10–30 years. Higher yields make mortgages, car loans and business loans more expensive for everyone."
@@ -154,11 +157,11 @@
     "simple": "A 'real' yield is the interest rate after subtracting expected inflation. It jumped fast in September, so investors are earning more true return on safe bonds. That makes assets that pay nothing, like gold, look less attractive."
    },
    {
-    "title": "Fed: Oct 28 is a coin flip",
-    "body": "Warsh's Fed hiked 25 bp 12–0 on Sep 16, its first hike since 2023, to 3.75–4.00%. FedWatch sits near 50/50 for October and about 88% for at least one more hike by December.",
-    "source": "Schwab / Tech Insider",
-    "url": "https://tech-insider.org/fed-october-2026-rate-hold-odds-polymarket-swing/",
-    "simple": "The Fed raised its key rate in September to fight inflation. Traders bet on Fed moves using futures, and those bets show roughly even odds of another raise on Oct 28. Almost everyone expects at least one more raise by December. The question is when, not if."
+    "title": "Fed: October fades, December is the call",
+    "body": "Soft August core PCE (3.0% y/y vs 3.3% est.) cut October hike odds to about 35–38% from ~51%, while December sits above 95%. Warsh's Fed hiked 25 bp 12–0 on Sep 16 to 3.75–4.00%, and Goldman and JPMorgan now see the next hike in December.",
+    "source": "CNBC / CME FedWatch via press",
+    "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+    "simple": "PCE is the inflation gauge the Fed watches most, and it came in cooler than forecast. Traders bet on Fed moves through futures, and those bets now say an October raise is less likely than not, but a raise by December is nearly certain. The question is timing, and Friday's jobs data can still shift it."
    }
   ],
   "derivatives": [
@@ -248,7 +251,7 @@
    },
    {
     "title": "Nike shares drop on disappointing sales, layoffs",
-    "body": "Fiscal Q1 2027 results came after the close Thursday. Sales disappointed and the company announced layoffs as part of a restructuring. The stock is already down about 44% YTD.",
+    "body": "Fiscal Q1 revenue was $11.21B (−4%) vs $11.33B expected, EPS $0.48, China sales −26%. Shares fell up to 6% after hours as Nike unveiled a restructuring through 2031 targeting $2.5B of savings, with layoffs in 2027 and beyond.",
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
     "simple": "Nike sold less than Wall Street expected last quarter and is cutting jobs to save money. Investors sold the stock after hours. It was already down almost half this year."
@@ -345,12 +348,12 @@
   },
   {
    "topic": "Why a 'good' jobs number could be bad for markets",
-   "point": "Claims at 197K and ISM prices paid at 77.9 already point to a hot economy. A payrolls beat on Friday probably prices in an October hike, pressures banks' securities books and hits gold through real yields."
+   "point": "Soft core PCE (3.0% vs 3.3% est.) moved the hike to December, yet claims at 197K and ISM prices paid at 77.9 say the economy is hot. A strong payrolls beat can pull October back in, pressure banks' securities books and hit gold through real yields."
   },
   {
    "topic": "Regional bank consolidation",
    "point": "Peoples–Capital ($728M, all-stock, about 3-year TBV earnback) is the playbook: buy commercial-banking density and fee businesses while rates keep organic deposit growth expensive."
   }
  ],
- "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or block automated reading. Their sections draw on press digests and other outlets' coverage of the same stories, so open the originals with your subscriptions. Closing figures differ slightly between sources and are approximate."
+ "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or block automated reading, so those sections use press digests and other outlets' coverage; open the originals with your subscriptions. Closes differ slightly across sources, Brent straddles an expiring and a new contract, and Fed odds move intraday (35–38% for October is the range seen in CME FedWatch coverage)."
 }
