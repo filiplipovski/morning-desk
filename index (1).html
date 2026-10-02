@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Morning Desk · Daily Business, Rates &amp; Metals Brief</title>
+<meta name="description" content="A daily pre-market business brief: top stories from CNBC, WSJ, the Chicago Tribune and NYT, plus markets, the economic calendar, rates, derivatives, metals and banking news, each with a plain-English explainer.">
+<meta property="og:title" content="Morning Desk">
+<meta property="og:description" content="Daily business, rates, derivatives and metals brief with plain-English explainers.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<meta name="color-scheme" content="light dark">
+<style>
+html{-webkit-text-size-adjust:100%}
+body{margin:0}
+.wrap > footer.note{margin-top:8px}
+
+/* Layout: a desk note — masthead strip, market tape, then a two-column body (story column + desk sidebar) that stacks on phones */
+:root{
+  --bg:#EDF2F8; --surface:#FFFFFF; --ink:#0A2240; --muted:#56677F; --rule:#C9D5E4;
+  --accent:#0B63B6; --accent-soft:#E1EDF9;
+  --up:#0F7B48; --down:#BE2530; --flat:#56677F;
+  --f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-data:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#071A31; --surface:#0D2543; --ink:#E6EEF7; --muted:#8EA4BF; --rule:#1E3B60;
+  --accent:#5AAAF2; --accent-soft:#12345A; --up:#3CC48A; --down:#F2706A; --flat:#8EA4BF; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#071A31; --surface:#0D2543; --ink:#E6EEF7; --muted:#8EA4BF; --rule:#1E3B60;
+  --accent:#5AAAF2; --accent-soft:#12345A; --up:#3CC48A; --down:#F2706A; --flat:#8EA4BF; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:20px 48px;display:flex;flex-direction:column;gap:22px}
+a{color:inherit;text-decoration-color:var(--accent);text-underline-offset:3px}
+a:hover{color:var(--accent)}
+button,select{font:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* masthead */
+.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px;border-bottom:4px solid var(--accent);padding-bottom:12px}
+.mast h1{font-family:var(--f-display);font-weight:700;font-size:clamp(34px,6vw,52px);line-height:.95;letter-spacing:.01em;margin:0;text-transform:uppercase}
+.mast .eyebrow{font-family:var(--f-data);font-size:12px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.controls{max-width:100%;min-width:0}
+.controls select{max-width:100%;min-width:0;flex:1 1 220px;text-overflow:ellipsis;background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:6px;padding:7px 10px}
+.btn{background:var(--ink);color:var(--bg);border:0;border-radius:6px;padding:8px 14px;font-weight:600;cursor:pointer}
+.btn:hover{background:var(--accent);color:#fff}
+.btn[disabled]{opacity:.55;cursor:default}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--rule)}
+.btn.ghost:hover{border-color:var(--accent);color:var(--accent);background:transparent}
+details.eli{margin-top:2px}
+details.eli summary{cursor:pointer;font-size:12px;font-weight:600;color:var(--accent);list-style:none;display:inline-flex;align-items:center;gap:6px}
+details.eli summary::-webkit-details-marker{display:none}
+details.eli summary::before{content:"+";font-family:var(--f-data);display:inline-block;width:14px;height:14px;line-height:13px;text-align:center;border:1px solid currentColor;border-radius:3px;font-size:11px}
+details.eli[open] summary::before{content:"−"}
+details.eli p{margin:6px 0 2px;background:var(--accent-soft);padding:8px 10px;border-radius:4px;font-size:14px;max-width:72ch}
+.status{font-family:var(--f-data);font-size:12px;color:var(--muted);flex-basis:100%;text-align:right}
+.status.err{color:var(--down)}
+
+/* thesis */
+.thesis{display:grid;grid-template-columns:minmax(0,1fr);gap:10px}
+.thesis h2{font-family:var(--f-display);font-weight:600;font-size:clamp(24px,3.4vw,34px);line-height:1.1;margin:0;text-wrap:balance}
+.thesis ul{margin:0;padding-left:20px;display:grid;gap:6px;max-width:80ch}
+.meta{font-family:var(--f-data);font-size:12px;color:var(--muted)}
+
+/* tape */
+.tape{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.tick{background:var(--surface);padding:10px 12px;display:grid;gap:2px;min-width:0}
+.tick .l{font-family:var(--f-data);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tick .v{font-family:var(--f-data);font-size:18px;font-weight:500;font-variant-numeric:tabular-nums}
+.tick .c{font-family:var(--f-data);font-size:12px;font-variant-numeric:tabular-nums}
+.tick .n{font-size:12px;color:var(--muted);line-height:1.35}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+
+/* body grid */
+.grid{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:28px;align-items:start}
+@media (max-width:860px){.grid{grid-template-columns:minmax(0,1fr)}}
+.col{display:flex;flex-direction:column;gap:26px;min-width:0}
+section h3{font-family:var(--f-display);font-weight:700;font-size:20px;letter-spacing:.04em;text-transform:uppercase;margin:0 0 10px;display:flex;align-items:baseline;gap:10px;border-bottom:1px solid var(--rule);padding-bottom:6px}
+section h3 small{font-family:var(--f-data);font-weight:400;font-size:11px;letter-spacing:.04em;color:var(--muted);text-transform:none}
+
+.story{display:grid;gap:4px;padding:10px 0;border-bottom:1px dashed var(--rule)}
+.story:last-child{border-bottom:0}
+.story .t{font-weight:600;line-height:1.35}
+.story .b{color:var(--ink);max-width:72ch}
+.story .s{font-family:var(--f-data);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+
+/* desk sidebar */
+.desk{background:var(--surface);border:1px solid var(--rule);border-top:4px solid var(--accent);padding:14px 16px;display:flex;flex-direction:column;gap:18px}
+.desk h4{font-family:var(--f-display);font-size:16px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin:0 0 4px;color:var(--accent)}
+.desk .story{padding:7px 0}
+
+/* source tabs */
+.tabs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px}
+.tab{background:transparent;border:1px solid var(--rule);color:var(--ink);border-radius:999px;padding:4px 12px;cursor:pointer;font-size:13px;font-weight:500}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab .ct{font-family:var(--f-data);font-size:11px;opacity:.7;margin-left:4px}
+
+/* calendar */
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{font-family:var(--f-data);font-size:11px;font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:left;padding:6px 8px;border-bottom:1px solid var(--rule)}
+td{padding:8px;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+/* talking points */
+.tp{display:grid;gap:10px}
+.tp div{background:var(--accent-soft);padding:10px 12px;border-radius:4px}
+.tp b{display:block;font-family:var(--f-display);font-size:16px;letter-spacing:.02em}
+
+/* live updates */
+.live{display:flex;flex-direction:column;border:1px solid var(--rule);background:var(--surface)}
+.live-h{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 10px;padding:10px 14px;border-bottom:1px solid var(--rule)}
+.live-h h3{border:0;margin:0;padding:0}
+.pulse{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--up);margin-right:8px;vertical-align:middle}
+@media (prefers-reduced-motion:no-preference){.pulse{animation:pl 2s ease-in-out infinite}@keyframes pl{50%{opacity:.35}}}
+.upd{display:grid;grid-template-columns:88px minmax(0,1fr);gap:4px 14px;padding:12px 14px;border-bottom:1px dashed var(--rule)}
+.upd:last-of-type{border-bottom:0}
+.upd .when{font-family:var(--f-data);font-size:12px;color:var(--muted);padding-top:3px;font-variant-numeric:tabular-nums}
+.upd .when b{display:block;color:var(--ink);font-size:14px;font-weight:500}
+.upd .uh{font-weight:600;line-height:1.35}
+.upd ul{margin:4px 0 0;padding-left:18px;display:grid;gap:3px;max-width:76ch}
+.upd .s{font-family:var(--f-data);font-size:11px;color:var(--muted);letter-spacing:.03em;margin-top:4px}
+.upd.older{display:none}
+.live.all .upd.older{display:grid}
+.more{background:transparent;border:0;border-top:1px solid var(--rule);color:var(--accent);font-weight:600;padding:8px 14px;text-align:left;cursor:pointer;font-size:13px}
+@media (max-width:520px){.upd{grid-template-columns:minmax(0,1fr)}.upd .when b{display:inline;margin-right:6px}}
+
+.note{font-size:12px;color:var(--muted);border-top:1px solid var(--rule);padding-top:10px}
+.empty{background:var(--surface);border:1px dashed var(--rule);padding:28px;text-align:center;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.fade{animation:f .35s ease-out}@keyframes f{from{opacity:.4}to{opacity:1}}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <div class="eyebrow" id="eyebrow">Daily business brief · CNBC · WSJ · Chicago Tribune · NYT</div>
+      <h1>Morning Desk</h1>
+    </div>
+    <div class="controls">
+      <label for="pick" class="meta">Edition</label>
+      <select id="pick" aria-label="Choose a brief"><option>Loading…</option></select>
+      <button class="btn ghost" id="eli-all" aria-pressed="false">Show plain English</button>
+            <div class="status" id="status"></div>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="empty" id="empty">Your brief appears here. A new one is written every weekday by 6:30 AM Chicago time, Loading the latest edition…</div>
+  </main>
+  <footer class="note">Morning Desk is a daily summary of public business coverage with links to the original reporting. Figures are approximate and may lag. Nothing here is investment advice.</footer>
+</div>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const safeUrl = u => (typeof u === "string" && /^https:\/\//i.test(u)) ? u : null;
+  let index = [], current = null, srcTab = "cnbc", eliOpen = false;
+  try { srcTab = localStorage.getItem("md-src") || "cnbc"; eliOpen = localStorage.getItem("md-eli") === "1"; } catch(e){}
+  const SOURCES = [["cnbc","CNBC"],["wsj","WSJ"],["tribune","Chicago Tribune"],["nyt","NYT"]];
+  const eliBtn = $("#eli-all");
+  function syncEliBtn(){ eliBtn.setAttribute("aria-pressed", eliOpen); eliBtn.textContent = eliOpen ? "Hide plain English" : "Show plain English"; }
+  syncEliBtn();
+  eliBtn.addEventListener("click", ()=>{ eliOpen=!eliOpen; try{localStorage.setItem("md-eli",eliOpen?"1":"0")}catch(e){} document.querySelectorAll("details.eli").forEach(d=>d.open=eliOpen); syncEliBtn(); });
+
+  function story(it){
+    const u = safeUrl(it.url);
+    const t = u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title);
+    const simple = it.simple ? `<details class="eli"${eliOpen?" open":""}><summary>In plain English</summary><p>${esc(it.simple)}</p></details>` : "";
+    return `<div class="story"><div class="t">${t}</div>${it.body?`<div class="b">${esc(it.body)}</div>`:""}${simple}${it.source?`<div class="s">${esc(it.source)}</div>`:""}</div>`;
+  }
+  const list = arr => (arr && arr.length) ? arr.map(story).join("") : `<div class="meta">Nothing flagged.</div>`;
+  function fmtTime(iso){ try { return new Date(iso).toLocaleString("en-US",{timeZone:"America/Chicago",weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) + " CT"; } catch(e){ return ""; } }
+  function fmtDate(d){ try { const [y,m,dd]=d.split("-").map(Number); return new Date(Date.UTC(y,m-1,dd,12)).toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric",timeZone:"UTC"}); } catch(e){ return d; } }
+
+
+  let liveAll = false;
+  function liveHtml(b){
+    const ups = (b.updates||[]).slice().sort((x,y)=>String(y.at||"").localeCompare(String(x.at||"")));
+    if(!ups.length) return "";
+    const tm = iso => { try { return new Date(iso).toLocaleTimeString("en-US",{timeZone:"America/Chicago",hour:"numeric",minute:"2-digit"}); } catch(e){ return ""; } };
+    const rows = ups.map((u,i)=>{
+      const srcs = (u.sources||[]).map(s=>{ const h=safeUrl(s.url); return h?`<a href="${esc(h)}" target="_blank" rel="noopener">${esc(s.name||"source")}</a>`:esc(s.name||""); }).filter(Boolean).join(" · ");
+      const simple = u.simple ? `<details class="eli"${eliOpen?" open":""}><summary>In plain English</summary><p>${esc(u.simple)}</p></details>` : "";
+      return `<div class="upd${i>=3?" older":""}"><div class="when"><b>${esc(tm(u.at))}</b>${esc(u.label||"")}</div><div style="min-width:0"><div class="uh">${esc(u.headline)}</div>${(u.points&&u.points.length)?`<ul>${u.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`:""}${simple}${srcs?`<div class="s">${srcs}</div>`:""}</div></div>`;
+    }).join("");
+    return `<section class="live${liveAll?" all":""}" aria-label="Live updates"><div class="live-h"><h3><span class="pulse" aria-hidden="true"></span>Live updates</h3><span class="meta">${ups.length} today · newest first</span></div>${rows}${ups.length>3?`<button class="more" id="live-more">${liveAll?"Show fewer":"Show all "+ups.length+" updates"}</button>`:""}</section>`;
+  }
+  function wireLive(){ const m=document.getElementById("live-more"); if(m) m.addEventListener("click",()=>{ liveAll=!liveAll; render(); }); }
+  function render(){
+    const b = current; if(!b) return;
+    document.title = "Morning Desk · " + fmtDate(b.date);
+    const tape = (b.markets||[]).map(m=>`<div class="tick"><span class="l">${esc(m.label)}</span><span class="v">${esc(m.value)}</span><span class="c ${["up","down","flat"].includes(m.dir)?m.dir:"flat"}">${m.dir==="up"?"▲ ":m.dir==="down"?"▼ ":""}${esc(m.change)}</span>${m.note?`<span class="n">${esc(m.note)}</span>`:""}</div>`).join("");
+    const cal = (b.calendar||[]).map(c=>`<tr><td class="num">${esc(c.time)}</td><td><b>${esc(c.event)}</b>${c.why?`<div class="meta">${esc(c.why)}</div>`:""}</td><td class="num">${esc(c.consensus||"—")}</td><td class="num">${esc(c.prior||"—")}</td></tr>`).join("");
+    const src = b.sources||{}, desk = b.desk||{};
+    const tabs = SOURCES.map(([k,n])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===srcTab}">${n}<span class="ct">${(src[k]||[]).length}</span></button>`).join("");
+    const tps = (b.talking_points||[]).map(t=>`<div><b>${esc(t.topic)}</b>${esc(t.point)}</div>`).join("");
+    $("#main").innerHTML = `
+    <div class="fade" style="display:flex;flex-direction:column;gap:22px">
+      ${liveHtml(b)}
+      <section class="thesis">
+        <div class="meta">${esc(fmtDate(b.date))}${b.edition?" · "+esc(b.edition):""} · written ${esc(fmtTime(b.generatedAt))}${b.updatedAt?" · last update "+esc(fmtTime(b.updatedAt)):""}</div>
+        <h2>${esc(b.headline)}</h2>
+        <ul>${(b.summary||[]).map(s=>`<li>${esc(s)}</li>`).join("")}</ul>
+      </section>
+      ${tape?`<section aria-label="Markets"><h3>Markets <small>${esc(b.markets_asof||"")}</small></h3><div class="tape">${tape}</div></section>`:""}
+      <div class="grid">
+        <div class="col">
+          <section><h3>Top stories by source</h3><div class="tabs" role="tablist">${tabs}</div><div id="srclist">${list(src[srcTab])}</div></section>
+          ${cal?`<section><h3>Calendar <small>times CT</small></h3><div class="tbl"><table><thead><tr><th>Time</th><th>Event</th><th>Consensus</th><th>Prior</th></tr></thead><tbody>${cal}</tbody></table></div></section>`:""}
+          <section><h3>Banking &amp; deals</h3>${list(b.banking)}</section>
+        </div>
+        <aside class="col">
+          <div class="desk">
+            <div><h4>Rates</h4>${list(desk.rates)}</div>
+            <div><h4>Derivatives</h4>${list(desk.derivatives)}</div>
+            <div><h4>Metals</h4>${list(desk.metals)}</div>
+          </div>
+          ${tps?`<section><h3>Talking points</h3><div class="tp">${tps}</div></section>`:""}
+        </aside>
+      </div>
+      ${b.caveats?`<div class="note">${esc(b.caveats)}</div>`:""}
+    </div>`;
+    document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click",()=>{
+      srcTab=t.dataset.k; try{localStorage.setItem("md-src",srcTab)}catch(e){}
+      document.querySelectorAll(".tab").forEach(x=>x.setAttribute("aria-selected",x===t));
+      $("#srclist").innerHTML=list((current.sources||{})[srcTab]);
+    }));
+    wireLive();
+  }
+  function setStatus(msg, err){ const s=$("#status"); s.textContent=msg; s.classList.toggle("err",!!err); }
+  async function load(date){
+    try{
+      const r = await fetch("briefs/"+encodeURIComponent(date)+".json",{cache:"no-cache"});
+      if(!r.ok) throw new Error(r.status);
+      current = await r.json(); render(); setStatus("");
+      if(location.hash.slice(1)!==date) history.replaceState(null,"","#"+date);
+    }catch(e){ setStatus("Couldn’t load the "+date+" brief. Refresh the page to try again.", true); }
+  }
+  $("#pick").addEventListener("change", e=>load(e.target.value));
+  function fillPick(){
+    $("#pick").innerHTML = index.map(b=>`<option value="${esc(b.date)}">${esc(fmtDate(b.date))}${b.edition?" · "+esc(b.edition):""}</option>`).join("");
+  }
+  async function fetchIndex(){
+    const r = await fetch("briefs/index.json",{cache:"no-cache"});
+    if(!r.ok) throw new Error(r.status);
+    const list = (await r.json()).briefs || [];
+    list.sort((a,b)=>a.date<b.date?1:-1);
+    return list;
+  }
+  (async()=>{
+    try{ index = await fetchIndex(); }
+    catch(e){ setStatus("Couldn’t load the list of briefs. Refresh the page to try again.", true); return; }
+    if(!index.length){ $("#pick").innerHTML="<option>No briefs yet</option>"; return; }
+    fillPick();
+    const want = location.hash.slice(1); const pick = index.find(b=>b.date===want) ? want : index[0].date;
+    $("#pick").value = pick; load(pick);
+  })();
+  // Check for new briefs and live updates every 5 minutes while the page is open.
+  async function poll(){
+    if(document.hidden || !current) return;
+    let list; try{ list = await fetchIndex(); }catch(e){ return; }
+    if(!list.length) return;
+    const wasLatest = index.length && current.date === index[0].date;
+    const sig = l => l.map(b=>b.date+(b.updatedAt||b.generatedAt||"")).join("|");
+    const changed = sig(list) !== sig(index);
+    index = list;
+    if(!changed) return;
+    fillPick();
+    if(wasLatest && list[0].date !== current.date){ $("#pick").value = list[0].date; load(list[0].date); return; }
+    $("#pick").value = current.date;
+    const entry = list.find(b=>b.date===current.date);
+    if(entry && (entry.updatedAt||entry.generatedAt) !== (current.updatedAt||current.generatedAt)){
+      try{ const r = await fetch("briefs/"+encodeURIComponent(current.date)+".json",{cache:"no-cache"}); if(r.ok){ current = await r.json(); render(); } }catch(e){}
+    }
+  }
+  setInterval(poll, 5*60*1000);
+  document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) poll(); });
+})();
+</script>
+</body>
+</html>
