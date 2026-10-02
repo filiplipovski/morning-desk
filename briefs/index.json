@@ -1,17 +1,17 @@
 {
- "briefs": [
-  {
-   "date": "2026-10-02",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-02T11:25:00Z",
-   "headline": "Payrolls at 7:30 AM CT (+84–90K est.) decide whether October hike odds (~28–36%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
-   "updatedAt": "2026-10-02T14:18:07Z"
-  },
-  {
-   "date": "2026-10-01",
-   "edition": "Evening edition · prep for Fri Oct 2",
-   "generatedAt": "2026-10-02T01:41:00Z",
-   "headline": "Soft August PCE cut October hike odds to about 35–38% and the 10-year faded from 5.34% to 5.24%, but December is priced near-certain; Friday's 7:30 AM CT payrolls (+90K est.) decides if October comes back."
-  }
- ]
+  "briefs": [
+    {
+      "date": "2026-10-02",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-02T11:25:00Z",
+      "headline": "Payrolls at 7:30 AM CT (+84–90K est.) decide whether October hike odds (~28–36%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
+      "updatedAt": "2026-10-02T17:18:02Z"
+    },
+    {
+      "date": "2026-10-01",
+      "edition": "Evening edition · prep for Fri Oct 2",
+      "generatedAt": "2026-10-02T01:41:00Z",
+      "headline": "Soft August PCE cut October hike odds to about 35–38% and the 10-year faded from 5.34% to 5.24%, but December is priced near-certain; Friday's 7:30 AM CT payrolls (+90K est.) decides if October comes back."
+    }
+  ]
 }

@@ -1,473 +1,516 @@
 {
- "date": "2026-10-02",
- "edition": "Morning edition",
- "generatedAt": "2026-10-02T11:25:00Z",
- "headline": "Payrolls at 7:30 AM CT (+84–90K est.) decide whether October hike odds (~28–36%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
- "summary": [
-  "Jobs day: consensus is +84K (Dow Jones) to +90K (Reuters/Bloomberg) vs +162K in August, unemployment 4.1%, wages +0.3% m/m. A print well above 150K likely puts October back near 50/50. A print near zero locks in December-only and should bull-steepen the curve.",
-  "Rates are calm before the number: 10Y ≈5.24% (Thursday high 5.344%, the highest since April 2002), 30Y ≈5.62%, 2Y ≈4.79%. The 5Y closed above 5% for the first time since 2007. The 10Y rose more than 80 bp in Q3.",
-  "Oil reversal: the EU is discussing a French plan to release 50M bbl of diesel, with IEA members adding 50M bbl of crude. Brent fell about 2.5% to $99.74 and WTI about 3.8% to $89.34. That takes some pressure off the inflation side of the Fed debate.",
-  "Europe is still the stress point: the OAT–Bund spread hit 146 bp this morning (110 bp at the start of the week), the French 10Y is near 5%, and the UK 30Y topped 6% Thursday for the first time since 1998.",
-  "Banks lag when the long end rises: KBW fell as much as 2.4% Thursday and is more than 13% below its mid-August peak, and financials just had their worst month relative to the S&P since 1990 (Truist). Futures are up: S&P +0.3%, Nasdaq-100 +0.6%. Nike is down about 9% pre-market.",
-  "Metals are steady: gold ≈$4,183, silver ≈$61.2, COMEX copper $6.58/lb with China shut for Golden Week. Chile's August copper output was the lowest since 2011, and Escondida supervisors have authorized a strike."
- ],
- "markets_asof": "Post-open ~9:20 AM CT (index levels derived from opening % moves)",
- "markets": [
-  {
-   "label": "S&P 500",
-   "value": "≈7,735",
-   "change": "+0.9%",
-   "dir": "up",
-   "note": "At open; Thu close 7,666"
-  },
-  {
-   "label": "Dow",
-   "value": "≈51,280",
-   "change": "+0.7%",
-   "dir": "up",
-   "note": "At open"
-  },
-  {
-   "label": "Nasdaq",
-   "value": "≈27,220",
-   "change": "+1.3%",
-   "dir": "up",
-   "note": "At open; tech leads"
-  },
-  {
-   "label": "Russell 2000",
-   "value": "2,826",
-   "change": "Thu close",
-   "dir": "flat",
-   "note": "Small caps led futures; live level —"
-  },
-  {
-   "label": "UST 2Y",
-   "value": "≈4.73%",
-   "change": "−6 bp",
-   "dir": "down"
-  },
-  {
-   "label": "UST 10Y",
-   "value": "≈5.18%",
-   "change": "−6 bp",
-   "dir": "down",
-   "note": "Thu high 5.344%"
-  },
-  {
-   "label": "UST 30Y",
-   "value": "≈5.57%",
-   "change": "−3 bp",
-   "dir": "down",
-   "note": "Bull steepener"
-  },
-  {
-   "label": "Fed funds",
-   "value": "3.75–4.00%",
-   "change": "Oct hike ~17%",
-   "dir": "down",
-   "note": "Was 28–36% this AM; FOMC Oct 27–28"
-  },
-  {
-   "label": "WTI crude",
-   "value": "≈$89.0",
-   "change": "≈flat vs AM",
-   "dir": "flat",
-   "note": "Holds Thu's −3.8%"
-  },
-  {
-   "label": "Brent",
-   "value": "≈$99.7",
-   "change": "≈flat vs AM",
-   "dir": "flat",
-   "note": "Below $100"
-  },
-  {
-   "label": "Gold",
-   "value": "≈$4,188",
-   "change": "+$11 (+0.3%)",
-   "dir": "up",
-   "note": "9:03 AM CT"
-  },
-  {
-   "label": "Silver",
-   "value": "≈$61.5",
-   "change": "+0.9%",
-   "dir": "up",
-   "note": "vs $60.98 Thu"
-  },
-  {
-   "label": "Copper (COMEX)",
-   "value": "≈$6.54/lb",
-   "change": "—",
-   "dir": "flat",
-   "note": "China on holiday"
-  },
-  {
-   "label": "Dollar index",
-   "value": "≈101.5",
-   "change": "−0.3%",
-   "dir": "down",
-   "note": "Softer on payrolls miss"
-  }
- ],
- "calendar": [
-  {
-   "time": "4:00 AM",
-   "event": "Euro-area flash HICP (Sep)",
-   "consensus": "—",
-   "prior": "—",
-   "why": "A hot number adds to pressure on Bunds and OATs while French spreads are already at 14-year extremes"
-  },
-  {
-   "time": "7:30 AM",
-   "event": "September jobs report (BLS)",
-   "consensus": "+84K to +90K · 4.1%",
-   "prior": "+162K · 4.1%",
-   "why": "The swing factor for October hike odds (~28–36%). ADP was +90K vs +68K expected. The Chicago Fed's real-time unemployment estimate is 4.10%."
-  },
-  {
-   "time": "7:30 AM",
-   "event": "Average hourly earnings",
-   "consensus": "+0.3% m/m",
-   "prior": "+0.3% m/m",
-   "why": "Services inflation proxy; +0.4% or more would undercut Thursday's soft core-PCE relief"
-  },
-  {
-   "time": "9:00 AM",
-   "event": "Factory orders (Aug)",
-   "consensus": "+0.1% · ex-trans +0.2%",
-   "prior": "+0.9% · ex-trans +0.6%",
-   "why": "Minor; follows ISM manufacturing at 54.5, with prices paid at 77.9"
-  },
-  {
-   "time": "Morning",
-   "event": "Tesla Q3 deliveries",
-   "consensus": "≈454–462K",
-   "prior": "497,099 (Q3 2025)",
-   "why": "Read on consumer big-ticket demand at 7%+ mortgage and auto-loan rates"
-  },
-  {
-   "time": "Afternoon/evening",
-   "event": "Fed: Logan (Dallas Fed remarks), Goolsbee (Fox Business)",
-   "consensus": "—",
-   "prior": "—",
-   "why": "Logan has argued for 50 bp or more of further hikes. Goolsbee's first reaction to payrolls matters for the Chicago Fed's swing view."
-  },
-  {
-   "time": "Oct 6–8",
-   "event": "Treasury 3Y / 10Y / 30Y auctions",
-   "consensus": "≈$58B / $39B / $22B",
-   "prior": "—",
-   "why": "First long-end supply test since the 24-year highs; watch tails and dealer takedown"
-  },
-  {
-   "time": "Oct 27–28",
-   "event": "FOMC",
-   "consensus": "Oct hike ~28–36% · ≥25 bp by Dec ~59%",
-   "prior": "+25 bp (Sep 16)",
-   "why": "Goldman now calls December for the next hike. Williams says there is 'no need for urgency.'"
-  }
- ],
- "desk": {
-  "rates": [
-   {
-    "title": "Long end steadies after 24-year highs",
-    "body": "The 10Y hit 5.344% Thursday, then closed near 5.23–5.24%, and is about 5.24% pre-market. The 30Y is about 5.62% after a 24-year high, and the 5Y is above 5% for the first time since 2007. The 10Y rose more than 80 bp in Q3, which CNN attributes to AI-capex growth, fuel-driven inflation and expected hikes.",
-    "simple": "A yield is the interest a bond pays; when investors sell bonds, yields rise. Long-term U.S. borrowing costs are the highest since 2002 because investors expect the Fed to keep raising rates and worry about how much the government borrows. That is why 30-year mortgages are back above 7% and why company loans cost more.",
-    "source": "CNBC / CNN",
-    "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
-   },
-   {
-    "title": "Fed odds: October fading, December still live",
-    "body": "CME FedWatch puts an October 27–28 hike at about 28–36%, down from roughly 69–70% a week ago, after core PCE came in under forecast. The odds of at least 25 bp by December are about 59%. Goldman moved its next-hike call to December, and Williams says there is 'no need for urgency.'",
-    "simple": "The Fed sets the overnight rate banks charge each other, and futures prices show what traders think it will do. A softer inflation report convinced traders the Fed can wait until December, but most still expect another hike. Today's jobs report could change that quickly.",
-    "source": "CNBC / investingLive / KuCoin (FedWatch)",
-    "url": "https://investinglive.com/central-banks/icymi-goldman-pushes-next-fed-hike-to-december-sees-strong-chance-no-more-hikes-are-needed"
-   },
-   {
-    "title": "Europe's fiscal stress spreads",
-    "body": "The OAT–Bund 10Y spread peaked at 146 bp this morning, from 110 bp at the start of the week, and the French 10Y hit its highest since 2002, near 5%. The UK 30Y gilt topped 6% Thursday for the first time since 1998 and is about 5.92% now. The Bund 10Y is down to about 3.43% on a safe-haven bid.",
-    "simple": "A spread is the extra yield one country pays over another to borrow. Investors are demanding much more to lend to France than to Germany because of France's deficit budget, and long-term UK borrowing costs are the highest in nearly 30 years. Global bond selling feeds into U.S. yields too.",
-    "source": "Euronews / Newsquawk",
-    "url": "https://www.euronews.com/2026/10/02/bonds-steady-as-french-borrowing-costs-hit-24-year-high-and-uk-30-year-yields-top-6"
-   },
-   {
-    "title": "Real yields near 18-year highs",
-    "body": "The 10Y TIPS real yield was 2.92% on Sep 29, with the 10Y breakeven at 2.28%. Most of the selloff is in real yields, not inflation expectations. The Sep 17 10Y TIPS reopening cleared at 2.653%, the highest since October 2008.",
-    "simple": "A real yield is a bond's interest after inflation, measured by inflation-protected Treasuries (TIPS). Rising real yields mean money is getting truly more expensive, not just inflation-adjusted. That weighs on gold and on stock valuations.",
-    "source": "TIPSWatch / WatchGold",
-    "url": "https://tipswatch.com/2026/09/17/10-year-tips-reopening-gets-real-yield-of-2-653-highest-in-nearly-18-years/"
-   }
+  "date": "2026-10-02",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-02T11:25:00Z",
+  "headline": "Payrolls at 7:30 AM CT (+84–90K est.) decide whether October hike odds (~28–36%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
+  "summary": [
+    "Jobs day: consensus is +84K (Dow Jones) to +90K (Reuters/Bloomberg) vs +162K in August, unemployment 4.1%, wages +0.3% m/m. A print well above 150K likely puts October back near 50/50. A print near zero locks in December-only and should bull-steepen the curve.",
+    "Rates are calm before the number: 10Y ≈5.24% (Thursday high 5.344%, the highest since April 2002), 30Y ≈5.62%, 2Y ≈4.79%. The 5Y closed above 5% for the first time since 2007. The 10Y rose more than 80 bp in Q3.",
+    "Oil reversal: the EU is discussing a French plan to release 50M bbl of diesel, with IEA members adding 50M bbl of crude. Brent fell about 2.5% to $99.74 and WTI about 3.8% to $89.34. That takes some pressure off the inflation side of the Fed debate.",
+    "Europe is still the stress point: the OAT–Bund spread hit 146 bp this morning (110 bp at the start of the week), the French 10Y is near 5%, and the UK 30Y topped 6% Thursday for the first time since 1998.",
+    "Banks lag when the long end rises: KBW fell as much as 2.4% Thursday and is more than 13% below its mid-August peak, and financials just had their worst month relative to the S&P since 1990 (Truist). Futures are up: S&P +0.3%, Nasdaq-100 +0.6%. Nike is down about 9% pre-market.",
+    "Metals are steady: gold ≈$4,183, silver ≈$61.2, COMEX copper $6.58/lb with China shut for Golden Week. Chile's August copper output was the lowest since 2011, and Escondida supervisors have authorized a strike."
   ],
-  "derivatives": [
-   {
-    "title": "Ultra futures take a record share",
-    "body": "CME's September Rates Recap shows year-to-date ADV of 824K in Ultra 10Y (TN) and 508K in Ultra Bond (UB). Together that is a record 17% of Treasury futures volume. Combined open interest hit records near 3M contracts in August, and UB average OI is up 20% in 2026 vs 4% for the whole complex.",
-    "simple": "Futures are contracts to buy or sell a bond later at a price set today. 'Ultra' contracts track the longest bonds, so heavy trading in them shows investors hedging or betting on long-term rates. Open interest (contracts still outstanding) at records means a lot of money is positioned there.",
-    "source": "CME Group Rates Recap",
-    "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-09-rates-recap.html"
-   },
-   {
-    "title": "Bond vol cools but stays elevated",
-    "body": "The MOVE index closed about 108 on Oct 1, down about 2.1% on the day, after rising about 35% in September. It closed above 100 in late September for the first time since spring.",
-    "simple": "The MOVE index measures how big a move bond traders expect, based on options prices; higher means more fear. A reading above 100 means traders are paying up to protect against large rate swings, which makes hedging more expensive for banks and fund managers.",
-    "source": "Benzinga",
-    "url": "https://www.benzinga.com/markets/bonds/26/09/62051889/move-index-bond-volatility-vix-september-2026"
-   },
-   {
-    "title": "CME September and Q3 volumes due",
-    "body": "CME's August ADV was 29.7M contracts, its second-highest August, with metals volume up 48%. July set a record at 27M, and Q1 2026 was a record 36.2M. The September and Q3 release is expected around today. CME reports Q3 earnings Oct 21. Figures circulating as '25.3M Q3' are from 2025.",
-    "simple": "ADV is average daily volume, the number of contracts traded per day, and it drives CME's fee revenue. Volatile rates and metals send hedgers and traders to futures. Record volume is good for exchanges even when markets are rough.",
-    "source": "CME Group / StockTitan",
-    "url": "https://www.stocktitan.net/news/CME/cme-group-reports-second-highest-august-adv-of-29-7-million-k4qtcmeazbqg.html"
-   }
-  ],
-  "metals": [
-   {
-    "title": "Gold holds $4,180s after an 8.5% September drop",
-    "body": "Spot gold rose 0.6% Thursday to $4,183 and December futures closed at $4,212.80 on softer PCE, with 24-year-high yields and a firm dollar capping the gain. It is about $4,183 pre-market, −6.4% over a month. Goldman cut its year-end target to $4,650 from $4,900; JPMorgan's Q4 target is $4,500.",
-    "simple": "Gold pays no interest, so when bonds pay more after inflation, gold looks less attractive and its price drops. A strong dollar also makes gold pricier for foreign buyers. Banks have trimmed their forecasts, but central-bank buying is still keeping a floor under prices.",
-    "source": "Kitco/Reuters / Fortune",
-    "url": "https://www.kitco.com/news/off-the-wire/2026-10-01/gold-gains-cooler-us-inflation-data-counters-higher-treasury-yields"
-   },
-   {
-    "title": "PBOC buying and ETF holdings still supportive",
-    "body": "The PBOC added 20.2 t in August, its most since October 2023 and its 22nd straight monthly purchase; September data is due around Oct 7. Global gold ETF holdings hit a record 4,189 t after $18B of August inflows. GLD lost $603M in one mid-September week as money rotated into cheaper funds.",
-    "simple": "China's central bank keeps buying gold to hold fewer dollars, which supports prices even when interest rates rise. ETFs (funds that trade like stocks and hold physical gold) have record holdings. Some outflows from the biggest fund are investors switching to lower-fee versions, not leaving gold.",
-    "source": "Bloomberg / GoldSilver",
-    "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-etf-outflow-fee-arbitrage-gld-gldm-iau/"
-   },
-   {
-    "title": "Copper: weak price, tight mines",
-    "body": "COMEX copper closed Thursday at $6.5765/lb (−0.7%) in thin trade with Shanghai shut until Oct 8. Chile's August output was 369.5K t, −12.8% y/y and the lowest since February 2011. Escondida supervisors authorized a strike, Centinela workers rejected a final offer, and Grasberg's full restart has slipped to early 2028.",
-    "simple": "Copper is used in wiring, power grids and data centers, so its price tracks industrial demand. Prices dipped because Chinese buyers are on holiday, but supply from Chile and Indonesia keeps shrinking. Short-term weakness alongside tightening supply is a classic setup for a price spike later.",
-    "source": "Rio Times / Mining.com.au",
-    "url": "https://www.riotimesonline.com/copper-markets-latam-friday-october-2-2026/"
-   },
-   {
-    "title": "Silver and PGMs mixed",
-    "body": "Silver is about $61.24 (+0.4%) after falling about 13.5% in September. Platinum rose 0.6% Thursday to about $1,729, and palladium fell 2.0% to about $1,189. WPIC sees a fourth straight platinum deficit in 2026 of about 297K oz.",
-    "simple": "Silver is part precious metal, part industrial metal, so it falls harder than gold when rates jump. Platinum and palladium (PGMs) go into car exhaust catalysts. Platinum supply is short of demand for a fourth year, while palladium is weaker as electric cars need less of it.",
-    "source": "FXStreet / Trading Economics / Nasdaq",
-    "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610020932"
-   }
-  ]
- },
- "banking": [
-  {
-   "title": "Bank stocks slump with the long end",
-   "body": "KBW fell as much as 2.4% Thursday before trimming losses, and is more than 13% below its mid-August peak. Citi fell 1.9%, PNC 1.8% and BofA about 1.3%. Truist says financials just had their worst month relative to the S&P 500 since 1990.",
-   "simple": "Banks own large bond portfolios that lose value when yields rise, and higher rates can hurt borrowers' ability to repay. Investors are selling bank stocks on fears of losses on securities and CRE loans. Higher loan rates help profits later, but the market is focused on the near-term damage.",
-   "source": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/stocks/article/bank-stocks-extend-second-half-slump-amid-sharp-interest-rate-rise-185202119.html"
-  },
-  {
-   "title": "Peoples Bancorp buys Capital Bancorp for $728M",
-   "body": "The all-stock deal pays 1.11 PEBO shares per CBNK share, about $43.75 a share. It was announced Sep 30. Separately, six US banks have failed in 2026, the most this decade but only about $1.4B in combined assets; the latest was Nano Banc on Sep 25 ($736M).",
-   "simple": "In an all-stock deal the buyer pays with its own shares, not cash. Mid-size banks are combining to spread costs and compete with giants. The 2026 failures are small banks, so they don't threaten the system, but they show the stress from higher rates.",
-   "source": "PR Newswire / Disruption Banking",
-   "url": "https://www.prnewswire.com/news-releases/peoples-bancorp-inc-and-capital-bancorp-inc-announce-merger-agreement-302893578.html"
-  },
-  {
-   "title": "AI financing goes structured",
-   "body": "Broadcom lined up about $60B: $42B in bank-led senior secured loans and $18B of subordinated debt led by Blackstone (which commits $9B). Up to $42B can fund Anthropic's chip leases, per Anthropic's IPO filing. Amazon is separately seeking to move about $8B of Nvidia chips into a leaseback SPV.",
-   "simple": "Instead of buying chips outright, AI companies are leasing them, and banks and private-credit funds lend against the chips. This is a fast-growing business for capital-markets desks. The risk is that the loans depend on the chips keeping their value.",
-   "source": "CNBC/Reuters / Seeking Alpha / Investing.com",
-   "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html"
-  },
-  {
-   "title": "Credit: issuance strong, risk premiums widening",
-   "body": "September high-yield issuance was $38.5B, the 2026 high. HY spreads averaged 294 bp and CCC spreads reached 968 bp, the widest since November 2023. Investment-grade borrowers are paying about 6 bp in new-issue concessions as order books shrink.",
-   "simple": "A credit spread is the extra yield a company pays over Treasuries; a wider spread means investors see more risk. The weakest borrowers (CCC-rated) are being charged much more. Companies are still able to borrow, but each deal costs more.",
-   "source": "BigGo Finance / Bloomberg via Yahoo",
-   "url": "https://finance.biggo.com/news/676d5565-e648-4cb0-8c3f-b645693a65d7"
-  },
-  {
-   "title": "Deal tape: Mattel, onsemi, Paramount–WBD",
-   "body": "Authentic Brands discussed a bid that could value Mattel at more than $20 a share (about $6B), and the stock rose as much as 36%. onsemi changed its Synaptics deal to all cash at $123 a share (about $5.7B). The $81B Paramount–Warner Bros. Discovery merger is set to close Oct 6 after a 12-state settlement.",
-   "simple": "Big companies are still doing takeovers despite high rates. When a buyer switches to all cash, it usually means it has committed financing. These deals are fee revenue for investment banks and their lending arms.",
-   "source": "CNBC (WSJ report) / TipRanks / Android Headlines",
-   "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html"
-  }
- ],
- "sources": {
-  "cnbc": [
-   {
-    "title": "Stocks edge higher as yields retreat from multiyear highs",
-    "body": "The S&P rose 0.19% to 7,666.45, the Dow gained 20.51 points to 50,926.56 and the Nasdaq rose 0.04% Thursday. Indexes recovered intraday losses as the 10Y backed off 5.34%, and AI and chip names led.",
-    "simple": "Stocks fell early when bond yields spiked, then recovered when yields came down. Higher yields make future company profits worth less today, so stocks and bond yields often move in opposite directions.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html"
-   },
-   {
-    "title": "Oil falls 3% on possible diesel and crude stock release",
-    "body": "EU governments are discussing a French proposal to release 50M bbl of diesel, and IEA members would add 50M bbl of crude. Brent fell to $99.74 and WTI to $89.34 (−3.8%).",
-    "simple": "Governments keep emergency fuel stockpiles, and releasing them adds supply and pushes prices down. This would offset China's halt on fuel exports. Lower fuel prices ease inflation fears.",
-    "source": "CNBC / Reuters via Euronext",
-    "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html"
-   },
-   {
-    "title": "Nike misses on revenue, guides FY27 down high-single digits",
-    "body": "Q1 revenue was $11.21B vs $11.32B expected (−4%) and EPS was $0.48 vs $0.43. China revenue fell 26%. Nike guided FY27 adjusted EPS to $1.15–1.35 and launched a $2.5B 'Pace' cost program with layoffs. Shares are down about 9% pre-market.",
-    "simple": "Nike sold less than expected, especially in China, and expects sales to keep shrinking this year. Cutting costs protects profit, but investors want growth. Its slump is a read on consumer spending under high rates.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html"
-   },
-   {
-    "title": "What to expect from the September jobs report",
-    "body": "Economists expect +84K jobs and 4.1% unemployment after +162K in August. ADP printed +90K private jobs vs +68K expected.",
-    "simple": "The monthly jobs report is the most important U.S. data release because the Fed watches hiring and wages closely. Strong hiring could push the Fed to raise rates sooner; weak hiring argues for waiting.",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html"
-   }
-  ],
-  "wsj": [
-   {
-    "title": "Mattel draws takeover interest from Authentic Brands",
-    "body": "Authentic Brands has privately discussed an offer that could value Mattel at more than $20 a share, about $6B. Talks are preliminary. Mattel rose as much as 36% and was up 23% at $15.53 in the afternoon.",
-    "simple": "A potential buyer is willing to pay well above the current stock price, which sent shares sharply higher. Authentic Brands makes money licensing brand names, so Mattel's toy brands such as Barbie would fit its model.",
-    "source": "CNBC (citing WSJ)",
-    "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html"
-   },
-   {
-    "title": "Tech CEOs pressed Amodei over AI-risk warnings",
-    "body": "At a Sep 29 White House meeting, Nvidia's Jensen Huang and other executives challenged Anthropic's CEO over his public warnings about AI risk. The meeting followed a voluntary frontier-AI safety agreement, and Amodei held his position.",
-    "simple": "Industry leaders disagree about how loudly to warn the public about AI dangers. Some fear warnings invite regulation, which could slow a boom that Wall Street is financing heavily.",
-    "source": "Investing.com / Reuters (citing WSJ)",
-    "url": "https://ng.investing.com/news/stock-market-news/tech-ceos-questioned-anthropic-leader-over-ai-safety-warnings-wsj-reports-2716871"
-   },
-   {
-    "title": "Sycamore nears ~$9B sale of Boots",
-    "body": "Sycamore, which took Chicago-area Walgreens private for $24B in 2025, is near a roughly $9B sale of Boots (including debt) to the Weston family. The price is below the roughly $10B discussed earlier this year.",
-    "simple": "Private-equity firms buy companies, then sell pieces to pay down debt. Selling the UK pharmacy chain Boots helps Sycamore recover money from the Walgreens deal, though at a lower price than hoped.",
-    "source": "Crain's Chicago Business / Reuters (citing WSJ)",
-    "url": "https://www.chicagobusiness.com/health-care/ccb-walgreens-sale-deal-boots-20261001/"
-   },
-   {
-    "title": "Iran-linked tankers stranded in Asian waters",
-    "body": "Dozens of tankers in the sanctioned Iran–China oil trade have been stuck near Sri Lanka and Malaysia since July, when the US reimposed its Hormuz blockade.",
-    "simple": "The U.S. is blocking Iranian oil sales, and ships carrying that oil can't deliver it. That keeps supply tight and is one reason oil prices are high.",
-    "source": "Ajel (citing WSJ digest)",
-    "url": "https://english.ajel.sa/world/36q71xy1a"
-   }
-  ],
-  "tribune": [
-   {
-    "title": "Parkway Bank raises ~$350M, new leadership",
-    "body": "Harwood Heights-based Parkway Bancorp raised nearly $350M led by Patriot Financial and Stone Point, mostly to fund a tender offer. Chip Reeves becomes CEO and David Provost executive chair.",
-    "simple": "A tender offer is when a company offers to buy shares from existing owners. Outside investors are putting money into this Chicago-area bank so longtime shareholders can cash out and new managers can take over, a common way private bank ownership changes hands.",
-    "source": "Crain's Chicago Business / The Bank Slate",
-    "url": "https://www.chicagobusiness.com/banking-finance/ccb-parkway-bank-deal-20261001/"
-   },
-   {
-    "title": "Boeing engineers ratify contract, FAA panel looms",
-    "body": "About 17,000 SPEEA engineers ratified a 4-year deal: 10% on signing, then 4% a year. The FAA could convene a panel on a 737 MAX software glitch as soon as today, after delaying MAX 10 certification Sep 28, which sent the stock down 6.9%.",
-    "simple": "The engineers' union agreed to a new contract, so there won't be a strike. But regulators are still examining a software problem that delays a new jet model. That pushes back deliveries and the cash Boeing gets from them.",
-    "source": "CNBC / Bloomberg",
-    "url": "https://cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html"
-   },
-   {
-    "title": "Business groups fight Johnson's data-center moratorium",
-    "body": "Business and labor groups oppose Mayor Johnson's proposed one-year pause on new data centers in Chicago. AWS separately cited more than 100 proposed local moratoriums nationwide.",
-    "simple": "Data centers use huge amounts of power and water, so some cities want to pause new ones. Businesses warn a pause would send investment and jobs elsewhere.",
-    "source": "Crain's Chicago Business",
-    "url": "https://www.chicagobusiness.com/politics-policy/ccb-data-centers-brandon-johnson-202610/"
-   },
-   {
-    "title": "McDonald's slide hits eight straight weeks",
-    "body": "McDonald's has fallen for eight straight weeks, its longest streak since the dot-com era, hitting a 52-week low near $232, about −24% year to date, after its Sep 23 investor day remodel-spending plan.",
-    "simple": "Investors don't like that McDonald's will spend heavily remodeling restaurants while lower-income customers cut back. A long losing streak for a 'safe' stock shows how squeezed consumers are.",
-    "source": "CNBC / CoinCentral",
-    "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html"
-   }
-  ],
-  "nyt": [
-   {
-    "title": "Broadcom assembles ~$60B AI-chip war chest",
-    "body": "The package combines $42B in bank-led senior secured loans with $18B in subordinated debt led by Blackstone, which commits $9B itself. Some reports say the total could reach $70–100B.",
-    "simple": "Broadcom is borrowing heavily so customers can lease its AI chips instead of buying them up front. Senior loans get repaid first and subordinated debt later, so the subordinated lenders take more risk for more interest.",
-    "source": "Seeking Alpha (NYT digest)",
-    "url": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report"
-   },
-   {
-    "title": "Amazon seeks to offload ~$8B of Nvidia chips",
-    "body": "Amazon would sell thousands of Grace Blackwell chips to a special-purpose vehicle and lease them back, with investors getting up to a 10% equity stake. The chips sit in more than a dozen data centers across five states.",
-    "simple": "In a sale-leaseback, a company sells equipment and rents it back, freeing cash while keeping use of it. Even the richest tech firms are finding creative ways to fund AI spending.",
-    "source": "Investing.com / Reuters (FT, NYT digest)",
-    "url": "https://ng.investing.com/news/stock-market-news/amazon-seeks-to-offload-8-bln-of-nvidia-chips-to-investors-ft-2719168"
-   },
-   {
-    "title": "AWS pledges $1B+ to data-center communities",
-    "body": "AWS will invest more than $1B over five years in education, job training, energy affordability and water near its data centers. It cites more than 100 proposed local moratoriums.",
-    "simple": "Communities are pushing back on data centers over power bills and water use. Amazon is spending money locally to win approval for the sites it needs.",
-    "source": "Investing.com / Reuters (NYT digest)",
-    "url": "https://www.investing.com/news/stock-market-news/amazon-to-invest-1-billion-over-five-years-in-us-data-center-communities-4929191"
-   },
-   {
-    "title": "Fed watchdog clears HQ renovation, faults management",
-    "body": "The Fed's inspector general found no illegal conduct in the roughly $2.5B headquarters renovation but cited poor management.",
-    "simple": "The Fed's renovation became a political target. The finding removes a legal cloud but keeps criticism alive at a sensitive time for Fed independence.",
-    "source": "Rallies.ai (NYT digest)",
-    "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc"
-   }
-  ]
- },
- "talking_points": [
-  {
-   "topic": "Why the curve is bear-steepening with the Fed hiking",
-   "point": "The 2Y at about 4.79% is roughly 80 bp over the funds midpoint, but the 30Y at 5.62% is about 80 bp over the 2Y. The long end is being driven by term premium and real yields (10Y TIPS 2.92%, breakeven 2.28%) more than inflation expectations, and it is global, with gilts above 6% and OAT–Bund at 146 bp. That's why record Ultra Bond OI matters: hedgers are concentrated at the very long end."
-  },
-  {
-   "topic": "Banks and the long end",
-   "point": "KBW is more than 13% below its August peak and financials had their worst relative month since 1990. Higher long yields widen unrealized AFS/HTM losses and pressure CRE, where CMBS delinquency is 7.85%. But funding costs are sticky and NIMs can improve once the curve's front end stabilizes. Ask how a bank is positioning its securities book and deposit betas."
-  },
-  {
-   "topic": "Copper's split signal",
-   "point": "COMEX copper is soft at $6.58/lb because China is on holiday, but Chilean output is at a 15-year low (−12.8% y/y in August), Escondida faces a strike, Grasberg is delayed to 2028 and SHFE stocks are at their lowest since January 2024. Spot weakness on top of structural tightness is the kind of setup where calendar spreads and options skew move first."
-  }
- ],
- "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or blocked, so those sections use press digests and Crain's, CNBC, Reuters and other coverage; the outlet actually used is named on each story. Many figures come from search summaries, not full articles. Payroll consensus differs by survey (84K Dow Jones vs 90K Reuters/Bloomberg), October hike odds range from 28% to 36% across sources, and the KBW close and live WTI and DXY levels are approximate. The Tesla delivery consensus is a range.",
- "updates": [
-  {
-   "at": "2026-10-02T14:18:07Z",
-   "label": "Post-open",
-   "headline": "Payrolls missed badly (+29K vs +84–90K, unemployment 4.2%, wages +0.1%), knocking October hike odds to ~17% and pulling the 2Y and 10Y down about 6 bp as stocks open higher.",
-   "points": [
-    "September payrolls +29K vs +84K (Dow Jones) / +90K (Reuters) consensus. Unemployment 4.2% vs 4.1%, partly from a larger labor force. AHE +0.1% m/m vs +0.3% est.; +3.0% y/y, slowest since 2021.",
-    "Revisions −60K in total: July now −10K (was +21K), August +133K (was +162K). The morning's '+162K prior' is now stale.",
-    "Rates bull-steepen: 2Y −6 bp to ~4.73%, 10Y −6 bp to ~5.18%, 30Y −3 bp to ~5.57% (CNBC). October hike odds fall to ~17% on FedWatch (hold 82.8%), down from the 28–36% in this morning's brief; Kalshi 18%.",
-    "Stocks open higher: S&P +0.9%, Dow +0.7%, Nasdaq +1.3%; small caps and tech led futures. Gold ≈$4,188 (+$11), silver ≈$61.5, DXY ≈101.5 (from ≈101.8). Oil holds Thursday's drop: WTI ≈$89, Brent ≈$99.7.",
-    "Tesla Q3 deliveries reportedly beat the ~462K consensus, shares +1.9% (exact figure —). Next: Goolsbee and Logan reactions this afternoon, then the 3Y/10Y/30Y auctions Oct 6–8."
-   ],
-   "simple": "Payrolls count how many jobs employers added last month. Far fewer jobs than expected, plus slower pay growth, means the economy is cooling, so the Fed (the central bank that sets short-term rates) is less likely to raise rates this month. Traders bought Treasury bonds, pushing their yields (the interest a bond pays) down, which helps stocks and lowers borrowing costs for mortgages and business loans.",
-   "sources": [
+  "markets_asof": "Midday ~12:15 PM CT",
+  "markets": [
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+      "label": "S&P 500",
+      "value": "7,720",
+      "change": "+0.70%",
+      "dir": "up",
+      "note": "Midday; Thu close 7,666"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+      "label": "Dow",
+      "value": "51,107",
+      "change": "+0.35%",
+      "dir": "up",
+      "note": "Midday"
     },
     {
-     "name": "CNBC",
-     "url": "https://cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+      "label": "Nasdaq",
+      "value": "27,191",
+      "change": "+1.18%",
+      "dir": "up",
+      "note": "Record high; Tesla +5%"
     },
     {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+      "label": "Russell 2000",
+      "value": "2,826",
+      "change": "Thu close",
+      "dir": "flat",
+      "note": "Live level —"
     },
     {
-     "name": "Fortune",
-     "url": "https://fortune.com/article/current-price-of-gold-10-02-2026"
+      "label": "UST 2Y",
+      "value": "≈4.82%",
+      "change": "+3 bp",
+      "dir": "up",
+      "note": "Was ≈4.73% at 9:20 AM"
     },
     {
-     "name": "Trading Economics",
-     "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      "label": "UST 10Y",
+      "value": "≈5.26%",
+      "change": "+2 bp",
+      "dir": "up",
+      "note": "Reversed from ≈5.18%; Thu high 5.344%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Live level unavailable; ≈5.57% at 9:20 AM"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hike ≈21–22%",
+      "dir": "down",
+      "note": "Hold ≈78%; FOMC Oct 27–28"
+    },
+    {
+      "label": "WTI crude",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Live quotes conflict across sources"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$99.7",
+      "change": "−2.6% d/d",
+      "dir": "down",
+      "note": "Below $100"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$4,137",
+      "change": "−$40 (−1.0%)",
+      "dir": "down",
+      "note": "12:13 PM CT; ≈$4,218 at 8 AM CT"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$60.1",
+      "change": "−0.7%",
+      "dir": "down"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.54/lb",
+      "change": "+0.9%",
+      "dir": "up",
+      "note": "Chile supply, softer USD"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.0",
+      "change": "−0.1%",
+      "dir": "down",
+      "note": "Dipped to ≈101.8 on the print"
     }
-   ]
-  }
- ],
- "updatedAt": "2026-10-02T14:18:07Z"
+  ],
+  "calendar": [
+    {
+      "time": "4:00 AM",
+      "event": "Euro-area flash HICP (Sep)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A hot number adds to pressure on Bunds and OATs while French spreads are already at 14-year extremes"
+    },
+    {
+      "time": "7:30 AM",
+      "event": "September jobs report (BLS)",
+      "consensus": "+84K to +90K · 4.1%",
+      "prior": "+162K · 4.1%",
+      "why": "The swing factor for October hike odds (~28–36%). ADP was +90K vs +68K expected. The Chicago Fed's real-time unemployment estimate is 4.10%."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Average hourly earnings",
+      "consensus": "+0.3% m/m",
+      "prior": "+0.3% m/m",
+      "why": "Services inflation proxy; +0.4% or more would undercut Thursday's soft core-PCE relief"
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Factory orders (Aug)",
+      "consensus": "+0.1% · ex-trans +0.2%",
+      "prior": "+0.9% · ex-trans +0.6%",
+      "why": "Minor; follows ISM manufacturing at 54.5, with prices paid at 77.9"
+    },
+    {
+      "time": "Morning",
+      "event": "Tesla Q3 deliveries",
+      "consensus": "≈454–462K",
+      "prior": "497,099 (Q3 2025)",
+      "why": "Read on consumer big-ticket demand at 7%+ mortgage and auto-loan rates"
+    },
+    {
+      "time": "Afternoon/evening",
+      "event": "Fed: Logan (Dallas Fed remarks), Goolsbee (Fox Business)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Logan has argued for 50 bp or more of further hikes. Goolsbee's first reaction to payrolls matters for the Chicago Fed's swing view."
+    },
+    {
+      "time": "Oct 6–8",
+      "event": "Treasury 3Y / 10Y / 30Y auctions",
+      "consensus": "≈$58B / $39B / $22B",
+      "prior": "—",
+      "why": "First long-end supply test since the 24-year highs; watch tails and dealer takedown"
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC",
+      "consensus": "Oct hike ~28–36% · ≥25 bp by Dec ~59%",
+      "prior": "+25 bp (Sep 16)",
+      "why": "Goldman now calls December for the next hike. Williams says there is 'no need for urgency.'"
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Long end steadies after 24-year highs",
+        "body": "The 10Y hit 5.344% Thursday, then closed near 5.23–5.24%, and is about 5.24% pre-market. The 30Y is about 5.62% after a 24-year high, and the 5Y is above 5% for the first time since 2007. The 10Y rose more than 80 bp in Q3, which CNN attributes to AI-capex growth, fuel-driven inflation and expected hikes.",
+        "simple": "A yield is the interest a bond pays; when investors sell bonds, yields rise. Long-term U.S. borrowing costs are the highest since 2002 because investors expect the Fed to keep raising rates and worry about how much the government borrows. That is why 30-year mortgages are back above 7% and why company loans cost more.",
+        "source": "CNBC / CNN",
+        "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+      },
+      {
+        "title": "Fed odds: October fading, December still live",
+        "body": "CME FedWatch puts an October 27–28 hike at about 28–36%, down from roughly 69–70% a week ago, after core PCE came in under forecast. The odds of at least 25 bp by December are about 59%. Goldman moved its next-hike call to December, and Williams says there is 'no need for urgency.'",
+        "simple": "The Fed sets the overnight rate banks charge each other, and futures prices show what traders think it will do. A softer inflation report convinced traders the Fed can wait until December, but most still expect another hike. Today's jobs report could change that quickly.",
+        "source": "CNBC / investingLive / KuCoin (FedWatch)",
+        "url": "https://investinglive.com/central-banks/icymi-goldman-pushes-next-fed-hike-to-december-sees-strong-chance-no-more-hikes-are-needed"
+      },
+      {
+        "title": "Europe's fiscal stress spreads",
+        "body": "The OAT–Bund 10Y spread peaked at 146 bp this morning, from 110 bp at the start of the week, and the French 10Y hit its highest since 2002, near 5%. The UK 30Y gilt topped 6% Thursday for the first time since 1998 and is about 5.92% now. The Bund 10Y is down to about 3.43% on a safe-haven bid.",
+        "simple": "A spread is the extra yield one country pays over another to borrow. Investors are demanding much more to lend to France than to Germany because of France's deficit budget, and long-term UK borrowing costs are the highest in nearly 30 years. Global bond selling feeds into U.S. yields too.",
+        "source": "Euronews / Newsquawk",
+        "url": "https://www.euronews.com/2026/10/02/bonds-steady-as-french-borrowing-costs-hit-24-year-high-and-uk-30-year-yields-top-6"
+      },
+      {
+        "title": "Real yields near 18-year highs",
+        "body": "The 10Y TIPS real yield was 2.92% on Sep 29, with the 10Y breakeven at 2.28%. Most of the selloff is in real yields, not inflation expectations. The Sep 17 10Y TIPS reopening cleared at 2.653%, the highest since October 2008.",
+        "simple": "A real yield is a bond's interest after inflation, measured by inflation-protected Treasuries (TIPS). Rising real yields mean money is getting truly more expensive, not just inflation-adjusted. That weighs on gold and on stock valuations.",
+        "source": "TIPSWatch / WatchGold",
+        "url": "https://tipswatch.com/2026/09/17/10-year-tips-reopening-gets-real-yield-of-2-653-highest-in-nearly-18-years/"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Ultra futures take a record share",
+        "body": "CME's September Rates Recap shows year-to-date ADV of 824K in Ultra 10Y (TN) and 508K in Ultra Bond (UB). Together that is a record 17% of Treasury futures volume. Combined open interest hit records near 3M contracts in August, and UB average OI is up 20% in 2026 vs 4% for the whole complex.",
+        "simple": "Futures are contracts to buy or sell a bond later at a price set today. 'Ultra' contracts track the longest bonds, so heavy trading in them shows investors hedging or betting on long-term rates. Open interest (contracts still outstanding) at records means a lot of money is positioned there.",
+        "source": "CME Group Rates Recap",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-09-rates-recap.html"
+      },
+      {
+        "title": "Bond vol cools but stays elevated",
+        "body": "The MOVE index closed about 108 on Oct 1, down about 2.1% on the day, after rising about 35% in September. It closed above 100 in late September for the first time since spring.",
+        "simple": "The MOVE index measures how big a move bond traders expect, based on options prices; higher means more fear. A reading above 100 means traders are paying up to protect against large rate swings, which makes hedging more expensive for banks and fund managers.",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/bonds/26/09/62051889/move-index-bond-volatility-vix-september-2026"
+      },
+      {
+        "title": "CME September and Q3 volumes due",
+        "body": "CME's August ADV was 29.7M contracts, its second-highest August, with metals volume up 48%. July set a record at 27M, and Q1 2026 was a record 36.2M. The September and Q3 release is expected around today. CME reports Q3 earnings Oct 21. Figures circulating as '25.3M Q3' are from 2025.",
+        "simple": "ADV is average daily volume, the number of contracts traded per day, and it drives CME's fee revenue. Volatile rates and metals send hedgers and traders to futures. Record volume is good for exchanges even when markets are rough.",
+        "source": "CME Group / StockTitan",
+        "url": "https://www.stocktitan.net/news/CME/cme-group-reports-second-highest-august-adv-of-29-7-million-k4qtcmeazbqg.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold holds $4,180s after an 8.5% September drop",
+        "body": "Spot gold rose 0.6% Thursday to $4,183 and December futures closed at $4,212.80 on softer PCE, with 24-year-high yields and a firm dollar capping the gain. It is about $4,183 pre-market, −6.4% over a month. Goldman cut its year-end target to $4,650 from $4,900; JPMorgan's Q4 target is $4,500.",
+        "simple": "Gold pays no interest, so when bonds pay more after inflation, gold looks less attractive and its price drops. A strong dollar also makes gold pricier for foreign buyers. Banks have trimmed their forecasts, but central-bank buying is still keeping a floor under prices.",
+        "source": "Kitco/Reuters / Fortune",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-10-01/gold-gains-cooler-us-inflation-data-counters-higher-treasury-yields"
+      },
+      {
+        "title": "PBOC buying and ETF holdings still supportive",
+        "body": "The PBOC added 20.2 t in August, its most since October 2023 and its 22nd straight monthly purchase; September data is due around Oct 7. Global gold ETF holdings hit a record 4,189 t after $18B of August inflows. GLD lost $603M in one mid-September week as money rotated into cheaper funds.",
+        "simple": "China's central bank keeps buying gold to hold fewer dollars, which supports prices even when interest rates rise. ETFs (funds that trade like stocks and hold physical gold) have record holdings. Some outflows from the biggest fund are investors switching to lower-fee versions, not leaving gold.",
+        "source": "Bloomberg / GoldSilver",
+        "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-etf-outflow-fee-arbitrage-gld-gldm-iau/"
+      },
+      {
+        "title": "Copper: weak price, tight mines",
+        "body": "COMEX copper closed Thursday at $6.5765/lb (−0.7%) in thin trade with Shanghai shut until Oct 8. Chile's August output was 369.5K t, −12.8% y/y and the lowest since February 2011. Escondida supervisors authorized a strike, Centinela workers rejected a final offer, and Grasberg's full restart has slipped to early 2028.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price tracks industrial demand. Prices dipped because Chinese buyers are on holiday, but supply from Chile and Indonesia keeps shrinking. Short-term weakness alongside tightening supply is a classic setup for a price spike later.",
+        "source": "Rio Times / Mining.com.au",
+        "url": "https://www.riotimesonline.com/copper-markets-latam-friday-october-2-2026/"
+      },
+      {
+        "title": "Silver and PGMs mixed",
+        "body": "Silver is about $61.24 (+0.4%) after falling about 13.5% in September. Platinum rose 0.6% Thursday to about $1,729, and palladium fell 2.0% to about $1,189. WPIC sees a fourth straight platinum deficit in 2026 of about 297K oz.",
+        "simple": "Silver is part precious metal, part industrial metal, so it falls harder than gold when rates jump. Platinum and palladium (PGMs) go into car exhaust catalysts. Platinum supply is short of demand for a fourth year, while palladium is weaker as electric cars need less of it.",
+        "source": "FXStreet / Trading Economics / Nasdaq",
+        "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610020932"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Bank stocks slump with the long end",
+      "body": "KBW fell as much as 2.4% Thursday before trimming losses, and is more than 13% below its mid-August peak. Citi fell 1.9%, PNC 1.8% and BofA about 1.3%. Truist says financials just had their worst month relative to the S&P 500 since 1990.",
+      "simple": "Banks own large bond portfolios that lose value when yields rise, and higher rates can hurt borrowers' ability to repay. Investors are selling bank stocks on fears of losses on securities and CRE loans. Higher loan rates help profits later, but the market is focused on the near-term damage.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/bank-stocks-extend-second-half-slump-amid-sharp-interest-rate-rise-185202119.html"
+    },
+    {
+      "title": "Peoples Bancorp buys Capital Bancorp for $728M",
+      "body": "The all-stock deal pays 1.11 PEBO shares per CBNK share, about $43.75 a share. It was announced Sep 30. Separately, six US banks have failed in 2026, the most this decade but only about $1.4B in combined assets; the latest was Nano Banc on Sep 25 ($736M).",
+      "simple": "In an all-stock deal the buyer pays with its own shares, not cash. Mid-size banks are combining to spread costs and compete with giants. The 2026 failures are small banks, so they don't threaten the system, but they show the stress from higher rates.",
+      "source": "PR Newswire / Disruption Banking",
+      "url": "https://www.prnewswire.com/news-releases/peoples-bancorp-inc-and-capital-bancorp-inc-announce-merger-agreement-302893578.html"
+    },
+    {
+      "title": "AI financing goes structured",
+      "body": "Broadcom lined up about $60B: $42B in bank-led senior secured loans and $18B of subordinated debt led by Blackstone (which commits $9B). Up to $42B can fund Anthropic's chip leases, per Anthropic's IPO filing. Amazon is separately seeking to move about $8B of Nvidia chips into a leaseback SPV.",
+      "simple": "Instead of buying chips outright, AI companies are leasing them, and banks and private-credit funds lend against the chips. This is a fast-growing business for capital-markets desks. The risk is that the loans depend on the chips keeping their value.",
+      "source": "CNBC/Reuters / Seeking Alpha / Investing.com",
+      "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html"
+    },
+    {
+      "title": "Credit: issuance strong, risk premiums widening",
+      "body": "September high-yield issuance was $38.5B, the 2026 high. HY spreads averaged 294 bp and CCC spreads reached 968 bp, the widest since November 2023. Investment-grade borrowers are paying about 6 bp in new-issue concessions as order books shrink.",
+      "simple": "A credit spread is the extra yield a company pays over Treasuries; a wider spread means investors see more risk. The weakest borrowers (CCC-rated) are being charged much more. Companies are still able to borrow, but each deal costs more.",
+      "source": "BigGo Finance / Bloomberg via Yahoo",
+      "url": "https://finance.biggo.com/news/676d5565-e648-4cb0-8c3f-b645693a65d7"
+    },
+    {
+      "title": "Deal tape: Mattel, onsemi, Paramount–WBD",
+      "body": "Authentic Brands discussed a bid that could value Mattel at more than $20 a share (about $6B), and the stock rose as much as 36%. onsemi changed its Synaptics deal to all cash at $123 a share (about $5.7B). The $81B Paramount–Warner Bros. Discovery merger is set to close Oct 6 after a 12-state settlement.",
+      "simple": "Big companies are still doing takeovers despite high rates. When a buyer switches to all cash, it usually means it has committed financing. These deals are fee revenue for investment banks and their lending arms.",
+      "source": "CNBC (WSJ report) / TipRanks / Android Headlines",
+      "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Stocks edge higher as yields retreat from multiyear highs",
+        "body": "The S&P rose 0.19% to 7,666.45, the Dow gained 20.51 points to 50,926.56 and the Nasdaq rose 0.04% Thursday. Indexes recovered intraday losses as the 10Y backed off 5.34%, and AI and chip names led.",
+        "simple": "Stocks fell early when bond yields spiked, then recovered when yields came down. Higher yields make future company profits worth less today, so stocks and bond yields often move in opposite directions.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Oil falls 3% on possible diesel and crude stock release",
+        "body": "EU governments are discussing a French proposal to release 50M bbl of diesel, and IEA members would add 50M bbl of crude. Brent fell to $99.74 and WTI to $89.34 (−3.8%).",
+        "simple": "Governments keep emergency fuel stockpiles, and releasing them adds supply and pushes prices down. This would offset China's halt on fuel exports. Lower fuel prices ease inflation fears.",
+        "source": "CNBC / Reuters via Euronext",
+        "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html"
+      },
+      {
+        "title": "Nike misses on revenue, guides FY27 down high-single digits",
+        "body": "Q1 revenue was $11.21B vs $11.32B expected (−4%) and EPS was $0.48 vs $0.43. China revenue fell 26%. Nike guided FY27 adjusted EPS to $1.15–1.35 and launched a $2.5B 'Pace' cost program with layoffs. Shares are down about 9% pre-market.",
+        "simple": "Nike sold less than expected, especially in China, and expects sales to keep shrinking this year. Cutting costs protects profit, but investors want growth. Its slump is a read on consumer spending under high rates.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html"
+      },
+      {
+        "title": "What to expect from the September jobs report",
+        "body": "Economists expect +84K jobs and 4.1% unemployment after +162K in August. ADP printed +90K private jobs vs +68K expected.",
+        "simple": "The monthly jobs report is the most important U.S. data release because the Fed watches hiring and wages closely. Strong hiring could push the Fed to raise rates sooner; weak hiring argues for waiting.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Mattel draws takeover interest from Authentic Brands",
+        "body": "Authentic Brands has privately discussed an offer that could value Mattel at more than $20 a share, about $6B. Talks are preliminary. Mattel rose as much as 36% and was up 23% at $15.53 in the afternoon.",
+        "simple": "A potential buyer is willing to pay well above the current stock price, which sent shares sharply higher. Authentic Brands makes money licensing brand names, so Mattel's toy brands such as Barbie would fit its model.",
+        "source": "CNBC (citing WSJ)",
+        "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html"
+      },
+      {
+        "title": "Tech CEOs pressed Amodei over AI-risk warnings",
+        "body": "At a Sep 29 White House meeting, Nvidia's Jensen Huang and other executives challenged Anthropic's CEO over his public warnings about AI risk. The meeting followed a voluntary frontier-AI safety agreement, and Amodei held his position.",
+        "simple": "Industry leaders disagree about how loudly to warn the public about AI dangers. Some fear warnings invite regulation, which could slow a boom that Wall Street is financing heavily.",
+        "source": "Investing.com / Reuters (citing WSJ)",
+        "url": "https://ng.investing.com/news/stock-market-news/tech-ceos-questioned-anthropic-leader-over-ai-safety-warnings-wsj-reports-2716871"
+      },
+      {
+        "title": "Sycamore nears ~$9B sale of Boots",
+        "body": "Sycamore, which took Chicago-area Walgreens private for $24B in 2025, is near a roughly $9B sale of Boots (including debt) to the Weston family. The price is below the roughly $10B discussed earlier this year.",
+        "simple": "Private-equity firms buy companies, then sell pieces to pay down debt. Selling the UK pharmacy chain Boots helps Sycamore recover money from the Walgreens deal, though at a lower price than hoped.",
+        "source": "Crain's Chicago Business / Reuters (citing WSJ)",
+        "url": "https://www.chicagobusiness.com/health-care/ccb-walgreens-sale-deal-boots-20261001/"
+      },
+      {
+        "title": "Iran-linked tankers stranded in Asian waters",
+        "body": "Dozens of tankers in the sanctioned Iran–China oil trade have been stuck near Sri Lanka and Malaysia since July, when the US reimposed its Hormuz blockade.",
+        "simple": "The U.S. is blocking Iranian oil sales, and ships carrying that oil can't deliver it. That keeps supply tight and is one reason oil prices are high.",
+        "source": "Ajel (citing WSJ digest)",
+        "url": "https://english.ajel.sa/world/36q71xy1a"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Parkway Bank raises ~$350M, new leadership",
+        "body": "Harwood Heights-based Parkway Bancorp raised nearly $350M led by Patriot Financial and Stone Point, mostly to fund a tender offer. Chip Reeves becomes CEO and David Provost executive chair.",
+        "simple": "A tender offer is when a company offers to buy shares from existing owners. Outside investors are putting money into this Chicago-area bank so longtime shareholders can cash out and new managers can take over, a common way private bank ownership changes hands.",
+        "source": "Crain's Chicago Business / The Bank Slate",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-parkway-bank-deal-20261001/"
+      },
+      {
+        "title": "Boeing engineers ratify contract, FAA panel looms",
+        "body": "About 17,000 SPEEA engineers ratified a 4-year deal: 10% on signing, then 4% a year. The FAA could convene a panel on a 737 MAX software glitch as soon as today, after delaying MAX 10 certification Sep 28, which sent the stock down 6.9%.",
+        "simple": "The engineers' union agreed to a new contract, so there won't be a strike. But regulators are still examining a software problem that delays a new jet model. That pushes back deliveries and the cash Boeing gets from them.",
+        "source": "CNBC / Bloomberg",
+        "url": "https://cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html"
+      },
+      {
+        "title": "Business groups fight Johnson's data-center moratorium",
+        "body": "Business and labor groups oppose Mayor Johnson's proposed one-year pause on new data centers in Chicago. AWS separately cited more than 100 proposed local moratoriums nationwide.",
+        "simple": "Data centers use huge amounts of power and water, so some cities want to pause new ones. Businesses warn a pause would send investment and jobs elsewhere.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/politics-policy/ccb-data-centers-brandon-johnson-202610/"
+      },
+      {
+        "title": "McDonald's slide hits eight straight weeks",
+        "body": "McDonald's has fallen for eight straight weeks, its longest streak since the dot-com era, hitting a 52-week low near $232, about −24% year to date, after its Sep 23 investor day remodel-spending plan.",
+        "simple": "Investors don't like that McDonald's will spend heavily remodeling restaurants while lower-income customers cut back. A long losing streak for a 'safe' stock shows how squeezed consumers are.",
+        "source": "CNBC / CoinCentral",
+        "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Broadcom assembles ~$60B AI-chip war chest",
+        "body": "The package combines $42B in bank-led senior secured loans with $18B in subordinated debt led by Blackstone, which commits $9B itself. Some reports say the total could reach $70–100B.",
+        "simple": "Broadcom is borrowing heavily so customers can lease its AI chips instead of buying them up front. Senior loans get repaid first and subordinated debt later, so the subordinated lenders take more risk for more interest.",
+        "source": "Seeking Alpha (NYT digest)",
+        "url": "https://seekingalpha.com/news/4649721-broadcom-gathers-60b-financing-package-to-fund-ai-chips-for-anthropic-report"
+      },
+      {
+        "title": "Amazon seeks to offload ~$8B of Nvidia chips",
+        "body": "Amazon would sell thousands of Grace Blackwell chips to a special-purpose vehicle and lease them back, with investors getting up to a 10% equity stake. The chips sit in more than a dozen data centers across five states.",
+        "simple": "In a sale-leaseback, a company sells equipment and rents it back, freeing cash while keeping use of it. Even the richest tech firms are finding creative ways to fund AI spending.",
+        "source": "Investing.com / Reuters (FT, NYT digest)",
+        "url": "https://ng.investing.com/news/stock-market-news/amazon-seeks-to-offload-8-bln-of-nvidia-chips-to-investors-ft-2719168"
+      },
+      {
+        "title": "AWS pledges $1B+ to data-center communities",
+        "body": "AWS will invest more than $1B over five years in education, job training, energy affordability and water near its data centers. It cites more than 100 proposed local moratoriums.",
+        "simple": "Communities are pushing back on data centers over power bills and water use. Amazon is spending money locally to win approval for the sites it needs.",
+        "source": "Investing.com / Reuters (NYT digest)",
+        "url": "https://www.investing.com/news/stock-market-news/amazon-to-invest-1-billion-over-five-years-in-us-data-center-communities-4929191"
+      },
+      {
+        "title": "Fed watchdog clears HQ renovation, faults management",
+        "body": "The Fed's inspector general found no illegal conduct in the roughly $2.5B headquarters renovation but cited poor management.",
+        "simple": "The Fed's renovation became a political target. The finding removes a legal cloud but keeps criticism alive at a sensitive time for Fed independence.",
+        "source": "Rallies.ai (NYT digest)",
+        "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why the curve is bear-steepening with the Fed hiking",
+      "point": "The 2Y at about 4.79% is roughly 80 bp over the funds midpoint, but the 30Y at 5.62% is about 80 bp over the 2Y. The long end is being driven by term premium and real yields (10Y TIPS 2.92%, breakeven 2.28%) more than inflation expectations, and it is global, with gilts above 6% and OAT–Bund at 146 bp. That's why record Ultra Bond OI matters: hedgers are concentrated at the very long end."
+    },
+    {
+      "topic": "Banks and the long end",
+      "point": "KBW is more than 13% below its August peak and financials had their worst relative month since 1990. Higher long yields widen unrealized AFS/HTM losses and pressure CRE, where CMBS delinquency is 7.85%. But funding costs are sticky and NIMs can improve once the curve's front end stabilizes. Ask how a bank is positioning its securities book and deposit betas."
+    },
+    {
+      "topic": "Copper's split signal",
+      "point": "COMEX copper is soft at $6.58/lb because China is on holiday, but Chilean output is at a 15-year low (−12.8% y/y in August), Escondida faces a strike, Grasberg is delayed to 2028 and SHFE stocks are at their lowest since January 2024. Spot weakness on top of structural tightness is the kind of setup where calendar spreads and options skew move first."
+    }
+  ],
+  "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or blocked, so those sections use press digests and Crain's, CNBC, Reuters and other coverage; the outlet actually used is named on each story. Many figures come from search summaries, not full articles. Payroll consensus differs by survey (84K Dow Jones vs 90K Reuters/Bloomberg), October hike odds range from 28% to 36% across sources, and the KBW close and live WTI and DXY levels are approximate. The Tesla delivery consensus is a range.",
+  "updates": [
+    {
+      "at": "2026-10-02T17:18:02Z",
+      "label": "Midday",
+      "headline": "The payrolls rally in bonds has fully reversed: the 2Y is now about 3 bp higher at ~4.82% and the 10Y about 2 bp higher at ~5.26%, gold has given back its gains, and stocks are holding most of their advance with the Nasdaq at a record.",
+      "points": [
+        "Rates round-trip: 2Y ≈4.82% (+3 bp), 10Y ≈5.26% (+2 bp; CNBC), from ~4.73%/~5.18% at 9:20 AM. That is a bear flattener, so this morning's 'bull steepener' call no longer holds. 10Y still below Thursday's 5.344% high.",
+        "Fed odds barely moved back: October hold ≈78%, hike ≈21–22% (CNBC, Motley Fool), vs ~17% post-print and 28–36% pre-print. December hike is still seen as likely, so the market is pushing the hike back rather than pricing it out.",
+        "Stocks at midday (Motley Fool): S&P 7,720 (+0.70%), Dow 51,107 (+0.35%), Nasdaq 27,191 (+1.18%, record). Gains have narrowed from the open. Tesla is up >5% on its delivery beat. ON Semi and Synaptics are up after a revised all-cash deal at $123/sh (≈$5.7B vs ≈$7B before), with committed debt financing from Morgan Stanley.",
+        "Metals follow real yields: gold ≈$4,137 at 12:13 PM CT, −$40 (−1.0%) per Fortune, after ≈$4,218 at 8 AM CT. Silver ≈$60.1 (−0.7%). Copper ≈$6.54/lb (+0.9%) on a softer dollar and tight Chile supply. DXY back near 102.0 (−0.1%), after dipping to ≈101.8 on the print.",
+        "Brent ≈$99.7 (−2.6% d/d, below $100). Live WTI quotes conflict across sources, so the tile shows '—'. No Goolsbee or Logan comments yet; Logan stood by her call for 50 bp+ of further hikes on Thursday. Next: 3Y/10Y/30Y auctions Oct 6–8."
+      ],
+      "simple": "Right after the weak jobs number, investors bought Treasury bonds, which pushed their yields (the interest a bond pays) down. By midday they had sold those bonds again. Traders still expect the Fed to raise rates by December, and the government has a lot of new long-term debt to sell next week, so cheaper bonds (higher yields) won out. Gold usually falls when yields rise, because it pays no interest. For borrowers, this means mortgage and loan rates are not getting the relief the jobs report briefly suggested.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-midday-oct-2-stocks-rally-as-weak-jobs-data-cools-fed-rate-hike-bets/"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/article/current-price-of-gold-10-02-2026/"
+        },
+        {
+          "name": "onsemi",
+          "url": "https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-and-synaptics-announce-revised-merger-agreement"
+        },
+        {
+          "name": "MINING.COM",
+          "url": "https://www.mining.com/web/copper-price-crawls-higher-on-softer-dollar-after-weak-us-jobs-data-tight-supply"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-02T14:18:07Z",
+      "label": "Post-open",
+      "headline": "Payrolls missed badly (+29K vs +84–90K, unemployment 4.2%, wages +0.1%), knocking October hike odds to ~17% and pulling the 2Y and 10Y down about 6 bp as stocks open higher.",
+      "points": [
+        "September payrolls +29K vs +84K (Dow Jones) / +90K (Reuters) consensus. Unemployment 4.2% vs 4.1%, partly from a larger labor force. AHE +0.1% m/m vs +0.3% est.; +3.0% y/y, slowest since 2021.",
+        "Revisions −60K in total: July now −10K (was +21K), August +133K (was +162K). The morning's '+162K prior' is now stale.",
+        "Rates bull-steepen: 2Y −6 bp to ~4.73%, 10Y −6 bp to ~5.18%, 30Y −3 bp to ~5.57% (CNBC). October hike odds fall to ~17% on FedWatch (hold 82.8%), down from the 28–36% in this morning's brief; Kalshi 18%.",
+        "Stocks open higher: S&P +0.9%, Dow +0.7%, Nasdaq +1.3%; small caps and tech led futures. Gold ≈$4,188 (+$11), silver ≈$61.5, DXY ≈101.5 (from ≈101.8). Oil holds Thursday's drop: WTI ≈$89, Brent ≈$99.7.",
+        "Tesla Q3 deliveries reportedly beat the ~462K consensus, shares +1.9% (exact figure —). Next: Goolsbee and Logan reactions this afternoon, then the 3Y/10Y/30Y auctions Oct 6–8."
+      ],
+      "simple": "Payrolls count how many jobs employers added last month. Far fewer jobs than expected, plus slower pay growth, means the economy is cooling, so the Fed (the central bank that sets short-term rates) is less likely to raise rates this month. Traders bought Treasury bonds, pushing their yields (the interest a bond pays) down, which helps stocks and lowers borrowing costs for mortgages and business loans.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/article/current-price-of-gold-10-02-2026"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-02T17:18:02Z"
 }
