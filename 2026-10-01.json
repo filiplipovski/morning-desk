@@ -1,0 +1,356 @@
+{
+ "date": "2026-10-01",
+ "edition": "Evening edition · prep for Fri Oct 2",
+ "generatedAt": "2026-10-02T00:10:00Z",
+ "headline": "10-year hits 5.34%, highest since 2002, then fades as stocks close Q4's first day slightly higher. September jobs report at 7:30 AM tomorrow decides whether the Fed hikes again Oct 28.",
+ "summary": [
+  "Global bond selloff: the 10Y touched 5.34% and the 30Y 5.68% intraday, both 24-year highs, before easing to about 5.24%. France's deficit and German Bunds at 15-year highs fed it.",
+  "Inflation pressure is in the factory data: ISM manufacturing 54.5 (est. 55.0) but prices paid jumped 6.8 pts to 77.9.",
+  "Labor still tight: jobless claims fell to 197K, the fourth straight weekly decline. Consensus for Friday's payrolls is about +90K with unemployment at 4.1%.",
+  "Oil spiked after China halted October fuel exports. Brent is back above $100 and WTI near $92–93, which adds to the inflation story.",
+  "AI and deals: Anthropic's IPO filing shows Broadcom will lend up to $42B for chip leases. Accenture jumped about 20% on record bookings. Nike fell after hours on weak sales and layoffs."
+ ],
+ "markets_asof": "Thu Oct 1 close",
+ "markets": [
+  {
+   "label": "S&P 500",
+   "value": "≈7,670",
+   "change": "+0.2–0.3%",
+   "dir": "up",
+   "note": "~1.7% below Aug record"
+  },
+  {
+   "label": "Dow",
+   "value": "50,912",
+   "change": "+0.01%",
+   "dir": "flat"
+  },
+  {
+   "label": "Nasdaq",
+   "value": "26,930",
+   "change": "+0.25%",
+   "dir": "up",
+   "note": "Micron, chips led"
+  },
+  {
+   "label": "Russell 2000",
+   "value": "—",
+   "change": "−0.39%",
+   "dir": "down",
+   "note": "Small caps hurt by rates"
+  },
+  {
+   "label": "UST 10Y",
+   "value": "≈5.24%",
+   "change": "hi 5.34%",
+   "dir": "up",
+   "note": "Highest since Apr 2002"
+  },
+  {
+   "label": "UST 30Y",
+   "value": "≈5.67%",
+   "change": "hi 5.68%",
+   "dir": "up",
+   "note": "Highest since Jul 2002"
+  },
+  {
+   "label": "Fed funds",
+   "value": "3.75–4.00%",
+   "change": "hiked Sep 16",
+   "dir": "flat",
+   "note": "Next FOMC Oct 27–28"
+  },
+  {
+   "label": "WTI crude",
+   "value": "$92.3–92.9",
+   "change": "+2.1–2.7%",
+   "dir": "up",
+   "note": "China fuel-export halt"
+  },
+  {
+   "label": "Brent",
+   "value": "≈$103",
+   "change": "back > $100",
+   "dir": "up"
+  },
+  {
+   "label": "Gold",
+   "value": "$4,212",
+   "change": "+0.6%",
+   "dir": "up",
+   "note": "Sep: −8.5%"
+  },
+  {
+   "label": "Silver",
+   "value": "$61.55",
+   "change": "+1.6%",
+   "dir": "up",
+   "note": "Sep: −13.5%"
+  },
+  {
+   "label": "Copper",
+   "value": "≈$6.6/lb",
+   "change": "flat",
+   "dir": "flat"
+  },
+  {
+   "label": "KBW Bank Index",
+   "value": "—",
+   "change": "−0.7%",
+   "dir": "down",
+   "note": "Rate worries"
+  },
+  {
+   "label": "Dollar index",
+   "value": "≈101.4",
+   "change": "2-mo high (Tue)",
+   "dir": "up"
+  }
+ ],
+ "calendar": [
+  {
+   "time": "7:30 AM",
+   "event": "September jobs report (BLS)",
+   "consensus": "+90K · 4.1%",
+   "prior": "+162K · 4.1%",
+   "why": "A hot print pushes Oct 28 hike odds above 50% and puts more pressure on the long end. A miss helps metals."
+  },
+  {
+   "time": "7:30 AM",
+   "event": "Average hourly earnings (in jobs report)",
+   "consensus": "watch",
+   "prior": "—",
+   "why": "Wage growth is the Fed's read on services inflation"
+  },
+  {
+   "time": "All day",
+   "event": "Fed speakers react to payrolls",
+   "consensus": "—",
+   "prior": "—",
+   "why": "Goolsbee said Thursday the Fed may put less weight on gloomy sentiment surveys"
+  },
+  {
+   "time": "Oct 27–28",
+   "event": "FOMC meeting",
+   "consensus": "~50/50 hike vs hold",
+   "prior": "+25 bp (Sep 16)",
+   "why": "Dot plot shows 16 of 19 officials expect at least one more hike in 2026"
+  }
+ ],
+ "desk": {
+  "rates": [
+   {
+    "title": "Long end leads a global selloff",
+    "body": "The 10Y hit 5.342% and the 30Y 5.683%, both 24-year highs. Bund 10Y reached 3.63% and the OAT–Bund spread widened to 132 bp, a 14-year extreme, on France's 5% deficit budget. Strategists now describe the outlook as \"much higher for a lot longer.\"",
+    "source": "Quartz / TheStreet",
+    "url": "https://qz.com/us-treasury-yields-24-year-highs-bond-selloff-100126",
+    "simple": "When investors sell bonds, bond prices fall and their yields (the interest they pay) go up. Long-term U.S. government debt now pays the most since 2002 because investors worry governments here and in Europe are borrowing too much, so they demand extra pay to lend for 10–30 years. Higher yields make mortgages, car loans and business loans more expensive for everyone."
+   },
+   {
+    "title": "Real yields are the driver",
+    "body": "The 10Y TIPS yield rose about 44 bp in September, its fastest monthly gain in four years. That move is mostly term premium and real rates, and only partly breakevens.",
+    "source": "TexMetals",
+    "url": "https://texmetals.com/all-news/precious-metals-market-update-9-30-2026",
+    "simple": "A 'real' yield is the interest rate after subtracting expected inflation. It jumped fast in September, so investors are earning more true return on safe bonds. That makes assets that pay nothing, like gold, look less attractive."
+   },
+   {
+    "title": "Fed: Oct 28 is a coin flip",
+    "body": "Warsh's Fed hiked 25 bp 12–0 on Sep 16, its first hike since 2023, to 3.75–4.00%. FedWatch sits near 50/50 for October and about 88% for at least one more hike by December.",
+    "source": "Schwab / Tech Insider",
+    "url": "https://tech-insider.org/fed-october-2026-rate-hold-odds-polymarket-swing/",
+    "simple": "The Fed raised its key rate in September to fight inflation. Traders bet on Fed moves using futures, and those bets show roughly even odds of another raise on Oct 28. Almost everyone expects at least one more raise by December. The question is when, not if."
+   }
+  ],
+  "derivatives": [
+   {
+    "title": "Ultra futures are where the duration hedging happens",
+    "body": "Ultra 10-Year and Ultra Bond futures set record open interest of nearly 3M contracts each. Ultra Bond OI is up about 20% in 2026, which shows real-money and hedge demand at the long end.",
+    "source": "CME Group Rates Recap",
+    "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-09-rates-recap.html",
+    "simple": "A futures contract is an agreement to buy or sell something later at a price set today. 'Ultra' Treasury futures track long-term government bonds. Record open interest (contracts still outstanding) means big investors are using them heavily to protect themselves from long-term rates moving against them."
+   },
+   {
+    "title": "Swap futures adoption accelerating",
+    "body": "Eris SOFR swap futures passed 800K contracts of OI, about $80B notional. Credit futures volume is up 164% YTD. These are useful names to drop in a CME or derivatives conversation.",
+    "source": "CME Group",
+    "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-09-rates-recap.html",
+    "simple": "An interest-rate swap is a deal where two parties trade a fixed rate for a floating one, usually to lock in borrowing costs. CME's swap futures package that deal into a standardized exchange contract. Fast growth shows more firms are hedging rate risk on an exchange instead of privately with banks."
+   },
+   {
+    "title": "What to watch tomorrow",
+    "body": "SOFR futures around the Oct and Dec FOMC dates. A strong payrolls number should pull a hike forward into the Oct contract, and 2s10s should bear-flatten. A weak number should do the reverse.",
+    "source": "Desk note",
+    "simple": "SOFR futures are traders' bets on where short-term rates will be. A strong jobs report raises the odds of an October hike. Short-term yields should then rise faster than long-term ones, a move called 'bear-flattening'. A weak report does the reverse."
+   }
+  ],
+  "metals": [
+   {
+    "title": "Bounce after a brutal September",
+    "body": "Gold ended September down about 8.5% and silver down about 13.5% as real yields surged. Both bounced Thursday: gold +0.6% to $4,212 and silver +1.6% to $61.55.",
+    "source": "TheStreet / TexMetals",
+    "url": "https://texmetals.com/all-news/precious-metals-market-update-9-30-2026",
+    "simple": "Gold and silver had their worst month in a while because bonds started paying much more. Investors moved money from metals that pay no interest into bonds. Thursday's small rebound came as yields cooled a bit during the day."
+   },
+   {
+    "title": "Macro data swung hike odds, and metals with them",
+    "body": "Tuesday's weak JOLTS (7.08M) and consumer confidence of 81.9, the lowest since 2014, cut hike odds from about 71% to 52%. Gold rose 1.4% that day. Friday's payrolls is the next swing factor.",
+    "source": "Rio Times",
+    "url": "https://www.riotimesonline.com/gold-silver-precious-metals-wednesday-september-30-2026",
+    "simple": "Weak reports on job openings and consumer mood made traders think the Fed might not need to raise rates again. Lower expected rates help gold, so it rose. Friday's jobs report could push it either way."
+   },
+   {
+    "title": "PGMs and copper",
+    "body": "Platinum is near $1,719 and palladium near $1,229 (Sep 30). Copper is roughly flat at about $6.6/lb.",
+    "source": "TexMetals / Rio Times",
+    "url": "https://texmetals.com/all-news/precious-metals-market-update-9-30-2026",
+    "simple": "PGMs are platinum-group metals, used mostly in car catalytic converters and industry. Copper is an economic bellwether because it goes into wiring, construction and electronics. Flat copper suggests no big change in the global growth outlook this week."
+   }
+  ]
+ },
+ "banking": [
+  {
+   "title": "Peoples Bancorp to buy Capital Bancorp for $728M, all-stock",
+   "body": "The exchange ratio is 1.11x ($43.75/sh). The combined bank has about $14B in assets, $10B in loans and 150+ branches in 8 states plus DC. It adds DC/Baltimore commercial banking and OpenSky card and mortgage-servicing businesses. Peoples expects it to be accretive in 2027 with TBV earnback under 3 years, and the deal should close 1H27.",
+   "source": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/09/30/3371896/0/en/peoples-bancorp-inc-and-capital-bancorp-inc-announce-merger-agreement.html",
+   "simple": "One regional bank is buying another and paying with its own shares instead of cash. Each Capital shareholder gets 1.11 Peoples shares. The buyer gets more business customers in DC and Baltimore plus a credit-card business. 'TBV earnback under 3 years' means the dilution to the buyer's book value should be made up within about three years."
+  },
+  {
+   "title": "Bank stocks slip on rates",
+   "body": "The KBW Nasdaq Bank Index fell 0.7%. Higher long yields help NIM on new loans but hurt AFS securities marks and CRE borrowers. Watch for this on commercial banking calls.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
+   "simple": "Higher rates help banks earn more on new loans. They also shrink the value of bonds banks already own and squeeze borrowers like commercial real-estate owners. Today investors focused on the downside and sold bank stocks."
+  },
+  {
+   "title": "Broadcom to lend Anthropic up to $42B for chip leases",
+   "body": "The convertible-note facility was disclosed in Anthropic's IPO filing. It covers roughly a third of a $125B five-year TPU lease commitment. It's the latest example of \"circular\" AI financing, and capital markets desks will be talking about it.",
+   "source": "CNBC / Reuters",
+   "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html",
+   "simple": "Broadcom makes AI chips. It's offering to lend money to Anthropic, an AI company, which Anthropic would then use to rent Broadcom's own chips. Critics call that 'circular' financing because the seller is funding its own customer. It came out in Anthropic's paperwork to go public."
+  },
+  {
+   "title": "Paramount–Warner Bros. names co-CEO",
+   "body": "Mattel CEO Ynon Kreiz will be co-CEO with David Ellison of the $111B merged company as the deal nears close.",
+   "source": "NYT (via press digest)",
+   "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc",
+   "simple": "Two giant media companies are merging in a $111 billion deal. The combined company will have two CEOs sharing the job: Mattel's current CEO and Paramount's David Ellison."
+  }
+ ],
+ "sources": {
+  "cnbc": [
+   {
+    "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips",
+    "body": "Disclosed in Anthropic's IPO filing. The convertible notes won't be sold before the IPO completes.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html",
+    "simple": "Broadcom will lend Anthropic money, and Anthropic will use it to rent Broadcom chips. The loan can turn into Anthropic stock later, which is what 'convertible' means. It only kicks in after Anthropic goes public."
+   },
+   {
+    "title": "Nike shares drop on disappointing sales, layoffs",
+    "body": "Fiscal Q1 2027 results came after the close Thursday. Sales disappointed and the company announced layoffs as part of a restructuring. The stock is already down about 44% YTD.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+    "simple": "Nike sold less than Wall Street expected last quarter and is cutting jobs to save money. Investors sold the stock after hours. It was already down almost half this year."
+   },
+   {
+    "title": "Morning Squawk: the Dow's rough month, Micron's revenue surge, Gemini 4",
+    "body": "Micron beat and raised Q1 guidance on data-center memory demand. Google launched Gemini 4.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/5-things-to-know-before-the-stock-market-opens.html",
+    "simple": "Micron makes memory chips for AI data centers. It earned more than expected and predicted an even better next quarter, which shows AI spending is still strong. Google also released a new AI model."
+   },
+   {
+    "title": "Stock market today: live updates",
+    "body": "Stocks recovered from morning losses as the 10Y retreated from 5.34%.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+    "simple": "Stocks started the day lower because bond yields spiked. When yields eased in the afternoon, stocks recovered and closed slightly up."
+   }
+  ],
+  "wsj": [
+   {
+    "title": "Treasury yields hit highest since 2002 in global bond rout",
+    "body": "This is the day's lead markets story across outlets. Fiscal worries in France, a hawkish Fed and oil above $100 are pushing term premium higher.",
+    "source": "WSJ coverage via Globe and Mail / Quartz",
+    "url": "https://www.theglobeandmail.com/investing/article-10-year-us-treasury-yield-hits-highest-since-2002/",
+    "simple": "Bond prices fell around the world, pushing U.S. long-term yields to a 24-year high. The main causes are worries about government debt (France especially), a Fed that is still raising rates, and oil above $100 keeping inflation high."
+   },
+   {
+    "title": "Accenture soars on record bookings, easing AI-disruption fears",
+    "body": "Shares rose about 20% after fiscal Q4 beat with 7% growth, record large-deal bookings and strong FY27 guidance. Synopsys (+12%) and Cognizant (+11%) also rallied.",
+    "source": "Yahoo Finance / Benzinga",
+    "url": "https://finance.yahoo.com/markets/article/accenture-stock-surges-as-record-bookings-dispel-ai-fears-133857510.html",
+    "simple": "Investors had feared AI would replace consulting work. Accenture just signed a record amount of big contracts and gave a strong forecast, which showed companies still pay consultants to help them use AI. The stock jumped about 20% in one day."
+   },
+   {
+    "title": "China halts October fuel exports as diesel crunch deepens",
+    "body": "Commercial diesel and gasoil stocks are about 20M bbl below pre-war levels (Kpler). Brent jumped as much as 5.6%.",
+    "source": "OilPrice",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+    "simple": "China told its refiners to stop selling gasoline and diesel abroad this month to keep enough at home. That leaves less fuel for the rest of the world, so oil prices rose. Expensive fuel feeds into inflation."
+   }
+  ],
+  "tribune": [
+   {
+    "title": "Chicago Fed's Goolsbee: gap between sentiment and data 'never been wider'",
+    "body": "On Oct 1 Goolsbee said the Fed may lean less on consumer-sentiment surveys when they stop predicting outcomes. That points to policy driven by hard data, which supports higher-for-longer.",
+    "source": "Hoodline (Chicago)",
+    "url": "https://hoodline.com/2026/10/chicago-fed-chief-says-americans-economic-gloom-hits-record-split-with-the-data",
+    "simple": "People say they feel bad about the economy, but hard numbers like jobs and spending look solid. The Chicago Fed's president says the Fed may pay less attention to how people feel and more to the data. Right now that points toward keeping rates high."
+   },
+   {
+    "title": "CME Group: record Treasury futures open interest",
+    "body": "Chicago's exchange is the main venue for hedging this rate shock. Ultra 10Y and Ultra Bond OI are near 3M contracts each.",
+    "source": "CME Group",
+    "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-09-rates-recap.html",
+    "simple": "CME, headquartered in Chicago, runs the exchange where investors trade Treasury futures. Record activity means investors are hedging heavily against rate swings, which is good for CME's business."
+   }
+  ],
+  "nyt": [
+   {
+    "title": "Fed renovation probe finds no misconduct",
+    "body": "The watchdog found no illegal behavior in the roughly $2.5B Fed HQ renovation but criticized management and budget oversight.",
+    "source": "NYT (via press digest)",
+    "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc",
+    "simple": "An investigation into the Fed's roughly $2.5 billion headquarters renovation found no illegal behavior. It did find the project was poorly managed and over budget."
+   },
+   {
+    "title": "South Korea pledges up to $200B for U.S. energy projects",
+    "body": "The pledge includes Alaska LNG, though there are doubts about Seoul fulfilling its broader $350B commitment.",
+    "source": "NYT (via press digest)",
+    "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc",
+    "simple": "South Korea promised to invest up to $200 billion in U.S. energy, including a big Alaska natural-gas project. Some doubt it can deliver the full amount it promised overall."
+   },
+   {
+    "title": "Mattel's Kreiz to be co-CEO of Paramount–Warner Bros.",
+    "body": "He will lead the $111B merged company alongside David Ellison.",
+    "source": "NYT (via press digest)",
+    "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc",
+    "simple": "Mattel's CEO is leaving to run the newly merged Paramount and Warner Bros., sharing the top job with David Ellison."
+   },
+   {
+    "title": "Trump Media–TAE merger: Trump to keep just over 20%",
+    "body": "The deal is advancing toward regulatory approval.",
+    "source": "NYT (via press digest)",
+    "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-october-1-04dca7ed773657dc",
+    "simple": "Trump Media is merging with TAE Technologies, a fusion-energy company. After the deal, President Trump will own a bit over a fifth of the combined company."
+   }
+  ]
+ },
+ "talking_points": [
+  {
+   "topic": "The term-premium story",
+   "point": "The 10Y is at 5.3% with fed funds at 3.75–4.00%, so the curve is steep because of the long end, not because of cuts. Fiscal supply here and in France and the UK, plus real yields up 44 bp in a month, mean investors want more compensation for duration. That's why Ultra Bond futures OI is at records."
+  },
+  {
+   "topic": "Why a 'good' jobs number could be bad for markets",
+   "point": "Claims at 197K and ISM prices paid at 77.9 already point to a hot economy. A payrolls beat on Friday probably prices in an October hike, pressures banks' securities books and hits gold through real yields."
+  },
+  {
+   "topic": "Regional bank consolidation",
+   "point": "Peoples–Capital ($728M, all-stock, about 3-year TBV earnback) is the playbook: buy commercial-banking density and fee businesses while rates keep organic deposit growth expensive."
+  }
+ ],
+ "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or block automated reading. Their sections draw on press digests and other outlets' coverage of the same stories, so open the originals with your subscriptions. Closing figures differ slightly between sources and are approximate."
+}
