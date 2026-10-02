@@ -11,104 +11,104 @@
     "Banks lag when the long end rises: KBW fell as much as 2.4% Thursday and is more than 13% below its mid-August peak, and financials just had their worst month relative to the S&P since 1990 (Truist). Futures are up: S&P +0.3%, Nasdaq-100 +0.6%. Nike is down about 9% pre-market.",
     "Metals are steady: gold ≈$4,183, silver ≈$61.2, COMEX copper $6.58/lb with China shut for Golden Week. Chile's August copper output was the lowest since 2011, and Escondida supervisors have authorized a strike."
   ],
-  "markets_asof": "Midday ~12:15 PM CT",
+  "markets_asof": "Fri close ~3:15 PM CT",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,720",
-      "change": "+0.70%",
+      "value": "7,722.72",
+      "change": "+0.73%",
       "dir": "up",
-      "note": "Midday; Thu close 7,666"
+      "note": "Close; +56.27"
     },
     {
       "label": "Dow",
-      "value": "51,107",
-      "change": "+0.35%",
+      "value": "51,176.96",
+      "change": "+0.49%",
       "dir": "up",
-      "note": "Midday"
+      "note": "Close; +250.40"
     },
     {
       "label": "Nasdaq",
-      "value": "27,191",
-      "change": "+1.18%",
+      "value": "27,190.86",
+      "change": "+1.19%",
       "dir": "up",
-      "note": "Record high; Tesla +5%"
+      "note": "Record close"
     },
     {
       "label": "Russell 2000",
-      "value": "2,826",
-      "change": "Thu close",
-      "dir": "flat",
-      "note": "Live level —"
-    },
-    {
-      "label": "UST 2Y",
-      "value": "≈4.82%",
-      "change": "+3 bp",
-      "dir": "up",
-      "note": "Was ≈4.73% at 9:20 AM"
-    },
-    {
-      "label": "UST 10Y",
-      "value": "≈5.26%",
-      "change": "+2 bp",
-      "dir": "up",
-      "note": "Reversed from ≈5.18%; Thu high 5.344%"
-    },
-    {
-      "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Live level unavailable; ≈5.57% at 9:20 AM"
+      "note": "Closing level unavailable"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.84%",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "≈4.73% after the print"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.28%",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "Full payrolls reversal; Thu high 5.344%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.62%",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "Trading Economics"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈21–22%",
+      "change": "Oct hike ≈14–17%",
       "dir": "down",
-      "note": "Hold ≈78%; FOMC Oct 27–28"
+      "note": "Hold ≈83%; FOMC Oct 27–28"
     },
     {
       "label": "WTI crude",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Live quotes conflict across sources"
+      "value": "≈$92.4",
+      "change": "−0.6%",
+      "dir": "down",
+      "note": "Single source"
     },
     {
       "label": "Brent",
       "value": "≈$99.7",
-      "change": "−2.6% d/d",
+      "change": "−2.6%",
       "dir": "down",
       "note": "Below $100"
     },
     {
       "label": "Gold",
-      "value": "≈$4,137",
-      "change": "−$40 (−1.0%)",
-      "dir": "down",
-      "note": "12:13 PM CT; ≈$4,218 at 8 AM CT"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Quotes conflict: $4,137–4,215; 2nd weekly drop"
     },
     {
       "label": "Silver",
-      "value": "≈$60.1",
-      "change": "−0.7%",
-      "dir": "down"
+      "value": "≈$61",
+      "change": "—",
+      "dir": "flat",
+      "note": "Sources conflict on change"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.54/lb",
       "change": "+0.9%",
-      "dir": "up",
-      "note": "Chile supply, softer USD"
+      "dir": "up"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.0",
-      "change": "−0.1%",
+      "value": "—",
+      "change": "−0.2%",
       "dir": "down",
-      "note": "Dipped to ≈101.8 on the print"
+      "note": "≈+1% w/w, near 17-mo high"
     }
   ],
   "calendar": [
@@ -430,6 +430,49 @@
   "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or blocked, so those sections use press digests and Crain's, CNBC, Reuters and other coverage; the outlet actually used is named on each story. Many figures come from search summaries, not full articles. Payroll consensus differs by survey (84K Dow Jones vs 90K Reuters/Bloomberg), October hike odds range from 28% to 36% across sources, and the KBW close and live WTI and DXY levels are approximate. The Tesla delivery consensus is a range.",
   "updates": [
     {
+      "at": "2026-10-02T20:17:50Z",
+      "label": "Close",
+      "headline": "Stocks closed near the highs (S&P +0.73%, Nasdaq record) while Treasuries sold off into the close, with the 10Y ≈5.28% and 2Y ≈4.84%. The market reads the weak payrolls as delaying the Fed's next hike, not cancelling it, and Goolsbee kept a hike 'on the table'.",
+      "points": [
+        "Close: S&P 7,722.72 (+56.27, +0.73%), Dow 51,176.96 (+250.40, +0.49%), Nasdaq 27,190.86 (+319.27, +1.19%, record). Tech led on the softer-Fed read.",
+        "Rates finished weaker than at midday: 10Y ≈5.28% (+≈5 bp, CNBC), 2Y ≈4.84%, 30Y ≈5.62% (Trading Economics). That is a full reversal from the ≈6 bp post-print rally, and a mild bear steepener on the day. 10Y is still under Thursday's 5.344% high.",
+        "Fed: October hike odds ≈14–17% on FedWatch (hold ≈83%), vs 28–36% this morning. Goolsbee (Fox Business) said 'plenty of room for anything to be on the table' and called inflation, not jobs, the problem. Street talk (Reuters via BNN Bloomberg) is shifting to a December hike. Logan said nothing new beyond Thursday's 50 bp-plus call.",
+        "Commodities: Brent ≈$99.68 (−2.6%), WTI ≈$92.4 (−0.6%, Trading Economics; the morning's ≈$89 figure looks wrong). DXY −0.2% but up ≈1% on the week, near a 17-month high. Gold quotes conflict ($4,137 at 1:13 PM ET per Fortune vs ≈$4,190–4,215 elsewhere) and it is heading for a second weekly drop (−2%+). Copper ≈$6.54/lb.",
+        "Next week: 3Y/10Y/30Y auctions Oct 6–8 (≈$58B/$39B/$22B) are the main test. With the 10Y at 5.28% into supply, watch for tails. FOMC Oct 27–28."
+      ],
+      "simple": "Stocks rose because a weak jobs report makes it less likely the Fed (the central bank) raises interest rates this month, and lower rates are good for company profits. Bonds told a different story: by the close investors had sold them, pushing yields (the interest a bond pays) higher, because they still expect a hike by December and the government is selling a lot of new debt next week. For borrowers, mortgage and business-loan rates stay near their highest levels in years.",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+        },
+        {
+          "name": "BNN Bloomberg (Reuters)",
+          "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/02/fed-may-skip-october-but-pull-us-rate-hike-trigger-in-december/"
+        },
+        {
+          "name": "Yahoo Finance (Reuters)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/feds-goolsbee-says-rate-hike-172206037.html"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://in.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-5615995"
+        }
+      ]
+    },
+    {
       "at": "2026-10-02T17:18:02Z",
       "label": "Midday",
       "headline": "The payrolls rally in bonds has fully reversed: the 2Y is now about 3 bp higher at ~4.82% and the 10Y about 2 bp higher at ~5.26%, gold has given back its gains, and stocks are holding most of their advance with the Nasdaq at a record.",
@@ -512,5 +555,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-02T17:18:02Z"
+  "updatedAt": "2026-10-02T20:17:50Z"
 }
