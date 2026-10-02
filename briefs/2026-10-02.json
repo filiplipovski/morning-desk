@@ -11,103 +11,104 @@
   "Banks lag when the long end rises: KBW fell as much as 2.4% Thursday and is more than 13% below its mid-August peak, and financials just had their worst month relative to the S&P since 1990 (Truist). Futures are up: S&P +0.3%, Nasdaq-100 +0.6%. Nike is down about 9% pre-market.",
   "Metals are steady: gold ≈$4,183, silver ≈$61.2, COMEX copper $6.58/lb with China shut for Golden Week. Chile's August copper output was the lowest since 2011, and Escondida supervisors have authorized a strike."
  ],
- "markets_asof": "Pre-market ~6:20 AM CT (indices = Thu Oct 1 close)",
+ "markets_asof": "Post-open ~9:20 AM CT (index levels derived from opening % moves)",
  "markets": [
   {
    "label": "S&P 500",
-   "value": "7,666",
-   "change": "+0.19%",
+   "value": "≈7,735",
+   "change": "+0.9%",
    "dir": "up",
-   "note": "Futures +0.3%"
+   "note": "At open; Thu close 7,666"
   },
   {
    "label": "Dow",
-   "value": "50,927",
-   "change": "+0.04%",
-   "dir": "flat",
-   "note": "Futures +0.3%"
+   "value": "≈51,280",
+   "change": "+0.7%",
+   "dir": "up",
+   "note": "At open"
   },
   {
    "label": "Nasdaq",
-   "value": "26,872",
-   "change": "+0.04%",
-   "dir": "flat",
-   "note": "NDX futures +0.6%"
+   "value": "≈27,220",
+   "change": "+1.3%",
+   "dir": "up",
+   "note": "At open; tech leads"
   },
   {
    "label": "Russell 2000",
    "value": "2,826",
-   "change": "+0.42%",
-   "dir": "up",
-   "note": "−7.5% in Q3"
+   "change": "Thu close",
+   "dir": "flat",
+   "note": "Small caps led futures; live level —"
   },
   {
    "label": "UST 2Y",
-   "value": "≈4.79%",
-   "change": "~flat",
-   "dir": "flat"
+   "value": "≈4.73%",
+   "change": "−6 bp",
+   "dir": "down"
   },
   {
    "label": "UST 10Y",
-   "value": "≈5.24%",
-   "change": "<+1 bp",
-   "dir": "flat",
-   "note": "Thu high 5.344%, highest since 2002"
+   "value": "≈5.18%",
+   "change": "−6 bp",
+   "dir": "down",
+   "note": "Thu high 5.344%"
   },
   {
    "label": "UST 30Y",
-   "value": "≈5.62%",
-   "change": "+1 bp",
-   "dir": "up",
-   "note": "24-year high Thu"
+   "value": "≈5.57%",
+   "change": "−3 bp",
+   "dir": "down",
+   "note": "Bull steepener"
   },
   {
    "label": "Fed funds",
    "value": "3.75–4.00%",
-   "change": "Oct hike ~28–36%",
-   "dir": "flat",
-   "note": "FOMC Oct 27–28"
+   "change": "Oct hike ~17%",
+   "dir": "down",
+   "note": "Was 28–36% this AM; FOMC Oct 27–28"
   },
   {
    "label": "WTI crude",
-   "value": "≈$89.34",
-   "change": "−3.8%",
-   "dir": "down",
-   "note": "Stock-release talk"
+   "value": "≈$89.0",
+   "change": "≈flat vs AM",
+   "dir": "flat",
+   "note": "Holds Thu's −3.8%"
   },
   {
    "label": "Brent",
-   "value": "≈$99.74",
-   "change": "−2.5%",
-   "dir": "down",
-   "note": "Back below $100"
+   "value": "≈$99.7",
+   "change": "≈flat vs AM",
+   "dir": "flat",
+   "note": "Below $100"
   },
   {
    "label": "Gold",
-   "value": "$4,183",
-   "change": "+0.2%",
+   "value": "≈$4,188",
+   "change": "+$11 (+0.3%)",
    "dir": "up",
-   "note": "−6.4% over a month"
+   "note": "9:03 AM CT"
   },
   {
    "label": "Silver",
-   "value": "$61.24",
-   "change": "+0.4%",
-   "dir": "up"
+   "value": "≈$61.5",
+   "change": "+0.9%",
+   "dir": "up",
+   "note": "vs $60.98 Thu"
   },
   {
    "label": "Copper (COMEX)",
-   "value": "$6.58/lb",
-   "change": "−0.7% Thu",
-   "dir": "down",
-   "note": "SHFE shut until Oct 8"
+   "value": "≈$6.54/lb",
+   "change": "—",
+   "dir": "flat",
+   "note": "China on holiday"
   },
   {
    "label": "Dollar index",
-   "value": "≈101.8",
-   "change": "+0.3% Thu",
-   "dir": "up",
-   "note": "Near 1.5-year high; slightly lower this morning"
+   "value": "≈101.5",
+   "change": "−0.3%",
+   "dir": "down",
+   "note": "Softer on payrolls miss"
   }
  ],
  "calendar": [
@@ -427,5 +428,46 @@
   }
  ],
  "caveats": "WSJ, NYT and the Chicago Tribune are paywalled or blocked, so those sections use press digests and Crain's, CNBC, Reuters and other coverage; the outlet actually used is named on each story. Many figures come from search summaries, not full articles. Payroll consensus differs by survey (84K Dow Jones vs 90K Reuters/Bloomberg), October hike odds range from 28% to 36% across sources, and the KBW close and live WTI and DXY levels are approximate. The Tesla delivery consensus is a range.",
- "updates": []
+ "updates": [
+  {
+   "at": "2026-10-02T14:18:07Z",
+   "label": "Post-open",
+   "headline": "Payrolls missed badly (+29K vs +84–90K, unemployment 4.2%, wages +0.1%), knocking October hike odds to ~17% and pulling the 2Y and 10Y down about 6 bp as stocks open higher.",
+   "points": [
+    "September payrolls +29K vs +84K (Dow Jones) / +90K (Reuters) consensus. Unemployment 4.2% vs 4.1%, partly from a larger labor force. AHE +0.1% m/m vs +0.3% est.; +3.0% y/y, slowest since 2021.",
+    "Revisions −60K in total: July now −10K (was +21K), August +133K (was +162K). The morning's '+162K prior' is now stale.",
+    "Rates bull-steepen: 2Y −6 bp to ~4.73%, 10Y −6 bp to ~5.18%, 30Y −3 bp to ~5.57% (CNBC). October hike odds fall to ~17% on FedWatch (hold 82.8%), down from the 28–36% in this morning's brief; Kalshi 18%.",
+    "Stocks open higher: S&P +0.9%, Dow +0.7%, Nasdaq +1.3%; small caps and tech led futures. Gold ≈$4,188 (+$11), silver ≈$61.5, DXY ≈101.5 (from ≈101.8). Oil holds Thursday's drop: WTI ≈$89, Brent ≈$99.7.",
+    "Tesla Q3 deliveries reportedly beat the ~462K consensus, shares +1.9% (exact figure —). Next: Goolsbee and Logan reactions this afternoon, then the 3Y/10Y/30Y auctions Oct 6–8."
+   ],
+   "simple": "Payrolls count how many jobs employers added last month. Far fewer jobs than expected, plus slower pay growth, means the economy is cooling, so the Fed (the central bank that sets short-term rates) is less likely to raise rates this month. Traders bought Treasury bonds, pushing their yields (the interest a bond pays) down, which helps stocks and lowers borrowing costs for mortgages and business loans.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/article/current-price-of-gold-10-02-2026"
+    },
+    {
+     "name": "Trading Economics",
+     "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-10-02T14:18:07Z"
 }
