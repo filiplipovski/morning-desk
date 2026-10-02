@@ -112,6 +112,24 @@ td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:n
 .tp div{background:var(--accent-soft);padding:10px 12px;border-radius:4px}
 .tp b{display:block;font-family:var(--f-display);font-size:16px;letter-spacing:.02em}
 
+/* live updates */
+.live{display:flex;flex-direction:column;border:1px solid var(--rule);background:var(--surface)}
+.live-h{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 10px;padding:10px 14px;border-bottom:1px solid var(--rule)}
+.live-h h3{border:0;margin:0;padding:0}
+.pulse{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--up);margin-right:8px;vertical-align:middle}
+@media (prefers-reduced-motion:no-preference){.pulse{animation:pl 2s ease-in-out infinite}@keyframes pl{50%{opacity:.35}}}
+.upd{display:grid;grid-template-columns:88px minmax(0,1fr);gap:4px 14px;padding:12px 14px;border-bottom:1px dashed var(--rule)}
+.upd:last-of-type{border-bottom:0}
+.upd .when{font-family:var(--f-data);font-size:12px;color:var(--muted);padding-top:3px;font-variant-numeric:tabular-nums}
+.upd .when b{display:block;color:var(--ink);font-size:14px;font-weight:500}
+.upd .uh{font-weight:600;line-height:1.35}
+.upd ul{margin:4px 0 0;padding-left:18px;display:grid;gap:3px;max-width:76ch}
+.upd .s{font-family:var(--f-data);font-size:11px;color:var(--muted);letter-spacing:.03em;margin-top:4px}
+.upd.older{display:none}
+.live.all .upd.older{display:grid}
+.more{background:transparent;border:0;border-top:1px solid var(--rule);color:var(--accent);font-weight:600;padding:8px 14px;text-align:left;cursor:pointer;font-size:13px}
+@media (max-width:520px){.upd{grid-template-columns:minmax(0,1fr)}.upd .when b{display:inline;margin-right:6px}}
+
 .note{font-size:12px;color:var(--muted);border-top:1px solid var(--rule);padding-top:10px}
 .empty{background:var(--surface);border:1px dashed var(--rule);padding:28px;text-align:center;color:var(--muted)}
 @media (prefers-reduced-motion:no-preference){.fade{animation:f .35s ease-out}@keyframes f{from{opacity:.4}to{opacity:1}}}
@@ -162,6 +180,20 @@ td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:n
   function fmtTime(iso){ try { return new Date(iso).toLocaleString("en-US",{timeZone:"America/Chicago",weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) + " CT"; } catch(e){ return ""; } }
   function fmtDate(d){ try { const [y,m,dd]=d.split("-").map(Number); return new Date(Date.UTC(y,m-1,dd,12)).toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric",timeZone:"UTC"}); } catch(e){ return d; } }
 
+
+  let liveAll = false;
+  function liveHtml(b){
+    const ups = (b.updates||[]).slice().sort((x,y)=>String(y.at||"").localeCompare(String(x.at||"")));
+    if(!ups.length) return "";
+    const tm = iso => { try { return new Date(iso).toLocaleTimeString("en-US",{timeZone:"America/Chicago",hour:"numeric",minute:"2-digit"}); } catch(e){ return ""; } };
+    const rows = ups.map((u,i)=>{
+      const srcs = (u.sources||[]).map(s=>{ const h=safeUrl(s.url); return h?`<a href="${esc(h)}" target="_blank" rel="noopener">${esc(s.name||"source")}</a>`:esc(s.name||""); }).filter(Boolean).join(" · ");
+      const simple = u.simple ? `<details class="eli"${eliOpen?" open":""}><summary>In plain English</summary><p>${esc(u.simple)}</p></details>` : "";
+      return `<div class="upd${i>=3?" older":""}"><div class="when"><b>${esc(tm(u.at))}</b>${esc(u.label||"")}</div><div style="min-width:0"><div class="uh">${esc(u.headline)}</div>${(u.points&&u.points.length)?`<ul>${u.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`:""}${simple}${srcs?`<div class="s">${srcs}</div>`:""}</div></div>`;
+    }).join("");
+    return `<section class="live${liveAll?" all":""}" aria-label="Live updates"><div class="live-h"><h3><span class="pulse" aria-hidden="true"></span>Live updates</h3><span class="meta">${ups.length} today · newest first</span></div>${rows}${ups.length>3?`<button class="more" id="live-more">${liveAll?"Show fewer":"Show all "+ups.length+" updates"}</button>`:""}</section>`;
+  }
+  function wireLive(){ const m=document.getElementById("live-more"); if(m) m.addEventListener("click",()=>{ liveAll=!liveAll; render(); }); }
   function render(){
     const b = current; if(!b) return;
     document.title = "Morning Desk · " + fmtDate(b.date);
@@ -172,8 +204,9 @@ td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:n
     const tps = (b.talking_points||[]).map(t=>`<div><b>${esc(t.topic)}</b>${esc(t.point)}</div>`).join("");
     $("#main").innerHTML = `
     <div class="fade" style="display:flex;flex-direction:column;gap:22px">
+      ${liveHtml(b)}
       <section class="thesis">
-        <div class="meta">${esc(fmtDate(b.date))}${b.edition?" · "+esc(b.edition):""} · written ${esc(fmtTime(b.generatedAt))}</div>
+        <div class="meta">${esc(fmtDate(b.date))}${b.edition?" · "+esc(b.edition):""} · written ${esc(fmtTime(b.generatedAt))}${b.updatedAt?" · last update "+esc(fmtTime(b.updatedAt)):""}</div>
         <h2>${esc(b.headline)}</h2>
         <ul>${(b.summary||[]).map(s=>`<li>${esc(s)}</li>`).join("")}</ul>
       </section>
@@ -200,6 +233,7 @@ td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:n
       document.querySelectorAll(".tab").forEach(x=>x.setAttribute("aria-selected",x===t));
       $("#srclist").innerHTML=list((current.sources||{})[srcTab]);
     }));
+    wireLive();
   }
   function setStatus(msg, err){ const s=$("#status"); s.textContent=msg; s.classList.toggle("err",!!err); }
   async function load(date){
@@ -211,16 +245,44 @@ td.num{font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:n
     }catch(e){ setStatus("Couldn’t load the "+date+" brief. Refresh the page to try again.", true); }
   }
   $("#pick").addEventListener("change", e=>load(e.target.value));
-  (async()=>{
-    try{
-      const r = await fetch("briefs/index.json",{cache:"no-cache"}); index = (await r.json()).briefs || [];
-    }catch(e){ setStatus("Couldn’t load the list of briefs. Refresh the page to try again.", true); return; }
-    index.sort((a,b)=>a.date<b.date?1:-1);
-    if(!index.length){ $("#pick").innerHTML="<option>No briefs yet</option>"; return; }
+  function fillPick(){
     $("#pick").innerHTML = index.map(b=>`<option value="${esc(b.date)}">${esc(fmtDate(b.date))}${b.edition?" · "+esc(b.edition):""}</option>`).join("");
+  }
+  async function fetchIndex(){
+    const r = await fetch("briefs/index.json",{cache:"no-cache"});
+    if(!r.ok) throw new Error(r.status);
+    const list = (await r.json()).briefs || [];
+    list.sort((a,b)=>a.date<b.date?1:-1);
+    return list;
+  }
+  (async()=>{
+    try{ index = await fetchIndex(); }
+    catch(e){ setStatus("Couldn’t load the list of briefs. Refresh the page to try again.", true); return; }
+    if(!index.length){ $("#pick").innerHTML="<option>No briefs yet</option>"; return; }
+    fillPick();
     const want = location.hash.slice(1); const pick = index.find(b=>b.date===want) ? want : index[0].date;
     $("#pick").value = pick; load(pick);
   })();
+  // Check for new briefs and live updates every 5 minutes while the page is open.
+  async function poll(){
+    if(document.hidden || !current) return;
+    let list; try{ list = await fetchIndex(); }catch(e){ return; }
+    if(!list.length) return;
+    const wasLatest = index.length && current.date === index[0].date;
+    const sig = l => l.map(b=>b.date+(b.updatedAt||b.generatedAt||"")).join("|");
+    const changed = sig(list) !== sig(index);
+    index = list;
+    if(!changed) return;
+    fillPick();
+    if(wasLatest && list[0].date !== current.date){ $("#pick").value = list[0].date; load(list[0].date); return; }
+    $("#pick").value = current.date;
+    const entry = list.find(b=>b.date===current.date);
+    if(entry && (entry.updatedAt||entry.generatedAt) !== (current.updatedAt||current.generatedAt)){
+      try{ const r = await fetch("briefs/"+encodeURIComponent(current.date)+".json",{cache:"no-cache"}); if(r.ok){ current = await r.json(); render(); } }catch(e){}
+    }
+  }
+  setInterval(poll, 5*60*1000);
+  document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) poll(); });
 })();
 </script>
 </body>
