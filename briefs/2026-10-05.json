@@ -11,104 +11,104 @@
     "Metals are mixed. Gold is ≈$4,138 and flat, two straight weekly losses in, with specs still ≈219K contracts net long (91st percentile, FXStreet) and $4,000 as support. Silver is ≈$61–61.7 (+1–2%) and platinum $1,726 (+1.6%). COMEX copper is ≈$6.51/lb, with Escondida and Centinela strike votes in Chile against thin trade while China is out until ≈Oct 8. The PBOC's September gold-reserve print (August: +650K oz, 22nd straight month) is due ≈Oct 7.",
     "Deals Monday: Schneider is buying PTC for $205/sh cash (≈$23.7B EV, 42% premium), C.H. Robinson–RXO is $5.8B and Cenovus–Athabasca is C$5.8B. Paramount–WBD (≈$110B, renamed Skydance) closes Tuesday. CME launches H100/B200 GPU-rental futures today after shelving its 24/7 crude contract Friday. Big-bank Q3 begins Tue Oct 13."
   ],
-  "markets_asof": "≈12:15 PM CT Mon; Russell 2000 is Fri close",
+  "markets_asof": "Mon close (≈3:15 PM CT); Russell 2000 is Fri close",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,770",
-      "change": "+0.6%",
+      "value": "7,773.99",
+      "change": "+0.66%",
       "dir": "up",
-      "note": "Level derived from Fri 7,722.72"
+      "note": "+51.27; ≈0.1% off record"
     },
     {
       "label": "Dow",
-      "value": "51,250.73",
-      "change": "+0.1%",
+      "value": "51,267.90",
+      "change": "+0.18%",
       "dir": "up",
-      "note": "1:12 PM ET; was −184 early"
+      "note": "+90.94; was −184 early"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈27,430",
-      "change": "+0.9%",
+      "value": "27,477.31",
+      "change": "+1.05%",
       "dir": "up",
-      "note": "Derived from Fri 27,190.86; NDX record"
+      "note": "Record close; +286.45"
     },
     {
       "label": "Russell 2000",
       "value": "2,832.89",
       "change": "+0.94%",
       "dir": "up",
-      "note": "Fri close; live not found"
+      "note": "Fri close; Mon close not found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.818%",
-      "change": "−1 bp",
+      "value": "4.823%",
+      "change": "−0.2 bp",
       "dir": "down",
-      "note": "CNBC"
+      "note": "Late NY, CNBC"
     },
     {
       "label": "UST 10Y",
-      "value": "5.298%",
-      "change": "+2 bp",
+      "value": "5.315%",
+      "change": "+3.8 bp",
       "dir": "up",
-      "note": "2s10s ≈+48 bp"
+      "note": "Highest since 2002; 2s10s ≈+49 bp"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Live quote not found; pre-market ≈5.61%"
+      "value": "5.670%",
+      "change": "+4.0 bp",
+      "dir": "up",
+      "note": "52-week high"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈23% pre-ISM",
+      "change": "Oct hike ≈19% (was 22% Fri)",
       "dir": "flat",
-      "note": "FOMC Oct 27–28; fresh odds not found"
+      "note": "FedWatch 9:01 AM CT; FOMC Oct 27–28"
     },
     {
       "label": "WTI crude",
-      "value": "≈$90.12",
-      "change": "−1.0%",
+      "value": "≈$90.62",
+      "change": "−0.5%",
       "dir": "down",
-      "note": "G7 release, OPEC+ hold"
+      "note": "Trading Economics, late"
     },
     {
       "label": "Brent",
-      "value": "≈$101.59",
-      "change": "−0.65%",
+      "value": "≈$101.31",
+      "change": "−0.9%",
       "dir": "down"
     },
     {
       "label": "Gold",
-      "value": "$4,128",
-      "change": "−0.3%",
+      "value": "≈$4,139",
+      "change": "≈flat",
       "dir": "down",
-      "note": "Kitco 12:18 ET (−$11.80)"
+      "note": "Spot, Trading Economics; Kitco had $4,128 at midday"
     },
     {
       "label": "Silver",
       "value": "≈$61.72",
       "change": "+2.2%",
       "dir": "up",
-      "note": "Not refreshed since post-open"
+      "note": "Spot"
     },
     {
       "label": "Copper",
-      "value": "COMEX ≈$6.51/lb",
+      "value": "≈$6.51/lb",
       "change": "+0.3%",
       "dir": "up",
       "note": "China shut to ≈Oct 8"
     },
     {
       "label": "Dollar index / EUR",
-      "value": "— / ≈1.118–1.120",
-      "change": "EUR ≈−0.5%",
+      "value": "102.37 / ≈1.117",
+      "change": "+0.47%",
       "dir": "up",
-      "note": "Fresh DXY not found; 102.33 post-open"
+      "note": "EUR low $1.1160, weakest since May 2025"
     }
   ],
   "calendar": [
@@ -458,6 +458,45 @@
   "caveats": "WebFetch was blocked, so every figure comes from search-result summaries, not full articles. WSJ and NYT items are via CNBC, ThePrint, Yahoo, Moscow Times, Mediaite and a Substack, and the Chicago items are via CME, Bloomberg and StockTitan; no Oct 4–5 press digests or Tribune stories were found. The WSJ items are from Oct 1–3, older than the 24-hour window. Conflicts: futures (Newsquawk briefly showed ES +0.1%), Brent ($100.95–102.3), gold ($4,138 vs ≈$4,162), silver ($61.0–61.7), the OAT–Bund spread (130–146 bp) and October hike odds (17–23%). The 2Y and 30Y Monday levels are unverified. Fed speaker days conflict across calendars, and data release times are assumed from the usual schedule. Not found: Monday LME copper, VIX, MOVE and KBW bank index levels, and the ISM prices-paid consensus.",
   "updates": [
     {
+      "at": "2026-10-05T20:18:16Z",
+      "label": "Close",
+      "headline": "Stocks closed higher with the Nasdaq at a record, but the long end kept selling: the 10Y finished ≈5.32% (+4 bp), its highest since 2002, and the 30Y hit 5.67% while the 2Y was flat. That's a clean bear steepener into $119B of 3Y/10Y/30Y supply.",
+      "points": [
+        "Closes: S&P 7,773.99 (+0.66%), Dow 51,267.90 (+0.18%, after −184 early), Nasdaq 27,477.31 (+1.05%, record). Mega-cap tech carried it; the bond selloff didn't stop equities.",
+        "Rates: 2Y 4.823% (−0.2 bp), 10Y 5.315% (+3.8 bp), 30Y 5.670% (+4.0 bp). 10Y, 20Y and 30Y all hit 52-week highs. 2s10s ≈+49 bp. The morning headline's ≈5.25% 10Y is now ≈7 bp stale: ISM prices (74.0) and term premium beat the OPEC+/G7 oil relief.",
+        "Fed: FedWatch had October hike odds at 19.4% one minute after ISM (22.1% Fri settle, 70.9% on Sep 28). December is still ≈1 hike priced, and no cuts are priced through Oct 2027. So the curve is selling inflation/term premium, not a near-term hike.",
+        "Bills: the $82B 26-week cleared at 4.165% high rate, 2.79 bid-to-cover, 63.2% indirects (per Helious auction summary); 13-week result not found. Oil settled lower (WTI ≈$90.6, Brent ≈$101.3). DXY 102.37 (+0.47%), EUR low $1.1160. Gold ≈$4,139 spot, silver ≈$61.7, copper ≈$6.51/lb.",
+        "Tomorrow (CT): trade balance (Aug) 7:30 AM, consensus ≈−$90–95B; $58B 3Y auction at noon; Williams and Bowman per Newsquawk. Wednesday's $39B 10Y reopening is the first 10Y sale above 5.3%. No new bank deals today beyond Peoples–Capital ($728M)."
+      ],
+      "simple": "Stocks rose, led by big tech companies, but long-term government borrowing costs climbed to their highest in more than 20 years. Investors want more yield (interest) to hold 10- and 30-year bonds because inflation still looks sticky and the government is borrowing a lot. Short-term rates barely moved, so the gap between long and short rates widened. That gap is called a 'steeper curve'. It helps banks, which borrow short and lend long, but it keeps mortgages and business loans expensive.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (Zacks recap)",
+          "url": "https://sg.finance.yahoo.com/news/stock-market-news-oct-5-055600486.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html"
+        },
+        {
+          "name": "MacroOdds (CME FedWatch)",
+          "url": "https://macroodds.com/blog/fed-rate-hike-odds-october-2026"
+        },
+        {
+          "name": "Helious (Treasury auction)",
+          "url": "https://helious.io/news/auc-912797WU7-2026-10-05/26-week-6-month-bill-auction-in-line"
+        },
+        {
+          "name": "Trading Economics (commodities)",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        },
+        {
+          "name": "Quartz (euro/dollar)",
+          "url": "https://qz.com/euro-17-month-low-france-debt-fears-100526"
+        }
+      ]
+    },
+    {
       "at": "2026-10-05T17:18:39Z",
       "label": "Midday",
       "headline": "Stocks broadened out as oil slipped: the Dow flipped green and the S&P is up ≈0.6%, while the long end held the post-ISM selloff (10Y ≈5.30%) and the front end edged lower, a mild bear steepener.",
@@ -536,5 +575,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-05T17:18:39Z"
+  "updatedAt": "2026-10-05T20:18:16Z"
 }
