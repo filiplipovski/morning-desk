@@ -11,28 +11,28 @@
     "Metals are mixed. Gold is ≈$4,138 and flat, two straight weekly losses in, with specs still ≈219K contracts net long (91st percentile, FXStreet) and $4,000 as support. Silver is ≈$61–61.7 (+1–2%) and platinum $1,726 (+1.6%). COMEX copper is ≈$6.51/lb, with Escondida and Centinela strike votes in Chile against thin trade while China is out until ≈Oct 8. The PBOC's September gold-reserve print (August: +650K oz, 22nd straight month) is due ≈Oct 7.",
     "Deals Monday: Schneider is buying PTC for $205/sh cash (≈$23.7B EV, 42% premium), C.H. Robinson–RXO is $5.8B and Cenovus–Athabasca is C$5.8B. Paramount–WBD (≈$110B, renamed Skydance) closes Tuesday. CME launches H100/B200 GPU-rental futures today after shelving its 24/7 crude contract Friday. Big-bank Q3 begins Tue Oct 13."
   ],
-  "markets_asof": "Post-open ≈9:35–10:20 AM CT Mon; Russell 2000 is Fri close",
+  "markets_asof": "≈12:15 PM CT Mon; Russell 2000 is Fri close",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,738",
-      "change": "+0.2%",
+      "value": "≈7,770",
+      "change": "+0.6%",
       "dir": "up",
-      "note": "≈0.8% below record; level derived from Fri 7,722.72"
+      "note": "Level derived from Fri 7,722.72"
     },
     {
       "label": "Dow",
-      "value": "−184 pts",
-      "change": "−0.4%",
-      "dir": "down",
-      "note": "−103 at 9:35 ET"
+      "value": "51,250.73",
+      "change": "+0.1%",
+      "dir": "up",
+      "note": "1:12 PM ET; was −184 early"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "27,384.64",
-      "change": "+0.6%",
+      "value": "≈27,430",
+      "change": "+0.9%",
       "dir": "up",
-      "note": "Intraday record; Fri 27,190.86"
+      "note": "Derived from Fri 27,190.86; NDX record"
     },
     {
       "label": "Russell 2000",
@@ -43,17 +43,17 @@
     },
     {
       "label": "UST 2Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Live quote not found; pre-market ≈4.82%"
+      "value": "4.818%",
+      "change": "−1 bp",
+      "dir": "down",
+      "note": "CNBC"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.30%",
-      "change": "≈+2 bp",
+      "value": "5.298%",
+      "change": "+2 bp",
       "dir": "up",
-      "note": "Fri 5.28%; Thu high 5.342%"
+      "note": "2s10s ≈+48 bp"
     },
     {
       "label": "UST 30Y",
@@ -67,35 +67,34 @@
       "value": "3.75–4.00%",
       "change": "Oct hike ≈23% pre-ISM",
       "dir": "flat",
-      "note": "FOMC Oct 27–28; ISM prices 74.0"
+      "note": "FOMC Oct 27–28; fresh odds not found"
     },
     {
       "label": "WTI crude",
-      "value": "≈$90.68",
-      "change": "−0.5%",
+      "value": "≈$90.12",
+      "change": "−1.0%",
       "dir": "down",
-      "note": "Above the $89.6 pre-market low"
+      "note": "G7 release, OPEC+ hold"
     },
     {
       "label": "Brent",
-      "value": "≈$101.8–102.9",
-      "change": "≈−0.4% to +0.6%",
-      "dir": "flat",
-      "note": "$100–103 range this morning"
+      "value": "≈$101.59",
+      "change": "−0.65%",
+      "dir": "down"
     },
     {
       "label": "Gold",
-      "value": "≈$4,153",
-      "change": "≈+0.3%",
-      "dir": "up",
-      "note": "9:10 ET (Fortune)"
+      "value": "$4,128",
+      "change": "−0.3%",
+      "dir": "down",
+      "note": "Kitco 12:18 ET (−$11.80)"
     },
     {
       "label": "Silver",
       "value": "≈$61.72",
       "change": "+2.2%",
       "dir": "up",
-      "note": "TradingEconomics"
+      "note": "Not refreshed since post-open"
     },
     {
       "label": "Copper",
@@ -106,17 +105,10 @@
     },
     {
       "label": "Dollar index / EUR",
-      "value": "102.33 / 1.1176",
-      "change": "+0.39% / −0.68%",
+      "value": "— / ≈1.118–1.120",
+      "change": "EUR ≈−0.5%",
       "dir": "up",
-      "note": "EUR low 1.1160, lowest since May 2025"
-    },
-    {
-      "label": "OAT–Bund 10Y",
-      "value": "≈145.5 bp",
-      "change": "≈+5 bp",
-      "dir": "up",
-      "note": "Widest since 2012"
+      "note": "Fresh DXY not found; 102.33 post-open"
     }
   ],
   "calendar": [
@@ -466,6 +458,45 @@
   "caveats": "WebFetch was blocked, so every figure comes from search-result summaries, not full articles. WSJ and NYT items are via CNBC, ThePrint, Yahoo, Moscow Times, Mediaite and a Substack, and the Chicago items are via CME, Bloomberg and StockTitan; no Oct 4–5 press digests or Tribune stories were found. The WSJ items are from Oct 1–3, older than the 24-hour window. Conflicts: futures (Newsquawk briefly showed ES +0.1%), Brent ($100.95–102.3), gold ($4,138 vs ≈$4,162), silver ($61.0–61.7), the OAT–Bund spread (130–146 bp) and October hike odds (17–23%). The 2Y and 30Y Monday levels are unverified. Fed speaker days conflict across calendars, and data release times are assumed from the usual schedule. Not found: Monday LME copper, VIX, MOVE and KBW bank index levels, and the ISM prices-paid consensus.",
   "updates": [
     {
+      "at": "2026-10-05T17:18:39Z",
+      "label": "Midday",
+      "headline": "Stocks broadened out as oil slipped: the Dow flipped green and the S&P is up ≈0.6%, while the long end held the post-ISM selloff (10Y ≈5.30%) and the front end edged lower, a mild bear steepener.",
+      "points": [
+        "Stocks ≈1:12 PM ET: Dow 51,250.73 (+74, +0.1%) after trading −184 early; S&P +0.6% (≈7,770, ≈0.2% off its record); Nasdaq +0.9% (≈27,430) with the Nasdaq 100 at a record. Materials, communication services and energy led.",
+        "Rates: 10Y ≈5.298% (+2 bp), 2Y ≈4.818% (−1 bp), so 2s10s ≈+48 bp, ≈3 bp steeper on the day. The 74.0 ISM prices index is pressuring the long end, not the front: the market is pricing sticky inflation and term premium more than an October hike. No fresh FedWatch reading found; ≈23% hike odds was the pre-ISM figure. 30Y live quote not found.",
+        "Oil reversed the morning bounce: WTI ≈$90.12 (−1.0%), Brent ≈$101.59 (−0.65%) on the G7's 100M-barrel stock release, OPEC+ holding November steady, and Gulf exports running above pre-war levels on 4 of 7 days last week. That's what turned the Dow positive.",
+        "Metals: gold faded to $4,128 (−$11.80) at 12:18 ET per Kitco, down from ≈$4,153 at the open, as real yields and the dollar stayed firm. Silver ≈$61.7 (+2.2%) and copper ≈$6.51/lb (+0.3%) are unchanged from the post-open read; China remains on holiday to ≈Oct 8.",
+        "Still pending/unconfirmed: results of the 10:30 AM CT $95B 13-week and $82B 26-week bill auctions weren't published in sources found (the Sep 28 auction cleared at 4.110% and 4.441% investment rate on the 26-week). No new bank deals beyond Peoples–Capital ($728M, already in the brief). Tomorrow: trade balance 7:30 AM CT, then the $58B 3Y auction at noon CT."
+      ],
+      "simple": "Oil prices fell because more supply is coming from government stockpiles and Middle East producers, which eases worries about inflation and helped stocks, especially big industrial companies in the Dow. Long-term bond yields (the interest rate the government pays to borrow for 10+ years) stayed high because this morning's survey showed businesses paying sharply higher prices. When long-term rates rise more than short-term ones, the curve 'steepens': lenders earn more on long loans, but mortgages and corporate borrowing stay expensive.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (live blog)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-treasury-bond-081220790.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/05/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks.html"
+        },
+        {
+          "name": "Business Recorder (Reuters)",
+          "url": "https://www.brecorder.com/news/40442678/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks"
+        },
+        {
+          "name": "CNBC Select (Kitco gold)",
+          "url": "https://www.cnbc.com/select/the-price-of-gold-today-oct-5-2026/"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026"
+        }
+      ]
+    },
+    {
       "at": "2026-10-05T14:19:11Z",
       "label": "Post-open",
       "headline": "ISM services cooled to 54.9 but its prices index hit 74.0, the highest since July 2022. That plus a Brent bounce undid the overnight bond rally: the 10Y is back at ≈5.30% (+2 bp on Friday), not the ≈5.25% the morning brief led with.",
@@ -505,5 +536,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-05T14:19:11Z"
+  "updatedAt": "2026-10-05T17:18:39Z"
 }
