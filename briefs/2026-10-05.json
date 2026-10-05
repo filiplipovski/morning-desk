@@ -11,119 +11,112 @@
     "Metals are mixed. Gold is ≈$4,138 and flat, two straight weekly losses in, with specs still ≈219K contracts net long (91st percentile, FXStreet) and $4,000 as support. Silver is ≈$61–61.7 (+1–2%) and platinum $1,726 (+1.6%). COMEX copper is ≈$6.51/lb, with Escondida and Centinela strike votes in Chile against thin trade while China is out until ≈Oct 8. The PBOC's September gold-reserve print (August: +650K oz, 22nd straight month) is due ≈Oct 7.",
     "Deals Monday: Schneider is buying PTC for $205/sh cash (≈$23.7B EV, 42% premium), C.H. Robinson–RXO is $5.8B and Cenovus–Athabasca is C$5.8B. Paramount–WBD (≈$110B, renamed Skydance) closes Tuesday. CME launches H100/B200 GPU-rental futures today after shelving its 24/7 crude contract Friday. Big-bank Q3 begins Tue Oct 13."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT Mon (futures/overseas); Russell 2000 and MOVE/VIX are Fri close",
+  "markets_asof": "Post-open ≈9:35–10:20 AM CT Mon; Russell 2000 is Fri close",
   "markets": [
     {
-      "label": "S&P 500 futures",
-      "value": "≈7,762",
-      "change": "−0.2%",
-      "dir": "down",
-      "note": "Cash closed Fri 7,722.72"
+      "label": "S&P 500",
+      "value": "≈7,738",
+      "change": "+0.2%",
+      "dir": "up",
+      "note": "≈0.8% below record; level derived from Fri 7,722.72"
     },
     {
-      "label": "Dow futures",
-      "value": "≈51,373",
-      "change": "−0.2%",
+      "label": "Dow",
+      "value": "−184 pts",
+      "change": "−0.4%",
       "dir": "down",
-      "note": "≈−104 to −108 pts"
+      "note": "−103 at 9:35 ET"
     },
     {
-      "label": "Nasdaq-100 futures",
-      "value": "≈30,968",
-      "change": "−0.3%",
-      "dir": "down",
-      "note": "Composite closed Fri at record 27,190.86"
+      "label": "Nasdaq Composite",
+      "value": "27,384.64",
+      "change": "+0.6%",
+      "dir": "up",
+      "note": "Intraday record; Fri 27,190.86"
     },
     {
       "label": "Russell 2000",
       "value": "2,832.89",
       "change": "+0.94%",
       "dir": "up",
-      "note": "Fri close"
+      "note": "Fri close; live not found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.82%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "Fri 4.84%; $58B 3Y Tue"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Live quote not found; pre-market ≈4.82%"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.25–5.26%",
-      "change": "≈−3 bp",
-      "dir": "down",
-      "note": "Thu high 5.342% (2002 high)"
+      "value": "≈5.30%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "Fri 5.28%; Thu high 5.342%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.61%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "$22B reopening Thu"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Live quote not found; pre-market ≈5.61%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈17–23%",
+      "change": "Oct hike ≈23% pre-ISM",
       "dir": "flat",
-      "note": "Dec >75%; FOMC Oct 27–28"
+      "note": "FOMC Oct 27–28; ISM prices 74.0"
     },
     {
       "label": "WTI crude",
-      "value": "$89.57",
-      "change": "−1.7%",
+      "value": "≈$90.68",
+      "change": "−0.5%",
       "dir": "down",
-      "note": "OPEC+ holds Nov; G7 100M bbl release"
+      "note": "Above the $89.6 pre-market low"
     },
     {
       "label": "Brent",
-      "value": "$100.95",
-      "change": "−1.3%",
-      "dir": "down",
-      "note": "Earlier quotes $101.6–102.3"
+      "value": "≈$101.8–102.9",
+      "change": "≈−0.4% to +0.6%",
+      "dir": "flat",
+      "note": "$100–103 range this morning"
     },
     {
       "label": "Gold",
-      "value": "≈$4,138",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Some quotes ≈$4,162; $4,000 support"
+      "value": "≈$4,153",
+      "change": "≈+0.3%",
+      "dir": "up",
+      "note": "9:10 ET (Fortune)"
     },
     {
       "label": "Silver",
-      "value": "≈$61.0–61.7",
-      "change": "≈+1–2%",
+      "value": "≈$61.72",
+      "change": "+2.2%",
       "dir": "up",
-      "note": "Fri ≈$60.3–60.4"
-    },
-    {
-      "label": "Platinum / Palladium",
-      "value": "$1,726 / $1,157",
-      "change": "+1.6% / +0.4%",
-      "dir": "up",
-      "note": "TradingEconomics / Kitco"
+      "note": "TradingEconomics"
     },
     {
       "label": "Copper",
       "value": "COMEX ≈$6.51/lb",
       "change": "+0.3%",
       "dir": "up",
-      "note": "LME Fri ≈$14,289/t; China shut to ≈Oct 8"
+      "note": "China shut to ≈Oct 8"
     },
     {
       "label": "Dollar index / EUR",
-      "value": "102.20 / ≈1.12",
-      "change": "+0.27% / −0.4–0.7%",
+      "value": "102.33 / 1.1176",
+      "change": "+0.39% / −0.68%",
       "dir": "up",
-      "note": "Euro at 17-month low"
+      "note": "EUR low 1.1160, lowest since May 2025"
     },
     {
-      "label": "MOVE / VIX",
-      "value": "107.3 / 15.3",
-      "change": "—",
-      "dir": "flat",
-      "note": "Fri close; Mon not found"
+      "label": "OAT–Bund 10Y",
+      "value": "≈145.5 bp",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "Widest since 2012"
     }
   ],
   "calendar": [
@@ -471,5 +464,46 @@
     }
   ],
   "caveats": "WebFetch was blocked, so every figure comes from search-result summaries, not full articles. WSJ and NYT items are via CNBC, ThePrint, Yahoo, Moscow Times, Mediaite and a Substack, and the Chicago items are via CME, Bloomberg and StockTitan; no Oct 4–5 press digests or Tribune stories were found. The WSJ items are from Oct 1–3, older than the 24-hour window. Conflicts: futures (Newsquawk briefly showed ES +0.1%), Brent ($100.95–102.3), gold ($4,138 vs ≈$4,162), silver ($61.0–61.7), the OAT–Bund spread (130–146 bp) and October hike odds (17–23%). The 2Y and 30Y Monday levels are unverified. Fed speaker days conflict across calendars, and data release times are assumed from the usual schedule. Not found: Monday LME copper, VIX, MOVE and KBW bank index levels, and the ISM prices-paid consensus.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-05T14:19:11Z",
+      "label": "Post-open",
+      "headline": "ISM services cooled to 54.9 but its prices index hit 74.0, the highest since July 2022. That plus a Brent bounce undid the overnight bond rally: the 10Y is back at ≈5.30% (+2 bp on Friday), not the ≈5.25% the morning brief led with.",
+      "points": [
+        "ISM services (Sep): 54.9 vs ≈55.0–55.1 consensus and 55.4 prior. Prices 74.0 (Aug 72.6), the highest since Jul 2022; employment 50.1 (Aug 47.8), first expansion in 3 months; new orders 59.8; business activity 56.5.",
+        "Rates: the 10Y is ≈5.30% vs 5.28% Fri, reversing the ≈−3 bp overnight move cited in the headline. October hike odds were ≈23% (CME FedWatch) going in. A 74 prices print and a positive jobs index both cut against the 'pause' read of Friday's +29K payrolls. Live 2Y/30Y quotes not found.",
+        "Goolsbee (Chicago Fed): the labor market is 'steady' and inflation is the more important side of the mandate. A hike or a pause are both on the table, and 5½ years above target is 'playing with fire.'",
+        "Stocks at 9:35 ET: S&P +0.2% (≈0.8% off its record), Nasdaq +0.5% and later a record 27,384.64 intraday, Dow −103 then −184 (−0.4%). Oil swung: Brent traded $100–103 (≈$101.8–102.9); WTI ≈$90.7 (−0.5%), back above the $89.6 in the morning tiles.",
+        "FX/Europe: DXY 102.33 (+0.4%), EUR $1.1176 (−0.7%, low $1.1160). OAT–Bund ≈145.5 bp after Friday's 140. Gold ≈$4,153 at 9:10 ET; silver ≈$61.7 (+2.2%); copper $6.51/lb (+0.3%)."
+      ],
+      "simple": "ISM services is a monthly survey of service businesses such as restaurants, banks and hospitals; a reading above 50 means they are growing. Overall growth was about as expected, but the prices part, which measures how much more these firms are paying for inputs, jumped to its highest in four years. That points to inflation that is not cooling, so the Fed is more likely to keep rates high or raise them. Bond yields (the interest the government pays to borrow) rose, which feeds through to mortgage and business-loan rates.",
+      "sources": [
+        {
+          "name": "ISM via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html"
+        },
+        {
+          "name": "BNN Bloomberg (AP)",
+          "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/05/us-futures-edge-lower-under-sustained-pressure-from-bond-markets/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html"
+        },
+        {
+          "name": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/feds-goolsbee---says-labour-market-is-steady-and-inflation-side-of-the-feds-job-is-more-important-plenty-of-room-for-anything-on-the-table-as-far-as-rate-hike-or-pause-open-to-seeing-if-get-evidence-they-are-heading-back-to-2-inflation"
+        },
+        {
+          "name": "Business Recorder (Reuters)",
+          "url": "https://www.brecorder.com/news/40442679/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/article/current-price-of-gold-10-05-2026/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-05T14:19:11Z"
 }
