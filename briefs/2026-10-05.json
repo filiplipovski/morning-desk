@@ -1,0 +1,475 @@
+{
+  "date": "2026-10-05",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-05T11:24:50Z",
+  "headline": "OPEC+ held November output steady and the G7's 100M-barrel stock release has WTI under $90. That takes some pressure off the long end, with the 10Y ≈3 bp lower at ≈5.25%. But France's debt troubles pushed the euro to a 17-month low, and ISM services at 9:00 AM CT is the day's first test before $119B of 3Y/10Y/30Y supply.",
+  "summary": [
+    "Oil is the rates story this morning. On Sunday OPEC+'s seven core members held November required output at ≈31.0M bpd, extending the pause that began in October. Together with the G7's agreed 100M-barrel release of crude and diesel, that has WTI ≈$89.6 (−1.7%) and Brent ≈$101 (−1.3%). Iran still says Hormuz stays shut until the US accepts its 7-day reopening plan, and a third US carrier group is heading to the region, so the supply risk has not gone away.",
+    "Treasuries are firmer overseas: 10Y ≈5.25–5.26% (−3 bp), 2Y ≈4.82%, 30Y ≈5.61%. That is still within ≈9 bp of Thursday's 5.342% high, the highest since 2002. 2s10s is ≈+44–45 bp after a week of bear steepening (long-term yields rising faster than short-term ones). This week's supply is $58B 3Y (Tue), $39B 10Y (Wed) and $22B 30Y (Thu), plus the September FOMC minutes Wed at ≈1 PM CT.",
+    "Fed path: CME FedWatch puts an Oct 28 hike at ≈17–23% (hold ≈77–83%), down from ≈36% a week ago, with December still >75% priced. CNBC says the market prices about three more hikes by July. ISM services (consensus ≈55.0–55.1, prior 55.4) lands with prices paid in the 70s, while ISM manufacturing prices were 77.9. Upside on prices would bring October back into play.",
+    "Europe is now the second source of term-premium pressure. The OAT–Bund spread is ≈130–146 bp after its biggest weekly widening in 17 years, the French 10Y is ≈4.9% and Spain has called a Nov 29 snap election. The euro fell to ≈$1.116–1.12 (lowest since May 2025), DXY is ≈102.2 (+0.3%) and the CAC is −1%. The Nikkei rose 2.4% to 69,947 on AI names.",
+    "Metals are mixed. Gold is ≈$4,138 and flat, two straight weekly losses in, with specs still ≈219K contracts net long (91st percentile, FXStreet) and $4,000 as support. Silver is ≈$61–61.7 (+1–2%) and platinum $1,726 (+1.6%). COMEX copper is ≈$6.51/lb, with Escondida and Centinela strike votes in Chile against thin trade while China is out until ≈Oct 8. The PBOC's September gold-reserve print (August: +650K oz, 22nd straight month) is due ≈Oct 7.",
+    "Deals Monday: Schneider is buying PTC for $205/sh cash (≈$23.7B EV, 42% premium), C.H. Robinson–RXO is $5.8B and Cenovus–Athabasca is C$5.8B. Paramount–WBD (≈$110B, renamed Skydance) closes Tuesday. CME launches H100/B200 GPU-rental futures today after shelving its 24/7 crude contract Friday. Big-bank Q3 begins Tue Oct 13."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT Mon (futures/overseas); Russell 2000 and MOVE/VIX are Fri close",
+  "markets": [
+    {
+      "label": "S&P 500 futures",
+      "value": "≈7,762",
+      "change": "−0.2%",
+      "dir": "down",
+      "note": "Cash closed Fri 7,722.72"
+    },
+    {
+      "label": "Dow futures",
+      "value": "≈51,373",
+      "change": "−0.2%",
+      "dir": "down",
+      "note": "≈−104 to −108 pts"
+    },
+    {
+      "label": "Nasdaq-100 futures",
+      "value": "≈30,968",
+      "change": "−0.3%",
+      "dir": "down",
+      "note": "Composite closed Fri at record 27,190.86"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,832.89",
+      "change": "+0.94%",
+      "dir": "up",
+      "note": "Fri close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.82%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "Fri 4.84%; $58B 3Y Tue"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.25–5.26%",
+      "change": "≈−3 bp",
+      "dir": "down",
+      "note": "Thu high 5.342% (2002 high)"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.61%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "$22B reopening Thu"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hike ≈17–23%",
+      "dir": "flat",
+      "note": "Dec >75%; FOMC Oct 27–28"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$89.57",
+      "change": "−1.7%",
+      "dir": "down",
+      "note": "OPEC+ holds Nov; G7 100M bbl release"
+    },
+    {
+      "label": "Brent",
+      "value": "$100.95",
+      "change": "−1.3%",
+      "dir": "down",
+      "note": "Earlier quotes $101.6–102.3"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$4,138",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Some quotes ≈$4,162; $4,000 support"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$61.0–61.7",
+      "change": "≈+1–2%",
+      "dir": "up",
+      "note": "Fri ≈$60.3–60.4"
+    },
+    {
+      "label": "Platinum / Palladium",
+      "value": "$1,726 / $1,157",
+      "change": "+1.6% / +0.4%",
+      "dir": "up",
+      "note": "TradingEconomics / Kitco"
+    },
+    {
+      "label": "Copper",
+      "value": "COMEX ≈$6.51/lb",
+      "change": "+0.3%",
+      "dir": "up",
+      "note": "LME Fri ≈$14,289/t; China shut to ≈Oct 8"
+    },
+    {
+      "label": "Dollar index / EUR",
+      "value": "102.20 / ≈1.12",
+      "change": "+0.27% / −0.4–0.7%",
+      "dir": "up",
+      "note": "Euro at 17-month low"
+    },
+    {
+      "label": "MOVE / VIX",
+      "value": "107.3 / 15.3",
+      "change": "—",
+      "dir": "flat",
+      "note": "Fri close; Mon not found"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "8:45 AM",
+      "event": "S&P Global US services / composite PMI, final (Sep)",
+      "consensus": "Services 58.7 · composite 58.4",
+      "prior": "56.5 / 56.0 (Aug)",
+      "why": "Confirms whether the flash strength held; secondary to ISM"
+    },
+    {
+      "time": "9:00 AM",
+      "event": "ISM Services PMI (Sep)",
+      "consensus": "55.0–55.1",
+      "prior": "55.4",
+      "why": "Prices paid in the 70s (manufacturing prices were 77.9) is the hawks' best case. A soft employment index would back up the +29K payrolls"
+    },
+    {
+      "time": "10:30 AM",
+      "event": "13-week ($95B) and 26-week ($82B) bill auctions",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Front-end funding demand ahead of $119B of coupons"
+    },
+    {
+      "time": "Mon (time TBC)",
+      "event": "Fed: Goolsbee (Chicago); ECB's Schnabel",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Calendars conflict. Newsquawk has Goolsbee today and Williams/Bowman Tue, Logan Wed; another listing put all three today"
+    },
+    {
+      "time": "Mon",
+      "event": "CME launches Silicon Data H100/B200 GPU-rental futures (NYMEX)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "New compute asset class; subject to regulatory review"
+    },
+    {
+      "time": "Mon after close",
+      "event": "Aehr Test Systems FQ1",
+      "consensus": "EPS ≈$0.11 · rev ≈$27.0M",
+      "prior": "—",
+      "why": "Light earnings day; AI test-equipment read"
+    },
+    {
+      "time": "Tue 7:30 AM",
+      "event": "Trade balance (Aug)",
+      "consensus": "−$89.8B to −$95.2B",
+      "prior": "−$88.6B",
+      "why": "Q3 GDP tracking"
+    },
+    {
+      "time": "Tue",
+      "event": "Williams, Bowman (per Newsquawk / Fed Agenda); Paramount–WBD closes as Skydance",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Williams' patience line is what priced out October"
+    },
+    {
+      "time": "Tue 12:00 PM",
+      "event": "3-year note auction",
+      "consensus": "$58B",
+      "prior": "—",
+      "why": "Front-end demand at ≈4.8%"
+    },
+    {
+      "time": "Wed 12:00 PM",
+      "event": "10-year note auction (reopening)",
+      "consensus": "$39B",
+      "prior": "—",
+      "why": "First 10Y sale above 5.2%; a tail could retest 5.34%"
+    },
+    {
+      "time": "Wed 1:00 PM",
+      "event": "FOMC minutes (Sep 15–16)",
+      "consensus": "—",
+      "prior": "+25 bp to 3.75–4.00%, 12-0",
+      "why": "How many officials want 50 bp or more of further hikes; any balance-sheet talk"
+    },
+    {
+      "time": "≈Wed",
+      "event": "PBOC September gold reserves",
+      "consensus": "—",
+      "prior": "+650K oz Aug (22nd month)",
+      "why": "A 23rd month of buying helps put a floor under gold; release may slip to after Golden Week"
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Initial jobless claims",
+      "consensus": "195K–200K",
+      "prior": "197K",
+      "why": "Above 220K would make the weak payrolls a real labor story"
+    },
+    {
+      "time": "Thu 12:00 PM",
+      "event": "30-year bond auction (reopening)",
+      "consensus": "$22B",
+      "prior": "—",
+      "why": "The week's term-premium test, with OATs and long gilts near multi-decade highs"
+    },
+    {
+      "time": "Thu / Fri",
+      "event": "PepsiCo Q3 (Thu); Delta Q3 (Fri); UMich prelim Oct (Fri 9 AM)",
+      "consensus": "PEP EPS ≈$2.30 · DAL ≈$1.88–1.96 · UMich 48.0",
+      "prior": "UMich 48.1",
+      "why": "Consumer and jet-fuel reads; inflation expectations"
+    },
+    {
+      "time": "Next FOMC: Oct 27–28",
+      "event": "FOMC decision (Oct 28)",
+      "consensus": "Hold ≈77–83% · hike ≈17–23%",
+      "prior": "3.75–4.00%",
+      "why": "December hike >75% priced; Sep CPI Oct 14 is the next big swing factor"
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Oil relief takes a few bp off the long end",
+        "body": "The 10Y is ≈5.25–5.26% in overseas trade (−3 bp from 5.28%), with the 2Y ≈4.82% and 30Y ≈5.61%, as WTI drops below $90 on OPEC+'s hold and the G7's 100M-barrel release. 2s10s is ≈+44–45 bp, up from +32 bp on Sep 28 (FRED).",
+        "simple": "A yield is the interest a bond pays, and it moves opposite to the bond's price. Cheaper oil means less inflation ahead, which makes bonds a bit more attractive and nudges yields down. Long-term yields are still near their highest in over 20 years, so mortgages and business loans remain expensive.",
+        "source": "TradingEconomics / CNBC",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+      },
+      {
+        "title": "$119B of supply and the minutes",
+        "body": "The Treasury sells $58B 3Y Tue, $39B 10Y Wed and $22B 30Y Thu, and the September minutes come Wed. Logan said last week the target range needs \"an additional 50 basis points or more,\" while Williams and Jefferson stressed patience.",
+        "simple": "A Treasury auction is how the government borrows by selling new bonds. If buyers are scarce, it has to offer a higher yield, which pushes up rates across the market. The minutes are the Fed's notes from its last meeting and show how many officials want to keep raising rates.",
+        "source": "DRL Group / Bloomberg",
+        "url": "https://www.drlgroup.net/treasury-releases-quarterly-auction-schedule/"
+      },
+      {
+        "title": "Europe's France problem spills into the dollar",
+        "body": "The OAT–Bund spread is ≈130–146 bp after its biggest weekly widening in 17 years, the French 10Y is ≈4.9% (≈2002 highs), and Spain's PM called a Nov 29 snap election. The euro fell to ≈$1.116–1.12, a 17-month low. Gilt 30Y yields touched 6.02% last week (highest since 1998), and the JGB 30Y is ≈4.22%.",
+        "simple": "A spread is the extra yield investors demand to hold one country's bonds instead of a safer one, here Germany's. A wider spread means investors are more nervous about France's debt and politics. When bond yields rise around the world together, US long-term rates have a hard time falling, even when US data is soft.",
+        "source": "CNBC / Reuters (via US News)",
+        "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME's record quarter is a rates-hedging story",
+        "body": "September ADV was a record 31.8M contracts (+22% y/y) and Q3 29.4M (+16%). Interest-rate ADV was 16.2M (+22%), Treasury futures and options 9.5M (+42%), 10Y note futures 2.6M (+51%) and 2Y futures 1.3M (+67%). SOFR futures set an ADV record of 5.4M.",
+        "simple": "Futures are contracts that lock in a price or rate today for a later date, and banks and funds use them to protect against rate swings. ADV (average daily volume) measures how many contracts change hands. Record volume means investors are hedging hard because rates have been moving so much, and that is good business for CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "Bond vol rich, equity vol cheap",
+        "body": "MOVE closed Friday at 107.3 against 30-day realized vol of 91.0, up from ≈68–69 in July–August. The VIX is 15.3. One read puts swap spreads ≈−39 bp versus a 5-year average of ≈−36 bp (tenor and date unconfirmed).",
+        "simple": "The MOVE index measures how much traders expect Treasury yields to swing, and the VIX does the same for stocks. Bond-market fear is high while stock-market fear is low, which is unusual. Either stocks are too calm about rate risk, or bond options are overpriced and could be sold.",
+        "source": "StreetStats",
+        "url": "https://streetstats.finance/markets/volatility"
+      },
+      {
+        "title": "CME launches GPU-rental futures, shelves 24/7 crude",
+        "body": "Today NYMEX lists cash-settled Silicon Data H100 and B200 rental-index futures (subject to regulatory review). On Friday CME suspended its planned 24/7 10-barrel crude contract after API and BP warned about thin weekend liquidity and margin costs. CME stock closed Fri at $263.14 (−0.7%); Q3 results are Oct 21.",
+        "simple": "CME is creating a way to bet on, or hedge, the cost of renting AI chips, the way airlines hedge fuel. Separately, it dropped a plan to trade oil around the clock after big oil companies said weekend trading would be too thin and could distort prices. Both show how exchanges grow by adding new products.",
+        "source": "CME Group / Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold stalls near $4,140 with longs still crowded",
+        "body": "Spot is ≈$4,138, flat, after two straight weekly losses and a failed break of $4,200 on payrolls day. CFTC specs cut net longs to 218.6K from 225.9K, still the 91st percentile of exposure (FXStreet). Goldman's year-end target is $4,650 (cut from $4,900) and JPM's 2026 average is $5,243.",
+        "simple": "Gold pays no interest, so when bond yields are high, holding it costs more in income you give up. Many speculators are still betting on higher prices. If gold falls through $4,000, those bets could unwind quickly and push it lower.",
+        "source": "TradingEconomics / Investing.com / FXStreet",
+        "url": "https://www.fxstreet.com/analysis/cftc-report-speculators-turn-more-defensive-as-oil-exposure-falls-202610041345"
+      },
+      {
+        "title": "PBOC buying is the floor to watch",
+        "body": "The PBOC added 650K oz in August, its largest monthly addition since October 2023, taking reserves to a record 76.73M oz over 22 straight months of purchases. Central banks bought 289t in Q2. September data is due ≈Oct 7 but may slip past Golden Week.",
+        "simple": "Central banks such as China's buy gold to hold fewer dollars. Their steady buying gives the market a reliable customer even when traders sell. A 23rd straight month of buying would signal that this support is intact.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-central-bank-adds-most-gold-since-2023-even-as-prices-jump"
+      },
+      {
+        "title": "Copper: Chile strike risk vs empty Chinese desks",
+        "body": "COMEX copper is ≈$6.51/lb (+0.3%), and LME 3M closed Fri at ≈$14,289/t, ≈4% off September's record. Chile's August output was 369.5Kt (−12.8% y/y, lowest since 2011). Escondida supervisors voted 95% to strike and Centinela unions also voted, with 5–10 days of mediation before any walkout. SHFE reopens ≈Oct 8.",
+        "simple": "Chile is the world's biggest copper producer, and its output is falling while workers at its largest mines threaten to strike. That should push prices up. But Chinese buyers, the largest users, are away for a national holiday, so trading is thin until they return.",
+        "source": "Rio Times / Discovery Alert / SMM",
+        "url": "https://www.riotimesonline.com/copper-markets-latam-saturday-october-3-2026/"
+      },
+      {
+        "title": "Silver and platinum bounce",
+        "body": "Silver is ≈$61.0–61.7 (+1–2%) after Friday's ≈$60.3 close, and platinum is $1,726 (+1.6%) after closing at $1,691. Palladium is ≈$1,157. They are outperforming gold this morning as the dollar's gain is mostly a euro story.",
+        "simple": "Silver and platinum are used both as investments and in industry (solar panels, car exhaust systems), so they swing more than gold. They are recovering a bit after last week's selloff. This morning's dollar strength comes mainly from euro weakness, which hurts these metals less than broad dollar strength would.",
+        "source": "FXStreet / TradingEconomics",
+        "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610050930"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Schneider buys PTC for $23.7B, its biggest deal ever",
+      "body": "$205/sh all cash: ≈$22.6B equity value, $23.7B EV, a 42.3% premium. Funded with equity and new debt; expected to close by Q3 2027. Targets €250M of cost synergies and ≈€800M of revenue synergies. Schneider fell ≈10% in Paris.",
+      "simple": "A French industrial company is paying a large premium for a US engineering-software firm. It will raise money by selling new shares and borrowing, which is a big fee event for the banks underwriting the deal. The share drop shows investors think the price is high.",
+      "source": "Bloomberg / Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/schneider-electric-buy-ptc-226-billion-deal"
+    },
+    {
+      "title": "C.H. Robinson to buy RXO for $5.8B",
+      "body": "Stock-and-cash deal with an implied value of $5.8B, a combined EV above $25B, $300M of cost synergies, RXO holders owning 11%, closing in H1 2027.",
+      "simple": "Two trucking-logistics brokers are combining to cut costs during a weak freight market. Paying partly in stock means fewer dollars have to be borrowed at today's high rates.",
+      "source": "Seeking Alpha / BusinessWire",
+      "url": "https://seekingalpha.com/news/4650124-ch-robinson-worldwide-strikes-a-58b-deal-to-acquire-rxo"
+    },
+    {
+      "title": "Paramount–WBD closes Tuesday as Skydance",
+      "body": "The ≈$110B deal closes Oct 6 at $31/sh cash plus a daily ticking fee from Sep 30, after a judge approved the settlement with 12 state AGs. Mattel's Ynon Kreiz will be co-CEO.",
+      "simple": "A ticking fee is extra money the buyer pays each day a deal is delayed. Closing the year's biggest media deal frees up the banks that financed it and finishes a large debt package. It also gives Hollywood a new giant.",
+      "source": "TechCrunch / CNBC",
+      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
+    },
+    {
+      "title": "Regional consolidation: Peoples–Capital Bancorp",
+      "body": "Peoples Bancorp (OH) is buying Capital Bancorp (MD) in an all-stock deal of ≈$728M, creating a ≈$14B bank across 8 states. No new US bank deal was found this weekend.",
+      "simple": "Mid-sized banks are merging to spread rising compliance and technology costs over a bigger base. Paying in stock avoids marking losses on bond holdings that fell in value when rates rose.",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/10/peoples-bancorp-swallows-capital-bancorp-in-728m-deal-vaults-past-14-billion/"
+    },
+    {
+      "title": "Q3 bank earnings setup",
+      "body": "JPM, GS, WFC and C report Tue Oct 13 (JPM ≈7 AM ET), and BAC and MS Oct 14. WFC consensus is ≈$1.85 EPS with full-year NII guided near $50B. The three questions are capital markets, NII after the September hike, and credit with long yields near 2002 highs. The US IPO calendar is empty this week.",
+      "simple": "NII (net interest income) is what a bank earns on loans minus what it pays on deposits. Higher rates can raise NII but also strain borrowers. Strong trading and deal fees have been carrying the big banks this year.",
+      "source": "Money Morning / Renaissance Capital",
+      "url": "https://moneymorning.com/2026/09/25/bank-earnings-week-three-engine-stress-test-october-2026"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures dip as yields stay high",
+        "body": "Dow futures −108 pts (−0.2%), S&P −0.2%, Nasdaq-100 −0.3% early Monday, with elevated Treasury yields and this week's Fed minutes the focus.",
+        "simple": "Futures let investors trade before the stock market opens, so they show the likely mood at the open. High bond yields compete with stocks for investors' money, which is why stocks are a little softer.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "OPEC+ keeps November targets steady",
+        "body": "The seven core members held combined required output at ≈31.0M bpd. Gulf exports are running at ≈60–80% of normal because of the Iran war, with Brent above $100 vs ≈$73 before the war. Next meeting Nov 1.",
+        "simple": "OPEC+ is a group of oil-producing countries that sets production quotas. It chose not to pump more, partly because the war is already keeping Gulf oil off the market. That keeps fuel prices high, which feeds inflation.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html"
+      },
+      {
+        "title": "Oil slips as Gulf exports recover and G7 taps reserves",
+        "body": "Brent −72c to $101.59 and WTI −$1.05 to $90.05 at 0634 GMT. The G7 will release 100M barrels of crude and diesel, and Middle East exports topped pre-war levels on 4 of 7 days in late September.",
+        "simple": "Governments are selling oil from emergency stockpiles, and more Gulf oil is getting out, so supply is improving. Prices dipped as a result, which helps on gasoline and inflation.",
+        "source": "CNBC (Reuters)",
+        "url": "https://www.cnbc.com/2026/10/05/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks.html"
+      },
+      {
+        "title": "Euro hits 17-month low on Spain and France",
+        "body": "The euro fell ≈0.6% to ≈$1.12, the lowest since May 2025, after Spain's Sánchez called a Nov 29 snap election and France's 10Y rose to 4.9%. CNBC notes markets price three more Fed hikes by July.",
+        "simple": "Political uncertainty in Europe and higher US interest rates both make dollars more attractive than euros. A stronger dollar makes US exports pricier and imports cheaper.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Authentic Brands eyes Mattel",
+        "body": "The WSJ reported Authentic Brands discussed an offer above $20/sh (≈$6B+) for Mattel. Mattel jumped 19% to $15.04, its biggest one-day gain in 7+ years. Mattel's CEO is also set to become Skydance co-CEO.",
+        "simple": "A brand-licensing company wants to buy the maker of Barbie and Hot Wheels. The stock jumped because buyers usually pay a premium. It is another sign that deal-making is busy despite high rates.",
+        "source": "CNBC (citing WSJ)",
+        "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html"
+      },
+      {
+        "title": "White House AI task force named",
+        "body": "Per the WSJ, DNI Jay Clayton will lead a new White House AI task force, effectively as AI czar, with a report on AI risks and benefits due within 120 days.",
+        "simple": "The government is setting up a group to study how powerful AI could help or harm the country. Its findings could lead to rules for AI companies, including the chipmakers and cloud firms that drive the stock market.",
+        "source": "ThePrint (citing WSJ)",
+        "url": "https://theprint.in/world/trumps-new-super-intelligence-task-force-will-study-ai-risks-submit-report-in-4-months-wsj-says/3061496/"
+      },
+      {
+        "title": "OpenAI fires three safety researchers",
+        "body": "The WSJ reported OpenAI dismissed three safety researchers for allegedly sharing confidential information with an outside AI-safety group.",
+        "simple": "OpenAI let go of staff whose job was to study AI risks, saying they leaked company information. It matters for how private AI companies are governed as they move toward large fundraisings or IPOs.",
+        "source": "Yahoo Tech (citing WSJ)",
+        "url": "https://tech.yahoo.com/ai/articles/openai-fires-three-safety-researchers-181204664.html"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME launches AI compute futures today",
+        "body": "Two cash-settled NYMEX contracts, Silicon Data H100 and B200 Rental Index Futures, each cover a month of hourly Nvidia GPU rental cost and launch Oct 5, subject to regulatory review.",
+        "simple": "The Chicago exchange is letting companies hedge the price of renting AI chips, much as farmers hedge corn. If it catches on, it is a new revenue stream for CME and a new market for traders.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/notices/clearing/2026/08/26-274.html"
+      },
+      {
+        "title": "CME shelves 24/7 crude contract",
+        "body": "CEO Terry Duffy pulled the planned 24/7 10-barrel crude futures after pushback from \"key constituents.\" API and BP warned that thin weekend liquidity and higher margins could distort WTI.",
+        "simple": "CME wanted oil to trade around the clock, but big oil companies said weekend markets would be too thin and could create misleading prices. CME backed off to keep its main customers happy.",
+        "source": "Bloomberg / CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_suspendsplanstolaunch24710-barrelcrudeoilcontract.html"
+      },
+      {
+        "title": "Chicago banks set Q3 dates",
+        "body": "Wintrust reports Oct 19 after the close (call Oct 20, 10 AM CT) and Northern Trust webcasts Q3 on Oct 21. Wintrust is also buying Northern Trust's guardianship-services unit (≈$1.2B AUM).",
+        "simple": "These are Chicago's two biggest homegrown banks. Their results will show how local businesses and wealthy clients are coping with high rates. The small asset sale shows Northern Trust trimming non-core businesses.",
+        "source": "StockTitan / Northern Trust",
+        "url": "https://www.stocktitan.net/news/WTFC/wintrust-financial-corporation-announces-third-quarter-and-year-to-8iq15rncobvy.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Ukraine talks tied to a Lukoil asset deal",
+        "body": "The NYT reported Witkoff and Kushner discussed a buyer group for Lukoil's sanctioned international assets that includes Todd Boehly, Gulf investors with family ties and the US DFC. Putin raised it at a Sep 5 meeting.",
+        "simple": "Peace talks with Russia appear to involve selling a Russian oil company's foreign assets to a US-linked group. That could change sanctions and global oil supply, and it raises conflict-of-interest questions.",
+        "source": "The Moscow Times (citing NYT)",
+        "url": "https://www.themoscowtimes.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-a93862"
+      },
+      {
+        "title": "DHS jet purchase from a donor's firm",
+        "body": "The NYT reported DHS bought five planes for $304M from a political donor's firm on Noem's last day, including a converted 737 at $108M that the firm had bought for under $90M months earlier.",
+        "simple": "A government agency paid well above what the seller had recently paid for the planes, and the seller was a political donor. This is a story about how taxpayer money is spent on contracts.",
+        "source": "Mediaite (citing NYT)",
+        "url": "https://www.mediaite.com/media/news/kristi-noem-seethes-after-ny-times-expose-on-a-plum-contract-dhs-gave-to-a-political-donor-on-her-last-day-as-secretary/"
+      },
+      {
+        "title": "Restaurants are losing money",
+        "body": "Citing National Restaurant Association data, the NYT reports 42% of restaurant owners were unprofitable in 2025, up from 29% the year before.",
+        "simple": "Higher food, labor and borrowing costs are squeezing restaurants. That matters for banks' small-business loans and is a sign that consumer-facing businesses are under strain.",
+        "source": "Everything Briefing (citing NYT)",
+        "url": "https://everythingbriefing.substack.com/p/october-5-2026"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why oil now drives the long end",
+      "point": "This morning's ≈3 bp rally in the 10Y lines up with WTI falling under $90 on OPEC+'s hold and the G7's 100M-barrel release, not with any US data. With Brent ≈$101 against ≈$73 before the war, breakevens and Fed odds are trading off energy. Ask a desk whether they hedge supply-shock inflation with front-end SOFR (hike odds ≈17–23% for October, >75% for December) or by fading the long end into this week's 10Y and 30Y auctions."
+    },
+    {
+      "topic": "Term premium is global: France, gilts, JGBs",
+      "point": "The OAT–Bund spread had its biggest weekly widening in 17 years (≈130–146 bp), long gilts touched 6.02% and the JGB 30Y is ≈4.2%. The US 10Y at 5.25–5.34% is part of a worldwide repricing of long-dated sovereign risk, not only a Fed story. That is a good question for a rates or derivatives conversation: does a weaker euro and stronger dollar help US auctions through foreign demand, or does global supply crowd them out?"
+    },
+    {
+      "topic": "CME as the rates-volatility proxy",
+      "point": "CME posted record September ADV of 31.8M (+22%), with 2Y Treasury futures +67% and SOFR futures at a record 5.4M a day, while MOVE (107) sits well above the VIX (15). It is also listing GPU-rental futures and shelved 24/7 crude after pushback from oil companies. Talk about how exchanges make money from rate vol, and the trade-off between product innovation and liquidity in new contracts."
+    }
+  ],
+  "caveats": "WebFetch was blocked, so every figure comes from search-result summaries, not full articles. WSJ and NYT items are via CNBC, ThePrint, Yahoo, Moscow Times, Mediaite and a Substack, and the Chicago items are via CME, Bloomberg and StockTitan; no Oct 4–5 press digests or Tribune stories were found. The WSJ items are from Oct 1–3, older than the 24-hour window. Conflicts: futures (Newsquawk briefly showed ES +0.1%), Brent ($100.95–102.3), gold ($4,138 vs ≈$4,162), silver ($61.0–61.7), the OAT–Bund spread (130–146 bp) and October hike odds (17–23%). The 2Y and 30Y Monday levels are unverified. Fed speaker days conflict across calendars, and data release times are assumed from the usual schedule. Not found: Monday LME copper, VIX, MOVE and KBW bank index levels, and the ISM prices-paid consensus.",
+  "updates": []
+}
