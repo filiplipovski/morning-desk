@@ -11,105 +11,112 @@
     "Metals are softer as the dollar holds near its YTD high. Gold ≈$4,121 (−0.4%, −6.4% on the month, ≈26% below January's ≈$5,595 peak), silver ≈$60.6 (−0.8%). COMEX copper is ≈$6.58/lb and LME 3M is $14,431.50/t. Escondida's strike is on a 5-working-day hold for mediation, and Centinela workers voted 98.7% to strike. PBOC September reserves (≈Oct 7) would be the 23rd straight month of buying if they rose.",
     "Deals: Skydance (Paramount + WBD, ≈$110B at $31/sh) is expected to close today and trade as SKYD on the NYSE. McKesson and CD&R are near a $5B+ take-private of Bannockburn, IL-based Option Care (stock +21% pre-market, per FT). Ariel (5.4%) is pushing Mattel to explore a sale. Correction to Monday's brief: CME's GPU-rental futures did not launch Monday. The CFTC extended its review to Nov 9."
   ],
-  "markets_asof": "≈12:20 PM CT (index levels approximate, derived from % changes)",
+  "markets_asof": "≈3:20 PM CT (cash close; some prints approximate)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,830",
-      "change": "≈+0.7%",
+      "value": "7,818.93",
+      "change": "+0.58%",
       "dir": "up",
-      "note": "Intraday record, 28th of 2026 (CNN/AP)"
+      "note": "Record close (TheStreet)"
     },
     {
       "label": "Dow",
-      "value": "≈51,520",
-      "change": "+250 pts",
+      "value": "51,521.28",
+      "change": "+253.38",
       "dir": "up",
-      "note": "≈+0.5% (Benzinga, early afternoon)"
+      "note": "+0.49%"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈27,690",
-      "change": "≈+0.8%",
+      "value": "27,599.79",
+      "change": "+0.45%",
       "dir": "up",
-      "note": "Record; Nasdaq 100 also at a record"
+      "note": "Record close; faded from ≈+0.8% midday"
     },
     {
       "label": "Russell 2000",
-      "value": "2,847.14",
-      "change": "—",
-      "dir": "flat",
-      "note": "Mon close; live print unconfirmed"
+      "value": "—",
+      "change": "≈−0.45%",
+      "dir": "down",
+      "note": "CNBC live blog, single source; level unconfirmed"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.80%",
+      "value": "≈4.79%",
       "change": "≈−3 bp",
       "dir": "down",
-      "note": "Last confirmed print, post-open (CNBC)"
+      "note": "Trading Economics"
     },
     {
       "label": "UST 10Y",
-      "value": "5.262%",
-      "change": "−4 bp",
+      "value": "≈5.27%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "CNBC; Mon high ≈5.34–5.35%"
+      "note": "2s10s ≈47 bp; Mon high ≈5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.65%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "Approximate; no fresh confirmed print"
+      "value": "≈5.65–5.67%",
+      "change": "—",
+      "dir": "flat",
+      "note": "No clean closing print"
+    },
+    {
+      "label": "3Y auction",
+      "value": "4.932%",
+      "change": "0.2 bp stop-through",
+      "dir": "flat",
+      "note": "BTC 2.62 vs 2.72; indirects 57.6%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct hike ≈22%",
       "dir": "flat",
-      "note": "FedWatch hold ≈78%; FOMC Oct 27–28"
+      "note": "FOMC Oct 27–28; no fresh FedWatch print"
     },
     {
       "label": "WTI crude",
       "value": "≈$88.0",
-      "change": "≈−1.6%",
+      "change": "−1.6%",
       "dir": "down",
       "note": "Trading Economics"
     },
     {
       "label": "Brent",
-      "value": "≈$98–99",
-      "change": "≈−1 to −2%",
-      "dir": "down",
-      "note": "AP $99.19 (−1.1%); CNN ≈$98 (−2%)"
+      "value": "≈$99–101",
+      "change": "mixed",
+      "dir": "flat",
+      "note": "AP $99.07 (−1.3%); TE $100.84 (+0.5%)"
     },
     {
-      "label": "Gold (COMEX)",
-      "value": "≈$4,153",
-      "change": "−$3.70",
-      "dir": "down",
-      "note": "Business Standard; spot quotes ≈$4,120–4,170"
+      "label": "Gold (spot)",
+      "value": "≈$4,164",
+      "change": "+$24.60",
+      "dir": "up",
+      "note": "Fortune, 1:55 PM ET"
     },
     {
       "label": "Silver (COMEX)",
       "value": "≈$61.0",
-      "change": "−$0.28",
-      "dir": "down",
-      "note": "Business Standard"
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh confirmed print since midday"
     },
     {
       "label": "Copper",
-      "value": "≈$6.60/lb",
+      "value": "≈$6.58–6.60/lb",
       "change": "—",
       "dir": "flat",
-      "note": "COMEX; no fresh print since post-open"
+      "note": "COMEX; no fresh confirmed print"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.8",
-      "change": "≈−0.35%",
-      "dir": "down",
-      "note": "Single source, unconfirmed; Mon 18-mo high 102.53"
+      "value": "≈102.0–102.2",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Sources split ±0.2%; EUR ≈1.12"
     }
   ],
   "calendar": [
@@ -452,6 +459,57 @@
   "caveats": "WebFetch was blocked, so every figure comes from search-result snippets rather than full articles. WSJ and NYT items come via Reuters/Investing.com, CNN, Insurance Journal and aggregators. Press-digest searches returned only old years, and no Chicago Tribune story was retrievable; the Chicago items come from GuruFocus, Banking Dive, Spokesman-Review and PR Newswire. Index levels are Monday closes and changes are futures. The 2Y has no confirmed live print (one unverified 4.75% quote was dropped). Oil quotes conflict (Brent $98.6–100.8, WTI $88.5–89.9 depending on time). Oct hike odds range 19–25% across sources. The trade-balance consensus ranges −$90B to −$102B. The PGM and gold COT figures may be stale. Correction to Monday's brief: CME's GPU-rental futures did not launch Oct 5; the CFTC extended its review to Nov 9.",
   "updates": [
     {
+      "at": "2026-10-06T20:18:43Z",
+      "label": "Close",
+      "headline": "Stocks closed at records, with the S&P at 7,818.93 (+0.58%), and the 10Y settled ≈5.27% (≈−5 bp) after a $58B 3Y auction that stopped through by 0.2 bp at 4.932%. Schmid's 'way to go' on inflation keeps a December hike in play heading into Wednesday's 10Y and FOMC minutes.",
+      "points": [
+        "Close: S&P 7,818.93 (+0.58%, record close), Dow 51,521.28 (+253.38, +0.49%), Nasdaq 27,599.79 (+0.45%, record) per TheStreet. Nasdaq gave back about half of its midday +0.8%. CNBC's live blog had the Russell 2000 ≈−0.45%, the only major index lower (single source).",
+        "3Y auction: $58B at 4.932% vs 4.474% last month, the highest 3Y stop in about 20 years. It stopped through the 4.934% when-issued by 0.2 bp, the 4th straight stop-through. Bid-to-cover was 2.62 (2.72 prior, ≈2.65 avg). Indirects fell to 57.6% from 62.1%, directs rose to 31.7% from 26.9% and dealers took 10.7%. The headline looks fine, but foreign demand was soft: Treasury yields are ≈5% but buyers abroad still pulled back. That is a yellow flag for Wednesday's $39B 10Y.",
+        "Rates: 10Y ≈5.27% (≈−5 bp) and 2Y ≈4.79% (≈−3 bp), with 2s10s ≈47 bp (Trading Economics), so the morning call of long-end relief held through the close. The 30Y has no clean closing print (≈5.65–5.67%). KC Fed's Schmid said inflation is 'frustrating' and the Fed has 'a way to go' to reach 2%, and that the labor market is in good shape (FXStreet). That is hawkish but adds nothing new, and fed funds pricing is still ≈22% for an Oct 28 hike.",
+        "Commodities/FX: WTI ≈$88.0 (−1.6%). Brent quotes are split between ≈$99.1 (AP, −1.3%) and ≈$100.8 (Trading Economics, likely a different contract), so the 'Brent under $100' line from the morning is borderline. Spot gold was ≈$4,164 (+$24.60, Fortune, 1:55 PM ET), so it finished up after all. That corrects the midday 'flat-to-soft' read, which used a stale overseas COMEX quote. DXY ≈102.0–102.2, roughly flat, and EUR ≈1.12.",
+        "Tomorrow (Wed): $39B 10Y reopening at 12:00 PM CT and FOMC minutes (Sep 16 hike) at 1:00 PM CT, plus PBOC September gold reserves and August consumer credit. Constellation Brands (STZ, +2.4% into the print, consensus EPS ≈$3.56 on ≈$2.54B revenue) reports after the bell, with its call at 7:00 AM CT Wed."
+      ],
+      "simple": "An auction is how the government borrows: it sells bonds and investors bid for them. A 'stop-through' means buyers accepted a slightly lower interest rate than the market expected, which is a sign of healthy demand. Today's 3-year sale looked healthy on that measure, but foreign buyers took a smaller share than usual, which is worth watching because the US relies on them to fund its deficits. Overall, cheaper oil and steady demand for bonds pulled long-term interest rates down, and stocks closed at new highs. That helps anyone shopping for a mortgage or a business loan, at least for a day.",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+        },
+        {
+          "name": "CNBC (live blog)",
+          "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Helious (auction results)",
+          "url": "https://helious.io/news/auc-91282CRQ6-2026-10-06/3-year-note-auction-in-line"
+        },
+        {
+          "name": "Global Community Weekly (auction recap)",
+          "url": "https://globalcommunityweekly.substack.com/p/the-us-treasury-just-tried-to-peddle"
+        },
+        {
+          "name": "Trading Economics (10Y)",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+        },
+        {
+          "name": "FXStreet (Schmid)",
+          "url": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822"
+        },
+        {
+          "name": "Fortune (gold)",
+          "url": "https://fortune.com/article/current-price-of-gold-10-06-2026/"
+        },
+        {
+          "name": "Trading Economics (crude)",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        },
+        {
+          "name": "US News / AP",
+          "url": "https://www.usnews.com/news/business/articles/2026-10-06/asian-shares-are-mixed-after-wall-street-gains-oil-price-steadies"
+        }
+      ]
+    },
+    {
       "at": "2026-10-06T17:19:09Z",
       "label": "Midday",
       "headline": "The rally broadened by midday: the S&P hit a record ≈7,830 (+0.7%) and the 10Y slipped to 5.262% (−4 bp), while Bowman used her St. Louis keynote to reorganize Fed bank supervision into five regions rather than talk policy.",
@@ -554,5 +612,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-06T17:19:09Z"
+  "updatedAt": "2026-10-06T20:18:43Z"
 }
