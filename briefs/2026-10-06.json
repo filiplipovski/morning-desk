@@ -11,28 +11,28 @@
     "Metals are softer as the dollar holds near its YTD high. Gold ≈$4,121 (−0.4%, −6.4% on the month, ≈26% below January's ≈$5,595 peak), silver ≈$60.6 (−0.8%). COMEX copper is ≈$6.58/lb and LME 3M is $14,431.50/t. Escondida's strike is on a 5-working-day hold for mediation, and Centinela workers voted 98.7% to strike. PBOC September reserves (≈Oct 7) would be the 23rd straight month of buying if they rose.",
     "Deals: Skydance (Paramount + WBD, ≈$110B at $31/sh) is expected to close today and trade as SKYD on the NYSE. McKesson and CD&R are near a $5B+ take-private of Bannockburn, IL-based Option Care (stock +21% pre-market, per FT). Ariel (5.4%) is pushing Mattel to explore a sale. Correction to Monday's brief: CME's GPU-rental futures did not launch Monday. The CFTC extended its review to Nov 9."
   ],
-  "markets_asof": "Post-open ≈9:20 AM CT (index levels approximate, derived from % changes)",
+  "markets_asof": "≈12:20 PM CT (index levels approximate, derived from % changes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,813",
-      "change": "+0.50%",
+      "value": "≈7,830",
+      "change": "≈+0.7%",
       "dir": "up",
-      "note": "Intraday record (TheStreet)"
+      "note": "Intraday record, 28th of 2026 (CNN/AP)"
     },
     {
       "label": "Dow",
-      "value": "≈51,499",
-      "change": "+0.45%",
+      "value": "≈51,520",
+      "change": "+250 pts",
       "dir": "up",
-      "note": "+185 pts at 8:35 AM CT (AP)"
+      "note": "≈+0.5% (Benzinga, early afternoon)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈27,631",
-      "change": "+0.56%",
+      "value": "≈27,690",
+      "change": "≈+0.8%",
       "dir": "up",
-      "note": "Intraday record"
+      "note": "Record; Nasdaq 100 also at a record"
     },
     {
       "label": "Russell 2000",
@@ -43,73 +43,73 @@
     },
     {
       "label": "UST 2Y",
-      "value": "4.802%",
+      "value": "≈4.80%",
       "change": "≈−3 bp",
       "dir": "down",
-      "note": "CNBC"
+      "note": "Last confirmed print, post-open (CNBC)"
     },
     {
       "label": "UST 10Y",
-      "value": "5.29%",
-      "change": "−2 bp",
+      "value": "5.262%",
+      "change": "−4 bp",
       "dir": "down",
-      "note": "CNBC; Mon intraday high ≈5.34%"
+      "note": "CNBC; Mon high ≈5.34–5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.66%",
-      "change": "≈−1 bp",
+      "value": "≈5.65%",
+      "change": "≈−2 bp",
       "dir": "down",
-      "note": "TheStreet; Reuters had 5.626% pre-mkt"
+      "note": "Approximate; no fresh confirmed print"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike 21.6%",
+      "change": "Oct hike ≈22%",
       "dir": "flat",
-      "note": "FedWatch hold 78.4%; FOMC Oct 27–28"
+      "note": "FedWatch hold ≈78%; FOMC Oct 27–28"
     },
     {
       "label": "WTI crude",
-      "value": "≈$87",
-      "change": "≈−2%",
+      "value": "≈$88.0",
+      "change": "≈−1.6%",
       "dir": "down",
-      "note": "CNBC"
+      "note": "Trading Economics"
     },
     {
       "label": "Brent",
-      "value": "≈$98",
-      "change": "≈−2%",
+      "value": "≈$98–99",
+      "change": "≈−1 to −2%",
       "dir": "down",
-      "note": "CNBC"
+      "note": "AP $99.19 (−1.1%); CNN ≈$98 (−2%)"
     },
     {
-      "label": "Gold",
-      "value": "$4,168.80",
-      "change": "+$29.30",
-      "dir": "up",
-      "note": "Yahoo, 6:41 AM CT; other feeds ≈$4,126"
+      "label": "Gold (COMEX)",
+      "value": "≈$4,153",
+      "change": "−$3.70",
+      "dir": "down",
+      "note": "Business Standard; spot quotes ≈$4,120–4,170"
     },
     {
-      "label": "Silver",
-      "value": "≈$60.7",
-      "change": "—",
-      "dir": "flat",
-      "note": "Spot"
+      "label": "Silver (COMEX)",
+      "value": "≈$61.0",
+      "change": "−$0.28",
+      "dir": "down",
+      "note": "Business Standard"
     },
     {
       "label": "Copper",
       "value": "≈$6.60/lb",
-      "change": "+0.2%",
-      "dir": "up",
-      "note": "COMEX"
+      "change": "—",
+      "dir": "flat",
+      "note": "COMEX; no fresh print since post-open"
     },
     {
       "label": "Dollar index",
-      "value": "102.16",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Mon 18-mo high 102.53; EUR ≈1.12"
+      "value": "≈101.8",
+      "change": "≈−0.35%",
+      "dir": "down",
+      "note": "Single source, unconfirmed; Mon 18-mo high 102.53"
     }
   ],
   "calendar": [
@@ -452,6 +452,57 @@
   "caveats": "WebFetch was blocked, so every figure comes from search-result snippets rather than full articles. WSJ and NYT items come via Reuters/Investing.com, CNN, Insurance Journal and aggregators. Press-digest searches returned only old years, and no Chicago Tribune story was retrievable; the Chicago items come from GuruFocus, Banking Dive, Spokesman-Review and PR Newswire. Index levels are Monday closes and changes are futures. The 2Y has no confirmed live print (one unverified 4.75% quote was dropped). Oil quotes conflict (Brent $98.6–100.8, WTI $88.5–89.9 depending on time). Oct hike odds range 19–25% across sources. The trade-balance consensus ranges −$90B to −$102B. The PGM and gold COT figures may be stale. Correction to Monday's brief: CME's GPU-rental futures did not launch Oct 5; the CFTC extended its review to Nov 9.",
   "updates": [
     {
+      "at": "2026-10-06T17:19:09Z",
+      "label": "Midday",
+      "headline": "The rally broadened by midday: the S&P hit a record ≈7,830 (+0.7%) and the 10Y slipped to 5.262% (−4 bp), while Bowman used her St. Louis keynote to reorganize Fed bank supervision into five regions rather than talk policy.",
+      "points": [
+        "Rates (CNBC): 10Y 5.262%, down 4+ bp and about 8–9 bp below Monday's ≈5.34–5.35% high (the highest since 2002). The $58B 3Y auction priced at noon CT, but no confirmed result (high yield vs ≈4.47% prior, tail or stop-through, bid-to-cover vs 2.72 prior) was available at writing. Check it before Wednesday's $39B 10Y.",
+        "Bowman (St. Louis Fed community-banking keynote): she made no monetary-policy comments. She said Fed bank supervision will shift from the 12 Reserve Bank districts to 5 regions drawn along state lines, each with one leader accountable for everything, citing the SVB post-mortem. She also said fixed-asset thresholds will be reviewed later this year (Reuters, ABA Banking Journal, Newsquawk). Schmid (12:15 CT) was not yet reported at writing.",
+        "Equities: S&P ≈+0.7–0.9% to an intraday record ≈7,830, its first in almost two months and the 28th of 2026 (CNN/AP). Nasdaq ≈+0.8% and the Nasdaq 100 also hit records, with NVDA +1.3%. Breadth is wide: 386 S&P names are up, led by utilities and real estate, so rate-sensitive sectors are bouncing. Constellation Energy is +15% on the Google PPA. Option Care is up ≈33% to ≈$31.05, still below the $32.05 deal price.",
+        "Commodities: Brent is ≈$98–99 (−1–2%, AP/CNN), down from ≈$110 a few weeks ago, and WTI is ≈$88 (−1.6%). COMEX gold is ≈$4,153 (−$3.70) and silver ≈$61.0 (−$0.28), so metals are flat-to-soft despite lower yields. One source has DXY ≈101.8 (−0.35%), but that is unconfirmed. Copper has no fresh print.",
+        "Thesis check: the morning call of long-end relief is holding, and the 10Y has extended from −3 bp to −4 bp. The post-open note that gold reversed higher no longer holds; COMEX gold is roughly flat on the day. GDPNow (Q3, last 3.7%) had not been reported updated after the $105.6B trade gap at writing."
+      ],
+      "simple": "Interest rates on 10-year government bonds (the benchmark for mortgages and corporate loans) fell for a second session because oil got cheaper, which eases inflation fears. That helped stocks set a new record, and it helped the sectors that higher borrowing costs had been hurting, such as utilities and real estate. Separately, the Fed's top bank supervisor said the Fed will reorganize how it oversees banks: five regional teams, each with one clearly accountable boss, after the 2023 Silicon Valley Bank failure showed nobody was firmly in charge. For banks, that could mean more consistent exams. For Filip's desk, the result of today's 3-year bond sale (did buyers demand extra yield or not?) is the next clue for Wednesday's 10-year sale.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html"
+        },
+        {
+          "name": "CNN Business",
+          "url": "https://edition.cnn.com/2026/10/06/investing/us-stocks-bonds"
+        },
+        {
+          "name": "AP via WHEC",
+          "url": "https://www.whec.com/ap-top-news/wall-street-rallies-toward-an-all-time-high/"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/fed-plans-to-overhaul-bank-supervision-responsibilities-bowman-says-4934898"
+        },
+        {
+          "name": "ABA Banking Journal",
+          "url": "https://bankingjournal.aba.com/2026/10/fed-to-split-bank-supervision-into-five-regions/"
+        },
+        {
+          "name": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/feds-bowman-voter-does-not-comment-on-monetary-policy-says-the-fed-will-consider-updating-fixed-asset-thresholds-later-this-year"
+        },
+        {
+          "name": "StockMarketWatch",
+          "url": "https://stockmarketwatch.com/live/stock-market-today"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/news/26/10/62191591/apogee-enterprises-posts-upbeat-q2-earnings-joins-constellation-energy-freshworks-and-other-big-stocks-moving-higher-on-tuesday"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/amp/markets/commodities/gold-silver-prices-fall-on-stronger-dollar-sharp-rise-in-us-bond-yields-126100600251_1.html"
+        }
+      ]
+    },
+    {
       "at": "2026-10-06T14:21:20Z",
       "label": "Post-open",
       "headline": "Stocks opened at records and the front end rallied: the 2Y is ≈4.80% (−3 bp) and the 10Y ≈5.29%, even though August's trade gap blew out to $105.6B, widest since March 2025.",
@@ -503,5 +554,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-06T14:21:20Z"
+  "updatedAt": "2026-10-06T17:19:09Z"
 }
