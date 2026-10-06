@@ -11,105 +11,105 @@
     "Metals are softer as the dollar holds near its YTD high. Gold ≈$4,121 (−0.4%, −6.4% on the month, ≈26% below January's ≈$5,595 peak), silver ≈$60.6 (−0.8%). COMEX copper is ≈$6.58/lb and LME 3M is $14,431.50/t. Escondida's strike is on a 5-working-day hold for mediation, and Centinela workers voted 98.7% to strike. PBOC September reserves (≈Oct 7) would be the 23rd straight month of buying if they rose.",
     "Deals: Skydance (Paramount + WBD, ≈$110B at $31/sh) is expected to close today and trade as SKYD on the NYSE. McKesson and CD&R are near a $5B+ take-private of Bannockburn, IL-based Option Care (stock +21% pre-market, per FT). Ariel (5.4%) is pushing Mattel to explore a sale. Correction to Monday's brief: CME's GPU-rental futures did not launch Monday. The CFTC extended its review to Nov 9."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (index levels are Mon close; changes are futures)",
+  "markets_asof": "Post-open ≈9:20 AM CT (index levels approximate, derived from % changes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,773.99",
-      "change": "fut +0.25%",
+      "value": "≈7,813",
+      "change": "+0.50%",
       "dir": "up",
-      "note": "Mon close +0.66%; futures +19.25 pts"
+      "note": "Intraday record (TheStreet)"
     },
     {
       "label": "Dow",
-      "value": "51,267.90",
-      "change": "fut +0.42%",
+      "value": "≈51,499",
+      "change": "+0.45%",
       "dir": "up",
-      "note": "Futures +215 pts"
+      "note": "+185 pts at 8:35 AM CT (AP)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "27,477.31",
-      "change": "fut +0.40%",
+      "value": "≈27,631",
+      "change": "+0.56%",
       "dir": "up",
-      "note": "Record close Mon; NQ +126.5"
+      "note": "Intraday record"
     },
     {
       "label": "Russell 2000",
       "value": "2,847.14",
-      "change": "+0.50%",
-      "dir": "up",
-      "note": "Mon close"
-    },
-    {
-      "label": "UST 2Y",
-      "value": "≈4.82%",
       "change": "—",
       "dir": "flat",
       "note": "Mon close; live print unconfirmed"
     },
     {
+      "label": "UST 2Y",
+      "value": "4.802%",
+      "change": "≈−3 bp",
+      "dir": "down",
+      "note": "CNBC"
+    },
+    {
       "label": "UST 10Y",
-      "value": "5.281%",
-      "change": "−3 bp",
+      "value": "5.29%",
+      "change": "−2 bp",
       "dir": "down",
       "note": "CNBC; Mon intraday high ≈5.34%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.626%",
-      "change": "≈−4 bp",
+      "value": "≈5.66%",
+      "change": "≈−1 bp",
       "dir": "down",
-      "note": "Reuters; Mon high 5.702%"
+      "note": "TheStreet; Reuters had 5.626% pre-mkt"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈22%",
+      "change": "Oct hike 21.6%",
       "dir": "flat",
-      "note": "FedWatch hold ≈78%; FOMC Oct 27–28"
+      "note": "FedWatch hold 78.4%; FOMC Oct 27–28"
     },
     {
       "label": "WTI crude",
-      "value": "≈$88.5",
-      "change": "−1.1%",
+      "value": "≈$87",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "AP, Asia session; TE had ≈$89.9 earlier"
+      "note": "CNBC"
     },
     {
       "label": "Brent",
-      "value": "≈$98.6",
+      "value": "≈$98",
       "change": "≈−2%",
       "dir": "down",
-      "note": "Reuters/Newsquawk; back under $100"
+      "note": "CNBC"
     },
     {
       "label": "Gold",
-      "value": "≈$4,121",
-      "change": "−0.4%",
-      "dir": "down",
-      "note": "Spot, Trading Economics"
+      "value": "$4,168.80",
+      "change": "+$29.30",
+      "dir": "up",
+      "note": "Yahoo, 6:41 AM CT; other feeds ≈$4,126"
     },
     {
       "label": "Silver",
-      "value": "≈$60.6",
-      "change": "−0.8%",
-      "dir": "down",
-      "note": "Spot, after +2.2% Mon"
+      "value": "≈$60.7",
+      "change": "—",
+      "dir": "flat",
+      "note": "Spot"
     },
     {
       "label": "Copper",
-      "value": "≈$6.58/lb",
-      "change": "−0.15%",
-      "dir": "down",
-      "note": "COMEX; LME 3M $14,431.50/t"
+      "value": "≈$6.60/lb",
+      "change": "+0.2%",
+      "dir": "up",
+      "note": "COMEX"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.0",
-      "change": "≈−0.1%",
-      "dir": "down",
-      "note": "EUR ≈1.12 after 1.1161 low Mon"
+      "value": "102.16",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Mon 18-mo high 102.53; EUR ≈1.12"
     }
   ],
   "calendar": [
@@ -450,5 +450,58 @@
     }
   ],
   "caveats": "WebFetch was blocked, so every figure comes from search-result snippets rather than full articles. WSJ and NYT items come via Reuters/Investing.com, CNN, Insurance Journal and aggregators. Press-digest searches returned only old years, and no Chicago Tribune story was retrievable; the Chicago items come from GuruFocus, Banking Dive, Spokesman-Review and PR Newswire. Index levels are Monday closes and changes are futures. The 2Y has no confirmed live print (one unverified 4.75% quote was dropped). Oil quotes conflict (Brent $98.6–100.8, WTI $88.5–89.9 depending on time). Oct hike odds range 19–25% across sources. The trade-balance consensus ranges −$90B to −$102B. The PGM and gold COT figures may be stale. Correction to Monday's brief: CME's GPU-rental futures did not launch Oct 5; the CFTC extended its review to Nov 9.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-06T14:21:20Z",
+      "label": "Post-open",
+      "headline": "Stocks opened at records and the front end rallied: the 2Y is ≈4.80% (−3 bp) and the 10Y ≈5.29%, even though August's trade gap blew out to $105.6B, widest since March 2025.",
+      "points": [
+        "Trade balance (Aug): −$105.6B vs ≈−$102B consensus and −$88.6B prior (CNBC). Imports +4.3% m/m, capital-goods imports +4.0% on AI hardware. It is a drag on Q3 GDP tracking (GDPNow updates today), but bonds ignored it.",
+        "Rates (CNBC): 2Y 4.802% (−3+ bp), 10Y 5.29% (−2 bp), 2s10s ≈49 bp. TheStreet has the 30Y at ≈5.66%, slightly above Reuters' 5.626% pre-market, so the long end has given back part of its early gain. FedWatch is unchanged at hold 78.4% / hike 21.6% (7:35 AM CT). Williams is only moderating a panel today, so the next tests are Bowman (9:45), the $58B 3Y (noon) and Schmid (12:15).",
+        "Equities: S&P +0.50% and Nasdaq +0.56%, both at intraday records; Dow +0.45% (TheStreet). Constellation Energy is up 12–15% after signing a 20-year, 890 MW nuclear PPA with Google (>$4.3B capex), with Vistra +8% and Talen +7%. Option Care is up ≈21–24% on a $32.05/sh cash buyout by McKesson and CD&R (≈$5.8B EV).",
+        "Commodities/FX: WTI ≈$87 (−2%) and Brent ≈$98 (−2%) per CNBC. Gold is $4,168.80 (+$29.30 at 6:41 AM CT, Yahoo), which reverses the morning brief's −0.4%. Silver is ≈$60.7 and copper ≈$6.60/lb (+0.2%). DXY is 102.16 (flat) after Monday's 18-month high of 102.53; EUR ≈1.12.",
+        "Deals: Skydance closed its ≈$110B WBD acquisition. WBD holders get ≈$31.02/sh cash and Class B shares now trade on the NYSE as SKYD."
+      ],
+      "simple": "The trade deficit (how much more the US buys from abroad than it sells) jumped, mostly because companies are importing AI equipment. A wider gap shaves a little off economic growth, but investors cared more about cheaper oil, which eases inflation fears. Bond yields (the interest rate the government pays to borrow) dipped, especially on 2-year notes, which track the Fed's next move. Lower yields make stocks look more attractive, so the indexes hit new highs. For a bank, a dip in short-term yields slightly lowers expected funding costs and keeps December rate-hike bets in check.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/wall-st-futures-rise-as-yields-oil-dip-4933888"
+        },
+        {
+          "name": "Benzinga (FedWatch)",
+          "url": "https://www.benzinga.com/markets/economic-data/26/10/62185721/jim-cramer-says-interest-rates-can-fall-too-as-october-fed-hike-odds-fall-to-21-6-heres-what-traders-are-betting-on"
+        },
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/10/06/constellation-energy-soars-12-on-google-nuclear-deal-for-890-mw-vistra-jumps-8-talen-energy-climbs-7/"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/news/26/10/62182309/why-option-care-health-shares-are-trading-higher-by-around-24-here-are-20-stocks-moving-premarket"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-6-2026-gold-edges-higher-as-investors-monitor-domestic-and-global-conditions-111213149.html"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-06T14:21:20Z"
 }
