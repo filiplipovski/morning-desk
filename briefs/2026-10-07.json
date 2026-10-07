@@ -11,105 +11,104 @@
     "Metals are soft as yields and the dollar rise. Gold is $4,134.68 (−0.7%), silver $60.68 (−1.1%) and DXY 102.06 (+0.2%). The PBOC added 740K oz in September, its biggest month since Oct 2023 and the 23rd straight month of buying, so gold has an official buyer on dips while ETFs sell. Copper is $6.61/lb, with Centinela's strike set for Oct 13 if there is no deal.",
     "Deals and banks: Byline (Chicago) is buying Illinois State Bancorp for $87.9M at 1.07x tangible book. Peoples Bancorp–Capital Bancorp ($728M, all-stock) and C.H. Robinson–RXO ($5.8B) both landed this week. Constellation Brands beat Q2 (EPS $3.74 vs $3.61) but held FY27 guidance below consensus. Big-bank Q3 starts Oct 13 with JPM (EPS est $5.82)."
   ],
-  "markets_asof": "Midday ≈12:20 PM CT (levels approximate; 10Y auction results pending)",
+  "markets_asof": "Close ≈3:15 PM CT (equity and oil settles; yields and metals approximate)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,788",
-      "change": "−0.3% to −0.4%",
+      "value": "7,801.77",
+      "change": "−0.22%",
       "dir": "down",
       "note": "Off Tue record 7,818.93"
     },
     {
       "label": "Dow",
-      "value": "≈51,056",
-      "change": "−0.7% to −0.9%",
+      "value": "51,179.87",
+      "change": "−341.41 (−0.66%)",
       "dir": "down",
-      "note": "Tue close 51,521.28"
+      "note": "Pared −500 pt low"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "—",
-      "change": "≈−0.5%",
+      "value": "27,538.69",
+      "change": "−0.22%",
       "dir": "down",
-      "note": "Bloomberg midday"
+      "note": "Off record"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,792",
-      "change": "−1.4%",
+      "value": "≈2,793",
+      "change": "≈−1.3%",
       "dir": "down",
-      "note": "Small caps lag on yields"
+      "note": "Close unconfirmed; Tue 2,830.97"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.82%",
-      "change": "≈+2 bp",
-      "dir": "up",
-      "note": "No fresh midday print; post-open level"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable late print; ≈4.82% post-open"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.31–5.32%",
-      "change": "+3 to +5 bp",
+      "value": "≈5.29%",
+      "change": "≈+3 bp",
       "dir": "up",
-      "note": "Intraday high 5.36%; $39B auction noon CT"
+      "note": "High 5.36%; auction 5.300%, 1.7 bp through"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.70%",
-      "change": "≈+5 bp",
+      "value": "≈5.67%",
+      "change": "≈+3 bp",
       "dir": "up",
-      "note": "24-yr high; $22B 30Y auction Thu"
+      "note": "Off 24-yr high; $22B 30Y Thu noon CT"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈20.5%",
+      "change": "Oct hike ≈17%",
       "dir": "flat",
-      "note": "Morning FedWatch; minutes 1 PM CT"
+      "note": "Minutes: most see hike by year-end"
     },
     {
       "label": "WTI crude",
-      "value": "≈$89.5–89.9",
-      "change": "≈flat to +0.5%",
-      "dir": "flat",
-      "note": "Faded despite 3.2M bbl EIA draw"
+      "value": "$88.28",
+      "change": "−$1.16",
+      "dir": "down",
+      "note": "Settle; IEA diesel release"
     },
     {
       "label": "Brent",
-      "value": "≈$101.9",
-      "change": "+≈1.3%",
-      "dir": "up",
-      "note": "Houthi strikes on Aramco"
+      "value": "$100.20",
+      "change": "−$0.38",
+      "dir": "down",
+      "note": "Settle; gave back Houthi spike"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,087–4,121",
-      "change": "≈−1%",
+      "value": "≈$4,105",
+      "change": "−$58 (≈−1.4%)",
       "dir": "down",
-      "note": "Dollar + real yields"
+      "note": "Kitco 2:11 PM CT"
     },
     {
       "label": "Silver",
-      "value": "≈$60.2–60.7",
-      "change": "≈−0.8% to −1.1%",
+      "value": "≈$59.8",
+      "change": "≈−2.5%",
       "dir": "down",
-      "note": "FXStreet/Trading Economics"
+      "note": "Below $60"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.65/lb",
-      "change": "≈+0.1%",
-      "dir": "flat",
-      "note": "Little changed"
+      "value": "≈$6.55/lb",
+      "change": "≈−0.2%",
+      "dir": "down"
     },
     {
       "label": "Dollar index",
       "value": "—",
-      "change": "+≈0.4%",
+      "change": "up (level n/a)",
       "dir": "up",
-      "note": "CNBC; level not confirmed"
+      "note": "+≈0.4% midday per CNBC; no close found"
     }
   ],
   "calendar": [
@@ -438,6 +437,53 @@
   "caveats": "WebFetch was blocked, so every figure comes from search snippets. The WSJ and NYT items were sourced through other outlets (Reuters/Investing.com, Just Security, The Motley Fool, Joe.My.God). No NYT-bylined story for Oct 6–7 was retrievable, so the NYT bucket covers the same day's major stories via the outlets named. No Chicago Tribune piece was retrievable; Chicago items come from GuruFocus, CME, Bloomberg/GuruFocus and Hoodline. Index levels are Tuesday closes and changes are pre-market futures. WTI (≈$90.3) and the metals are Trading Economics quotes that may differ by contract or time. The OAT–Bund spread differs by source (≈127 bp today vs ≈145 bp cited Monday). December hike odds range from ≈62% to 84.5% depending on venue and whether they are cumulative. The 10Y when-issued is approximated from the secondary-market yield. The Russell 2000 pre-market move is single-source. No major Fed speakers were confirmed for today.",
   "updates": [
     {
+      "at": "2026-10-07T20:18:12Z",
+      "label": "Close",
+      "headline": "The 10Y auction defended 5.35%: $39B cleared at 5.300%, 1.7 bp through the 5.317% when-issued, with 2.77x cover and 80.3% indirects. The minutes then said most officials see one more hike by year-end, and oil reversed lower on an IEA diesel release, so stocks closed only modestly down.",
+      "points": [
+        "Auction: high yield 5.300% vs 5.317% WI, a 1.7 bp stop-through and the strongest since Apr 2025 by one count. Bid-to-cover 2.77 (12-mo avg ≈2.51–2.54), indirects 80.3%, directs 17.1%, dealers 2.5% (avg ≈8.8%). It is still the highest 10Y auction yield since 2000. The 10Y eased to ≈5.29% (≈+3 bp on the day) from the 5.36% high; the 30Y is ≈5.67%, off its 5.70%+ peak (CNBC, investingLive, Helious).",
+        "FOMC minutes (Sep 15–16): 'most participants' judged another hike likely appropriate by year-end, with no timing given. The minutes tie the ≈35 bp rise in 2Y–10Y yields over the period to a higher policy path plus term premium (geopolitics, buyback uncertainty, heavy AI-related corporate issuance). Odds of an Oct 28 hike are ≈17% (vs ≈20.5% this morning), so December is still the live meeting.",
+        "Stocks close: Dow −341.41 (−0.66%) at 51,179.87, S&P −0.22% at 7,801.77, Nasdaq −0.22% at 27,538.69 (CNBC). The S&P recovered most of its ≈−0.4% midday loss after the auction. The Russell 2000 was ≈2,793 (≈−1.3%, unconfirmed print), still the laggard.",
+        "Commodities reversed: Brent settled $100.20 (−$0.38) and WTI $88.28 (−$1.16) after IEA members agreed to prioritize diesel-stock releases (CNBC). That erased the Houthi-strike premium noted this morning. Gold ≈$4,105 (−$58, ≈−1.4%, Kitco 2:11 PM CT), silver ≈$59.8 (≈−2.5%) and copper ≈$6.55/lb (≈−0.2%), all hit by the yield and dollar move.",
+        "Thesis check: the morning's 'Brent ≈$101.5' driver is stale because Brent now sits right at $100. The 5.35% line broke intraday but the auction pushed yields back below it. The Aug consumer-credit print (cons $14.4B) wasn't found in any source. Tomorrow: jobless claims 7:30 AM CT, the $22B 30Y reopening at noon CT with the 30Y ≈5.67%, and PepsiCo pre-open. No new bank M&A found today."
+      ],
+      "simple": "When the government borrows, it auctions bonds, and today's $39 billion sale of 10-year debt drew so many buyers, mostly foreign investors and central banks, that the Treasury paid slightly less interest than traders expected. That calmed fears that nobody wants US debt at these rates, so the rate pulled back from its 24-year high. Fed meeting notes released later showed most officials expect one more rate increase this year, which keeps borrowing costs high for households and banks. Oil also fell after big consuming countries agreed to release emergency diesel supplies.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/"
+        },
+        {
+          "name": "Helious",
+          "url": "https://helious.io/news/auc-91282CRF0-2026-10-07/10-year-note-auction-strong"
+        },
+        {
+          "name": "Federal Reserve (minutes)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+        },
+        {
+          "name": "CNBC (markets live)",
+          "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "StockMarketWatch",
+          "url": "https://stockmarketwatch.com/metal/prices"
+        }
+      ]
+    },
+    {
       "at": "2026-10-07T17:18:39Z",
       "label": "Midday",
       "headline": "Yields held near 24-year highs into the noon CT 10Y auction. The 10Y sat at ≈5.31–5.32% after a 5.36% intraday peak, stocks trimmed losses, and a bigger-than-expected EIA crude draw failed to lift WTI.",
@@ -516,5 +562,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T17:18:39Z"
+  "updatedAt": "2026-10-07T20:18:12Z"
 }
