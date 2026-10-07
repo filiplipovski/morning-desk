@@ -11,105 +11,105 @@
     "Metals are soft as yields and the dollar rise. Gold is $4,134.68 (−0.7%), silver $60.68 (−1.1%) and DXY 102.06 (+0.2%). The PBOC added 740K oz in September, its biggest month since Oct 2023 and the 23rd straight month of buying, so gold has an official buyer on dips while ETFs sell. Copper is $6.61/lb, with Centinela's strike set for Oct 13 if there is no deal.",
     "Deals and banks: Byline (Chicago) is buying Illinois State Bancorp for $87.9M at 1.07x tangible book. Peoples Bancorp–Capital Bancorp ($728M, all-stock) and C.H. Robinson–RXO ($5.8B) both landed this week. Constellation Brands beat Q2 (EPS $3.74 vs $3.61) but held FY27 guidance below consensus. Big-bank Q3 starts Oct 13 with JPM (EPS est $5.82)."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (index levels are Tue closes; changes are futures)",
+  "markets_asof": "Post-open ≈9:20 AM CT (index changes per early reports; levels approximate)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,818.93",
-      "change": "fut −0.2%",
+      "value": "≈7,786",
+      "change": "−0.4% to −0.5%",
       "dir": "down",
-      "note": "Tue record close; futures per CNBC"
+      "note": "Off Tue record 7,818.93"
     },
     {
       "label": "Dow",
-      "value": "51,521.28",
-      "change": "fut −201 pts (−0.4%)",
+      "value": "≈51,190",
+      "change": "−0.6% to −0.9%",
       "dir": "down",
-      "note": "Tue close; CNBC futures"
+      "note": "Tue close 51,521.28"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "27,599.79",
-      "change": "NQ fut −0.4%",
+      "value": "≈27,445",
+      "change": "−0.6% to −0.7%",
       "dir": "down",
-      "note": "Tue record close"
+      "note": "Off Tue record"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "≈−0.7% pre-mkt",
-      "dir": "down",
-      "note": "StockAnalysis pre-market, single source"
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable intraday print found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.806%",
-      "change": "+1 bp",
+      "value": "≈4.82%",
+      "change": "+2 bp",
       "dir": "up",
-      "note": "CNBC"
+      "note": "Trading Economics"
     },
     {
       "label": "UST 10Y",
-      "value": "5.322%",
-      "change": "+6 bp",
+      "value": "5.35%",
+      "change": "≈+8 bp",
       "dir": "up",
-      "note": "2s10s ≈52 bp; Mon high 5.349%"
+      "note": "Intraday high 5.36%, highest since Apr 2002 (CNBC/Yahoo)"
     },
     {
       "label": "UST 30Y",
-      "value": "5.703%",
-      "change": "+6 bp",
+      "value": "≈5.70%",
+      "change": "≈+6 bp",
       "dir": "up",
-      "note": "Touched 5.7041%, 24-yr high (Reuters)"
+      "note": "Near 24-yr high; $22B 30Y auction Thu"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct hike ≈20.5%",
       "dir": "flat",
-      "note": "Dec cumulative hike ≈84.5% (FedWatch via Reuters)"
+      "note": "Morning FedWatch; minutes 1 PM CT"
     },
     {
       "label": "WTI crude",
-      "value": "≈$90.3",
-      "change": "up",
+      "value": "≈$90.15",
+      "change": "+≈$0.77",
       "dir": "up",
-      "note": "Trading Economics; Tue settle ≈$88"
+      "note": "OilPrice/IBTimes"
     },
     {
       "label": "Brent",
-      "value": "$101.51",
-      "change": "+$0.93 (+0.9%)",
+      "value": "≈$101.5",
+      "change": "+≈$1.04",
       "dir": "up",
-      "note": "Houthi strikes on Aramco (CNBC)"
+      "note": "Houthi strikes on Aramco"
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,134.68",
-      "change": "−0.72%",
+      "value": "≈$4,121",
+      "change": "−1.04%",
       "dir": "down",
       "note": "Trading Economics"
     },
     {
       "label": "Silver",
-      "value": "$60.68",
+      "value": "≈$60.68",
       "change": "−1.07%",
       "dir": "down",
-      "note": "TE; FXStreet $60.21"
+      "note": "Trading Economics"
     },
     {
       "label": "Copper (COMEX)",
       "value": "$6.61/lb",
-      "change": "+0.17%",
-      "dir": "up",
-      "note": "LME held >$14,400/t Tue"
+      "change": "—",
+      "dir": "flat",
+      "note": "Pre-market level; no fresh print"
     },
     {
       "label": "Dollar index",
-      "value": "102.06",
-      "change": "+0.20%",
-      "dir": "up",
-      "note": "Near Monday's 18-month high 102.53"
+      "value": "≈102.1",
+      "change": "—",
+      "dir": "flat",
+      "note": "Pre-market 102.06; no fresh print"
     }
   ],
   "calendar": [
@@ -436,5 +436,46 @@
     }
   ],
   "caveats": "WebFetch was blocked, so every figure comes from search snippets. The WSJ and NYT items were sourced through other outlets (Reuters/Investing.com, Just Security, The Motley Fool, Joe.My.God). No NYT-bylined story for Oct 6–7 was retrievable, so the NYT bucket covers the same day's major stories via the outlets named. No Chicago Tribune piece was retrievable; Chicago items come from GuruFocus, CME, Bloomberg/GuruFocus and Hoodline. Index levels are Tuesday closes and changes are pre-market futures. WTI (≈$90.3) and the metals are Trading Economics quotes that may differ by contract or time. The OAT–Bund spread differs by source (≈127 bp today vs ≈145 bp cited Monday). December hike odds range from ≈62% to 84.5% depending on venue and whether they are cumulative. The 10Y when-issued is approximated from the secondary-market yield. The Russell 2000 pre-market move is single-source. No major Fed speakers were confirmed for today.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-07T14:18:09Z",
+      "label": "Post-open",
+      "headline": "The open made things worse: the 10Y hit 5.35–5.36%, its highest since April 2002, and broke Monday's 5.349% high two and a half hours before the $39B auction, while the Dow fell ≈0.9% from Tuesday's records.",
+      "points": [
+        "Rates: CNBC has the 10Y up nearly 8 bp to 5.35%, and Yahoo puts the intraday high at 5.36%, which breaks the morning's 5.349% line. The 30Y is ≈5.70% and the 2Y ≈4.82% (+2 bp), so 2s10s widened to ≈53 bp. Since end-July the 10Y is up 60 bp and WTI is up ≈20% (CNBC).",
+        "Stocks: the first prints were Dow −0.9%, S&P −0.5% and Nasdaq −0.7%, before trimming to S&P −0.42%, Dow −0.64% and Nasdaq −0.56% (TheStreet/Yahoo). That is worse than the −0.2% S&P futures in the morning brief.",
+        "Oil holds its gains: Brent ≈$101.5–101.6 (+≈$1.04) and WTI ≈$90.1–90.2 (+≈$0.77) after the Houthi strikes on Aramco. One offset: Aramco cut Arab Light's Asian price to a six-year low, a sign that Gulf flows are recovering. EIA weekly stocks come at 9:30 AM CT (prior week +0.9M bbl to 427.3M; SPR 283.8M, lowest since 1982).",
+        "Metals are weaker: gold ≈$4,121 (−1.0%, Trading Economics) vs $4,135 pre-market, and silver ≈$60.68 (−1.1%). A higher real-yield path is weighing on non-yielding bullion ahead of the minutes.",
+        "Banks: TowneBank (TOWN) agreed to buy Blueharbor Bank (Charlotte) for ≈$154M, the third community-bank deal this week after Byline–Illinois State and Peoples–Capital. The morning thesis stands, but 5.35% is no longer resistance. The auction now has to defend it."
+      ],
+      "simple": "A Treasury yield is the interest the government pays to borrow. The 10-year rate climbed to its highest level in 24 years this morning because pricier oil revives inflation fears and investors want more pay to hold long-term debt. At noon the Treasury sells $39 billion of new 10-year notes. If buyers demand an even higher rate there, mortgage, car and business loan costs go up with it, and stocks and gold usually lose ground when safe bonds pay that much.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-07-2026"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/gold"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://gurufocus.com/news/9111435/townebank-town-to-acquire-blueharbor-bank-expanding-charlottearea-footprint"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-07T14:18:09Z"
 }
