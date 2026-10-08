@@ -11,105 +11,105 @@
     "Fed path: October is priced as a hold (hike ≈17–18%) and December as a hike (≈83–84%, CME FedWatch via Reuters/Scotsman Guide). The minutes said 'most' officials see one more hike by year-end. Jobless claims at 7:30 AM CT (cons 200K, prior 197K) matter more than usual after September payrolls came in at +29K: a low print supports December, a jump revives the 'hiking into weakness' debate.",
     "Metals are under pressure from real yields (10Y TIPS ≈2.92%), but the buyers beneath them are sticky. Gold is ≈$4,107 after Wednesday's −1.3% and silver ≈$59.7 after −2.6%. The PBOC added 740K oz in September (its 23rd straight month) and gold ETFs took in a record ≈$31B in Q3 (WGC). Copper is ≈$6.60/lb, near records, as the Centinela strike began Oct 7 and Escondida supervisors sit in mediation."
   ],
-  "markets_asof": "Midday ≈12:00 PM CT (index levels derived from Wed close)",
+  "markets_asof": "Close ≈3:15 PM CT (some levels late-session)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,786",
-      "change": "≈−0.2%",
+      "value": "7,765.48",
+      "change": "−0.47%",
       "dir": "down",
-      "note": "CNBC ≈11:55 AM CT; low 7,771"
+      "note": "Yahoo close; another feed 7,758 (−0.56%)"
     },
     {
       "label": "Dow",
-      "value": "≈51,106",
-      "change": "−72 pts (−0.1%)",
-      "dir": "down",
-      "note": "Low 50,973 (−0.40%)"
+      "value": "51,231.70",
+      "change": "+51.83 (+0.10%)",
+      "dir": "up",
+      "note": "Yahoo close"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈27,401",
-      "change": "≈−0.5%",
+      "value": "27,193.34",
+      "change": "−1.25%",
       "dir": "down",
-      "note": "Chip selloff (Bloomberg)"
+      "note": "Chips hit by FT/OpenAI revenue report"
     },
     {
       "label": "Russell 2000",
-      "value": "2,793.36",
-      "change": "Wed −1.31%",
+      "value": "≈2,777",
+      "change": "≈−0.58%",
       "dir": "down",
-      "note": "Wed close; no fresh intraday print found"
+      "note": "Late feed (Sunday Guardian)"
     },
     {
       "label": "UST 2Y",
       "value": "4.80%",
       "change": "+4 bp",
       "dir": "up",
-      "note": "Post-open read; no fresher print found"
+      "note": "Post-open read; no close found"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.27%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "CNBC 5.273%"
+      "value": "≈5.24%",
+      "change": "≈−4 bp",
+      "dir": "down",
+      "note": "CNBC 5.237%; pre-market high 5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.64%",
-      "change": "≈−2 bp",
+      "value": "≈5.61%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "Auction stopped 5.618%, 0.1 bp tail"
+      "note": "Auction 5.618%, 0.1 bp tail"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈20–25%",
+      "change": "Oct hike ≈18–22%",
       "dir": "flat",
-      "note": "Dec hike ≈83% (morning)"
+      "note": "Dec is the live meeting"
     },
     {
       "label": "WTI crude",
-      "value": "≈$92.3",
-      "change": "≈+4.5%",
+      "value": "$91.49",
+      "change": "+3.6%",
       "dir": "up",
-      "note": "Wed settle $88.28"
+      "note": "Settle; high $93.20"
     },
     {
       "label": "Brent",
-      "value": "≈$104.75",
-      "change": "≈+4.5%",
+      "value": "$104.28",
+      "change": "+4%",
       "dir": "up",
-      "note": "≈25% of Gulf crude shut in"
+      "note": "Settle; high $105.92"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,120",
-      "change": "≈+0.3%",
+      "value": "≈$4,128",
+      "change": "+$18 (≈+0.4%)",
       "dir": "up",
-      "note": "Just above 9-week low"
+      "note": "Kitco 2:16 PM ET"
     },
     {
       "label": "Silver",
       "value": "≈$58.6",
       "change": "≈−1.8%",
       "dir": "down",
-      "note": "Kitco/GoldSilver"
+      "note": "Midday spot; futures ≈$60.5 (−1.75%)"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.60/lb",
-      "change": "≈flat",
+      "value": "≈$6.66/lb",
+      "change": "≈+0.1%",
       "dir": "flat",
-      "note": "Post-open read; no fresher print found"
+      "note": "Investing.com futures"
     },
     {
       "label": "Dollar index",
       "value": "—",
       "change": "Wed +0.40% to 102.24",
       "dir": "flat",
-      "note": "No fresh print found"
+      "note": "No fresh print; USD/JPY eased as yields fell"
     }
   ],
   "calendar": [
@@ -403,6 +403,49 @@
   "caveats": "WebFetch was blocked for most outlets (CNBC, Investing.com, Kitco, Tribune), so most figures come from search-result snippets. WSJ items come from a press-digest summary and secondary outlets. NYT sourcing is weak: no Oct 8 NYT digest was retrievable, so the NYT bucket uses an Oct 6 digest headline plus same-day coverage by CNN and AP. No Chicago Tribune piece was retrievable; Chicago items come from company releases and other outlets. Brent varies by snapshot ($102.3 at ≈4 AM CT per the Globe and Mail, $104.3 later per Arbiterz). Wednesday's 30Y high is ≈5.73% by most sources (not 5.704% as stated yesterday), and Wednesday's 10Y close ranges 5.28–5.32% by source. Silver and platinum quotes vary by source and timestamp. Jobless-claims consensus is 200K on most calendars, with one at 211K. The 30Y WI is approximated from the secondary yield. Fed speaker times weren't found. The KBW index level and Wednesday's VIX/MOVE closes weren't available.",
   "updates": [
     {
+      "at": "2026-10-08T20:18:20Z",
+      "label": "Close",
+      "headline": "Trump's pledge not to strike Iran before the Nov 3 midterms took the edge off oil and pulled yields lower into the close, with the 10Y ≈5.24% (−4 bp) and 30Y ≈5.61% (−5 bp). Stocks didn't follow: an FT report on OpenAI's revenue sank chips, and the Nasdaq fell ≈1.3% while the Dow eked out a gain.",
+      "points": [
+        "Rates (CNBC, late session): the 10Y was ≈5.237% (−4 bp) and the 30Y ≈5.614% (−≈5 bp), down from pre-market highs of 5.35% / 5.725%. That's a ≈11 bp intraday reversal in the 10Y. Wells Fargo called the 30Y reopening (5.618%, 0.1 bp tail) weaker than Wednesday's 10Y but fine. We found no fresh close for the 2Y; it was last seen at 4.80% (+4 bp), so the curve bull-steepened into the close after a bear-flattening open.",
+        "Fed: FXEmpire puts October hike odds at ≈22% (≈70% a week ago), and another read has a hold at ≈82%. December remains the live meeting. Kashkari (10:40 ET panel) and Musalem (1:40 ET) were scheduled, but we found no reporting of new comments from either, so Waller's 'more hikes' is still the day's Fed signal.",
+        "Stocks (Yahoo Finance close): S&P 7,765.48 (−0.47%), Nasdaq 27,193.34 (−1.25%), Dow 51,231.70 (+51.83, +0.10%). The FT reported that OpenAI's annualized revenue is ≈$20B below what was previously signaled, which hit semis. One late feed shows slightly lower levels (S&P −0.56%, Nasdaq −1.38%, Russell 2,777 at −0.58%), so treat these as ≈.",
+        "Oil (CNBC settles): Brent +4% to $104.28 and WTI +3.6% to $91.49, off highs of $105.92 / $93.20 hit before the Trump post. Iranian tanker attacks in Hormuz plus ≈25% of Gulf of Mexico output shut in for Isaias keep supply tight, and the morning thesis of oil as the main upside risk for yields still holds.",
+        "Metals: gold was ≈$4,128 at 2:16 PM ET (+$18; range $4,103–4,147, Kitco), helped by the lower yields. Silver lagged at ≈−1.8%, and copper was ≈$6.66 (≈+0.1%, futures). Tomorrow: Delta (DAL) Q3 pre-open is the jet-fuel read, and Sept CPI on Tue Oct 14 is the next big input for the Fed."
+      ],
+      "simple": "Treasury yields are the interest the U.S. government pays to borrow, and they set the floor for mortgage and business loan rates. They fell today after the President said the U.S. won't attack Iran before the November elections, which eased fears of an even bigger oil price spike, and an oil spike feeds inflation and could push the Fed to raise rates. Stocks still slipped because a report that OpenAI earns less than people thought hurt chipmakers, whose valuations rest on huge AI spending.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/business/energy/oil-prices-stocks-trump-iran-rcna602248"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "FXEmpire",
+          "url": "https://fxempire.com/forecasts/article/understanding-golds-recent-drop-and-future-path-with-elev8-broker-1636753"
+        }
+      ]
+    },
+    {
       "at": "2026-10-08T17:18:17Z",
       "label": "Midday",
       "headline": "The 30Y reopening went fine: $22B stopped at 5.618%, with a 0.1 bp tail, 2.54x cover and dealers left only 6.8%. So the week's $119B of supply is done without a buyers' strike, the 10Y is flat near 5.27%, and oil (not auctions) is the main upside risk for yields now.",
@@ -473,5 +516,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T17:18:17Z"
+  "updatedAt": "2026-10-08T20:18:20Z"
 }
