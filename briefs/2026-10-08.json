@@ -11,28 +11,28 @@
     "Fed path: October is priced as a hold (hike ≈17–18%) and December as a hike (≈83–84%, CME FedWatch via Reuters/Scotsman Guide). The minutes said 'most' officials see one more hike by year-end. Jobless claims at 7:30 AM CT (cons 200K, prior 197K) matter more than usual after September payrolls came in at +29K: a low print supports December, a jump revives the 'hiking into weakness' debate.",
     "Metals are under pressure from real yields (10Y TIPS ≈2.92%), but the buyers beneath them are sticky. Gold is ≈$4,107 after Wednesday's −1.3% and silver ≈$59.7 after −2.6%. The PBOC added 740K oz in September (its 23rd straight month) and gold ETFs took in a record ≈$31B in Q3 (WGC). Copper is ≈$6.60/lb, near records, as the Centinela strike began Oct 7 and Escondida supervisors sit in mediation."
   ],
-  "markets_asof": "Post-open ≈9:05 AM CT (index levels derived from Wed close)",
+  "markets_asof": "Midday ≈12:00 PM CT (index levels derived from Wed close)",
   "markets": [
     {
       "label": "S&P 500",
       "value": "≈7,786",
       "change": "≈−0.2%",
       "dir": "down",
-      "note": "Wed close 7,801.77"
+      "note": "CNBC ≈11:55 AM CT; low 7,771"
     },
     {
       "label": "Dow",
-      "value": "≈51,180",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Futures had been −510 pts"
+      "value": "≈51,106",
+      "change": "−72 pts (−0.1%)",
+      "dir": "down",
+      "note": "Low 50,973 (−0.40%)"
     },
     {
       "label": "Nasdaq Composite",
       "value": "≈27,401",
       "change": "≈−0.5%",
       "dir": "down",
-      "note": "Wed close 27,538.69"
+      "note": "Chip selloff (Bloomberg)"
     },
     {
       "label": "Russell 2000",
@@ -46,28 +46,28 @@
       "value": "4.80%",
       "change": "+4 bp",
       "dir": "up",
-      "note": "Claims 197K vs 200K"
+      "note": "Post-open read; no fresher print found"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.29%",
-      "change": "≈+1 bp",
-      "dir": "up",
-      "note": "Off pre-market 5.35%"
+      "value": "≈5.27%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC 5.273%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.66%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "$22B reopening noon CT"
+      "value": "≈5.64%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "Auction stopped 5.618%, 0.1 bp tail"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈83%",
+      "change": "Oct hike ≈20–25%",
       "dir": "flat",
-      "note": "Morning pricing; no fresh read"
+      "note": "Dec hike ≈83% (morning)"
     },
     {
       "label": "WTI crude",
@@ -81,28 +81,28 @@
       "value": "≈$104.75",
       "change": "≈+4.5%",
       "dir": "up",
-      "note": "Isaias, Gulf shut-ins"
+      "note": "≈25% of Gulf crude shut in"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,128",
-      "change": "≈+0.45%",
+      "value": "≈$4,120",
+      "change": "≈+0.3%",
       "dir": "up",
-      "note": "Kitco"
+      "note": "Just above 9-week low"
     },
     {
       "label": "Silver",
-      "value": "≈$58.8",
-      "change": "≈−1.4%",
+      "value": "≈$58.6",
+      "change": "≈−1.8%",
       "dir": "down",
-      "note": "Kitco"
+      "note": "Kitco/GoldSilver"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.60/lb",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Trading Economics"
+      "note": "Post-open read; no fresher print found"
     },
     {
       "label": "Dollar index",
@@ -403,6 +403,45 @@
   "caveats": "WebFetch was blocked for most outlets (CNBC, Investing.com, Kitco, Tribune), so most figures come from search-result snippets. WSJ items come from a press-digest summary and secondary outlets. NYT sourcing is weak: no Oct 8 NYT digest was retrievable, so the NYT bucket uses an Oct 6 digest headline plus same-day coverage by CNN and AP. No Chicago Tribune piece was retrievable; Chicago items come from company releases and other outlets. Brent varies by snapshot ($102.3 at ≈4 AM CT per the Globe and Mail, $104.3 later per Arbiterz). Wednesday's 30Y high is ≈5.73% by most sources (not 5.704% as stated yesterday), and Wednesday's 10Y close ranges 5.28–5.32% by source. Silver and platinum quotes vary by source and timestamp. Jobless-claims consensus is 200K on most calendars, with one at 211K. The 30Y WI is approximated from the secondary yield. Fed speaker times weren't found. The KBW index level and Wednesday's VIX/MOVE closes weren't available.",
   "updates": [
     {
+      "at": "2026-10-08T17:18:17Z",
+      "label": "Midday",
+      "headline": "The 30Y reopening went fine: $22B stopped at 5.618%, with a 0.1 bp tail, 2.54x cover and dealers left only 6.8%. So the week's $119B of supply is done without a buyers' strike, the 10Y is flat near 5.27%, and oil (not auctions) is the main upside risk for yields now.",
+      "points": [
+        "30Y reopening (InvestingLive): high yield 5.618% vs 5.617% WI, a 0.1 bp tail (the 6-auction average is a −0.1 bp stop-through). Bid-to-cover was 2.54x vs a 2.41x average. Indirects took 72.3% (avg 69.1%), directs 20.9% and dealers 6.8%. Close to neutral, a 'B'. It's 31 bp above September's 5.308%, but nothing like a failed auction. The morning's 'tail → 5.75%+' scenario didn't happen.",
+        "Treasuries ahead of the sale (CNBC/Reuters): 10Y ≈5.27% (≈flat), 30Y ≈5.64–5.67%, well off the 5.35% / 5.725% pre-market highs in this morning's tiles. Reuters still calls oil the main driver of yields. October hike odds are ≈20–25% (Babypips); December stays the live meeting.",
+        "Stocks at ≈11:55 AM CT (CNBC): S&P −0.2%, Nasdaq −0.5%, Dow −72 pts (−0.1%). They've recovered from the ≈11:37 AM ET lows, when the Dow was −0.40% at 50,973 and the S&P −0.39% at 7,771 (Motley Fool). Bloomberg reports a chip selloff tied to an OpenAI revenue report, with the Nasdaq-100 down as much as 1.3% and a semis gauge −3% at the lows. We couldn't confirm the details.",
+        "Commodities: WTI ≈$92.3–93 (+4.5–5%), Brent ≈$104.75 (+4.5%) (Reuters). Isaias has ≈25% of Gulf crude and ≈16% of gas output shut in, and Shell and Chevron have curtailed operations. Gold is only ≈+0.3% at ≈$4,120 and silver ≈−1.8% (GoldSilver/Kitco): high real yields are capping metals even with the oil shock.",
+        "Still ahead: Musalem speaks on the economy and policy at Bloomberg's fixed-income event in New York (≈12:40 PM CT per FXStreet). Kashkari's remarks weren't in the coverage we found. No bank M&A today. Third Coast–Great Plains ($239.6M, all-stock) was Wednesday."
+      ],
+      "simple": "The government sold $22 billion of 30-year bonds (loans to the U.S. it repays in 30 years). Buyers paid almost exactly the market price, and few bonds were left with the big dealer banks that have to soak up leftovers, so demand was healthy. That calmed fears that investors were refusing to lend long-term to the government. Mortgage and corporate borrowing costs, which follow these yields, stopped climbing for now. Oil prices are the bigger worry, because pricier fuel pushes up inflation and could make the Fed raise rates again.",
+      "sources": [
+        {
+          "name": "InvestingLive",
+          "url": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-midday-oct-8-stocks-edge-lower-on-growing-ai-caution/"
+        },
+        {
+          "name": "Reuters via Virginia Business",
+          "url": "https://virginiabusiness.com/oil-prices-jump-middle-east-supply-us-hurricane/"
+        },
+        {
+          "name": "GoldSilver",
+          "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-silver-oil-shock-real-yields-hormuz-hurricane/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-08T14:18:44Z",
       "label": "Post-open",
       "headline": "Claims stayed near 57-year lows at 197K, and the long end steadied from its pre-market highs: the 10Y is back near 5.29% while the 2Y holds +4 bp, a bear-flattener heading into the noon 30Y reopening.",
@@ -434,5 +473,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T14:18:44Z"
+  "updatedAt": "2026-10-08T17:18:17Z"
 }
