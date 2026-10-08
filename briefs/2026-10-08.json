@@ -11,55 +11,55 @@
     "Fed path: October is priced as a hold (hike ≈17–18%) and December as a hike (≈83–84%, CME FedWatch via Reuters/Scotsman Guide). The minutes said 'most' officials see one more hike by year-end. Jobless claims at 7:30 AM CT (cons 200K, prior 197K) matter more than usual after September payrolls came in at +29K: a low print supports December, a jump revives the 'hiking into weakness' debate.",
     "Metals are under pressure from real yields (10Y TIPS ≈2.92%), but the buyers beneath them are sticky. Gold is ≈$4,107 after Wednesday's −1.3% and silver ≈$59.7 after −2.6%. The PBOC added 740K oz in September (its 23rd straight month) and gold ETFs took in a record ≈$31B in Q3 (WGC). Copper is ≈$6.60/lb, near records, as the Centinela strike began Oct 7 and Escondida supervisors sit in mediation."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (indices = Wed close; futures in notes)",
+  "markets_asof": "Post-open ≈9:05 AM CT (index levels derived from Wed close)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,801.77",
-      "change": "−0.22%",
+      "value": "≈7,786",
+      "change": "≈−0.2%",
       "dir": "down",
-      "note": "Wed close; futures −0.6%"
+      "note": "Wed close 7,801.77"
     },
     {
       "label": "Dow",
-      "value": "51,179.87",
-      "change": "−341.41 (−0.66%)",
-      "dir": "down",
-      "note": "Wed close; futures −510 pts"
+      "value": "≈51,180",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Futures had been −510 pts"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "27,538.69",
-      "change": "−0.22%",
+      "value": "≈27,401",
+      "change": "≈−0.5%",
       "dir": "down",
-      "note": "Wed close; NDX futures −0.8%"
+      "note": "Wed close 27,538.69"
     },
     {
       "label": "Russell 2000",
       "value": "2,793.36",
-      "change": "−1.31%",
+      "change": "Wed −1.31%",
       "dir": "down",
-      "note": "Wed close"
+      "note": "Wed close; no fresh intraday print found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.816%",
-      "change": "+5 bp",
+      "value": "4.80%",
+      "change": "+4 bp",
       "dir": "up",
-      "note": "Waller: more hikes likely"
+      "note": "Claims 197K vs 200K"
     },
     {
       "label": "UST 10Y",
-      "value": "5.35%",
-      "change": "+7 bp",
+      "value": "≈5.29%",
+      "change": "≈+1 bp",
       "dir": "up",
-      "note": "Wed high ≈5.365%, highest since 2002"
+      "note": "Off pre-market 5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.725%",
-      "change": "+6 bp",
-      "dir": "up",
+      "value": "≈5.66%",
+      "change": "≈flat",
+      "dir": "flat",
       "note": "$22B reopening noon CT"
     },
     {
@@ -67,49 +67,49 @@
       "value": "3.75–4.00%",
       "change": "Dec hike ≈83%",
       "dir": "flat",
-      "note": "Oct 28 hike ≈17–18%"
+      "note": "Morning pricing; no fresh read"
     },
     {
       "label": "WTI crude",
-      "value": "≈$91.7",
-      "change": "≈+3.9%",
+      "value": "≈$92.3",
+      "change": "≈+4.5%",
       "dir": "up",
       "note": "Wed settle $88.28"
     },
     {
       "label": "Brent",
-      "value": "≈$104.3",
-      "change": "≈+4.1%",
+      "value": "≈$104.75",
+      "change": "≈+4.5%",
       "dir": "up",
-      "note": "Houthis, Hormuz, Isaias"
+      "note": "Isaias, Gulf shut-ins"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,107",
-      "change": "Wed −1.3%",
-      "dir": "down",
-      "note": "Kitco, Wed evening"
+      "value": "≈$4,128",
+      "change": "≈+0.45%",
+      "dir": "up",
+      "note": "Kitco"
     },
     {
       "label": "Silver",
-      "value": "≈$59.2–59.7",
-      "change": "≈−0.9%",
+      "value": "≈$58.8",
+      "change": "≈−1.4%",
       "dir": "down",
-      "note": "Below $60"
+      "note": "Kitco"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.60/lb",
-      "change": "≈+0.5%",
-      "dir": "up",
-      "note": "Centinela strike on"
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Trading Economics"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.3",
+      "value": "—",
       "change": "Wed +0.40% to 102.24",
-      "dir": "up",
-      "note": "Euro near 17-month low"
+      "dir": "flat",
+      "note": "No fresh print found"
     }
   ],
   "calendar": [
@@ -401,5 +401,38 @@
     }
   ],
   "caveats": "WebFetch was blocked for most outlets (CNBC, Investing.com, Kitco, Tribune), so most figures come from search-result snippets. WSJ items come from a press-digest summary and secondary outlets. NYT sourcing is weak: no Oct 8 NYT digest was retrievable, so the NYT bucket uses an Oct 6 digest headline plus same-day coverage by CNN and AP. No Chicago Tribune piece was retrievable; Chicago items come from company releases and other outlets. Brent varies by snapshot ($102.3 at ≈4 AM CT per the Globe and Mail, $104.3 later per Arbiterz). Wednesday's 30Y high is ≈5.73% by most sources (not 5.704% as stated yesterday), and Wednesday's 10Y close ranges 5.28–5.32% by source. Silver and platinum quotes vary by source and timestamp. Jobless-claims consensus is 200K on most calendars, with one at 211K. The 30Y WI is approximated from the secondary yield. Fed speaker times weren't found. The KBW index level and Wednesday's VIX/MOVE closes weren't available.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-08T14:18:44Z",
+      "label": "Post-open",
+      "headline": "Claims stayed near 57-year lows at 197K, and the long end steadied from its pre-market highs: the 10Y is back near 5.29% while the 2Y holds +4 bp, a bear-flattener heading into the noon 30Y reopening.",
+      "points": [
+        "Initial claims were 197K vs 200K consensus, down 2K from a prior revised up to 199K. That's the fourth straight week near 57-year lows. Continuing claims rose 17K to 1.716M, so this is still 'low-hire, low-fire', and nothing here argues against the ≈83% December hike pricing.",
+        "Treasuries (CNBC): 2Y 4.80% (+4 bp), 10Y ≈5.29%, 30Y ≈5.66% (≈unchanged). The pre-market 5.35% / 5.725% prints in this morning's tiles have faded, so the curve is flattening from the front, consistent with Waller, not term premium. The 30Y comes with a buyback of up to $6B of longer debt alongside it.",
+        "Stocks at 10:04 AM ET (Yahoo Finance): Dow ≈flat, S&P ≈−0.2%, Nasdaq ≈−0.5%. That's a far milder open than the −510-pt Dow futures had implied pre-market.",
+        "Oil extended its gains: WTI ≈$92.3, Brent ≈$104.75 (Kitco), with Gulf shut-ins ahead of Isaias still ≈25% of output. Gold firmed to ≈$4,128 (+0.45%) even as silver fell to ≈$58.8 (−1.4%). Copper is flat at ≈$6.60/lb.",
+        "Still ahead: Kashkari (morning) and Musalem (afternoon). On Oct 1, Kashkari said he had no strong view on an October hike but expects one more hike this year. Then the $22B 30Y at 12:00 PM CT."
+      ],
+      "simple": "Jobless claims count the people who filed for unemployment benefits for the first time last week. They stayed very low, so companies still aren't laying people off, and that gives the Fed room to raise rates again. Short-term Treasury yields (the interest the government pays to borrow) rose on that, while long-term yields slipped back from early highs, so the gap between them narrowed. That gap matters to banks, which borrow short and lend long.",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-fall-as-layoffs-remain-low-4939045"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://kitco.com/news/article/2026-10-08/gold-firms-silver-slides-oil-surge-revives-inflation-pressure-kitco-am"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-08T14:18:44Z"
 }
