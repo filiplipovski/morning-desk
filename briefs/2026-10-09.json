@@ -11,105 +11,105 @@
     "Metals are rebounding on lower yields. Gold is ≈$4,187 (+1.3%, Trading Economics; Kitco $4,191.50, +$59 at 2:17 AM ET), up from Wednesday's two-month low, with $4,200 as resistance. Silver is ≈$60.40 (+2.1%) and the gold/silver ratio 69.4. LME copper rose 0.96% Thursday to $14,614.5/t, 2% below the Sept 10 record, as the Centinela strike (709 workers) continues and Escondida supervisors sit in mediation.",
     "Telecom is today's deal story. SpaceX agreed to buy Grain Management's nationwide 800 MHz spectrum, which the WSJ values at ≈$8B. T-Mobile, Verizon and AT&T are down 5–7% pre-market and Deutsche Telekom −7–8% (Reuters). Next week is heavy for bank-sector seats: JPM, WFC, C (and GS per some calendars) report Tuesday Oct 13, and JPM guided to trading and IB fees up mid-to-high teens while BofA warned of a ≥10% IB fee drop."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT Fri (cash indices = Thu close)",
+  "markets_asof": "≈9:00 AM CT (S&P/Nasdaq/Dow levels estimated from CNBC % moves at 8:52 AM CT)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,765.36",
-      "change": "−0.47%",
-      "dir": "down",
-      "note": "Thu close; futures +0.3–0.4% (CNBC)"
+      "value": "≈7,789",
+      "change": "+0.3%",
+      "dir": "up",
+      "note": "Estimated from Thu close 7,765.36; ≈+1% on the week"
     },
     {
       "label": "Dow",
-      "value": "51,231.64",
-      "change": "+0.10%",
+      "value": "≈51,296",
+      "change": "+64 pts (+0.1%)",
       "dir": "up",
-      "note": "Thu close; futures +82 pts (+0.2%)"
+      "note": "CNBC 9:52 AM ET"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "27,193.34",
-      "change": "−1.25%",
-      "dir": "down",
-      "note": "Thu close; NDX futures +0.8%; SOX −3.4% Thu"
+      "value": "≈27,356",
+      "change": "+0.6%",
+      "dir": "up",
+      "note": "Tech rebound after Thu −1.25%"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,794",
-      "change": "≈flat",
+      "value": "—",
+      "change": "—",
       "dir": "flat",
-      "note": "Yahoo close 2,794.13; another feed ≈2,777"
+      "note": "No verified intraday print"
     },
     {
       "label": "UST 2Y",
-      "value": "4.783%",
-      "change": "+2 bp",
-      "dir": "up",
-      "note": "CNBC early Fri"
+      "value": "≈4.76–4.78%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Trading Economics / Benzinga"
     },
     {
       "label": "UST 10Y",
-      "value": "5.240%",
-      "change": "flat",
-      "dir": "flat",
-      "note": "Thu −6 bp; Wed/Thu high ≈5.36%"
+      "value": "≈5.23%",
+      "change": "−1 bp",
+      "dir": "down",
+      "note": "Trading Economics; no clean post-UMich print"
     },
     {
       "label": "UST 30Y",
-      "value": "5.615%",
-      "change": "flat",
+      "value": "≈5.6%",
+      "change": "—",
       "dir": "flat",
-      "note": "Thu reopening 5.618%"
+      "note": "Last firm print 5.615% early Fri (CNBC)"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct hike ≈17%",
       "dir": "flat",
-      "note": "Dec hike ≈81–86% (FedWatch)"
+      "note": "Morning FedWatch read; UMich 1-yr infl. exp. 4.7%"
     },
     {
       "label": "WTI crude",
-      "value": "≈$90.4",
-      "change": "−1.2%",
+      "value": "≈$90.2–90.4",
+      "change": "−1.2–1.4%",
       "dir": "down",
       "note": "Thu settle $91.49"
     },
     {
       "label": "Brent",
-      "value": "≈$103",
-      "change": "−1.3%",
+      "value": "≈$102.6–102.9",
+      "change": "−1.3–1.6%",
       "dir": "down",
-      "note": "Quotes $102.9–103.5; Thu settle $104.28"
+      "note": "Thu settle $104.28; still up on the week"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,187",
-      "change": "+1.3%",
+      "value": "≈$4,169",
+      "change": "+≈0.9%",
       "dir": "up",
-      "note": "Kitco $4,191.50 at 2:17 AM ET"
+      "note": "Fortune 8:55 AM ET; faded from ≈$4,190"
     },
     {
       "label": "Silver",
-      "value": "≈$60.40",
-      "change": "+2.1%",
+      "value": "$60.58",
+      "change": "+$1.52 (+2.6%)",
       "dir": "up",
-      "note": "FXStreet; gold/silver 69.4"
+      "note": "Kitco 9:27 AM ET"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "$14,614.5/t",
-      "change": "+0.96%",
-      "dir": "up",
-      "note": "Thu; record $14,875 (Sep 10); COMEX ≈$6.6/lb"
+      "label": "Copper",
+      "value": "≈$14,496/t LME",
+      "change": "—",
+      "dir": "flat",
+      "note": "SP Angel; COMEX ≈$6.59/lb; weekly gain on China restocking"
     },
     {
       "label": "Dollar index",
-      "value": "—",
+      "value": "≈102–102.5",
       "change": "—",
       "dir": "flat",
-      "note": "No verified print; yen firmer on Iran pledge"
+      "note": "Approximate; sources disagree"
     }
   ],
   "calendar": [
@@ -401,5 +401,50 @@
     }
   ],
   "caveats": "WSJ items come from the Reuters press digest and Reuters/US News coverage, and NYT items from other outlets (TechCrunch, Bloomberg, Just Security, NBC). The Chicago Tribune wasn't accessible, so the Chicago bucket uses CME, Reuters and local trade sources. Pre-market oil, gold and silver are early-morning quotes that vary by source. The dollar index, PGMs, 10Y TIPS and the KBW bank index had no verified current print and are omitted. The Russell 2000 close differs by feed (2,777–2,794). Goldman's report date conflicts across calendars. The Monday bond-market closure is SIFMA's usual Columbus Day recommendation.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-09T14:19:48Z",
+      "label": "Post-open",
+      "headline": "UMich missed badly, 46.3 vs ≈47.8 expected, and 1-yr inflation expectations rose to 4.7%, but stocks opened higher on a tech rebound with the 10Y holding ≈5.23%.",
+      "points": [
+        "UMich Oct prelim: 46.3 vs ≈47.8 consensus (prior 48.1, though FXStreet lists 47.6). Current conditions fell to 44.7 from 50.9 and expectations rose to 47.3 from 46.3. 1-yr inflation expectations 4.7% (from 4.6%), 5-yr 3.5% (from 3.4%). The all-time low is 44.8 (May 2026).",
+        "Stagflation mix, not a dovish miss: weak sentiment plus higher long-run expectations backs the Fed's hike bias. The 10Y is ≈5.23% (−1 bp) and the 2Y ≈4.76–4.78%, still about 45–50 bp of 2s10s. We found no clean post-release print and no fresh FedWatch read, so the morning's Oct ≈17% / Dec ≈81–86% odds stand unconfirmed.",
+        "Stocks at 9:52 AM ET (CNBC): Nasdaq +0.6%, S&P +0.3%, Dow +64 pts (+0.1%). All three are on track for a weekly gain, with the S&P up ≈1% on the week. T, VZ and TMUS are down ≈6–7%, AMT +6% and CCI +≈8% on the SpaceX 800 MHz deal. Delta's revenue was $17.59B vs $17.67B expected (LSEG), and the stock is ≈−2% vs −4% indicated earlier.",
+        "Commodities: Brent ≈$102.6–102.9 (−1.3–1.6%) and WTI ≈$90.2–90.4. Gold is ≈$4,169 (Fortune, 8:55 AM ET), below the ≈$4,190 overnight high, and silver ≈$60.58 (+$1.52, Kitco 9:27 AM ET). LME copper is ≈$14,496/t (SP Angel), set for a weekly gain on China restocking.",
+        "Correction to the morning calendar: we could not confirm Schmid's 8:30 AM CT appearance, and no remarks have surfaced. Gold's pre-open pop has also faded about $20 as the 10Y stopped falling."
+      ],
+      "simple": "The University of Michigan asks consumers how they feel about the economy and what inflation (the pace of price increases) they expect. People felt worse than forecast but expect prices to rise faster, which is the mix that makes the Fed more likely to raise interest rates, not cut them. Stocks still rose because tech shares bounced back after Thursday's selloff, and bond yields (the interest rate the government pays to borrow) barely moved.",
+      "sources": [
+        {
+          "name": "CNBC (live blog, Oct 9)",
+          "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "investingLive (UMich)",
+          "url": "https://investinglive.com/news/us-october-umich-prelim-consumer-sentiment-vs-47-8-expected/"
+        },
+        {
+          "name": "FXStreet (UMich)",
+          "url": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000"
+        },
+        {
+          "name": "Reuters via Investing.com (open)",
+          "url": "https://www.investing.com/news/stock-market-news/us-stocks-open-higher-as-oil-slipstelecoms-hitby-spacex-spectrum-deal-4941289"
+        },
+        {
+          "name": "RTE (oil)",
+          "url": "https://rte.ie/news/business/2026/1009/1594665-world-oil-prices"
+        },
+        {
+          "name": "Fortune (gold)",
+          "url": "https://fortune.com/article/current-price-of-gold-10-09-2026/"
+        },
+        {
+          "name": "Kitco (silver)",
+          "url": "https://www.kitco.com/charts/silver"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-09T14:19:48Z"
 }
