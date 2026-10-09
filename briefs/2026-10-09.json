@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-09",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-09T11:24:10Z",
+  "headline": "Trump's pledge of no Iran strikes before the midterms has pulled Brent back to ≈$103 and parked the 10Y at 5.24%, about 12 bp below Wednesday's 24-year high. With this week's supply done, the 2Y still edging up and the bond market likely shut Monday, today is about UMich inflation expectations and positioning ahead of Tuesday's big-bank earnings and Wednesday's September CPI.",
+  "summary": [
+    "Rates have stopped falling but aren't selling off again. Early Friday, CNBC had the 10Y flat at 5.240%, the 30Y flat at 5.615% and the 2Y at 4.783% (+2 bp). Thursday's close was ≈5.22% on the 10Y (−6 bp, Forbes), after an overnight high of ≈5.36%. The front end is still firming while the long end rallies, which fits a Fed that keeps signaling hikes (Waller, Musalem) as the oil-driven term premium cools.",
+    "Oil gave back the Iran premium, not the hurricane premium. Brent is ≈$102.9–103.5 (−1.3%) and WTI ≈$90.4 (−1.2%), down from Thursday's $105.92 / $93.20 highs. Trump said the U.S. won't strike Iran before Nov 3. But Hurricane Isaias is due on the northern Gulf Coast tonight, and Gulf shut-ins run from >500K b/d to 1.28M b/d depending on the report and its time, so a weekend supply gap is still a two-way risk for Monday's open.",
+    "Equity futures are bouncing after Thursday's AI scare: S&P +0.3–0.4%, Nasdaq-100 +0.8%, Dow +≈80 pts (CNBC/Yahoo). The Nasdaq-100 fell 1.4% Thursday, its worst day in seven weeks, and the chip index lost 3.4% on an FT report that OpenAI's run-rate revenue is ≈$50B, not ≈$70B. Delta is −≈4% pre-market after its first EPS miss in two years ($1.72 vs $1.76) and a full-year cut to $5.10–5.60 from $6.50–7.50.",
+    "Fed path: FedWatch has October at ≈17% for a hike (38% a week ago) and December at ≈81–86%. Futures price policy at ≈4.1% by January and ≈4.7% by October 2027. Today's 9:00 AM CT UMich preliminary (consensus ≈47.5–47.9, prior 48.1) matters for its inflation-expectations line more than the headline. Schmid (KC Fed) speaks at 8:30 AM CT.",
+    "Metals are rebounding on lower yields. Gold is ≈$4,187 (+1.3%, Trading Economics; Kitco $4,191.50, +$59 at 2:17 AM ET), up from Wednesday's two-month low, with $4,200 as resistance. Silver is ≈$60.40 (+2.1%) and the gold/silver ratio 69.4. LME copper rose 0.96% Thursday to $14,614.5/t, 2% below the Sept 10 record, as the Centinela strike (709 workers) continues and Escondida supervisors sit in mediation.",
+    "Telecom is today's deal story. SpaceX agreed to buy Grain Management's nationwide 800 MHz spectrum, which the WSJ values at ≈$8B. T-Mobile, Verizon and AT&T are down 5–7% pre-market and Deutsche Telekom −7–8% (Reuters). Next week is heavy for bank-sector seats: JPM, WFC, C (and GS per some calendars) report Tuesday Oct 13, and JPM guided to trading and IB fees up mid-to-high teens while BofA warned of a ≥10% IB fee drop."
+  ],
+  "markets_asof": "Pre-market ≈6:15 AM CT Fri (cash indices = Thu close)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,765.36",
+      "change": "−0.47%",
+      "dir": "down",
+      "note": "Thu close; futures +0.3–0.4% (CNBC)"
+    },
+    {
+      "label": "Dow",
+      "value": "51,231.64",
+      "change": "+0.10%",
+      "dir": "up",
+      "note": "Thu close; futures +82 pts (+0.2%)"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "27,193.34",
+      "change": "−1.25%",
+      "dir": "down",
+      "note": "Thu close; NDX futures +0.8%; SOX −3.4% Thu"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,794",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Yahoo close 2,794.13; another feed ≈2,777"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.783%",
+      "change": "+2 bp",
+      "dir": "up",
+      "note": "CNBC early Fri"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.240%",
+      "change": "flat",
+      "dir": "flat",
+      "note": "Thu −6 bp; Wed/Thu high ≈5.36%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.615%",
+      "change": "flat",
+      "dir": "flat",
+      "note": "Thu reopening 5.618%"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hike ≈17%",
+      "dir": "flat",
+      "note": "Dec hike ≈81–86% (FedWatch)"
+    },
+    {
+      "label": "WTI crude",
+      "value": "≈$90.4",
+      "change": "−1.2%",
+      "dir": "down",
+      "note": "Thu settle $91.49"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$103",
+      "change": "−1.3%",
+      "dir": "down",
+      "note": "Quotes $102.9–103.5; Thu settle $104.28"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,187",
+      "change": "+1.3%",
+      "dir": "up",
+      "note": "Kitco $4,191.50 at 2:17 AM ET"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$60.40",
+      "change": "+2.1%",
+      "dir": "up",
+      "note": "FXStreet; gold/silver 69.4"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "$14,614.5/t",
+      "change": "+0.96%",
+      "dir": "up",
+      "note": "Thu; record $14,875 (Sep 10); COMEX ≈$6.6/lb"
+    },
+    {
+      "label": "Dollar index",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No verified print; yen firmer on Iran pledge"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-open",
+      "event": "Delta (DAL) Q3 (out)",
+      "consensus": "Adj. EPS $1.76",
+      "prior": "Actual $1.72; FY guide cut to $5.10–5.60 (from $6.50–7.50)",
+      "why": "Fuel expense +62% to $4.1B; Q4 fuel seen $4.25/gal. Read-through to United (Chicago HQ, reports Oct 20)"
+    },
+    {
+      "time": "8:30 AM",
+      "event": "KC Fed President Schmid speaks",
+      "consensus": "—",
+      "prior": "Recently: policy 'not restrictive', tighter policy needed",
+      "why": "Another hawkish voice would keep the 2Y bid even as the long end rallies"
+    },
+    {
+      "time": "9:00 AM",
+      "event": "UMich consumer sentiment, Oct prelim",
+      "consensus": "47.5–47.9",
+      "prior": "48.1",
+      "why": "Third straight drop expected on oil; the 1-yr / 5-yr inflation expectations are what the Fed and the 2Y trade off"
+    },
+    {
+      "time": "2:30 PM",
+      "event": "CFTC Commitments of Traders",
+      "consensus": "—",
+      "prior": "Lev. funds net short 2.41M 3M SOFR (Sep 29)",
+      "why": "Shows whether the crowded SOFR short was covered during the Wed–Thu bond rally"
+    },
+    {
+      "time": "Tonight",
+      "event": "Hurricane Isaias landfall, northern Gulf Coast",
+      "consensus": "—",
+      "prior": ">500K–1.28M b/d Gulf output shut in",
+      "why": "Weekend supply hit vs. Iran de-escalation sets Monday's oil and breakevens"
+    },
+    {
+      "time": "Mon Oct 12",
+      "event": "Columbus Day: bond market closed (SIFMA rec.), stocks open",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Thin liquidity; no cash Treasury price discovery until Tuesday"
+    },
+    {
+      "time": "Tue Oct 13",
+      "event": "Big-bank Q3: JPM, WFC, C (GS per some calendars)",
+      "consensus": "EPS up to +20% y/y (Reuters)",
+      "prior": "JPM: trading & IB fees guided up mid-to-high teens",
+      "why": "Read on trading desks in a 5%+ 10Y world and how rate hikes are hitting NII and deal flow"
+    },
+    {
+      "time": "Wed Oct 14, 7:30 AM",
+      "event": "September CPI",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Biggest input before Oct 27–28 FOMC; decides whether December's ≈83% hike sticks"
+    },
+    {
+      "time": "Oct 28, 1:00 PM",
+      "event": "FOMC decision (Oct 27–28)",
+      "consensus": "Hold (hike ≈17%)",
+      "prior": "Sep: +25 bp to 3.75–4.00%",
+      "why": "December is the live meeting"
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Long end steadies 12 bp off the highs as the front end keeps grinding up",
+        "body": "CNBC early Friday: 10Y 5.240% (flat), 30Y 5.615% (flat), 2Y 4.783% (+2 bp). The 10Y closed Thursday ≈5.22% (−6 bp, Forbes) after an overnight print of ≈5.36%. That puts 2s10s at ≈46 bp, flatter than Wednesday because the 2Y is still rising.",
+        "simple": "A Treasury yield is the interest rate the U.S. government pays to borrow, and a basis point (bp) is 0.01%. Long-term rates eased because the oil spike that was feeding inflation fears calmed down after Trump ruled out new Iran strikes before the election. Short-term rates kept rising because the Fed keeps hinting at more hikes, so mortgage and business-loan rates are likely to stay near multi-decade highs.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html"
+      },
+      {
+        "title": "30Y reopening clears near neutral, closing out $119B of supply",
+        "body": "Thursday's $22B 30Y priced at 5.618% with a 0.1 bp tail, 2.54x cover, 72.3% indirects (vs ≈68% 10-auction avg) and 6.8% dealers. With the 10Y reopening's 1.7 bp stop-through earlier in the week, real-money demand at 5.2–5.6% held up. No coupon auctions today.",
+        "simple": "When the Treasury sells new bonds at auction, a 'tail' means it had to pay a bit more than the market expected, a sign of weak demand. Here the miss was tiny, and foreign and institutional buyers ('indirects') took over 70%. In short, investors still lined up to lend to the government at these high rates, which takes away one reason for yields to keep climbing.",
+        "source": "CNBC / InvestingLive",
+        "url": "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html"
+      },
+      {
+        "title": "Waller and Musalem keep the hike path alive; market prices ≈4.7% by late 2027",
+        "body": "Waller (Oct 8) said inflation progress stalled partly on Middle East energy prices, after the Fed hiked 25 bp to 3.75–4.00% in September. Musalem said more hikes are likely needed and called financial conditions 'very accommodative.' Futures price ≈4.1% by January and ≈4.7% by October 2027, with December ≈81–86% for a hike.",
+        "simple": "The Fed raises its benchmark rate to cool inflation, and officials are saying they aren't done. 'Accommodative' means borrowing is still cheap enough to boost the economy, so they think rates need to rise more. That's why short-term Treasury yields keep climbing even on days when long-term ones fall.",
+        "source": "Federal Reserve / InvestingLive",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME prints record September: Treasury futures and options ADV +42%",
+        "body": "September ADV was 31.8M contracts (+22% y/y) and Q3 29.4M (+16%), both records. Rates ADV was 16.2M (+22%) and Treasury F&O 9.5M (+42%). 10Y note futures hit 2.6M (+51%), 2Y futures 1.3M (+67%) and SOFR futures 4.6M (+15%). CME reports Q3 earnings Oct 21.",
+        "simple": "ADV (average daily volume) counts how many futures and options contracts change hands each day. Futures let investors lock in or bet on interest rates without buying bonds. Volume jumps like this happen when rates are moving fast and everyone from banks to pension funds rushes to hedge, which is good business for Chicago-based CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "Hedge funds are heavily short SOFR futures into CPI",
+        "body": "As of Sep 29, leveraged funds were net short 2.41M three-month SOFR futures, 19.4% of open interest, a bigger short than in all but 16 of the prior 261 weeks (Sigro Research, CFTC data). One unverified report puts March 2027 SOFR call OI at ≈2.7M, ≈1M more than puts, suggesting some funds are hedging a shallower hike path. Today's COT update lands at 2:30 PM CT.",
+        "simple": "A SOFR future is a bet on where the Fed's overnight lending rate will average over a future three-month period. Being 'short' pays off if rates end up higher than the market expects. When this many funds bet the same way, a soft inflation report could force them to buy back quickly and push short-term yields down sharply.",
+        "source": "Sigro Research (CFTC data)",
+        "url": "https://sigroresearch.substack.com/p/positioning-hedge-funds-are-betting"
+      },
+      {
+        "title": "Bond vol is running far above equity vol",
+        "body": "Saxo had the MOVE index up ≈9.6% to 104.58 on Sep 25, +33% in two sessions, while the S&P was flat. The 10Y and 30Y have since set 24-year highs. In September, Treasury options and futures volume grew roughly twice as fast as CME's overall growth.",
+        "simple": "The MOVE index measures how much traders expect Treasury prices to swing, using option prices. The stock-market version is the VIX. Bond markets have been far jumpier than stocks this fall, which makes hedging more expensive for banks, mortgage lenders and insurers that hold lots of bonds.",
+        "source": "Saxo",
+        "url": "https://www.home.saxo/en-ch/content/articles/options/bond-vol-overtakes-equity-vol---options-brief---25-september-2026-25092026"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold bounces off a two-month low as yields ease; $4,200 is the line",
+        "body": "Spot gold is ≈$4,177–4,191 (Kitco $4,191.50, +$59 at 2:17 AM ET), recovering from Wednesday's two-month low as the 10Y slipped ≈12 bp from its 24-year high. Desks flag $4,200 as resistance. A hawkish Fed (FedWatch: Oct 17%, Dec 83%) caps it, while central-bank buying and ETF inflows support it.",
+        "simple": "Gold pays no interest, so when bond yields rise investors lose more by holding it, and the price usually falls. Yields eased this week and gold bounced. But if the Fed keeps hiking, that pressure comes back, and steady buying by central banks such as China's is what's keeping gold from falling further.",
+        "source": "InvestingLive / Kitco",
+        "url": "https://investinglive.com/commodities/gold-rises-toward-4-180-as-treasury-yields-ease-from-24-year-highs-and-dollar-pauses/"
+      },
+      {
+        "title": "Silver back above $60, outpacing gold",
+        "body": "FXStreet has silver at $60.40, +2.06% from Thursday's $59.19. The gold/silver ratio eased to 69.36 from 69.83. Silver fell ≈2.6% Wednesday and ≈1.8% Thursday, so this is a partial retrace.",
+        "simple": "Silver is both a precious metal and an industrial input (solar panels, electronics), so it swings harder than gold in both directions. The gold/silver ratio is how many ounces of silver one ounce of gold buys, and a falling ratio means silver is catching up. It bounced more today because it had been hit harder.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610090931"
+      },
+      {
+        "title": "Copper 2% from its record as Chile strikes bite",
+        "body": "LME 3M copper rose 0.96% Thursday to $14,614.5/t, 2% below the Sept 10 record of $14,875, and is up ≈16% YTD. 709 workers (≈22% of Antofagasta's own workforce) have been on strike at Centinela since Oct 7, though the company kept its 2026 guidance. BHP's Escondida supervisors are in government mediation, with a strike on hold.",
+        "simple": "Copper goes into wiring, power grids and AI data centers, and Chile is the biggest producer. Strikes at big mines threaten supply when the market is already tight, which pushes prices up. That feeds into costs for anything electrical, from EVs to new power lines.",
+        "source": "MINING.COM / Reuters",
+        "url": "https://www.mining.com/antofagastas-centinela-strike-adds-copper-supply-risk/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Big-bank Q3 kicks off Tuesday: trading strong, IB fees split",
+      "body": "JPM, WFC and C report Oct 13 (GS listed the same day by some calendars, Oct 17 by others). Reuters sees EPS up to +20% y/y. JPM guided trading and IB fees up mid-to-high teens, while BofA warned IB fees will fall ≥10%. Higher rates slowed capital markets late in the quarter.",
+      "simple": "Big banks earn money from lending, trading for clients and advising on deals. Rate volatility tends to help trading desks, but a sharp rise in rates can freeze IPOs and bond sales, which hurts advisory fees. Tuesday shows which effect won, and that matters for summer hiring on trading and capital-markets desks.",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-bank-investors-to-focus-on-impact-of-higher-rates-deals-outlook-in-q3-earnings-4938365"
+    },
+    {
+      "title": "SpaceX buys Grain's 800 MHz spectrum; telecoms sell off",
+      "body": "SpaceX agreed to buy Grain Management's nationwide 800 MHz portfolio (up to 14 MHz paired), which the WSJ values at ≈$8B. The deal needs regulatory approval. T-Mobile, Verizon and AT&T fell 5–7% pre-market, Deutsche Telekom 7–8% and the STOXX 600 telecom index 3.3%. SpaceX rose 3.6% and tower stocks held up.",
+      "simple": "Spectrum is the licensed radio airwaves that phones use. Low-band spectrum like this travels far and through walls, which is what a satellite phone service needs to compete with carriers. Investors fear SpaceX's Starlink could steal customers (starting in rural areas), so carrier stocks fell while tower owners held up.",
+      "source": "Reuters (via US News)",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-09/us-european-telecom-stocks-slide-as-spacex-spectrum-deal-rattles-sector"
+    },
+    {
+      "title": "Small-bank M&A keeps ticking: TowneBank–blueharbor, Third Coast–Great Plains",
+      "body": "TowneBank agreed to buy Mooresville, N.C.-based blueharbor bank for ≈$154M (at a 10-day VWAP of $36.15). Third Coast agreed to buy Oklahoma City's Great Plains for $239.6M in stock, closing 1Q27. Isabella–Grand River Commerce got Fed approval Oct 5 and closes Nov 2.",
+      "simple": "Community banks merge to spread compliance and technology costs over a bigger base and to pick up deposits in growing markets. Paying in stock rather than cash saves capital when rates are high. A steady stream of approvals suggests regulators are letting these deals through quickly.",
+      "source": "GlobeNewswire / PR Newswire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/06/3375489/10357/en/townebank-enhances-north-carolina-presence-through-agreement-to-acquire-blueharbor-bank.html"
+    },
+    {
+      "title": "IPO window still open despite 24-year-high yields",
+      "body": "Lilly-backed TRex Bio set a $14–16 range for ≈8.3M shares (≈$125M at the midpoint) and was slated to list on Nasdaq today. Airtel Money priced its London IPO at £1.96 (≈£5.3B market cap), with admission Oct 14. Accelevation set terms for a $660M deal (30M shares at $20–24). Dates differ across calendars.",
+      "simple": "An IPO is when a private company first sells shares to the public, with banks underwriting the sale for a fee. High interest rates usually make investors pickier about young companies. Deals still pricing means the equity capital-markets business hasn't shut down despite the bond selloff.",
+      "source": "IPO Scoop / company filings",
+      "url": "https://www.iposcoop.com/ipo-calendar/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Delta misses for first time in two years, slashes 2026 outlook on fuel",
+        "body": "Adj. EPS was $1.72 vs $1.76 expected, below its own $2.00–2.50 July guide. The FY guide was cut to $5.10–5.60 from $6.50–7.50 and FCF to $2.5B from up to $4B. Fuel expense rose 62% to $4.1B, and Q4 fuel is seen at $4.25/gal vs $3.61. Bastian says fares are rising and ≈60% of Q4 is booked.",
+        "simple": "Jet fuel is an airline's second-biggest cost after labor, and the Iran war has pushed it way up. Delta is passing some of that on through higher fares, but not all of it, so profits shrink. Its own refinery near Philadelphia earns ≈$700M a year, which acts as a natural cushion against high fuel prices.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+      },
+      {
+        "title": "Treasury yields steady as Trump strikes a diplomatic tone on Iran",
+        "body": "10Y flat at 5.2399%, 30Y flat at 5.6150%, 2Y +2 bp to 4.7827% early Friday. Trump said there will be no strikes on Iran before the Nov 3 midterms. The 30Y auction drew 72%+ indirects.",
+        "simple": "Bond yields had been rising partly because a wider war could push oil and inflation higher. Trump promising to hold off calmed that fear for now. The Fed's hiking plans still keep short-term rates moving up.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html"
+      },
+      {
+        "title": "Futures rise as tech rebounds from OpenAI-driven selloff",
+        "body": "S&P futures +0.4% and Dow +82 pts (+0.2%) around 7:13 AM ET. Thursday the S&P fell 0.47% to 7,765.36 and the Nasdaq 1.25% to 27,193.34. Chips lost 3.4% (Micron −4.8%, Intel −5%+, Nvidia −≈3%) after the FT said OpenAI's run-rate was ≈$20B below what investors had been told.",
+        "simple": "Chipmakers have rallied more than 80% this year on the expectation that AI firms will keep spending heavily. A report that OpenAI earns less than believed raised doubts about how long that spending can last, so chip stocks dropped. Futures (bets on where the market opens) show a partial bounce this morning.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "SpaceX's ≈$8B spectrum buy",
+        "body": "The WSJ valued SpaceX's purchase of Grain's 800 MHz licenses at ≈$8B; the companies didn't disclose terms. Morgan Stanley called it a sign SpaceX will be an aggressive spectrum buyer, with competition arriving gradually, starting in rural markets.",
+        "simple": "SpaceX is buying the airwaves its Starlink satellites need to connect directly to ordinary phones. That makes it a possible fourth national wireless competitor, which is why phone-company stocks fell.",
+        "source": "WSJ via Reuters",
+        "url": "https://money.usnews.com/investing/news/articles/2026-10-09/us-european-telecom-stocks-slide-as-spacex-spectrum-deal-rattles-sector"
+      },
+      {
+        "title": "Refiners on track to top near-record Q2 profits",
+        "body": "The WSJ reports Valero, Marathon Petroleum and Phillips 66 are set to beat their near-record June-quarter results as wars constrain global fuel supply.",
+        "simple": "Refiners turn crude oil into gasoline and jet fuel, and they profit from the gap between the two prices (the 'crack spread'). When wars and hurricanes disrupt fuel supply, that gap widens, which is the same squeeze Delta is paying for.",
+        "source": "WSJ via Reuters press digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-9-octobre-3964e0c7217dbfd825462acb0909cafa"
+      },
+      {
+        "title": "Walmart rolls robots into a dozen-plus warehouses",
+        "body": "Walmart is installing robots in more than a dozen warehouses as part of a multibillion-dollar push to streamline goods handling.",
+        "simple": "Automation cuts labor costs and speeds deliveries. For investors, it's a big capex bet meant to protect margins as wages and borrowing costs stay high.",
+        "source": "WSJ via Reuters press digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-9-octobre-3964e0c7217dbfd825462acb0909cafa"
+      },
+      {
+        "title": "Pentagon pushes faster missile production",
+        "body": "Deputy Defense Secretary Steve Feinberg is pressing to speed up U.S. missile output as forces use thousands of weapons in the Iran war.",
+        "simple": "More military spending means more government borrowing and more orders for defense contractors. Both feed into higher Treasury supply and the inflation picture the Fed is watching.",
+        "source": "WSJ via Reuters press digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-9-octobre-3964e0c7217dbfd825462acb0909cafa"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME's international volume jumps 22%; earnings Oct 21",
+        "body": "Chicago-based CME said Q3 international ADV rose 22% y/y to 9M contracts: energy +40%, ags +28%, equity index +24%. Separately, it shelved a planned 24/7 10-barrel crude contract after industry pushback (Oct 2). Q3 results come Oct 21.",
+        "simple": "CME runs the world's biggest futures exchange, where companies and investors hedge prices for oil, crops, interest rates and more. Overseas traders are using it much more as wars and rate swings raise demand for hedging. Its plan for round-the-clock oil trading stalled because big users worried about the risks.",
+        "source": "GuruFocus / Bloomberg",
+        "url": "https://gurufocus.com/news/9114998/cme-group-cme-sees-22-surge-in-international-trading-volume-driven-by-energy-and-agricultural-products"
+      },
+      {
+        "title": "McDonald's sued in Chicago over alleged AI-driven menu price-fixing",
+        "body": "A proposed class action in federal court in Chicago alleges McDonald's coordinates prices across franchised and company-owned restaurants through an AI pricing system. The company calls the claims speculative and uninformed.",
+        "simple": "Price-fixing means competitors agreeing on prices instead of competing. The novel claim here is that shared pricing software did the coordinating. If courts accept that, it could expose any franchise or retailer using centralized algorithmic pricing.",
+        "source": "Reuters (via CTV News)",
+        "url": "https://ctvnews.ca/business/article/mcdonalds-hit-with-us-class-action-alleging-ai-powered-menu-price-fixing"
+      },
+      {
+        "title": "Delta's fuel hit is a read-through for Chicago's United",
+        "body": "United reports Q3 on Oct 20 and starts daily O'Hare–Tokyo Narita service Oct 24. Delta just cut its FY EPS guide by ≈$1.65 at the midpoint on fuel, and expects Q4 fuel at $4.25/gal.",
+        "simple": "Airlines all buy the same jet fuel, so when one big carrier says fuel costs are crushing profits, investors assume its rivals face the same hit. United's results in two weeks will show whether higher fares are covering it.",
+        "source": "CNBC / Yahoo Finance",
+        "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+      },
+      {
+        "title": "Illinois data-center pipeline: $57B, 39K construction jobs",
+        "body": "Chicago Construction News reports $57B of proposed Illinois data-center projects could create ≈39,000 construction jobs.",
+        "simple": "Data centers power AI and cloud computing and need huge amounts of electricity and copper. For Illinois banks, these projects mean construction lending and project-finance deals. They're also exposed to the same AI-spending doubts that hit chip stocks Thursday.",
+        "source": "Chicago Construction News",
+        "url": "https://www.chicagoconstructionnews.com/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "OpenAI's revenue run-rate ≈$50B, not ≈$70B",
+        "body": "The FT reported OpenAI's annualized revenue was ≈$50B at end-September, ≈$20B below figures investors had cited. Part of the gap is that Anthropic counts cloud-partner sales, so comparisons with it overstated OpenAI. Bloomberg says OpenAI expects ≥$70B by year-end.",
+        "simple": "'Annualized revenue' takes one month's sales and multiplies by 12. The lower figure raised questions about whether AI companies can pay for the hundreds of billions being spent on chips and data centers, which is why chip stocks fell.",
+        "source": "TechCrunch / Bloomberg (NYT not accessible)",
+        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+      },
+      {
+        "title": "Feds seize 600K+ gallons of Cuba-bound biodiesel",
+        "body": "The NYT reported authorities in Florida and Texas seized over 600,000 gallons of biodiesel bound for Cuba, tied to sanctioned firm ENETEC S.A.",
+        "simple": "Sanctions bar U.S. trade with certain foreign companies. Seizing fuel shipments shows enforcement is tightening, which matters for banks and traders that must screen every energy deal for sanctions risk.",
+        "source": "NYT via Just Security",
+        "url": "https://www.justsecurity.org/160040/early-edition-october-8-2026/"
+      },
+      {
+        "title": "Trump's pre-midterm Iran pledge fails to fully calm oil",
+        "body": "Oil pared gains after Trump said there will be no Iran strikes before Nov 3. Brent still settled +4% Thursday at $104.28, with Hormuz tanker attacks and Gulf hurricane shut-ins keeping supply tight.",
+        "simple": "A promise not to escalate lowers the odds of a sudden supply shock, so prices eased. But physical problems, like attacks on tankers and a hurricane shutting Gulf wells, are still keeping oil above $100, and that feeds into gasoline and inflation.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/energy/oil-prices-stocks-trump-iran-rcna602248"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Who owns which end of the curve",
+      "point": "In 36 hours Trump's Iran pledge took Brent from a $105.92 high to ≈$103 and the 10Y from ≈5.36% to 5.24%, but the 2Y is still +2 bp at 4.78%. Oil and geopolitics are driving the term premium at the long end, while the Fed (Waller, Musalem, ≈83% December odds) owns the front end. Good desk question: with 2s10s ≈46 bp, is the next move a bull-flattener (oil keeps fading) or a bear-flattener (CPI Wednesday hot), and how would you trade that with 2Y vs 10Y futures, DV01-neutral?"
+    },
+    {
+      "topic": "Corporate commodity hedging: Delta as a case study",
+      "point": "Delta's fuel bill rose ≈$6B this year (Q3 fuel +62% to $4.1B), and its main offset is a physical one: the Philadelphia-area refinery, worth ≈$700M of 2026 profit, which covers only about a tenth of it. FY EPS guidance was cut ≈24% at the midpoint. For a commercial-banking or corporate-derivatives seat, the question is how you'd pitch jet-fuel or crack-spread swaps and collars to an airline at $4.25/gal Q4 fuel without locking in the peak, and how CME energy volume (+40% international ADV) reflects that demand."
+    },
+    {
+      "topic": "Crowded SOFR short into CPI",
+      "point": "Leveraged funds were net short 2.41M three-month SOFR futures (19.4% of OI, a top-6% extreme over five years) with December priced at ≈83% for a hike, while CME Treasury F&O volume ran +42% in September. A soft CPI on Oct 14 could force a short squeeze in Dec-26/Mar-27 SOFR. Today's 2:30 PM CT COT will show whether they covered during the Wed–Thu rally, an easy way to show you read positioning, not just headlines."
+    }
+  ],
+  "caveats": "WSJ items come from the Reuters press digest and Reuters/US News coverage, and NYT items from other outlets (TechCrunch, Bloomberg, Just Security, NBC). The Chicago Tribune wasn't accessible, so the Chicago bucket uses CME, Reuters and local trade sources. Pre-market oil, gold and silver are early-morning quotes that vary by source. The dollar index, PGMs, 10Y TIPS and the KBW bank index had no verified current print and are omitted. The Russell 2000 close differs by feed (2,777–2,794). Goldman's report date conflicts across calendars. The Monday bond-market closure is SIFMA's usual Columbus Day recommendation.",
+  "updates": []
+}
