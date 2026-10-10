@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-10",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-10-10T11:21:49Z",
+  "headline": "The 10Y hit a 24-year high of ≈5.36% Wednesday. A record-strong 10Y auction and Trump's Iran pledge pulled it back to a 5.24% close Friday, but the 2Y is still at 4.80% with ≈70–84% odds of a December hike. Next week's tests are Tuesday's big-bank earnings, Wednesday's September CPI (≈3.6–3.7% headline) and Thursday's retail sales/PPI.",
+  "summary": [
+    "Rates recap: the 10Y peaked at ≈5.36% Wed (highest since 2002) and closed Fri at 5.24%, ≈−4 bp on the week. The 30Y hit 5.73% before settling ≈5.60%. The 2Y finished at 4.80%, so 2s10s is ≈44 bp, little changed. The long end eased but the Fed-driven front end did not.",
+    "Supply cleared the market: $119B of 3Y/10Y/30Y sold. The 3Y cleared at 4.932% (highest since 2006). The 10Y stopped through by 1.7 bp at 5.300% with 80% indirects and record-low dealer takedown, and that marked the week's top in yields.",
+    "Fed: the range is 3.75–4.00% after September's hike. The minutes say 'most' see another hike by year-end, and Waller and Musalem both lean toward more. Odds of an October 28 hike are only ≈17–20%, but December is ≈70–84%. Next week is the last before the blackout (Hammack, Waller, Collins, Bowman, Barkin, plus Warsh late Thu).",
+    "Metals: gold rose ≈$60–75 Friday to ≈$4,183–4,194, recovering from a two-month low hit early in the week. 10Y real yields near 2.9% remain the main headwind. Silver ≈$60.4 is flat on the week. Copper ≈$6.66/lb is ≈2–3% off its record on Chile supply and China restocking. Palladium hit a record low in Guangzhou after the holiday.",
+    "Oil and energy: Brent settled at $104.72 and WTI at $91.85, both up Friday. Isaias came ashore near Destin as a Cat 2 with ≈1.46M b/d (≈72%) of Gulf output shut in. Treasury also opened the US to Russian diesel through April 2027. Watch Monday for damage and restart news.",
+    "Banking: KBWB is ≈12% below its August high, with GS −15% and BAC −16% over a month, going into Q3. JPM, GS, WFC and C report Tue; BAC, MS and BLK Wed; PNC, SCHW and USB Thu. Small-bank M&A continues: Byline–Illinois State ($87.9M) and Third Coast–Great Plains ($240M)."
+  ],
+  "markets_asof": "Fri Oct 9 close (weekend: no live trading); oil = settles, metals/DXY = late snapshots",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,811.54",
+      "change": "+0.59%",
+      "dir": "up",
+      "note": "≈+1.2% on week; record close 7,818.93 (Oct 6)"
+    },
+    {
+      "label": "Dow",
+      "value": "51,654.95",
+      "change": "+423.31 (+0.83%)",
+      "dir": "up",
+      "note": "≈+0.9% on week"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "27,366.17",
+      "change": "+0.64%",
+      "dir": "up",
+      "note": "≈+0.6% on week"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,806.98",
+      "change": "+0.46%",
+      "dir": "up",
+      "note": "Lagged on week; ≈8% below Aug record"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.80%",
+      "change": "+≈5 bp",
+      "dir": "up",
+      "note": "Front end led Fri selloff after UMich"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.24%",
+      "change": "+≈2 bp",
+      "dir": "up",
+      "note": "≈−4 bp on week; ≈5.36% intraday high Wed"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.60%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "≈−3 bp on week; 5.73% peak Wed"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈70–84%",
+      "dir": "flat",
+      "note": "Oct 28 hike ≈17–20% (FedWatch/Kalshi)"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$91.85",
+      "change": "+$0.36 (+0.39%)",
+      "dir": "up",
+      "note": "Nov settle (Reuters)"
+    },
+    {
+      "label": "Brent",
+      "value": "$104.72",
+      "change": "+$0.44 (+0.42%)",
+      "dir": "up",
+      "note": "Dec settle (Reuters); ≈+2% on week"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,183–4,194",
+      "change": "+≈1.5–1.8%",
+      "dir": "up",
+      "note": "USAGOLD / Trading Economics; ≈+1% on week"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$60.4–60.5",
+      "change": "+≈2%",
+      "dir": "up",
+      "note": "≈flat on week (prior Fri $60.41)"
+    },
+    {
+      "label": "Copper",
+      "value": "≈$6.66/lb COMEX",
+      "change": "+≈2.2%",
+      "dir": "up",
+      "note": "Record ≈$6.83–6.85 (early Sep)"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.21",
+      "change": "+≈0.08%",
+      "dir": "up",
+      "note": "4th straight weekly gain; 18-mo high ≈102.5 Mon"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Mon · all day",
+      "event": "Columbus Day: bond market closed, stocks open",
+      "consensus": "—",
+      "prior": "—",
+      "why": "No cash Treasury trading, and bill auctions move to Tue. Stocks can move on Isaias damage and Iran headlines with no bond market to confirm."
+    },
+    {
+      "time": "Mon · midday",
+      "event": "Cleveland Fed's Hammack, NABE keynote",
+      "consensus": "—",
+      "prior": "Hawk",
+      "why": "First Fed voice of the CPI week, one of the last before the Oct 17 blackout"
+    },
+    {
+      "time": "Tue · 5:00 AM",
+      "event": "NFIB small business optimism (Sep)",
+      "consensus": "—",
+      "prior": "98.7",
+      "why": "Small-firm price plans are an early inflation signal"
+    },
+    {
+      "time": "Tue · pre-open",
+      "event": "JPMorgan, Goldman, Wells Fargo, Citi Q3",
+      "consensus": "EPS: JPM ≈$5.82–5.94; GS ≈$14–16 (wide); WFC ≈$1.85; C ≈$2.66",
+      "prior": "GS Q2 $20.98",
+      "why": "Look at trading revenue (rates/FICC volatility), IB fees, NII guidance with 5%+ long rates, and unrealized AFS losses. KBWB is down ≈12% from its high going in."
+    },
+    {
+      "time": "Tue · TBD",
+      "event": "Fed's Waller and Collins speak",
+      "consensus": "—",
+      "prior": "Waller Oct 8: 'additional hikes' expected",
+      "why": "Whether Waller softens the timing would move October odds"
+    },
+    {
+      "time": "Wed · 7:30 AM",
+      "event": "CPI (Sep)",
+      "consensus": "Headline +0.6% m/m, 3.6–3.7% y/y; core +0.2% m/m, 2.4–2.5% y/y",
+      "prior": "+0.4% / 3.4%; core +0.3% / 2.4%",
+      "why": "The week's main event. Core ≥0.3% revives October-hike odds and hits the crowded SOFR short. Core ≤0.2% supports the 'December, not October' view."
+    },
+    {
+      "time": "Wed · pre-open",
+      "event": "Bank of America, Morgan Stanley, BlackRock Q3",
+      "consensus": "EPS: BAC ≈$1.11–1.17; MS ≈$2.94–3.10; BLK ≈$14.29",
+      "prior": "—",
+      "why": "BAC is the most rate-sensitive megabank (NII, securities book). MS and BLK give a read on capital markets and asset flows."
+    },
+    {
+      "time": "Wed · 1:00 PM",
+      "event": "Fed Beige Book (+ Bowman, Barkin)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Anecdotes on pass-through of oil to prices and wages ahead of Oct 28. One calendar lists Mon; most say Wed."
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "Retail sales (Sep)",
+      "consensus": "+0.3% m/m; ex-autos +0.5%; control +0.3%",
+      "prior": "+1.1–1.2%; control +1.2%",
+      "why": "Shows whether the consumer is cracking under $90+ oil and 7.5% mortgages"
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "PPI (Sep)",
+      "consensus": "+0.5% / core +0.3%",
+      "prior": "+0.4% / core +0.2%",
+      "why": "Pipeline inflation; its components feed core PCE estimates"
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "Jobless claims; Philly Fed (Oct); Empire State (Oct)",
+      "consensus": "195–197K; Philly 26–26.5; Empire 17",
+      "prior": "197K; Philly ≈37.8; Empire 7.6",
+      "why": "Labor still tight on claims even after the weak Sept payrolls. Empire date unconfirmed."
+    },
+    {
+      "time": "Thu · pre-open",
+      "event": "Schwab, PNC, U.S. Bancorp Q3",
+      "consensus": "EPS: SCHW ≈$1.66; PNC ≈$4.98; USB ≈$1.33",
+      "prior": "—",
+      "why": "Regional/super-regional NII and deposit costs. Schwab cash sorting at 5%+ yields."
+    },
+    {
+      "time": "Thu · late night",
+      "event": "Fed Chair Warsh with IMF's Georgieva (Bangkok)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The Chair's last public word before the blackout"
+    },
+    {
+      "time": "Fri · 7:30 AM",
+      "event": "Import prices (Sep)",
+      "consensus": "—",
+      "prior": "+0.7% m/m, +7.0% y/y",
+      "why": "Dollar strength vs oil. Industrial production (+0.4% consensus) is listed Tue or Fri depending on calendar."
+    },
+    {
+      "time": "Next FOMC",
+      "event": "FOMC decision Wed Oct 28",
+      "consensus": "Hold ≈80–83%; hike ≈17–20%",
+      "prior": "3.75–4.00% (hiked 25 bp Sep 17)",
+      "why": "December (Dec 9) is ≈70–84% priced for a hike. No coupon auctions this week; the 20Y reopening (Oct 21) is announced Thu."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "10Y round-trips: 24-year high of ≈5.36%, then back to 5.24%",
+        "body": "The 10Y peaked at ≈5.36% intraday Wed (highest since April 2002) and the 30Y at 5.73%. Both then rallied to 5.24% and ≈5.60% by Friday's close. The causes cited were oil-led inflation, a ≈$1.9T deficit and heavy AI-related corporate borrowing, and MBA 30-year mortgage rates rose to 7.49%.",
+        "simple": "A Treasury yield is the interest the government pays to borrow. When it rises, mortgage, car-loan and corporate borrowing costs rise too. Investors demanded more this week because high oil prices threaten inflation and the government is borrowing heavily. A calmer oil market late in the week took some of that pressure off.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045"
+      },
+      {
+        "title": "A 'bullet' 10Y auction marked the top; the 30Y was only decent",
+        "body": "$119B sold over Oct 6–8. The 3Y cleared at 4.932% (highest since 2006, bid-to-cover 2.62). The $39B 10Y stopped through the 5.317% when-issued by 1.7 bp at 5.300%, with 80.3% indirects (average 72.4%) and ≈2.5% dealers. The 30Y cleared at 5.618% with a 2.54 bid-to-cover.",
+        "simple": "At an auction the Treasury sells new bonds to the highest bidders. A 'stop-through' means buyers accepted a lower yield than the market expected, which is a sign of strong demand. Foreign and institutional buyers (indirects) took 80% of the 10-year, which told traders yields above 5.3% were attractive. Dealers, the banks that must buy what nobody else wants, had to take very little.",
+        "source": "investingLive / CNBC",
+        "url": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/"
+      },
+      {
+        "title": "Fed hawks keep December alive; October odds only ≈17–20%",
+        "body": "Waller (Oct 8): 'I anticipate additional hikes' but with 'some flexibility' on timing. Musalem: rates should rise 'in the next six to nine months.' The September minutes say most see another hike by year-end, and futures imply ≈4.1% by January and ≈4.7% by October 2027.",
+        "simple": "The Fed sets the overnight interest rate, which anchors all short-term borrowing costs. Several officials say inflation is still too high and they expect to raise rates again, just not necessarily this month. That is why 2-year yields, which track expected Fed moves, stayed near their highs even as long-term yields fell.",
+        "source": "Axios / Yahoo Finance",
+        "url": "https://www.axios.com/2026/10/08/interest-rate-hikes-fed-waller"
+      },
+      {
+        "title": "Global long ends sell off too: gilts hit their 1998 high, JGBs above 3%",
+        "body": "The UK 30Y gilt hit 6.036% Oct 7, the highest since January 1998, ahead of the Oct 28 budget. Japan's 10Y JGB is ≈3.02%. US 10Y TIPS real yields are ≈2.87–2.89% with breakevens ≈2.28–2.35%, near the highest real yields since ≈2008.",
+        "simple": "This is not just a US story. Investors are demanding more to lend long-term to the UK and Japan too. A 'real yield' is the return after expected inflation, and at nearly 2.9% it is unusually high. That makes it costly to hold assets that pay no interest, like gold, and it squeezes stock valuations.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/uk-30year-gilt-yields-hit-28year-high-in-global-selloff-4937055"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "MOVE eases below 100 after flirting with its 2025 high",
+        "body": "The ICE MOVE index (Treasury implied volatility) hit ≈114–116 early in the week, the highest since April 2025. It eased to ≈98.5 by Friday as the auctions cleared. The VIX closed at 14.84 (−3.7%), so bond vol is still running far above equity vol.",
+        "simple": "The MOVE index measures how much traders expect bond prices to swing, using option prices. The VIX does the same for stocks. Bonds are far more nervous than stocks right now. That gap often closes either with stocks catching down or with bond markets calming.",
+        "source": "CoinDesk / Yahoo Finance",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet"
+      },
+      {
+        "title": "CME: record September Treasury futures (7.7M ADV) and options (1.8M ADV)",
+        "body": "Treasury futures averaged 7.7M contracts/day, the September record by nearly 2M. Options averaged 1.8M/day. Treasury futures open interest rose 1.2M to ≈24M. CME's Q3 report is Oct 21.",
+        "simple": "Futures are contracts to buy or sell a bond later at a price set today, and big investors use them to hedge or bet on rates. Open interest is the number of contracts still outstanding. Record activity means money managers are scrambling to protect themselves as yields hit generational highs. Volume like this is CME's main source of revenue.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "Options traders bet on the bond bottom after the 10Y auction",
+        "body": "On Oct 7, TLT options traded ≈370K calls vs under 100K puts, 50% above normal volume. The Oct-30 82-strike call was the top trade, though CNBC notes one aggressive buyer drove most of it. Friday block logs showed a delta-hedged 10Y put spread on the other side.",
+        "simple": "A call option pays off if prices rise. TLT is a fund of long-term Treasuries, so buying its calls is a bet that yields fall. Heavy call buying shows some traders think the selloff is over, but one big player can skew the picture. Others were still buying protection against higher yields.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html"
+      },
+      {
+        "title": "SOFR strip prices a hiking cycle into 2027",
+        "body": "SOFR fixed at 3.87% Oct 8. Fed funds futures imply ≈4.1% by January and ≈4.7% by October 2027, and Dec-26 SOFR options carry ≈19% implied vol. Leveraged funds were last seen heavily net short SOFR futures, so CPI on Wed is the squeeze risk.",
+        "simple": "SOFR is the overnight rate banks pay to borrow cash against Treasuries, and futures on it are how markets bet on the Fed. Prices imply about three more quarter-point hikes over the next year. If inflation surprises low, traders who bet on hikes would have to buy back fast, which would drive short-term yields down sharply.",
+        "source": "StreetStats / FRED",
+        "url": "https://fred.stlouisfed.org/series/SOFR"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold rebounds ≈$60–75 Friday, but a ≈2.9% real yield caps it near $4,200",
+        "body": "Spot closed ≈$4,183–4,194 Friday (Kitco evening bid $4,193.60, +$61.10). It had fallen ≈3.4% the prior week to $4,140 and hit a two-month low early this week. Rabobank says dollar momentum and rising yields keep a lid below $4,200, and GLD rose 1.57% Friday.",
+        "simple": "Gold pays no interest, so when safe bonds pay almost 3% above inflation, holding gold costs more. A strong dollar also makes gold pricier for foreign buyers. Friday's bounce came as yields stopped climbing, so gold is trading as a bet against yields.",
+        "source": "Rio Times / FXStreet",
+        "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-october-9-2026/"
+      },
+      {
+        "title": "Record Q3 gold ETF inflows ($31B) and steady PBOC buying form the floor",
+        "body": "World Gold Council: global gold ETFs took in $10B in September and a record $31B in Q3, led by Europe ($14B in Q3). Central banks bought 289t in Q2, and the PBOC has added for 20+ straight months.",
+        "simple": "ETFs are funds that let ordinary investors own gold through a stock account. Central banks, especially China's, keep buying gold to reduce reliance on US dollars. That steady demand is why gold has not collapsed despite very high interest rates.",
+        "source": "World Gold Council",
+        "url": "https://www.gold.org/goldhub/research/gold-market-commentary-september-2026"
+      },
+      {
+        "title": "Copper ≈2% from its record on Chile strike and Chinese restocking",
+        "body": "LME 3M copper reached $14,614.5/t Oct 8, ≈2% below the Sep 10 record of $14,875. COMEX ended ≈$6.66/lb Friday. A strike hit Chile's Centinela, and the Yangshan import premium jumped to $125–135/t, a ≈4-year high, as China returned from Golden Week. US tariff-front-running also keeps metal flowing into COMEX.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a gauge of industrial demand. A mine strike in Chile, the top producer, cuts supply, and Chinese buyers are paying extra to secure metal. Both point to a tight market.",
+        "source": "Business Recorder / Rio Times",
+        "url": "https://www.brecorder.com/news/40443424/copper-rebounds-as-supply-risks-china-demand-lend-support"
+      },
+      {
+        "title": "Palladium hits a record contract low in Guangzhou; platinum −3.4%",
+        "body": "On China's first post-holiday session, Guangzhou palladium fell 6.95% to 271.9 yuan/g, a record low for the contract, and platinum fell 3.37%. NYMEX palladium dropped >7% from ≈$1,213 to ≈$1,120/oz, then bounced to ≈$1,150 Friday. SMM blamed US yields and the dollar but notes spot supply is tight.",
+        "simple": "Platinum and palladium are used mainly in car exhaust catalysts. Higher US rates and a stronger dollar hit these thinly traded metals hardest when China reopened. Buyers stepped in on the dip, a sign physical metal is still scarce.",
+        "source": "Shanghai Metals Market",
+        "url": "https://news.metal.com/newscontent/104146424-platinum-and-palladium-saw-sharp-catch-up-declines-after-the-holiday-buying-on-dips-was-active-and-spot-supply-remained-tight-smm-platinum-and-palladium-weekly-review"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Bank stocks sold off into Q3: KBWB ≈12% below its August high",
+      "body": "CNBC: bank stocks have slid into earnings, with GS −15%, BAC −16% and JPM −7% over the past month. FactSet sees ≈10% bank EPS growth. JPM has guided IB and markets revenue up 'mid-to-high teens', while Goldman's CEO flagged a muted quarter.",
+      "simple": "Investors have sold bank shares because higher long-term rates lower the value of bonds banks already own, and they could slow lending and dealmaking. Earnings next week will show whether busy trading desks offset that. This sets the tone for the whole financial sector.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/bank-stocks-selloff-q3-earnings.html"
+    },
+    {
+      "title": "Byline buys Illinois State Bancorp for ≈$87.9M",
+      "body": "Chicago's Byline is buying the parent of First Nations Bank and The Bank of Bourbonnais ($617.3M assets) for ≈1.4M shares plus $28.9M cash (4.5208 shares per share). That creates a ≈$10.5B-asset bank with 48 branches, closing Q1 2027.",
+      "simple": "A mid-sized Chicago bank is buying a smaller local one to add customers and branches, mostly paying in its own stock. Small banks are merging to spread rising tech and compliance costs over more deposits. Crossing $10B in assets brings tighter regulation, so scale matters.",
+      "source": "Byline 8-K (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001702750/000119312526415585/by-20261006.htm"
+    },
+    {
+      "title": "Third Coast buys Oklahoma's Great Plains for ≈$240M in stock",
+      "body": "Third Coast Bancshares issues 5.57M shares for Great Plains ($1.9B assets), creating a ≈$9B bank. It targets $17M in cost saves and 14% EPS accretion in 2028, closing Q1 2027.",
+      "simple": "A Texas bank is buying an Oklahoma one entirely with its own shares. 'Accretion' means the deal should raise earnings per share. These steady small deals show regulators are approving bank mergers again.",
+      "source": "Banking Dive",
+      "url": "https://www.bankingdive.com/news/third-coast-texas-buy-oklahoma-bank-240-million/832392/"
+    },
+    {
+      "title": "AI-chip financing wave: Broadcom >$50B, Oracle off-balance-sheet lease, SpaceX ≈$40B",
+      "body": "Per the WSJ (via investingLive), Broadcom is arranging >$50B so OpenAI can buy its chips, with Apollo and Blackstone in talks. Oracle is negotiating an off-balance-sheet chip lease tied to a 1-GW data center. SpaceX seeks ≈$40B for Nvidia chips, a figure the FT reported.",
+      "simple": "Tech companies need huge sums to buy AI chips and are borrowing from private-credit firms instead of only selling bonds. This is big fee business for lenders, and it adds to the supply of corporate debt. That supply is one reason long-term interest rates are high.",
+      "source": "investingLive (citing WSJ)",
+      "url": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/"
+    },
+    {
+      "title": "Big M&A: Viatris–Pacira $1.65B; Starbucks reportedly eyed Chipotle",
+      "body": "Viatris will pay $36.50/share in cash (≈45% premium, ≈$1.65B) for Pacira, closing by year-end. The FT reported Starbucks explored buying Chipotle (≈$39–41B market cap), which would be the biggest restaurant deal ever. No bid is confirmed.",
+      "simple": "Companies are still doing large acquisitions despite high borrowing costs, which means steady fees for investment banks. The Chipotle talk is only a report so far, but a deal that size would need major loan and bond financing.",
+      "source": "Fierce Pharma / Nation's Restaurant News",
+      "url": "https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Delta misses and slashes its 2026 outlook on fuel",
+        "body": "Q3 adjusted EPS was $1.72 on revenue +21% to $20.2B. Full-year EPS guidance was cut to $5.10–5.60 from $6.50–7.50, and shares fell ≈3% Friday.",
+        "simple": "Jet fuel prices have soared with oil, so Delta's costs jumped more than its ticket sales could cover. It now expects far lower profit this year. That is a warning for United, the Chicago airline, which reports in about two weeks.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+      },
+      {
+        "title": "Treasury licenses Russian diesel imports after Trump–Putin deal",
+        "body": "OFAC General License 135 (Oct 9) allows Russian diesel sales and US imports through April 7, 2027. Trump cited 300K+ tons immediately, 500K in November, then 1M tons, and critics say it undercuts sanctions law.",
+        "simple": "The US is temporarily allowing Russian diesel in to bring down fuel prices, which have spiked with the Iran conflict. Diesel moves trucks and farm equipment, so cheaper diesel eases inflation. The trade-off is weaker pressure on Russia.",
+        "source": "CNBC / Fortune",
+        "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html"
+      },
+      {
+        "title": "Stocks post a winning week as the Dow gains 423",
+        "body": "Friday: Dow 51,654.95 (+0.83%), S&P 7,811.54 (+0.59%, just shy of its record), Nasdaq 27,366.17 (+0.64%). On the week the S&P rose ≈1.2%, the Dow ≈0.9% and the Nasdaq ≈0.6%.",
+        "simple": "Stocks shrugged off record-high bond yields this week, helped by calmer oil and hopes for an Iran deal. The S&P 500 is near an all-time high. Smaller companies, which borrow more, lagged.",
+        "source": "CNBC / AP",
+        "url": "https://www.wusa9.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-friday-1092026/616-34c37bda-4c37-4997-858a-f31477bd64fc"
+      },
+      {
+        "title": "Earnings season kicks into high gear as big banks report",
+        "body": "C, GS, WFC and JPM report Tue Oct 13; MS, BAC and BLK Wed. FactSet sees ≈10% bank earnings growth, and the 10Y and 30Y hit their highest since 2002 this week.",
+        "simple": "Big banks report first each quarter and their results set the mood for the market. Investors want to know whether high rates are helping (more interest income) or hurting (bond losses, slower lending).",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/earnings-season-kicks-into-high-gear-as-big-banks-report-next-week.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "SpaceX buys Grain's 800 MHz spectrum for ≈$8B; telecoms tank",
+        "body": "The WSJ (via the Reuters digest) put the cash price at ≈$8B, though officially terms are undisclosed. It covers up to 14 MHz of paired nationwide spectrum and needs FCC approval. AT&T fell 7.3%, and T-Mobile and Verizon each fell 6.6%.",
+        "simple": "Spectrum is the radio frequency that carries cell signals. SpaceX buying a nationwide slice means its satellites could compete directly with phone carriers. Investors dumped the carriers on fears of new competition.",
+        "source": "Reuters press digest (WSJ) / QuiverQuant",
+        "url": "https://www.quiverquant.com/news/SpaceX+Acquires+Nationwide+Spectrum+Licenses%2C+Sending+AT%26T%2C+Verizon+and+T-Mobile+Shares+Lower"
+      },
+      {
+        "title": "Broadcom lines up >$50B so OpenAI can buy its chips",
+        "body": "Apollo and Blackstone are among the lenders in talks. It is part of a wave that includes an Oracle off-balance-sheet chip lease and SpaceX seeking ≈$40B.",
+        "simple": "AI companies are borrowing record amounts, often from private lenders, to buy chips. That shifts lending away from traditional banks and adds to the debt supply pushing rates higher.",
+        "source": "investingLive (citing WSJ)",
+        "url": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/"
+      },
+      {
+        "title": "American Airlines ends involuntary bumping",
+        "body": "American bumped ≈15,000 passengers involuntarily in 2025, ≈60% of the US industry total. The new policy took effect Sept 30.",
+        "simple": "American will no longer force passengers off oversold flights. It was by far the worst offender, so this is a customer-service move at a time when airlines are under cost pressure from fuel.",
+        "source": "One Mile at a Time (WSJ digest item)",
+        "url": "https://onemileatatime.com/news/american-airlines-commits-ending-involuntary-denied-boardings/"
+      },
+      {
+        "title": "Refiners on track to beat near-record Q2 profits",
+        "body": "Per the Oct 9 WSJ digest, Valero, Marathon Petroleum and Phillips 66 are on pace to top their near-record Q2 results. The digest gave no figures.",
+        "simple": "Refiners turn crude into gasoline and diesel. With fuel scarce and prices high, the gap between what they pay and what they sell for is wide, and that is when they earn the most.",
+        "source": "Reuters press digest (WSJ)",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-9-ce785ddfde89f726"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Chicago hotel workers strike ahead of marathon weekend",
+        "body": "Workers at six downtown hotels walked out Friday. The Unite Here Local 1 dispute covers 7,000+ workers at 46 hotels, contracts expired in August, and the Chicago Marathon is Sunday Oct 11.",
+        "simple": "Hotel staff are striking over pay on one of the city's busiest weekends. It puts pressure on owners and could disrupt visitors. The timing is a deliberate bargaining tactic.",
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/business/2026/10/09/hotel-workers-strike-chicago-marathon-weekend"
+      },
+      {
+        "title": "Judges say Peoples Gas rate hike should be cut by more than half",
+        "body": "ICC administrative law judges found less than half of the $144M request justified (original ask $202M), and staff recommended $66M. A final ICC ruling is due next month.",
+        "simple": "Peoples Gas wants to raise Chicago heating bills to pay for pipe replacement. State judges say it deserves far less. The outcome directly affects household bills this winter.",
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/business/2026/10/08/peoples-gas-rate-hike-icc-regulatory-judges-recommendation"
+      },
+      {
+        "title": "McDonald's sued in Illinois over AI pricing tool for franchisees",
+        "body": "A DeKalb consumer filed a federal antitrust suit alleging the AI tool lets franchisees coordinate prices. McDonald's says franchisees set prices independently and the suit is inaccurate.",
+        "simple": "The lawsuit claims McDonald's software nudges independent restaurant owners toward the same prices, which could count as price-fixing. Algorithmic pricing is a growing legal risk for many companies.",
+        "source": "AP via KTTC",
+        "url": "https://www.kttc.com/2026/10/08/mcdonalds-sued-over-ai-tool-that-recommends-prices-us-franchisees/"
+      },
+      {
+        "title": "Amazon pays $195M for West Town warehouse; Goolsbee hosts community bankers",
+        "body": "Amazon bought 1237 W. Division St. for a second Chicago same-day hub with ≈200 jobs at ≈$24/hr, opening 2027–28. Chicago Fed President Goolsbee opened the Fed's Community Bankers Symposium Saturday, after saying Oct 2 that a hike and a pause are both 'on the table.'",
+        "simple": "Amazon is spending big on fast delivery inside the city. Separately, Chicago's Fed president, who votes on rates, is meeting small-bank executives. He has said he is undecided on the next move, which makes him a swing voice.",
+        "source": "Chicago Sun-Times / Investing.com",
+        "url": "https://chicago.suntimes.com/real-estate/2026/10/06/amazon-west-town-warehouse-same-day-deliveries"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "NIH plans public-private push on personalized cancer vaccines",
+        "body": "After the NYT report, Moderna jumped ≈9% Friday and Novavax also rallied.",
+        "simple": "The government wants to partner with drugmakers to speed up cancer vaccines tailored to each patient. Investors bid up the companies that make the mRNA technology behind them.",
+        "source": "Yahoo Finance (citing NYT)",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html"
+      },
+      {
+        "title": "Treasury opens the US to Russian diesel for six months",
+        "body": "The NYT framed GL 135 as a sanctions reversal to ease fuel prices, running through April 2027.",
+        "simple": "Washington is temporarily letting Russian fuel in to cool diesel prices. It is a trade-off between inflation relief at home and pressure on Moscow.",
+        "source": "GovBrief (citing NYT)",
+        "url": "https://govbrief.today/what-happened-today-october-9-2026/"
+      },
+      {
+        "title": "Feds seize 600K+ gallons of Cuba-bound biodiesel",
+        "body": "Agents in Florida and Texas seized shipments tied to the sanctioned firm ENETEC S.A.",
+        "simple": "The US is enforcing sanctions on Cuba by stopping fuel shipments. It shows how energy has become a tool of foreign policy, which also matters for commodity traders.",
+        "source": "Just Security (citing NYT)",
+        "url": "https://www.justsecurity.org/160040/early-edition-october-8-2026/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Reading an auction like a desk",
+      "point": "The $39B 10Y on Oct 7 stopped 1.7 bp through at 5.300%, with indirects 80.3% vs a 72.4% average and dealers ≈2.5%. That marked the top: the 10Y went from ≈5.36% to 5.24% in two days. Contrast it with the 3Y at 4.932% (bid-to-cover 2.62, below September's 2.72) and a merely 'decent' 30Y. A good question to ask: is real-money demand at 5.3% a durable ceiling, or does CPI Wednesday reopen 5.40%?"
+    },
+    {
+      "topic": "Front end vs long end into CPI",
+      "point": "The long end fell ≈4 bp on the week but the 2Y held 4.80%, with ≈70–84% December-hike odds and the strip at ≈4.7% by late 2027. Consensus is headline CPI +0.6% m/m (oil) but core only +0.2%. If core prints in line, the 'hike in December, skip October' trade holds and 2s10s can steepen. A 0.3%+ core hits a crowded SOFR short. Frame it as: how would you express that view in SR3 Dec-26 vs Mar-27, and why do options (≈19% vol) beat outright futures here?"
+    },
+    {
+      "topic": "Bank earnings at 5%+ long rates",
+      "point": "KBWB is ≈12% off its August high, with GS −15% and BAC −16% in a month. The Q3 tension is that record CME Treasury volume (7.7M ADV in September) and MOVE ≈100–116 should lift FICC and rates trading, while a 10Y above 5.2% deepens unrealized AFS/HTM losses and slows mortgage and CRE lending. Ask which bank has the most rate-sensitive NII (BAC) versus the biggest markets franchise (JPM, GS). Know the read-through to Chicago: Byline crossing $10B in assets with Illinois State."
+    }
+  ],
+  "caveats": "Weekend edition: market tiles are Friday Oct 9 closes. Oil uses Reuters settles, while gold, silver, copper and DXY are late snapshots that vary by feed (ranges shown). Page fetches were blocked this run, so figures come from search summaries of the cited outlets. WSJ items come from the Reuters press digest and secondary coverage, and NYT items from outlets citing NYT reporting (no NYT digest found for Oct 8–10). The Chicago Tribune was inaccessible, so the Chicago bucket uses the Sun-Times, AP and SEC filings. Unconfirmed: the CPI y/y consensus is split (3.6% vs 3.7% headline, 2.4% vs 2.5% core), the industrial production date (Tue vs Fri), the Beige Book date (Wed vs Mon), most Fed speaker times, and GS EPS consensus (wide range). There is no verified KBW index level, term-premium estimate or current CFTC SOFR positioning.",
+  "updates": []
+}
