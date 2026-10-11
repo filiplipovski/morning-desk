@@ -1,0 +1,468 @@
+{
+  "date": "2026-10-11",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-10-11T11:20:30Z",
+  "headline": "A Houthi missile killed at least 12 at Riyadh's airport on Saturday, and Trump says the US may join Saudi strikes. That puts a Middle East risk premium back into oil when futures reopen at 5 PM CT tonight, in a week where Wednesday's CPI (≈3.6% y/y) and Tuesday's big-bank earnings test a 10Y at 5.24% and ≈70–84% odds of a December hike.",
+  "summary": [
+    "Weekend shock: Saturday's strike on Riyadh's King Khalid airport killed at least 12 and wounded 309. It was the third hit on the hub in a week and the deadliest attack on Saudi Arabia in more than a decade. Trump said the US 'may' join Saudi strikes on the Houthis and would decide quickly, and Washington is also debating restarting strikes on Iran. The risk now extends to Bab el-Mandeb as well as Hormuz. Brent closed Friday at $104.72, so watch the Sunday 5 PM CT reopen.",
+    "Week recap, rates: the 10Y hit ≈5.36% Wed (highest since 2002), then closed Fri at 5.24%, ≈−4 bp on the week, after a 1.7 bp stop-through at the 10Y auction. The 2Y held at 4.80% and the 30Y at ≈5.60%. The long end has calmed, but the front end still prices a hiking Fed (range 3.75–4.00%, December hike ≈70–84%, October ≈17–20%).",
+    "Week recap, metals: gold bounced off support near $4,100 to ≈$4,190 (Friday high $4,207.48), ≈+1% on the week. Silver ≈$60.8 was +1% on the week, and platinum ≈$1,690 is ≈−6% over the month. Copper ≈$6.66/lb is ≈2% below its record. Kitco's survey shows Wall Street analysts close to a bullish majority for the first time since payrolls.",
+    "Week recap, banking: the S&P 500 bank index fell ≈9% over the past month (KBWB ≈12% off its August high) going into Q3. JPM consensus is ≈$5.86–5.94 EPS on ≈$51B revenue. Street estimates put equities trading at ≈$19B across the big banks (GS ≈$5.1B, MS $4.9B, JPM $4.5B), helped by record CME Treasury volume.",
+    "Week ahead: Monday is Columbus Day (cash Treasuries closed, stocks and futures open). Tuesday brings JPM, GS, WFC and C, plus Waller and Collins. Wednesday has CPI (consensus +0.6% m/m, 3.6–3.7% y/y; core 2.4–2.5%), BAC, MS, BLK and the Beige Book. Thursday has retail sales, PPI and claims, and Warsh speaks late Thursday before the Oct 17 blackout. FOMC is Oct 27–28.",
+    "Isaias: post-tropical after a Cat 2 landfall near Destin, with at least 4 dead and ≈700K without power. Before landfall, 71.5% of Gulf oil output (1.46M b/d) was shut in. There's no restart data yet, and Monday's BSEE/MMA count is the next datapoint for WTI and refined products."
+  ],
+  "markets_asof": "Fri Oct 9 close (weekend: CME Globex reopens Sun 5 PM CT); oil = settles, metals/DXY = late snapshots",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,811.54",
+      "change": "+0.59%",
+      "dir": "up",
+      "note": "≈+1.2% on week; record close 7,818.93 (Oct 6)"
+    },
+    {
+      "label": "Dow",
+      "value": "51,654.95",
+      "change": "+423.31 (+0.83%)",
+      "dir": "up",
+      "note": "≈+0.9% on week"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "27,366.17",
+      "change": "+0.64%",
+      "dir": "up",
+      "note": "≈+0.6% on week"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,806.98",
+      "change": "+0.46%",
+      "dir": "up",
+      "note": "≈8% below Aug record"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.80%",
+      "change": "+≈5 bp",
+      "dir": "up",
+      "note": "Front end unmoved by long-end rally"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.24%",
+      "change": "+≈2 bp",
+      "dir": "up",
+      "note": "≈−4 bp on week; ≈5.36% high Wed"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.60%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "+32 bp m/m; 5.73% peak Wed"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈70–84%",
+      "dir": "flat",
+      "note": "Oct 28 hike ≈17–20%"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$91.85",
+      "change": "+$0.36 (+0.39%)",
+      "dir": "up",
+      "note": "Nov settle; Riyadh strike hit after close"
+    },
+    {
+      "label": "Brent",
+      "value": "$104.72",
+      "change": "+$0.44 (+0.42%)",
+      "dir": "up",
+      "note": "Dec settle; ≈+2% on week"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,190",
+      "change": "+≈1.5%",
+      "dir": "up",
+      "note": "Fri high $4,207.48; ≈+1% on week"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$60.8",
+      "change": "+≈2.8%",
+      "dir": "up",
+      "note": "+0.98% on week (PMI NY close)"
+    },
+    {
+      "label": "Platinum",
+      "value": "≈$1,690",
+      "change": "—",
+      "dir": "flat",
+      "note": "≈−5.9% over the month"
+    },
+    {
+      "label": "Copper",
+      "value": "≈$6.66/lb COMEX",
+      "change": "+≈2.2%",
+      "dir": "up",
+      "note": "Record ≈$6.83–6.85 (early Sep)"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.2",
+      "change": "+≈0.1%",
+      "dir": "up",
+      "note": "4th straight weekly gain"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun · 5:00 PM",
+      "event": "CME Globex reopens (equity, rates, energy, metals futures)",
+      "consensus": "—",
+      "prior": "Brent $104.72 / WTI $91.85 Fri settles",
+      "why": "First price on the Riyadh strike and Trump's Houthi comments. A gap higher in crude pushes up breakevens before Wednesday's CPI."
+    },
+    {
+      "time": "Mon · all day",
+      "event": "Columbus Day: cash bond market closed, stocks and futures open",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Treasury futures trade without cash Treasuries, so liquidity is thin. Bill auctions move to Tue."
+    },
+    {
+      "time": "Mon · TBD",
+      "event": "Gulf of Mexico shut-in update (BSEE/MMA); Cleveland Fed's Hammack (some calendars)",
+      "consensus": "—",
+      "prior": "71.5% oil / 58.8% gas shut in (Fri)",
+      "why": "How fast platforms restart determines whether Isaias is a one-week oil blip or a supply hit"
+    },
+    {
+      "time": "Tue · 2:45 AM",
+      "event": "Fed Gov. Waller (economic forum, India)",
+      "consensus": "—",
+      "prior": "Oct 8: 'I anticipate additional hikes'",
+      "why": "Any softening on timing moves the ≈17–20% October odds"
+    },
+    {
+      "time": "Tue · 5:00 AM",
+      "event": "NFIB small business optimism (Sep)",
+      "consensus": "—",
+      "prior": "98.7",
+      "why": "Small-firm price plans are an early read on inflation"
+    },
+    {
+      "time": "Tue · pre-open",
+      "event": "JPMorgan, Goldman Sachs, Wells Fargo, Citi Q3",
+      "consensus": "JPM EPS ≈$5.86–5.94, rev ≈$50.8–51.5B; WFC ≈$1.85; C ≈$2.66; GS wide",
+      "prior": "JPM Q2 EPS $7.70",
+      "why": "Watch FICC and rates trading, IB fees, NII guidance with the 10Y above 5%, and AFS marks. Bank stocks are ≈−9% over the month going in."
+    },
+    {
+      "time": "Tue · 3:00 PM",
+      "event": "Boston Fed's Collins",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Centrist voice before the blackout"
+    },
+    {
+      "time": "Wed · 7:30 AM",
+      "event": "CPI (Sep)",
+      "consensus": "+0.6% m/m, 3.6–3.7% y/y; core +0.2% m/m, 2.4–2.5% y/y",
+      "prior": "+0.4% / 3.4%; core +0.3% / 2.4%",
+      "why": "The week's main event. Core ≥0.3% revives an October hike and hits the 2Y. Core ≤0.2% keeps 'December, not October' intact."
+    },
+    {
+      "time": "Wed · pre-open",
+      "event": "Bank of America, Morgan Stanley, BlackRock Q3",
+      "consensus": "BAC ≈$1.11–1.17; MS ≈$2.94–3.10; BLK ≈$14.29",
+      "prior": "—",
+      "why": "BAC = NII and securities-book sensitivity; MS = equities trading (≈$4.9B est.) and wealth"
+    },
+    {
+      "time": "Wed · 1:00 PM",
+      "event": "Fed Beige Book; Gov. Bowman",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Anecdotal evidence of oil pass-through to prices and wages before Oct 28"
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "Retail sales (Sep)",
+      "consensus": "+0.3% m/m; control +0.3%",
+      "prior": "+1.1–1.2%; control +1.2%",
+      "why": "Tests whether the consumer holds up under $90+ oil and 7.5% mortgages"
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "PPI (Sep); jobless claims; Philly Fed / Empire (Oct)",
+      "consensus": "PPI +0.5%, core +0.3%; claims 195–197K; Philly ≈26",
+      "prior": "PPI +0.4%; claims 197K; Philly ≈37.8",
+      "why": "PPI components feed core PCE tracking"
+    },
+    {
+      "time": "Thu · pre-open",
+      "event": "Schwab, PNC, U.S. Bancorp Q3",
+      "consensus": "SCHW ≈$1.66; PNC ≈$4.98; USB ≈$1.33",
+      "prior": "—",
+      "why": "Super-regional deposit costs and cash sorting at 5%+ yields"
+    },
+    {
+      "time": "Thu · 3:30 PM / 10:30 PM",
+      "event": "Hammack speaks; then Chair Warsh with IMF's Georgieva (Bangkok)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Warsh's last public remarks before the Oct 17 blackout. The 20Y reopening (Oct 21) is also announced Thu."
+    },
+    {
+      "time": "Fri · 7:30 AM",
+      "event": "Import/export prices (Sep)",
+      "consensus": "—",
+      "prior": "+0.7% m/m, +7.0% y/y",
+      "why": "Dollar strength vs oil. IP is listed Tue or Fri depending on calendar."
+    },
+    {
+      "time": "Next FOMC",
+      "event": "FOMC decision Wed Oct 28",
+      "consensus": "Hold ≈80–83%; hike ≈17–20%",
+      "prior": "3.75–4.00% (hiked 25 bp Sep 17)",
+      "why": "December (Dec 9) is priced ≈70–84% for a hike"
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "CPI week: the long end calmed, the front end didn't",
+        "body": "The 10Y ended the week ≈−4 bp at 5.24% (WSJ: 5.243%), but the 2Y held at 4.80%, so 2s10s is ≈44 bp. Consensus for Wednesday is +0.6% m/m headline (oil) and +0.2% core. FXEmpire frames the print as a direct test of December-hike bets (≈70–84%).",
+        "simple": "A yield is the interest a bond pays, and the 2-year tracks expected Fed moves while the 10-year reflects longer-run inflation and debt worries. Strong auction demand calmed long-term rates this week, but traders still expect the Fed to raise its rate again. A hot inflation number Wednesday would make that hike look closer, raising loan and mortgage costs for everyone.",
+        "source": "FXEmpire / Financial Express (citing WSJ)",
+        "url": "https://fxempire.com/forecasts/article/us-interest-rate-forecast-cpi-to-test-december-fed-hike-bets-1637220"
+      },
+      {
+        "title": "Riyadh strike adds an oil-inflation risk to a hawkish Fed",
+        "body": "At least 12 died and 309 were injured in Saturday's Houthi strike on Riyadh's airport, and Trump said the US may join Saudi strikes. Analysts flag Bab el-Mandeb risk on top of the Hormuz disruption. With Brent at $104.72 and 10Y breakevens ≈2.28–2.35%, another oil leg would feed straight into inflation expectations.",
+        "simple": "A breakeven is the inflation rate the bond market expects, read from the gap between regular and inflation-protected Treasuries. A wider Middle East war threatens a second shipping lane for oil, which would push fuel prices and expected inflation up. That would make the Fed more likely to keep raising rates.",
+        "source": "CNN / CBS News",
+        "url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl"
+      },
+      {
+        "title": "Fed speakers: the last window before the Oct 17 blackout",
+        "body": "Waller (Tue 2:45 AM CT), Collins (Tue 3 PM), Bowman (Wed), Hammack (Thu 3:30 PM) and Warsh (Thu 10:30 PM CT, with the IMF in Bangkok) all speak. Waller said Oct 8 he expects 'additional hikes' with timing flexibility. Days and times vary across calendars.",
+        "simple": "The 'blackout' is the quiet period before each Fed meeting when officials stop talking publicly. This week is their last chance to steer expectations for the Oct 28 decision. Markets will parse every word on whether a hike comes in October or waits for December.",
+        "source": "PANews / Futu weekly outlook",
+        "url": "https://panews.io/articles/01a125ab-aa0a-7260-8237-cceb7532468c"
+      },
+      {
+        "title": "Global supply: Japan sells 5Y and 20Y JGBs, UK budget Oct 28",
+        "body": "Japan's MoF auctions 5Y JGBs Oct 14 and 20Y Oct 20, with the 10Y JGB already ≈3.02%. The UK 30Y gilt hit 6.036% Oct 7 (highest since 1998) ahead of the Oct 28 budget, the same day as the FOMC. US 10Y real yields are ≈2.87–2.89%.",
+        "simple": "Governments everywhere are borrowing heavily, and investors want higher rates to hold long-term bonds. Weak demand at a Japanese or British auction can push US yields up too, because global investors compare them. A real yield is the return after inflation, and at nearly 2.9% it's very high by recent standards.",
+        "source": "Japan MoF / Reuters",
+        "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/2610e.htm"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME launches baseball futures Monday (Oct 12)",
+        "body": "CME Group said it will list futures on performance indexes for all 30 MLB teams, starting with the four League Championship Series clubs, pending regulatory review. It's the latest push into event-style contracts as Kalshi and others grow, and Kalshi is itself investigating unusual trades on the press-secretary pick.",
+        "simple": "A futures contract is an agreement to buy or sell something at a set price later. Here, the 'something' is an index of how a baseball team performs. Exchanges are racing to offer bets on real-world events, and regulators are watching whether that's trading or gambling.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/08/cme_group_to_launchworldsfirstbaseballfuturesonoctober12.html"
+      },
+      {
+        "title": "CME portfolio margining saved a record $13B a day in September",
+        "body": "CME's October rates recap says users saved a record $13B per day in margin in September by netting Treasury and SOFR futures with other positions. It came alongside the record 7.7M ADV in Treasury futures and ≈24M open interest.",
+        "simple": "Margin is the cash a trader must post as collateral. Portfolio margining lets offsetting bets (say, long one bond future and short another) count against each other, so less cash is tied up. More capacity for big hedges means record volumes when rates are this volatile.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/news/2026/2026-10-rates-recap.html"
+      },
+      {
+        "title": "Leveraged funds deep net short Treasury futures; basis trade in focus",
+        "body": "One CFTC-based tracker shows leveraged funds' net 10Y futures position at ≈−36.5% of open interest (unverified against the latest COT). Much of that is the cash-futures basis trade, so a disorderly unwind is a tail risk in a volatile week. The MOVE eased to ≈98.5 Friday from ≈114–116.",
+        "simple": "Hedge funds often buy Treasury bonds and sell matching futures to earn a tiny price gap (the 'basis trade'), using lots of borrowed money. That shows up as a big 'short' in futures. If volatility spikes, they may have to unwind fast, which can whip bond prices around, as happened in March 2020.",
+        "source": "Indiecator (CFTC TFF data) / Federal Reserve",
+        "url": "https://indiecator.co/indicators/cot_treasury_10y_hedge_fund_positioning"
+      },
+      {
+        "title": "CME shelved its 24/7 micro crude contract after industry pushback",
+        "body": "On Oct 2 CME withdrew its filing for a 24/7, 10-barrel WTI contract after API, BP and others warned that thin weekend liquidity could distort the benchmark. The CFTC had stayed the July listing. Offshore 24/7 crude products have grown since the Iran war began, and this weekend's Riyadh strike is the kind of news they price first.",
+        "simple": "WTI is the main US oil price benchmark, and producers and airlines hedge against it. Trading it around the clock sounds useful, but with few traders on weekends prices could swing wildly and trigger margin calls. So for now US oil futures still wait until Sunday evening to react to weekend events.",
+        "source": "CME Group / 24/7 Wall St.",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_suspendsplanstolaunch24710-barrelcrudeoilcontract.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold holds $4,100, stalls at $4,200; Wall Street nears bullish majority",
+        "body": "Spot hit $4,207.48 Friday and settled ≈$4,190–4,195 (+1.5% on the day) after weak payrolls (+29K) and softer yields. Kitco's weekly survey has Wall Street analysts close to a bullish majority, while fewer than half of retail respondents expect gains. CPI and PPI are the swing factors.",
+        "simple": "Gold pays no interest, so it struggles when bond yields are high and gets help when they fall. Friday's soft jobs report nudged yields down and gold up. Whether it breaks above $4,200 depends on whether this week's inflation data pushes rates back up.",
+        "source": "Kitco News",
+        "url": "https://kitco.com/news/article/2026-10-09/wall-street-nears-bullish-majority-after-golds-late-week-rally-main-street"
+      },
+      {
+        "title": "LBMA delegates see $5,013 gold and $97 silver in a year",
+        "body": "The LBMA conference survey (Oct 6) forecasts gold ≈$5,013 (≈+20%) and silver $97 (≈+60%) in 12 months, despite real yields near 2.9%. That compares with record Q3 gold-ETF inflows of $31B and steady PBOC buying.",
+        "simple": "The LBMA is the London group that sets standards for the bullion market, and its conference polls industry insiders. They expect big gains because central banks and funds keep buying gold as insurance against debt and war. That's a bet that buying beats the drag from high interest rates.",
+        "source": "Kitco News",
+        "url": "https://www.kitco.com/news/article/2026-10-06/gold-hit-5000-silver-97-next-12-months-lbma-delegate-survey"
+      },
+      {
+        "title": "Silver +1% on the week; platinum ≈−6% over the month",
+        "body": "PMI's Friday-to-Friday New York closes show silver at $60.81 (+0.98% w/w) and platinum at $1,690.19. Silver is still roughly half its January peak of ≈$121.6. Palladium hit a record contract low in Guangzhou after China's holiday.",
+        "simple": "Silver and platinum are both precious and industrial metals, so they swing more than gold. Silver's earlier bubble has deflated, and weak Chinese auto-catalyst demand is weighing on platinum-group metals. For banks and traders, that means high volatility and wide hedging costs.",
+        "source": "PMI weekly review / Trading Economics",
+        "url": "https://blog.pmi.ky/2026/10/10/the-precious-metals-week-in-review-october-9th-2026"
+      },
+      {
+        "title": "Copper ≈2% from record, but J.P. Morgan flags an $11.1–11.2K downside case",
+        "body": "COMEX closed ≈$6.66/lb Friday (+2.2%), and LME 3M hit $14,614.5/t Oct 8 against a $14,875 record. Mysteel shows China's August refined imports fell 13.9% m/m to 209,300t. J.P. Morgan's downside scenario of $11,100–11,200/t cites Iran-war demand risk.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a read on global growth. Supply problems in Chile have kept it near records even as China buys less. If the war slows the world economy, banks see room for a sharp drop.",
+        "source": "Mysteel / J.P. Morgan Research",
+        "url": "https://www.jpmorgan.com/insights/global-research/commodities/copper-outlook"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Big banks report into a ≈9% monthly drawdown",
+      "body": "The S&P 500 bank index fell ≈9% over the past month as yields spiked. JPM consensus is ≈$5.86–5.94 EPS on ≈$50.8–51.5B revenue (Q2: $7.70 EPS, $58.0B managed revenue). S&P 500 Q3 earnings are seen up ≈29.5–30%+ (FactSet/LSEG).",
+      "simple": "Bank stocks have fallen because higher long-term rates cut the value of bonds banks hold and can slow lending. Tuesday's results show whether trading profits and lending income offset that. They also give a snapshot of how businesses and consumers are coping with high rates.",
+      "source": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-earnings-cpi-headline-busy-100209820.html"
+    },
+    {
+      "title": "Street sees ≈$19B in Q3 equities trading; GS leads",
+      "body": "Estimates put big-bank equities trading near $19B, with GS ≈$5.1B, MS $4.9B and JPM $4.5B. The same report flags cooler fixed income. That cuts against record CME rates volume, so FICC is Tuesday's swing line.",
+      "simple": "Investment banks earn money making markets for clients in stocks and bonds. Volatile markets usually mean more client trading and bigger profits. The question is whether the bond-market turmoil helped (more hedging) or hurt (clients sat out).",
+      "source": "GuruFocus",
+      "url": "https://www.gurufocus.com/news/9117198/wall-street-banks-eye-19b-in-q3-stock-trading-revenue-goldman-sachs-gs-leads"
+    },
+    {
+      "title": "Bank M&A: 145 deals YTD, Third Coast–Great Plains $239.6M",
+      "body": "Fed NIC data shows 145 banks acquired or merged in 2026 through Oct 6. Third Coast (TX) agreed to buy Oklahoma's Great Plains in a ≈$239.6M all-stock deal closing Q1, and Chicago's Byline agreed to buy Illinois State Bancorp. The Fed approved Isabella–Grand River, which closes Nov 2.",
+      "simple": "Small banks are merging to spread tech and compliance costs over more customers. Faster regulatory approvals this year have kept deal counts high. For customers, it usually means fewer local banks but bigger lending capacity.",
+      "source": "Bank Reg Reports / PR Newswire / ABA Banking Journal",
+      "url": "https://www.bankregreports.com/events/mergers/2026/"
+    },
+    {
+      "title": "Rich clients rotate back into bonds at 5%+ yields",
+      "body": "CNBC reports advisors to ultra-wealthy clients are steering money back into bonds as yields climb. Crestwood notes the 10Y now sits ≈2 points above core PCE (≈3%), a real cushion last seen around 2007.",
+      "simple": "When safe government bonds pay over 5%, stocks have to work harder to look attractive. Wealthy investors are locking in those rates. That's good news for banks' wealth-management fees and for Treasury demand at auctions.",
+      "source": "CNBC / Crestwood Advisors",
+      "url": "https://www.crestwoodadvisors.com/october-2026-economic-and-market-update-higher-and-higher-bond-yields-rise-to-levels-not-seen-in-nearly-two-decades/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Houthis strike Riyadh airport; coalition vows a 'firm' response",
+        "body": "CNBC reported Thursday's strike that killed a Saudia pilot, and a larger Saturday attack killed at least 12 (309 injured), per Saudi aviation authorities. Airlines suspended 124+ flights, and Riyadh flights were halted again Sunday.",
+        "simple": "The Houthis are an Iran-backed militia in Yemen. Hitting Saudi Arabia's main airport widens the Iran war toward the world's largest oil exporter. Markets fear a threat to oil shipping through the Red Sea's southern chokepoint.",
+        "source": "CNBC / CNN",
+        "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html"
+      },
+      {
+        "title": "Isaias shut in up to 71.5% of Gulf oil before landfall",
+        "body": "CNBC tracked shut-ins rising from ≈25% to ≈63% to 71.5% (1.46M b/d) of Gulf oil. Chevron's Pascagoula refinery kept running. An analyst estimates 1–2 weeks to restart undamaged refineries if they shut down.",
+        "simple": "Oil companies evacuate offshore platforms before hurricanes, cutting production temporarily. If damage is light, output returns within days. If not, gasoline and diesel prices can spike regionally.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
+      },
+      {
+        "title": "Pentagon pulls bombers from RAF Fairford; Putin relays Iran's terms",
+        "body": "CNBC's Daily Open said all US bombers left RAF Fairford after a suspected terror plot as more tankers were hit near Iran. The Kremlin said Putin passed Iran's terms for ending the war to Trump with Pezeshkian's backing, without disclosing details.",
+        "simple": "These are mixed signals: a possible diplomatic channel through Russia alongside more attacks and security threats. Oil traders price the odds of escalation against a deal. That's why crude swings on headlines.",
+        "source": "CNBC / Al Arabiya",
+        "url": "https://english.alarabiya.net/News/world/2026/10/10/kremlin-says-putin-relayed-iran-s-position-on-resolving-conflict-to-trump"
+      },
+      {
+        "title": "AI pressures the law-firm billable hour",
+        "body": "CNBC's Saturday feature says AI tools are cutting the hours behind routine legal work, pushing firms toward flat fees and changing junior-associate career paths.",
+        "simple": "Law firms traditionally charge by the hour, so tools that do work faster cut revenue under that model. The same pressure applies to junior roles in banking and consulting. Entry-level analysts may be judged more on judgment than on hours.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Long-term Treasury yields ease from 24-year highs",
+        "body": "Per the Financial Express citing WSJ, the 10Y finished the week at 5.243% after hitting its highest level since 2002 midweek. A strong 10Y auction and calmer Iran headlines helped.",
+        "simple": "Bond prices and yields move in opposite directions, so falling yields mean investors stepped back in to buy. Mortgage rates key off the 10Y, so even a small drop matters to homebuyers. But it's still near its highest level in over two decades.",
+        "source": "Supwil digest (citing Financial Express / WSJ)",
+        "url": "https://news.supwil.com/en/news/finance/2026-10-10"
+      },
+      {
+        "title": "Kalshi probes unusual bets on the press-secretary pick",
+        "body": "The WSJ reported, citing a Kalshi spokesperson, that the prediction market is investigating suspicious trading tied to Trump's choice of a new White House press secretary.",
+        "simple": "Prediction markets let people bet on real-world outcomes. If someone traded on leaked inside information, that's similar to insider trading. It's a test of how these fast-growing markets are policed.",
+        "source": "CNBC (citing WSJ)",
+        "url": "https://www.cnbc.com/world/"
+      },
+      {
+        "title": "Treasury opens the US to Russian diesel through April 2027",
+        "body": "WSJ-cited coverage says a temporary general license suspends sanctions on Russian diesel through early April 2027. Reported shipments are 300K+ tons immediately, 500K tons in November and 1M tons after.",
+        "simple": "Diesel runs trucks, farms and freight, and Gulf hurricanes plus the Iran war have made it scarce. Letting in Russian supply should cap prices. It also softens pressure on Moscow, which is a political trade-off.",
+        "source": "&Magazine morning brief (citing WSJ)",
+        "url": "https://andmagazine.substack.com/p/morning-brief-october-10-2026"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME lists baseball futures Monday, its latest event-contract push",
+        "body": "Chicago-based CME will launch futures on indexes tracking all 30 MLB teams starting Oct 12, beginning with the LCS clubs, pending regulatory review. CME also posted record September and Q3 volumes.",
+        "simple": "CME is the world's largest derivatives exchange and is headquartered in Chicago. Moving into sports-linked contracts puts it in competition with betting apps and prediction markets. Volume records mean higher fee revenue for the company.",
+        "source": "CME Group / Stock Titan",
+        "url": "https://www.stocktitan.net/news/CME/cme-group-to-launch-world-s-first-baseball-futures-on-october-ho3zq0m46dut.html"
+      },
+      {
+        "title": "Hotel workers strike into Chicago Marathon weekend",
+        "body": "UNITE HERE Local 1 workers struck downtown hotels as visitors arrived for Sunday's marathon. More than 7,000 members had voted to authorize a strike, seeking higher pay and benefits.",
+        "simple": "A strike during a big tourism weekend gives workers maximum leverage. It affects hotel revenue and Chicago's convention business. Wage settlements in service jobs also feed the inflation the Fed is fighting.",
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/business/2026/10/09/hotel-workers-strike-chicago-marathon-weekend"
+      },
+      {
+        "title": "Byline buys Illinois State Bancorp as Chicago banks consolidate",
+        "body": "Chicago's Byline Bancorp agreed to buy Illinois State Bancorp (≈$87.9M), its latest Chicago-area consolidation, per the ABA Banking Journal's weekly roundup. Earlier in 2026 Esquire bought Chicago's Signature Bank for $348.4M.",
+        "simple": "Chicago has many small community banks, and they're steadily merging. Bigger banks can make bigger business loans but may close branches. It's a live example of the commercial-banking consolidation Filip would see in a Chicago role.",
+        "source": "ABA Banking Journal / Crain's",
+        "url": "https://bankingjournal.aba.com/2026/10/bank-acquisitions-announced-in-five-states-3/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Israel warns of Iranian threat to US bases in Germany",
+        "body": "A weekly security report citing NYT says Israeli officials shared intelligence on heightened risk of Iranian attacks on Ramstein and Spangdahlem. It coincides with the Pentagon pulling bombers from the UK's RAF Fairford.",
+        "simple": "The war's risks are spreading beyond the Middle East to US bases in Europe. More attacks would raise the odds of escalation and of higher oil and gold prices. Markets treat this as an uncertainty premium.",
+        "source": "OPFOR Journal (citing NYT)",
+        "url": "https://opforjournal.com/p/weekly-significant-activity-report-a46"
+      },
+      {
+        "title": "Pentagon revises US war-death count after WaPo report",
+        "body": "A Jerusalem Post live blog says the Pentagon updated its official count of US service members killed in the Iran war, after a Washington Post report suggested the earlier figure of 18 was inaccurate.",
+        "simple": "Casualty counts shape public and political support for the war ahead of the midterms. Rising US losses raise pressure on Trump to either escalate or settle. Either path moves oil and defense stocks.",
+        "source": "Jerusalem Post (no NYT digest found)",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-11/live-updates-911253"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Pricing a weekend geopolitical gap",
+      "point": "Saturday's Houthi strike (12 dead in Riyadh) landed with futures closed, after Brent settled at $104.72. CME just shelved its 24/7 micro-WTI because the industry feared thin weekend liquidity, so offshore 24/7 products price this first and CME catches up at 5 PM CT Sunday. Ask: how would a rates desk hedge a gap-up in crude going into CPI? Long breakevens via TIPS vs nominals, or payer swaptions? And how does that interact with a front end already pricing a December hike?"
+    },
+    {
+      "topic": "What a 0.2% vs 0.3% core CPI does to the curve",
+      "point": "With the 2Y at 4.80%, the 10Y at 5.24% and Dec-hike odds ≈70–84%, an in-line +0.2% core lets the long-end rally run (2s10s steeper from ≈44 bp). A 0.3%+ core revives October (now ≈17–20%) and flattens via the front end, which is painful for a market whose leveraged funds are deep net short 10Y futures (≈−36.5% of OI, mostly basis trades). Be ready to say which SOFR contract (Dec-26 vs Mar-27) you'd use to express it."
+    },
+    {
+      "topic": "Bank earnings: trading vs balance sheet",
+      "point": "Bank stocks fell ≈9% in a month into Tuesday. The bull case is record CME Treasury volume (7.7M ADV, a record $13B/day portfolio-margin savings), the ≈$19B Street estimate for equities trading and a MOVE that hit ≈116. The bear case is 5%+ long yields deepening AFS/HTM marks and slowing CRE and mortgage lending. A good networking question: does JPM's FICC line beat with clients hedging rates risk, or did volatility keep them sidelined? And how do NII guides change with a hiking Fed but a flatter curve?"
+    }
+  ],
+  "caveats": "Weekend edition: market tiles are Friday Oct 9 closes. Oil uses settles, while metals and DXY are late snapshots that vary by feed. Page fetches were blocked this run, so all figures come from search summaries of the cited outlets. WSJ and NYT items come from secondary outlets citing them, and the second NYT-bucket item cites WaPo (no NYT digest found). The Chicago Tribune was inaccessible, so the Chicago bucket uses the Sun-Times, CME and ABA. Unconfirmed: CPI y/y consensus (3.6% vs 3.7%), Fed speaker days and times (calendars disagree, and times were converted to CT), the IP date, the Kalshi-probe attribution, the leveraged-fund 10Y positioning figure, and Sunday-evening futures (not yet open at writing). There is no post-storm Gulf restart data yet.",
+  "updates": []
+}
