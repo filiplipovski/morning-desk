@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-12",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-12T11:27:09Z",
+  "headline": "Oil absorbed the Riyadh airport strike with barely a flinch. Brent opened ≈+0.7% to $105.48 Sunday, then gave it back in Asia on Trump's unconfirmed Russia–Ukraine 'energy ceasefire.' With cash Treasuries shut for Columbus Day, today is a thin-liquidity holding pattern before Tuesday's JPM/GS/WFC/C prints and Wednesday's CPI decide whether the ≈70–85% December-hike pricing holds.",
+  "summary": [
+    "Geopolitics vs. oil: Saturday's Houthi strike on Riyadh's King Khalid airport killed 12 and wounded 309 (Saudi GACA; CNN says 13+). A second hit Sunday killed one more, and Cirium says 99.7% of Riyadh flights were cancelled Sunday. Two tankers were also hit near Sohar and in Hormuz. Even so, Brent's Globex reopen was only +$0.76 to $105.48 before the ceasefire headline knocked it back toward ≈$103–104 in Asia. Read: the market already prices a lot of Gulf risk at $100+.",
+    "The ceasefire is the swing variable. Trump says Russia will supply 300K+ metric tons of diesel under an 'energy ceasefire.' ICE gasoil fell 4.6%, but neither Kyiv nor Moscow confirmed it, and Russian strikes hit Ukrainian power plants within hours. A deal that sticks takes the edge off distillate-driven inflation. One that falls apart reverses the move.",
+    "Rates: the cash bond market is closed (SIFMA), and Fed Banks are closed too. Treasury futures trade thin, and bill auctions slide to Tuesday. The Friday marks still stand: 2Y 4.80%, 10Y 5.24%, 30Y ≈5.60%, MOVE 98.47 (from a 113.60 peak Oct 5). Abroad, Bunds are ≈−2 bp at ≈3.47%, but OAT–Bund widened 3 bp to 141.5 bp on French debt worries. JGBs are shut for a Japanese holiday.",
+    "Fed: Oct 28 is ≈82% hold / ≈18% hike (futures-based trackers; Kalshi/Polymarket ≈81–84% hold). December hike pricing sits in a ≈65–85% band depending on source (Kalshi 74%). Hammack may speak this evening, Waller and Collins Tuesday, Bowman Wednesday, Warsh Thursday/Friday, and the blackout starts Oct 17.",
+    "Bank earnings start tomorrow into a ≈9% monthly drawdown in the bank index. JPM consensus is ≈$5.93 EPS / $51.2B revenue (year-ago EPS $5.07), WFC ≈$1.85, and GS and C estimates disagree across vendors. CNBC/FactSet see ≈10% bank EPS growth. The key lines are FICC with record CME rates volume, NII guidance with the 10Y above 5%, and AFS marks.",
+    "Futures and metals: equity futures were +0.1–0.3% at 4 AM ET (ES ≈7,868–7,880), and Europe is +0.5% on cheaper oil. Gold traded $4,218 in Asia and was back to ≈$4,176 by 4:30 AM ET as DXY firmed to ≈102.3. LME copper is +1.8% to $14,550/t on short-covering (SMM)."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT Mon (cash Treasuries closed for Columbus Day; yields are Fri closes)",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "≈7,868–7,880",
+      "change": "+≈0.1–0.3%",
+      "dir": "up",
+      "note": "Cash close Fri 7,811.54"
+    },
+    {
+      "label": "Dow fut",
+      "value": "≈51,996–52,030",
+      "change": "+≈0.1–0.2%",
+      "dir": "up",
+      "note": "Cash close Fri 51,654.95"
+    },
+    {
+      "label": "Nasdaq 100 fut",
+      "value": "—",
+      "change": "+≈0.2–0.45%",
+      "dir": "up",
+      "note": "Comp close Fri 27,366.17"
+    },
+    {
+      "label": "Russell 2000 fut",
+      "value": "—",
+      "change": "+≈0.2–0.3%",
+      "dir": "up",
+      "note": "Cash 2,806.98; 5th straight weekly loss"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.80%",
+      "change": "Closed",
+      "dir": "flat",
+      "note": "Fri close; cash market shut today"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.24%",
+      "change": "Closed",
+      "dir": "flat",
+      "note": "Fri close; ≈5.36% 24-yr high Oct 7"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.60%",
+      "change": "Closed",
+      "dir": "flat",
+      "note": "Fri close"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hike ≈18%",
+      "dir": "flat",
+      "note": "Dec hike ≈65–85% by source"
+    },
+    {
+      "label": "WTI crude",
+      "value": "≈$90–92",
+      "change": "≈−1.8% to +1%",
+      "dir": "flat",
+      "note": "Overnight range ≈$90.2–92.9; Fri $91.85"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$103–105",
+      "change": "≈−1.5% to +0.7%",
+      "dir": "flat",
+      "note": "Sun open $105.48; Asia low ≈$103"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "$4,175.60",
+      "change": "−$18 (−0.4%)",
+      "dir": "down",
+      "note": "Kitco 4:32 AM ET; range $4,174–4,218"
+    },
+    {
+      "label": "Silver",
+      "value": "$60.73",
+      "change": "≈−0.1%",
+      "dir": "flat",
+      "note": "Fortune 6:45 AM ET; Fri $60.81"
+    },
+    {
+      "label": "Platinum",
+      "value": "$1,692.90",
+      "change": "≈+0.4%",
+      "dir": "up",
+      "note": "Palladium $1,149"
+    },
+    {
+      "label": "Copper",
+      "value": "LME $14,550/t",
+      "change": "+1.79%",
+      "dir": "up",
+      "note": "SMM close; COMEX ≈$6.7/lb (feeds differ)"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.2–102.3",
+      "change": "≈flat/+0.1%",
+      "dir": "flat",
+      "note": "Near 18-month high"
+    },
+    {
+      "label": "VIX / MOVE",
+      "value": "14.84 / 98.47",
+      "change": "Fri closes",
+      "dir": "down",
+      "note": "MOVE peaked 113.60 Oct 5"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "All day",
+      "event": "Columbus Day: cash Treasuries and Fed Banks closed; NYSE/Nasdaq and CME futures open",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Treasury futures trade without the cash market. That means thin depth and gappy moves on any Middle East or ceasefire headline. Weekly bill auctions shift to Tue."
+    },
+    {
+      "time": "All day",
+      "event": "No major US data",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Price action comes from oil headlines and positioning ahead of banks and CPI."
+    },
+    {
+      "time": "TBD",
+      "event": "Gulf of Mexico shut-in / restart update after Isaias (BSEE/MMA)",
+      "consensus": "—",
+      "prior": "≈72% oil (≈1.5M b/d) / ≈59% gas shut at peak",
+      "why": "Restart speed decides whether Isaias is a one-week blip. Coastal refineries (Pascagoula, Mobile) may need up to two weeks."
+    },
+    {
+      "time": "Mon",
+      "event": "CME MLB team-performance futures slated to launch (pending regulatory review)",
+      "consensus": "—",
+      "prior": "NHL futures launched Aug",
+      "why": "CME's push into event-style contracts against Kalshi and others"
+    },
+    {
+      "time": "≈4:50 PM",
+      "event": "Cleveland Fed's Hammack (timing unconfirmed; some calendars put her Thu)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A hawkish 2026 voter. She sets the tone before Waller Tue."
+    },
+    {
+      "time": "Tue · pre-open",
+      "event": "JPMorgan, Goldman, Wells Fargo, Citi Q3",
+      "consensus": "JPM $5.93 / $51.2B; WFC $1.85 / $22.15B; GS and C estimates vary by vendor",
+      "prior": "JPM year-ago EPS $5.07",
+      "why": "FICC/rates trading, IB fees, NII guide, AFS marks with the 10Y >5%"
+    },
+    {
+      "time": "Wed · 7:30 AM",
+      "event": "CPI (Sep)",
+      "consensus": "+0.6% m/m, 3.6–3.7% y/y; core ≈+0.2–0.3% m/m",
+      "prior": "+0.4% / 3.4%; core +0.3% / 2.4%",
+      "why": "The week's main event for the 2Y and December-hike pricing. BAC, MS and BLK also report pre-open."
+    },
+    {
+      "time": "Next FOMC",
+      "event": "FOMC decision Wed Oct 28",
+      "consensus": "Hold ≈82%; hike ≈18%",
+      "prior": "3.75–4.00%",
+      "why": "Dec 9 hike priced ≈65–85% depending on source. Blackout starts Oct 17."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Columbus Day: no cash Treasuries, so oil headlines hit futures in thin trade",
+        "body": "SIFMA has the cash market shut, and only CME Treasury futures trade. Friday's marks are 2Y 4.80%, 10Y 5.24%, 30Y ≈5.60%, with 2s10s ≈44 bp. The 10Y is ≈12 bp below its Oct 7 24-year high. MOVE closed Friday at 98.47, down from 113.60 on Oct 5.",
+        "simple": "Today the main bond market (Treasuries, the government's IOUs) is closed for the holiday, but futures (contracts betting on future bond prices) still trade. With fewer people trading, a single headline can move prices more than usual. The MOVE index, a 'fear gauge' for bonds, has calmed from last week's spike, so traders are less panicked.",
+        "source": "SIFMA / Phemex; StreetStats",
+        "url": "https://phemex.com/news/article/us-cash-bond-market-to-close-oct-12-for-columbus-day-equities-and-futures-remain-open-99275"
+      },
+      {
+        "title": "Fed path: October a hold, December a coin-flip-plus",
+        "body": "Futures-based trackers show ≈82% hold / ≈18% hike for Oct 28, and Kalshi/Polymarket show ≈81–84% hold. December hike odds range from ≈65% to ≈85% (Kalshi 74%, a CME-derived snapshot ≈85%). Speakers before the Oct 17 blackout are Hammack, Waller, Collins, Bowman and Warsh.",
+        "simple": "The Fed sets short-term interest rates. Markets are betting it will hold steady this month but probably raise rates again in December, because higher oil prices are pushing inflation up. A December hike would mean higher borrowing costs on credit cards, car loans and business loans.",
+        "source": "Investing.com; DeFi Rate (Kalshi/Polymarket)",
+        "url": "https://www.investing.com/analysis/fed-october-ratehike-odds-slide-below-22-ahead-of-minutes-200689107"
+      },
+      {
+        "title": "Europe: Bunds rally on cheaper oil, France spread widens",
+        "body": "The 10Y Bund is ≈−2 bp at ≈3.47–3.48%, while OAT–Bund widened 3 bp to 141.5 bp on French debt worries. EUR/USD is ≈1.121 after five straight weekly losses. The 10Y gilt is ≈5.4%, near its highest since 2007 (single source), with the UK budget Oct 28.",
+        "simple": "Germany's 10-year bond yield (the interest rate it pays to borrow) fell a little because cheaper oil eases inflation fears. France now has to pay noticeably more than Germany to borrow (the 'spread'), a sign investors are nervous about its debts. High European yields also put a floor under US yields, because global investors compare the two.",
+        "source": "Rallies (Reuters text); Trading Economics",
+        "url": "https://rallies.ai/news/bund-yields-edge-lower-as-french-spread-widens-with-energy-prices-in-focus-5971fd972db6c918"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME's record September sets up a strong Q3 print",
+        "body": "ADV hit a record 31.8M contracts in September (+22% y/y) and 29.4M in Q3 (+16%). Rates ADV was 16.2M (+22%), with Treasury futures and options +42%, and energy 3.1M (+37%). International ADV was 9M in Q3 (+22%). CME reports Q3 on Oct 21.",
+        "simple": "ADV (average daily volume) counts how many futures and options contracts change hands each day on CME, Chicago's big derivatives exchange. More trading means more fees for CME. Volatile rates and oil this year have pushed banks, funds and companies to hedge more, so volumes hit records.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "CME baseball futures slated to go live today",
+        "body": "CME said Oct 8 it would list futures on CME FutureSports Performance Indexes for all 30 MLB teams starting Oct 12, pending regulatory review. It starts with the four LCS clubs, with a standard contract at 10x the index plus a micro at 1/10. Hockey futures launched in August. Go-live was not yet confirmed at writing.",
+        "simple": "CME is creating contracts whose value tracks how well a baseball team performs, a regulated, exchange-cleared cousin of sports betting. It's part of a race with prediction-market firms like Kalshi to own 'event contracts.' For CME it's a new source of retail trading fees beyond rates, oil and stocks.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/08/cme_group_to_launchworldsfirstbaseballfuturesonoctober12.html"
+      },
+      {
+        "title": "Basis trade shrinks; swap-spread wideners in favor",
+        "body": "Morgan Stanley estimates leveraged Treasury basis positions fell to ≈$900B from $1.26T at the start of 2026, the smallest in 2+ years (Reuters cites ≈$1.2T, −20%). Short-dated basis has lost its appeal, while the long end stays crowded. Several dealers (MS, Barclays, Citi) have favored 10Y swap-spread wideners after spreads hit ≈−46 bp; level and date are unconfirmed.",
+        "simple": "The 'basis trade' is when hedge funds buy Treasury bonds and sell matching futures to pocket a tiny price gap, using lots of borrowed money. A smaller trade means less risk of a forced, messy sell-off like March 2020. A 'swap spread' is the gap between swap rates and Treasury yields, and when it's very negative, Treasuries look cheap versus swaps.",
+        "source": "Hedgeweek (Bloomberg/Morgan Stanley)",
+        "url": "https://hedgeweek.com/news/hedge-funds-scale-back-treasury-basis-trade-as-arbitrage-gaps-narrow"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold briefly reclaims $4,200, then the dollar knocks it back",
+        "body": "Spot hit $4,218.10 in Asia (highest since Oct 2) on the Riyadh strike and the shaky ceasefire narrative. By 4:32 AM ET it was $4,175.60 (−$18), with DXY +0.1% to ≈102.31 and CPI caution. Friday close was ≈$4,191–4,194 (+1.5%). Kitco's Wall Street panel is 7 of 14 bullish, 2 bearish.",
+        "simple": "Gold usually rises when people are scared and falls when the dollar strengthens or interest rates climb, since gold pays no interest. This morning those forces cancelled out: war news pushed it up overnight, then a firmer dollar pulled it back. Wednesday's inflation number will likely decide the next big move.",
+        "source": "Rallies (Reuters text); Kitco",
+        "url": "https://rallies.ai/news/gold-slips-from-one-week-high-as-firm-us-dollar-weighs-ab8805c7979ff1c9"
+      },
+      {
+        "title": "PBOC's biggest monthly buy since 2023; ETF holdings at a record",
+        "body": "China's central bank added 740K oz in September, taking reserves to 77.47M oz in its 23rd straight monthly purchase, with ≈103t bought in 2026. WGC data show ≈$10B of global ETF inflows in September and a record $31B in Q3, with holdings +67t to a record 4,256t.",
+        "simple": "Central banks, especially China's, keep buying gold to reduce their reliance on the US dollar. Funds that hold gold for investors (ETFs) also kept buying. That steady demand is why gold stays above $4,000 even with US interest rates near 20-year highs.",
+        "source": "China Daily HK; ScrapMonster (WGC data)",
+        "url": "https://www.chinadailyhk.com/article/640689"
+      },
+      {
+        "title": "LME copper +1.8% to $14,550 on short-covering; China premiums soften",
+        "body": "LME 3M ran $14,470–14,583 and closed $14,550 (+1.79%) per SMM, after a −1.3% Friday (ABC). The record is ≈$14,850 cash (Aug 17, Cochilco). The Yangshan premium hit a 4-year high of $135/t post-holiday (Reuters via Kitco), but Shanghai spot premiums are now easing as imported cargoes bunch up.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price tracks expectations for global growth. Today's jump came mostly from traders who had bet on a fall buying back their positions ('short-covering'), not from new buying. Softening premiums in Shanghai hint that China's actual demand at these prices is cooling.",
+        "source": "SMM (Shanghai Metals Market)",
+        "url": "https://news.metal.com/newscontent/104150645-supply-marginally-loosening-high-prices-may-be-hard-to-sustain-smm-copper-morning-meeting-summary"
+      },
+      {
+        "title": "Silver and PGMs drift after Friday's pop",
+        "body": "Silver is $60.73, platinum $1,692.90 and palladium $1,149.08 (Fortune, 6:45 AM ET). On Friday silver rose +2.78% to $60.81, platinum +2.8% and palladium +2.1%. Silver is still about half its January peak of ≈$121.6.",
+        "simple": "Silver and platinum are part precious metal, part industrial input (solar panels, car exhaust catalysts). They tend to swing harder than gold. After a big Friday rally they're treading water today ahead of the inflation data.",
+        "source": "Fortune; SMM",
+        "url": "https://fortune.com/article/current-price-of-silver-10-12-2026"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Big banks kick off Q3 tomorrow; ≈10% EPS growth expected",
+      "body": "JPM, GS, WFC and C report Tue, and BAC and MS Wed. FactSet sees ≈10% bank earnings growth, WFC is seen at ≈$1.85 EPS (LSEG), and GS has beaten for 12 straight quarters. The S&P 500 bank index is ≈−9% over the past month as yields spiked.",
+      "simple": "Big banks report their July–September results this week. Investors want to know whether high interest rates are helping (banks earn more on loans) or hurting (bond holdings lose value, borrowers struggle). Bank stocks fell about 9% in a month, so the bar for a relief rally is lower.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
+    },
+    {
+      "title": "JPM consensus: $5.93 EPS on $51.2B",
+      "body": "Twelve analysts average $5.93 EPS (range $5.59–6.23) on $51.19B revenue, vs $5.07 a year ago. BAC (Wed) is ≈$1.11–1.17 after a 6.7% cut to estimates over a month. MS is ≈$2.94–3.12 after a ≈7% cut. GS and C consensus vary widely by vendor.",
+      "simple": "EPS (earnings per share) is profit divided by shares. Analysts trimmed BofA and Morgan Stanley forecasts in the past month, which makes them easier to beat. JPMorgan's commentary on loan demand and deposit costs is usually read as a temperature check on the whole economy.",
+      "source": "AlphaStreet",
+      "url": "https://news.alphastreet.com/jpmorgan-chase-q3-2026-earnings-preview-october-13-street-expects-5-93-eps/amp/"
+    },
+    {
+      "title": "Amazon in talks to buy AI startup Decart for ≈$7B",
+      "body": "The WSJ reported Amazon is negotiating to buy Decart for ≈$7B, vs a ≈$4B valuation in May (PitchBook). Bloomberg reported Anthropic dropped its own interest after diligence, having explored up to ≈$6B in August.",
+      "simple": "Big tech companies keep paying high prices to buy AI startups for their talent and technology. Nearly doubling a valuation in five months shows how hot the AI deal market still is. For banks, deals like this generate advisory fees even when IPOs are slow.",
+      "source": "Reuters via StreetInsider (citing WSJ)",
+      "url": "https://www.streetinsider.com/Reuters/Amazon+in+talks+to+buy+AI+startup+Decart+for+around+$7+billion,+WSJ+reports/27172900.html"
+    },
+    {
+      "title": "Chicago's GTCR, with Elliott, nears deal for CCC Intelligent Solutions",
+      "body": "Bloomberg reported Oct 9 that GTCR and Elliott are in advanced talks to take Chicago-based CCC (auto-insurance claims software) private, with a deal possible this week. Shares jumped ≈9–13% after hours from a ≈$4.1B market cap.",
+      "simple": "A take-private is when investment firms buy all of a public company's shares, usually with a lot of borrowed money. That makes it a big financing event for banks' leveraged-loan desks. It's a test of whether buyout financing works with rates this high.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/gtcr-and-elliott-said-to-near-deal-for-software-firm-ccc"
+    },
+    {
+      "title": "Community-bank M&A keeps grinding: TowneBank–blueharbor $154M",
+      "body": "TowneBank agreed Oct 6 to buy blueharbor bank (Mooresville, N.C.) for ≈$154M. Century Financial holders approved the Bank7 merger Oct 9, with closing ≈Nov 1. Fed NIC data showed 145 bank mergers YTD through Oct 6.",
+      "simple": "Small banks keep merging to share technology and compliance costs and to compete for deposits. That's steady deal flow for regional investment banks and lawyers. Regulators have been approving these deals faster than in recent years.",
+      "source": "Yahoo Finance (company release)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/townebank-enhances-north-carolina-presence-123000533.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Bank earnings week: what to expect from JPM, Goldman and peers",
+        "body": "JPM, GS, WFC and C report Oct 13, BAC and MS Oct 14. FactSet sees ≈10% bank EPS growth, LSEG has WFC at ≈$1.85, and GS has a 12-quarter beat streak.",
+        "simple": "This is CNBC's preview of the big bank results. Expectations are for solid profit growth, helped by strong trading. Watch whether the banks warn about borrowers struggling with higher rates.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
+      },
+      {
+        "title": "Retailers cut product lines as shoppers pull back",
+        "body": "BJ's plans to cut ≈20% of items. Under Armour has cut 25% and plans another 25%. Dollar General dropped 1,500 items.",
+        "simple": "Stores are carrying fewer kinds of products ('SKUs') to cut costs and avoid getting stuck with unsold inventory. It's a sign retailers expect cautious consumers. That matters ahead of Thursday's retail sales data.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
+      },
+      {
+        "title": "Nadella: AI needs a human-controlled 'emergency brake'",
+        "body": "Microsoft's CEO proposed treating advanced AI models like insider threats, with outside controls that let people halt a model mid-task.",
+        "simple": "The head of one of the biggest AI companies says people need a reliable off switch for powerful AI systems. It's part of a wider debate over AI safety rules. Regulation could shape how much companies like Microsoft spend on AI.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+      },
+      {
+        "title": "Futures flat-to-higher as investors weigh Riyadh strike",
+        "body": "Sunday's open was flat (S&P +0.03%, Nasdaq 100 +0.07%). By 4 AM ET the majors were ≈+0.2%, after the S&P gained ≈1.15% last week to 7,811.54.",
+        "simple": "Stock futures let you trade before the market opens. They barely reacted to the weekend's Middle East violence, which suggests investors have gotten used to that risk. Their focus is on this week's bank earnings and inflation data.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Amazon in talks to buy Decart for ≈$7B",
+        "body": "Per the WSJ, the deal would value Decart at ≈$7B, up from ≈$4B in May. Anthropic had looked at up to ≈$6B and walked away.",
+        "simple": "Amazon wants to buy a young AI company for a big premium. It shows how much tech giants will pay for AI capabilities.",
+        "source": "Reuters via StreetInsider (citing WSJ)",
+        "url": "https://www.streetinsider.com/Reuters/Amazon+in+talks+to+buy+AI+startup+Decart+for+around+$7+billion,+WSJ+reports/27172900.html"
+      },
+      {
+        "title": "Trump renews push to remove Fed Governor Cook",
+        "body": "Trump set up a three-person panel (Hassett, Lucas, Sonderling) on Oct 9 to review mortgage-fraud allegations against Cook, with a closed hearing Nov 5. The Supreme Court let her stay in June while the case proceeds.",
+        "simple": "The President is trying again to fire a Fed governor, which is legally very rare. Markets care because a Fed seen as controlled by the White House could let inflation run hotter. That would push long-term interest rates up.",
+        "source": "CNN (WSJ headline via weekend edition)",
+        "url": "https://www.cnn.com/2026/10/09/economy/white-house-committee-investigate-lisa-cook-federal-reserve"
+      },
+      {
+        "title": "Broadcom lines up $50B+ financing for OpenAI chips",
+        "body": "The WSJ reported Broadcom is arranging more than $50B of financing tied to the custom AI chips it is building with OpenAI (earlier in the week).",
+        "simple": "Building AI chips and data centers costs so much that companies are borrowing at record scale. Big financings like this are major fee events for capital-markets desks. They also add to corporate bond supply.",
+        "source": "CNBC (citing WSJ)",
+        "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "GTCR and Elliott near deal for Chicago's CCC Intelligent Solutions",
+        "body": "Chicago PE firm GTCR and Elliott are in advanced talks for CCC, ≈$4.1B market cap pre-report, and shares rose ≈9–13% after hours. A deal could come this week.",
+        "simple": "Two investment firms want to buy a Chicago software company that insurers use to process car-accident claims. If it happens, it's one of the bigger Chicago take-privates this year.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/gtcr-and-elliott-said-to-near-deal-for-software-firm-ccc"
+      },
+      {
+        "title": "CME posts record September volume; baseball futures up next",
+        "body": "September ADV was 31.8M (+22%) and Q3 29.4M (+16%). MLB team futures are slated for Oct 12 pending review, and Q3 earnings are Oct 21.",
+        "simple": "Chicago's CME is having a record year because volatile markets make everyone hedge more. It's now branching into sports-linked contracts to attract new customers.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "McDonald's sued over AI pricing tool",
+        "body": "A proposed class action filed by a DeKalb, Ill. resident alleges McDonald's AI tool coordinates prices across franchisees. McDonald's says 'AI does not set the price of a Big Mac.'",
+        "simple": "The lawsuit argues that an AI tool suggesting prices to many independent restaurant owners acts like illegal price-fixing. Similar cases have hit rental-housing software. The outcome could shape how companies use pricing algorithms.",
+        "source": "KWQC (Sun-Times also covered)",
+        "url": "https://www.kwqc.com/2026/10/08/mcdonalds-sued-over-ai-tool-that-recommends-prices-us-franchisees/"
+      },
+      {
+        "title": "Wintrust reports Oct 19: ≈$3.31 EPS expected",
+        "body": "The Rosemont-based bank reports after the close Oct 19, with consensus ≈$3.31 EPS on ≈$755M revenue (MarketBeat). United's Q3 call is Oct 21.",
+        "simple": "Wintrust is one of Chicago's biggest homegrown banks. Its results will show how local businesses and borrowers are handling 5%+ rates.",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-10-19-wintrust-financial-co-stock/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "DOJ opens antitrust probe of TV networks over White House pool boycott",
+        "body": "First reported by the NYT and confirmed by the DOJ Saturday, the probe covers ABC, CBS, CNN, NBC and Fox under the Sherman Act. Records-demand letters went out Oct 9.",
+        "simple": "The Justice Department is using antitrust law, normally aimed at companies colluding on prices, against news networks that jointly boycotted White House pool coverage. It raises regulatory risk for media companies, including ones in the middle of mergers.",
+        "source": "U.S. News (citing NYT)",
+        "url": "https://www.usnews.com/news/politics/articles/2026-10-10/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports"
+      },
+      {
+        "title": "Trump's Russia–Ukraine 'energy ceasefire' meets skepticism",
+        "body": "Trump said Russia would immediately supply 300K+ metric tons of diesel, and ICE gasoil fell 4.6%. Neither Kyiv nor Moscow confirmed the deal, and Russian strikes hit Ukrainian power plants within hours.",
+        "simple": "The President announced a deal to stop attacks on energy facilities, which briefly pushed fuel prices down. Neither country has confirmed it and fighting continued, so the price drop could reverse. Diesel costs feed into shipping and food prices.",
+        "source": "The National (no NYT digest available)",
+        "url": "https://www.thenationalnews.com/business/energy/2026/10/12/why-trumps-russia-ukraine-energy-ceasefire-may-offer-oil-markets-little-relief/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why oil shrugged off Riyadh",
+      "point": "A deadly strike on Saudi Arabia's capital airport, plus two tanker hits, moved Brent only ≈+0.7% on the reopen, and an unconfirmed diesel 'ceasefire' erased it. At $103–105, much of the Gulf risk premium is already in the price, and distillates (gasoil −4.6%) are where the marginal news hits. Good question for a commodities or rates desk: does the inflation pass-through to CPI now run more through diesel and freight than crude, and how does that change breakeven trades?"
+    },
+    {
+      "topic": "Bank earnings as a rates trade",
+      "point": "Bank stocks are ≈−9% in a month with the 10Y above 5%. Tomorrow, separate the two channels: NII guidance (higher asset yields vs deposit beta) and AOCI/AFS marks (bond losses hitting tangible book). Record CME rates volume (Treasury F&O +42% y/y in Sept) argues for strong FICC. Ask a commercial-banking contact how loan demand and deposit pricing are behaving at 5%+ rates."
+    },
+    {
+      "topic": "Holiday liquidity and the futures basis",
+      "point": "With cash Treasuries shut but ZN/ZB trading, today is a live example of futures price discovery without the underlying. Pair it with Morgan Stanley's estimate that the leveraged basis trade shrank to ≈$900B from $1.26T: less crowding means less forced-unwind risk if CPI surprises. A CME-flavored talking point: how portfolio margining and record OI make CME the shock absorber when cash markets are thin."
+    }
+  ],
+  "caveats": "WebFetch was blocked this run, so all figures come from search-result summaries of the cited outlets. Futures and oil levels are ranges because snapshot times differ. Treasury yields are Friday closes (cash market closed today). WSJ items come via Reuters/CNN/CNBC. The NYT bucket is thin: one NYT-originated story, and the second item uses The National. No Chicago Tribune story could be confirmed, so the Chicago bucket uses Bloomberg, CME, KWQC and MarketBeat. Unconfirmed: December hike odds (sources range ≈65–85%), COMEX copper level (feeds show $6.66–6.78/lb), Hammack's timing, GS/C consensus, swap-spread level, gilt 10Y, and whether CME baseball futures went live.",
+  "updates": []
+}
