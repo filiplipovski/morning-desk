@@ -11,49 +11,49 @@
     "Bank earnings start tomorrow into a ≈9% monthly drawdown in the bank index. JPM consensus is ≈$5.93 EPS / $51.2B revenue (year-ago EPS $5.07), WFC ≈$1.85, and GS and C estimates disagree across vendors. CNBC/FactSet see ≈10% bank EPS growth. The key lines are FICC with record CME rates volume, NII guidance with the 10Y above 5%, and AFS marks.",
     "Futures and metals: equity futures were +0.1–0.3% at 4 AM ET (ES ≈7,868–7,880), and Europe is +0.5% on cheaper oil. Gold traded $4,218 in Asia and was back to ≈$4,176 by 4:30 AM ET as DXY firmed to ≈102.3. LME copper is +1.8% to $14,550/t on short-covering (SMM)."
   ],
-  "markets_asof": "≈11:30 AM ET / 10:30 AM CT equities; commodities late morning (Treasuries closed)",
+  "markets_asof": "Close · 3:15 PM CT (oil settles; Treasuries closed)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,807",
-      "change": "≈−0.06%",
+      "value": "7,807.24",
+      "change": "−0.06%",
       "dir": "flat",
-      "note": "≈11:30 AM ET; Fri 7,811.54"
+      "note": "Close; Fri 7,811.54"
     },
     {
       "label": "Dow",
-      "value": "≈51,909",
-      "change": "≈+0.5%",
+      "value": "51,850.55",
+      "change": "+0.38%",
       "dir": "up",
-      "note": "≈11:30 AM ET; value rotation"
+      "note": "Close; +195.60, CRM upgrade"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈27,265",
-      "change": "≈−0.4%",
+      "value": "27,245.90",
+      "change": "−0.44%",
       "dir": "down",
-      "note": "Tech lags on oil"
+      "note": "Close; chips/tech lag on oil"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Fri 2,806.98; no reliable live print"
+      "note": "Fri 2,806.98; no reliable close found"
     },
     {
       "label": "UST 2Y",
       "value": "4.80%",
       "change": "Closed",
       "dir": "flat",
-      "note": "Fri close; cash shut for Columbus Day"
+      "note": "Fri close; cash reopens Tue"
     },
     {
       "label": "UST 10Y",
       "value": "5.24%",
       "change": "Closed",
       "dir": "flat",
-      "note": "Fri close; ZNZ26 104-16, −3/32"
+      "note": "Fri close; ZNZ26 ≈104-16, −3/32"
     },
     {
       "label": "UST 30Y",
@@ -65,37 +65,37 @@
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈16–19%",
+      "change": "Oct hike ≈19%",
       "dir": "flat",
-      "note": "Dec hike ≈75–85% by source; Hammack: smaller, faster"
+      "note": "CME FedWatch; Dec hike base case"
     },
     {
       "label": "Brent",
-      "value": "≈$105.50",
-      "change": "≈+0.8%",
+      "value": "$106.65",
+      "change": "+1.8%",
       "dir": "up",
-      "note": "NY morning (IBTimes); high $106.19"
+      "note": "Settle; highest close since Sep 15"
     },
     {
       "label": "WTI crude",
-      "value": "≈$92.60",
-      "change": "≈+0.8%",
+      "value": "$93.74",
+      "change": "+2.0%",
       "dir": "up",
-      "note": "NY morning (IBTimes); Fri $91.85"
+      "note": "Settle; +$1.89"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,169",
-      "change": "≈−0.7%",
+      "value": "≈$4,168",
+      "change": "≈−0.6%",
       "dir": "down",
-      "note": "Kitco bid; range $4,153.80–$4,218.10"
+      "note": "Kitco; Dec Comex ≈$4,187"
     },
     {
       "label": "Silver",
       "value": "—",
       "change": "lower",
       "dir": "down",
-      "note": "Weakest precious metal midday; AM ≈$60.35"
+      "note": "Weakest precious metal; no reliable close"
     },
     {
       "label": "Copper",
@@ -109,7 +109,7 @@
       "value": "≈102.2",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Near 18-month high (Kitco)"
+      "note": "Near 18-month high"
     }
   ],
   "calendar": [
@@ -403,6 +403,41 @@
   "caveats": "WebFetch was blocked this run, so all figures come from search-result summaries of the cited outlets. Futures and oil levels are ranges because snapshot times differ. Treasury yields are Friday closes (cash market closed today). WSJ items come via Reuters/CNN/CNBC. The NYT bucket is thin: one NYT-originated story, and the second item uses The National. No Chicago Tribune story could be confirmed, so the Chicago bucket uses Bloomberg, CME, KWQC and MarketBeat. Unconfirmed: December hike odds (sources range ≈65–85%), COMEX copper level (feeds show $6.66–6.78/lb), Hammack's timing, GS/C consensus, swap-spread level, gilt 10Y, and whether CME baseball futures went live.",
   "updates": [
     {
+      "at": "2026-10-12T20:18:16Z",
+      "label": "Close",
+      "headline": "Oil won the day. Brent settled +1.8% at $106.65, its highest close since Sep 15, on fresh attacks on Saudi Arabia, which kept the S&P and Nasdaq slightly red while a Salesforce upgrade carried the Dow +0.4%.",
+      "points": [
+        "Final cash close (Reuters via Detroit News; CNBC/Yahoo show the same figures): Dow +195.60 (+0.38%) to 51,850.55, S&P −0.06% to 7,807.24, Nasdaq −0.44% to 27,245.90. Salesforce rose ≈2% (≈3.5% intraday) on a BofA double upgrade to Buy from Underperform. Memory-chip names weighed on Nasdaq per CNBC.",
+        "Oil settled at the highs: Brent +$1.93 to $106.65 and WTI +$1.89 (+2.0%) to $93.74. Attacks on Saudi Arabia and tankers near Hormuz overrode Trump's Russia–Ukraine energy-ceasefire/diesel announcement, which Kyiv says Moscow already broke. Goldman raised its December Brent forecast to $90 from $85, still well below spot. This corrects the morning headline: oil did not 'barely flinch'.",
+        "Rates: no cash Treasury trading today. ZNZ26 traded ≈−3/32 at 104-16, so Tuesday's 10Y open likely starts a few bp above Friday's 5.24% with a +2% oil day to absorb. CME FedWatch has Oct 28 hike odds ≈19%. Hammack's 'smaller, more frequent' remark did not change the December base case.",
+        "Metals: spot gold ≈$4,168 (Kitco, −$25, ≈−0.6%) in a $4,153.80–$4,218.10 range. Dec Comex ≈$4,187 (−0.7%) vs Friday's $4,216.30 settle. DXY near 102.2, an 18-month high. Silver was the weakest metal, and there's no reliable close for silver or copper.",
+        "Tomorrow (Tue): JPM, GS, WFC and C report pre-open. Watch FICC/rates trading, NII guidance and AFS losses with the 10Y >5%. Cash Treasuries reopen, Waller speaks, and the weekly bill auctions move to Tue. CPI is Wed at 7:30 AM CT. No bank M&A or major deals crossed today."
+      ],
+      "simple": "Oil jumped about 2% after new attacks in Saudi Arabia, the world's biggest oil exporter, made traders worry about supply. Pricier oil feeds into gas prices and inflation, which makes the Fed more likely to raise interest rates, and that tends to hurt tech stocks the most. Bonds were closed for the holiday, so the interest-rate reaction comes Tuesday, the same day the biggest banks report how much money they made.",
+      "sources": [
+        {
+          "name": "Detroit News (Reuters)",
+          "url": "https://www.detroitnews.com/story/business/2026/10/12/oil-surge-keeps-sp-500-nasdaq-in-check-before-earnings-salesforce-lifts-dow/92217482007/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "GV Wire (Reuters)",
+          "url": "https://gvwire.com/2026/10/12/oil-prices-rise-2-as-attacks-on-saudi-arabia-overshadow-trumps-diesel-deal/"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/gold"
+        }
+      ]
+    },
+    {
       "at": "2026-10-12T17:17:42Z",
       "label": "Midday",
       "headline": "Hammack spoke at midday instead of tonight. She wants 'smaller, more frequent' moves toward a restrictive stance but did not endorse an October hike. Equities held the Dow-up/Nasdaq-down rotation with Brent holding ≈$105.5.",
@@ -477,5 +512,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-12T17:17:42Z"
+  "updatedAt": "2026-10-12T20:18:16Z"
 }
