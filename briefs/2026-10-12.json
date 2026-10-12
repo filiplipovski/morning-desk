@@ -11,28 +11,28 @@
     "Bank earnings start tomorrow into a ≈9% monthly drawdown in the bank index. JPM consensus is ≈$5.93 EPS / $51.2B revenue (year-ago EPS $5.07), WFC ≈$1.85, and GS and C estimates disagree across vendors. CNBC/FactSet see ≈10% bank EPS growth. The key lines are FICC with record CME rates volume, NII guidance with the 10Y above 5%, and AFS marks.",
     "Futures and metals: equity futures were +0.1–0.3% at 4 AM ET (ES ≈7,868–7,880), and Europe is +0.5% on cheaper oil. Gold traded $4,218 in Asia and was back to ≈$4,176 by 4:30 AM ET as DXY firmed to ≈102.3. LME copper is +1.8% to $14,550/t on short-covering (SMM)."
   ],
-  "markets_asof": "≈9:30 AM CT (early cash; Treasuries closed, yields are Fri closes)",
+  "markets_asof": "≈11:30 AM ET / 10:30 AM CT equities; commodities late morning (Treasuries closed)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,815–7,820",
-      "change": "≈+0.05–0.1%",
-      "dir": "up",
-      "note": "Early cash; Fri 7,811.54"
+      "value": "≈7,807",
+      "change": "≈−0.06%",
+      "dir": "flat",
+      "note": "≈11:30 AM ET; Fri 7,811.54"
     },
     {
       "label": "Dow",
-      "value": "≈51,750–51,860",
-      "change": "≈+0.2–0.4%",
+      "value": "≈51,909",
+      "change": "≈+0.5%",
       "dir": "up",
-      "note": "Early cash; Fri 51,654.95"
+      "note": "≈11:30 AM ET; value rotation"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈27,340–27,370",
-      "change": "≈−0.1% to flat",
-      "dir": "flat",
-      "note": "Fri 27,366.17; oil weighs on tech"
+      "value": "≈27,265",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Tech lags on oil"
     },
     {
       "label": "Russell 2000",
@@ -46,14 +46,14 @@
       "value": "4.80%",
       "change": "Closed",
       "dir": "flat",
-      "note": "Fri close; cash market shut for Columbus Day"
+      "note": "Fri close; cash shut for Columbus Day"
     },
     {
       "label": "UST 10Y",
       "value": "5.24%",
       "change": "Closed",
       "dir": "flat",
-      "note": "Fri close; TY fut ≈104-16, −3/32 early"
+      "note": "Fri close; ZNZ26 104-16, −3/32"
     },
     {
       "label": "UST 30Y",
@@ -65,37 +65,37 @@
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈16.5–19%",
+      "change": "Oct hike ≈16–19%",
       "dir": "flat",
-      "note": "Dec hike ≈70–85% by source"
+      "note": "Dec hike ≈75–85% by source; Hammack: smaller, faster"
     },
     {
       "label": "Brent",
-      "value": "$106.19",
-      "change": "+$1.24 (+1.2%)",
+      "value": "≈$105.50",
+      "change": "≈+0.8%",
       "dir": "up",
-      "note": "Reuters 11:24 GMT; highest since Sep 29"
+      "note": "NY morning (IBTimes); high $106.19"
     },
     {
       "label": "WTI crude",
-      "value": "—",
-      "change": "up with Brent",
+      "value": "≈$92.60",
+      "change": "≈+0.8%",
       "dir": "up",
-      "note": "No reliable live print; Fri $91.85"
+      "note": "NY morning (IBTimes); Fri $91.85"
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,175",
-      "change": "≈−0.4%",
+      "value": "≈$4,169",
+      "change": "≈−0.7%",
       "dir": "down",
-      "note": "Kitco 07:08 ET; Asia high $4,218"
+      "note": "Kitco bid; range $4,153.80–$4,218.10"
     },
     {
       "label": "Silver",
-      "value": "≈$60.35",
-      "change": "≈−0.8%",
+      "value": "—",
+      "change": "lower",
       "dir": "down",
-      "note": "Kitco AM; briefly >$61 earlier"
+      "note": "Weakest precious metal midday; AM ≈$60.35"
     },
     {
       "label": "Copper",
@@ -403,6 +403,45 @@
   "caveats": "WebFetch was blocked this run, so all figures come from search-result summaries of the cited outlets. Futures and oil levels are ranges because snapshot times differ. Treasury yields are Friday closes (cash market closed today). WSJ items come via Reuters/CNN/CNBC. The NYT bucket is thin: one NYT-originated story, and the second item uses The National. No Chicago Tribune story could be confirmed, so the Chicago bucket uses Bloomberg, CME, KWQC and MarketBeat. Unconfirmed: December hike odds (sources range ≈65–85%), COMEX copper level (feeds show $6.66–6.78/lb), Hammack's timing, GS/C consensus, swap-spread level, gilt 10Y, and whether CME baseball futures went live.",
   "updates": [
     {
+      "at": "2026-10-12T17:17:42Z",
+      "label": "Midday",
+      "headline": "Hammack spoke at midday instead of tonight. She wants 'smaller, more frequent' moves toward a restrictive stance but did not endorse an October hike. Equities held the Dow-up/Nasdaq-down rotation with Brent holding ≈$105.5.",
+      "points": [
+        "Fed: Cleveland's Hammack, a 2026 voter, told NABE that small adjustments made relatively quickly beat waiting and having to catch up later. She said inflation is broadening beyond energy and that staff see underlying inflation in the mid-to-high 2s. She did not back a move on Oct 28. That is consistent with the ≈16–19% October hike pricing and keeps December (≈75–85% by source) as the base case. The morning calendar had her at ≈4:50 PM; she actually spoke around midday.",
+        "Equities at ≈11:30 AM ET (Motley Fool): Dow +0.5% to ≈51,909, S&P −0.06% to ≈7,807, Nasdaq −0.4% to ≈27,265. An AP-based read later in the hour had the Dow +0.4%, S&P −0.1% and Nasdaq −0.3%. Value and industrials are rotating up and tech is lagging on oil.",
+        "Oil: IBTimes says both benchmarks dipped ≈1.5% early in New York before recovering. Brent was ≈$105.50 (+≈0.8%) and WTI ≈$92.60 (+≈0.8%). Brent's 11:24 GMT high of $106.19 has not been retaken. The ceasefire is still unconfirmed by Moscow.",
+        "Rates: cash Treasuries are still closed. Dec 10Y futures (ZNZ26) are −3/32 at 104-16, so Tuesday's reopen should start a touch above Friday's 5.24%. Metals are soft: Kitco's day range for gold is $4,153.80–$4,218.10 with the live bid ≈$4,169. A midday metals note has gold ≈−0.7% and silver the weakest of the four precious metals. DXY is still near its 18-month high.",
+        "No bank M&A or capital-markets deals so far. Tuesday's JPM/GS/WFC/C prints are still the next catalyst."
+      ],
+      "simple": "A Fed official said she would rather raise interest rates in small, quick steps than wait and need a big jump later, but she didn't say the Fed should raise rates this month. That fits what traders already expected: no hike in October, and a likely one in December. Stocks were mixed, with older industrial companies up and tech down, because high oil prices raise costs and inflation worries. Gold slipped because the dollar is strong and interest rates are high, which makes a metal that pays no interest less attractive.",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/fed-s-hammack-says-smaller-frequent-rate-adjustments-preferable"
+        },
+        {
+          "name": "Finimize",
+          "url": "https://finimize.com/content/feds-hammack-wants-faster-smaller-moves-to-get-restrictive"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-midday-oct-12-dow-edges-higher-as-investors-rotate-into-value-stocks/"
+        },
+        {
+          "name": "IBTimes",
+          "url": "https://www.ibtimes.com.au/oil-prices-middle-east-attacks-hurricane-isaias-1876559"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-10-12/gold-prices-struggle-hold-early-gains-us-dollar-nears-18-month-high-bond"
+        },
+        {
+          "name": "GSC Markets",
+          "url": "https://goldstockcanada.com/news/mid-day-precious-metals-update-october-12-2026-3340"
+        }
+      ]
+    },
+    {
       "at": "2026-10-12T14:27:32Z",
       "label": "Post-open",
       "headline": "The ceasefire discount is gone: Brent climbed back to ≈$106 (a two-week high) as Zelenskiy said Russia broke the 'energy ceasefire', but stocks held up in a thin, bond-less Columbus Day open.",
@@ -438,5 +477,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-12T14:27:32Z"
+  "updatedAt": "2026-10-12T17:17:42Z"
 }
