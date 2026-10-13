@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-13",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-13T11:22:03Z",
+  "headline": "Banks open earnings season with a stumble: JPMorgan missed on FICC ($5.37B vs ≈$6B expected) and revenue, and Wells missed NII. Meanwhile cash Treasuries reopen 2–5 bp richer (10Y ≈5.19%) as oil eases, so the day's question is whether GS and Citi confirm a trading slowdown going into Wednesday's CPI.",
+  "summary": [
+    "JPM missed for the first time in a long run (it beat in 16 of the last 20 quarters). Adjusted EPS was $5.75 vs $5.90 (LSEG), or $5.57 reported after $658M of securities losses. Revenue was $50.91B vs $51.22B, and FICC was $5.37B vs ≈$6B, even with record CME rates volume in September. The stock is ≈−3.5% pre-market. Lesson: record exchange volume does not guarantee dealer P&L when the curve is whipsawing.",
+    "WFC: EPS $1.87 beat $1.85, but revenue was $21.87B vs $22.3B and NII $12.52B vs $12.66B (StreetAccount). NIM was flat q/q at 2.43%, down from 2.61% a year ago. A 10Y above 5% is not lifting margins for a deposit-funded bank yet, because deposit costs are keeping pace. GS (≈6:30 CT, consensus ≈$13.02 / $16.71B after 17 downward EPS revisions) and C (≈7:00 CT, ≈$2.63–2.66) are next.",
+    "Rates: cash reopens after Columbus Day. CNBC has 2Y 4.77% (−2 bp), 10Y 5.19% (−5 bp) and 30Y 5.56% (−4 bp) as Brent eases ≈1.5% to ≈$105. The 10Y is 16 bp below its Oct 7 high of 5.35%, the highest since 2002. The IMF warned of a possible 'disorderly' bond-yield spike even as it raised global growth. Bunds are ≈3.45%, gilts ≈5.40% and JGBs ≈3.0%.",
+    "Fed: funds are 3.75–4.00%. Oct 28 is ≈82–84% hold / ≈16–18% hike, and December hike pricing is ≈67–88% depending on source. Hammack on Monday called for further tightening in 'smaller, more frequent' moves and said neutral is 'likely higher'. Today: Barkin ≈noon CT and Collins ≈3 PM CT. CPI is tomorrow at 7:30 CT (consensus +0.6% m/m, 3.6% y/y; core +0.2%).",
+    "Chips drag risk: Nasdaq-100 futures are ≈−0.8% as SK Hynix, SoftBank and ASML slide, and Micron is ≈−3% pre-market after Monday's −3.9%. Dow futures are +0.2–0.5% and ES ≈−0.1%. NFIB slipped to 97.9 from 98.7. VIX is ≈15.",
+    "Metals: gold ≈$4,177 after a $4,150 dip, holding just above Monday's ≈$4,169 low with DXY ≈102.35 off its 18-month high. Silver is <$61. LME copper is at a two-week high near $14,620/t after a deadly landslide halted part of Codelco's El Teniente. China trade data comes Wednesday (exports seen +25.5% y/y)."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (Treasuries early Tue; index values are Mon closes)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,807.24",
+      "change": "Fut ≈−0.1%",
+      "dir": "down",
+      "note": "Mon close −0.06%; futures per Bloomberg"
+    },
+    {
+      "label": "Dow",
+      "value": "51,850.55",
+      "change": "Fut ≈+0.2–0.5%",
+      "dir": "up",
+      "note": "Mon close +0.38%"
+    },
+    {
+      "label": "Nasdaq 100 fut",
+      "value": "—",
+      "change": "≈−0.8%",
+      "dir": "down",
+      "note": "Chip selloff; Comp closed Mon 27,245.90 (−0.44%)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,794.48",
+      "change": "≈−0.45%",
+      "dir": "down",
+      "note": "Mon close; ≈8.6% below Aug 14 record"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.77%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "vs Fri 4.80%; CNBC early Tue"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.19%",
+      "change": "≈−5 bp",
+      "dir": "down",
+      "note": "vs Fri 5.24%; Oct 7 high 5.35%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.56%",
+      "change": "≈−4 bp",
+      "dir": "down",
+      "note": "vs Fri ≈5.60%"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hike ≈16–18%",
+      "dir": "flat",
+      "note": "Dec hike ≈67–88% by source"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$105.06",
+      "change": "≈−1.5%",
+      "dir": "down",
+      "note": "CNBC; Mon settle $106.65"
+    },
+    {
+      "label": "WTI crude",
+      "value": "≈$92.00",
+      "change": "≈−1.9%",
+      "dir": "down",
+      "note": "CNBC; Mon settle $93.74"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,177",
+      "change": "≈+0.2%",
+      "dir": "up",
+      "note": "Dipped to ≈$4,150 overnight; Mon ≈$4,169"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$61",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Below $61 per Mitrade; APMEX $61.43"
+    },
+    {
+      "label": "Copper",
+      "value": "LME $14,618/t",
+      "change": "+0.56%",
+      "dir": "up",
+      "note": "Mon; 2-wk high, El Teniente halt. COMEX ≈$6.71–6.76/lb"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.35",
+      "change": "≈−0.2%",
+      "dir": "down",
+      "note": "Mon close 102.58, 18-month high"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "≈5:45 AM",
+      "event": "JPMorgan & Wells Fargo Q3 (out)",
+      "consensus": "JPM $5.90 EPS / $51.22B; WFC $1.85 / $22.3B",
+      "prior": "JPM yr-ago EPS $5.07",
+      "why": "JPM missed on revenue and FICC; WFC beat EPS but missed NII. Sets the tone for the whole group."
+    },
+    {
+      "time": "5:00 AM",
+      "event": "NFIB small-business optimism (Sep) (out)",
+      "consensus": "—",
+      "prior": "98.7",
+      "why": "Came in at 97.9, with uncertainty up to 90. Soft-data signal that Main Street is feeling 5% rates."
+    },
+    {
+      "time": "≈6:30 AM",
+      "event": "Goldman Sachs Q3",
+      "consensus": "EPS ≈$13.02 / rev ≈$16.71B (LSEG; vendors vary)",
+      "prior": "—",
+      "why": "Pure-play read on FICC and IB fees. 17 downward EPS revisions in 30 days, so the bar has been lowered."
+    },
+    {
+      "time": "≈7:00 AM",
+      "event": "Citigroup Q3",
+      "consensus": "EPS ≈$2.63–2.66 / rev ≈$23.70B",
+      "prior": "Q2 EPS $3.15",
+      "why": "Services/TTS NII, markets and the restructuring story. Call at 10:00 AM CT."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "Treasury bill auctions: 6-, 13-, 26-week (moved from Mon)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Bill demand and money-fund flows; no coupon supply this week (3Y/10Y/30Y went Oct 6–8)."
+    },
+    {
+      "time": "≈12:00 PM",
+      "event": "Richmond Fed's Barkin",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Last chance to hear Fed views before CPI. Listen for whether December is a done deal."
+    },
+    {
+      "time": "≈3:00 PM",
+      "event": "Boston Fed's Collins",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A centrist 2025–26 voice. A hawkish tilt would firm December pricing."
+    },
+    {
+      "time": "Wed · 7:30 AM",
+      "event": "CPI (Sep)",
+      "consensus": "+0.6% m/m, 3.6% y/y; core +0.2% m/m",
+      "prior": "+0.4% / 3.4%",
+      "why": "The week's main event for the 2Y. BAC, MS and BLK report pre-open, China trade data is out, and Bowman speaks."
+    },
+    {
+      "time": "Next FOMC",
+      "event": "FOMC decision Wed Oct 28",
+      "consensus": "Hold ≈82–84%; hike ≈16–18%",
+      "prior": "3.75–4.00%",
+      "why": "Blackout starts Oct 17. Warsh speaks Thu night with the IMF's Georgieva."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Cash Treasuries reopen richer as oil cools",
+        "body": "After Monday's holiday, CNBC shows the 2Y at 4.77% (−2 bp), 10Y 5.19% (−5 bp) and 30Y 5.56% (−4 bp), so the curve bull-flattens slightly at the front and the 10Y leads. The 10Y is still ≈60 bp above end-July levels, a period in which crude rose ≈20%, and only 16 bp off the 5.35% Oct 7 high.",
+        "simple": "Treasury yields (the interest the government pays to borrow) fell a little this morning because oil got cheaper, which eases inflation fears. When yields fall, bond prices rise. Yields are still near their highest in over 20 years, which keeps mortgages and business loans expensive.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html"
+      },
+      {
+        "title": "IMF warns of a 'disorderly' yield spike",
+        "body": "The IMF raised its 2026 global growth forecast but said government-debt levels and sticky inflation could trigger a sudden, disorderly jump in yields. StreetStats puts the 10Y term premium at ≈1.16% (Oct 8 estimate), near multi-year highs.",
+        "simple": "The IMF, the global lender that watches economies, says governments are borrowing so much that investors could suddenly demand much higher interest rates. Term premium is the extra yield investors demand for tying money up in long bonds, and it is high. A sudden spike would hit stock prices, home loans and the value of bonds banks hold.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html"
+      },
+      {
+        "title": "Hammack: more tightening, in smaller steps",
+        "body": "Cleveland Fed President Hammack (a 2026 voter) said Monday that further tightening is needed, that she prefers 'smaller, more frequent' adjustments, and that neutral is 'likely higher.' She also flagged worries about inflation expectations. Markets price ≈16–18% odds of an Oct 28 hike and a December hike as the base case.",
+        "simple": "A Fed official who votes on rates this year said the Fed should keep raising rates, but in small steps more often rather than big jumps. The 'neutral rate' is the level that neither speeds up nor slows the economy, and she thinks it is higher than people assumed. That means borrowing costs probably stay high for longer.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html"
+      },
+      {
+        "title": "Europe: Bunds firm, OAT risk in focus",
+        "body": "Bund 10Y is ≈3.44–3.46% (−2 bp), gilts ≈5.40% (−4 bp) and JGB 10Y ≈3.0%. FXStreet says French budget risk is leaking from OAT spreads into the euro as the National Assembly takes up the budget.",
+        "simple": "Government bonds in Germany and the UK also rallied a little. France is the worry: its budget fight makes investors demand extra yield to hold French debt over German debt, and that is weighing on the euro. A weaker euro means a stronger dollar, which affects US exporters and gold.",
+        "source": "FXStreet",
+        "url": "https://fxstreet.com/analysis/french-risk-spreads-from-oats-into-the-euro-as-assembly-takes-up-the-budget-202610130958"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "JPM's FICC miss vs record CME rates volume",
+        "body": "JPM's FICC came in at $5.37B vs ≈$6B expected, even though CME posted record September ADV of 31.8M (+22% y/y), interest-rate ADV of 16.2M and Treasury futures & options of 9.5M (+42%). High volume during a violent Treasury selloff to 5.35% did not turn into dealer profits.",
+        "simple": "FICC is the bank's trading desk for bonds, currencies and commodities. Exchanges like CME make money on every trade, so busy markets are good for them. Dealers make money only if their own positions and spreads work out, and a fast, one-way bond selloff can hurt inventory even when clients trade a lot.",
+        "source": "Investing.com / CME Group",
+        "url": "https://www.investing.com/news/earnings/jpmorgan-shares-edge-lower-after-thirdquarter-ficc-revenue-miss-4946116"
+      },
+      {
+        "title": "Vol: VIX ≈15, MOVE still elevated",
+        "body": "The VIX is ≈15.2 (+2.5%) pre-market on the Korean chip rout. Bond vol is the outlier: MOVE jumped ≈35% in September to above 100 and peaked ≈114–116 in early October, with no fresh print after the holiday. Rates vol is far richer than equity vol going into CPI.",
+        "simple": "The VIX measures how much traders expect stocks to swing, and the MOVE does the same for bonds. Stocks look calm, but bond traders expect big moves. Wednesday's inflation number is the likely trigger, and options that protect against bond moves are relatively expensive.",
+        "source": "Saxo / Benzinga",
+        "url": "https://home.saxo/en-sg/content/articles/macro/market-quick-take---korean-chip-stocks-tumble-as-us-bank-earnings-begin---13-october-2026-13102026"
+      },
+      {
+        "title": "CME's baseball futures and crypto expansion",
+        "body": "CME planned to launch team-performance futures on MLB (FutureSports indexes) on Oct 12, pending regulatory review, and there's no confirmation yet that trading began. Bitcoin Cash and Uniswap futures are set for Oct 19. Q3 earnings are Oct 21 pre-open, with record Q3 ADV of 29.4M.",
+        "simple": "CME, the Chicago exchange, is adding new kinds of contracts, including bets tied to how baseball teams perform, to compete with prediction-market companies like Kalshi. More products bring more fee revenue. Its record trading volume suggests a strong earnings report next week.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/08/cme_group_to_launchworldsfirstbaseballfuturesonoctober12.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold steadies near $4,170 as the dollar backs off",
+        "body": "Spot gold dipped to ≈$4,150 overnight and recovered to ≈$4,177 after Monday's ≈−0.6% to ≈$4,169 (Kitco/Trading Economics). It is down ≈3% over a month as the 10Y hit 5%+ and DXY rose ≈4% since Sep 9. Silver is holding just below $61.",
+        "simple": "Gold pays no interest, so when bond yields and the dollar rise, gold looks less attractive and its price slips. Both eased a little today, so gold found a footing. Wednesday's inflation number could move it either way.",
+        "source": "Goodreturns / Kitco",
+        "url": "https://goodreturns.in/news/gold-rates-silver-rates-today-13-10-2026-live-spot-gold-silver-price-mcx-gold-24k-22k-18k-gold-price-1540977.html"
+      },
+      {
+        "title": "Copper at two-week high after El Teniente landslide",
+        "body": "LME 3M copper rose 0.56% Monday to $14,618.50/t (SMM: $14,621.5), and COMEX ≈$6.71–6.76/lb, after an Oct 11 landslide at Codelco's El Teniente killed two workers and partly halted operations. SMM says hawkish Fed signals capped the rally. China's September trade data is due Wednesday.",
+        "simple": "El Teniente in Chile is one of the world's largest underground copper mines, so an accident there tightens supply. Copper goes into wiring, cars and data centers, so tighter supply raises costs. China is the biggest buyer, which makes its data closely watched.",
+        "source": "Mining Journal / SMM",
+        "url": "https://www.mining-journal.com/miners/news-articles/4538017/landslide-codelcos-el-teniente-kills-workers"
+      },
+      {
+        "title": "Central banks keep buying even as forecasts get cut",
+        "body": "The PBOC added ≈21–23t in September, its 23rd straight monthly purchase. WGC data show ETF inflows of ≈67t in September and ≈211t in Q3. JPMorgan reportedly cut its 2026 average gold forecast to $5,243 from $5,708. Platinum ≈$1,700–1,706 and palladium ≈$1,132–1,173 (SP Angel/APMEX). Aggregator figures are unverified.",
+        "simple": "China's central bank keeps adding gold to its reserves, which puts a floor under prices. Investors also keep buying gold funds. Some banks have trimmed how high they think gold will go, but the long-term demand story is intact.",
+        "source": "Discovery Alert (WGC data)",
+        "url": "https://discoveryalert.com/analysis/gold-price-forecast-lbma-etf-flows-october-2026/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "JPMorgan Q3: rare miss, FICC light",
+      "body": "Net income $15.31B, EPS $5.57, or $5.75 excluding $658M of securities losses, vs $5.90 LSEG. Revenue $50.91B vs $51.22B. FICC $5.37B vs ≈$6B. In September management had guided IB and Markets up 'mid-to-high teens.' Shares ≈−3.5% pre-market. NII and Dimon's remarks were not yet available.",
+      "simple": "America's biggest bank earned a lot, but less than analysts expected, mostly because its bond-trading desk underperformed. It also took losses selling older, low-yielding bonds, which happens when rates rise. When the leader misses, investors worry about the rest of the group.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+    },
+    {
+      "title": "Wells Fargo: EPS beat, NII and revenue miss",
+      "body": "EPS $1.87 vs $1.85, net income $5.95B, revenue $21.87B vs $22.3B, NII $12.52B vs $12.66B. NIM 2.43% (flat q/q, vs 2.61% a year ago), efficiency ratio 63%, wealth revenue +12% y/y.",
+      "simple": "NII is the gap between what a bank earns on loans and what it pays on deposits. Wells is earning less on that spread than a year ago because depositors want higher rates too. That shows high rates don't automatically help banks' main lending business.",
+      "source": "Wells Fargo",
+      "url": "https://www.wellsfargo.com/assets/pdf/about/investor-relations/earnings/third-quarter-2026-earnings.pdf"
+    },
+    {
+      "title": "Goldman and Citi up next; the KBW index is in correction",
+      "body": "GS consensus is ≈$13.02 / $16.71B (17 cuts in 30 days) and C ≈$2.63–2.66 / $23.70B. BAC and MS report Wed, USB Thu, and Northern Trust Oct 21. The KBW Bank Index is ≈12% below its mid-August peak and ≈−9.7% over a month, while the S&P is ≈+1.5%.",
+      "simple": "Goldman depends heavily on trading and deal advice, so its numbers will show whether JPM's trading weakness is industry-wide. Bank stocks have already fallen about 10% in a month because high rates cause bond losses on banks' books. Weak results could push them lower.",
+      "source": "IG / GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/12/3378822/0/en/five-big-banks-two-days-one-question-can-record-trading-offset-the-pressure-from-rising-yields.html"
+    },
+    {
+      "title": "Deals: STERIS–Xodus $2.1B, IonQ–Elisity $1.3B, Amazon–Decart talks",
+      "body": "STERIS will buy Xodus Medical for $2.1B plus up to $150M in earnouts, mostly debt-financed. IonQ is buying Elisity for up to $1.3B in stock. The WSJ reports Amazon is in talks for AI startup Decart at ≈$7B and Bumble is in take-private talks with Ithaca at ≈$1B. Blackstone Credit is leading a $1B financing for Analogic/Leidos security.",
+      "simple": "Companies are still buying each other despite high rates, often paying with borrowed money or their own shares. That creates fee work for bank deal teams and loan desks. Private-credit funds like Blackstone's increasingly lend in place of banks.",
+      "source": "FinChannel / American Bazaar / Blackstone",
+      "url": "https://finchannel.com/steris-agrees-to-acquire-xodus-medical-for-2-1-billion/137873/american-business-trends/2026/10/"
+    },
+    {
+      "title": "Regional consolidation: Third Coast–Great Plains",
+      "body": "Third Coast Bancshares (Houston) agreed Oct 7 to buy Great Plains Bancshares in an all-stock deal of ≈$239.6M, creating a ≈$9B-asset bank. No new bank M&A was found for Oct 12–13. IPOs this week: City Therapeutics (≈$175M) and Iambic (≈$150M), with DayOne Data Centers (≈$3B) in the pipeline.",
+      "simple": "Smaller banks keep merging to spread fixed costs like compliance and technology over a bigger base. Paying in stock rather than cash avoids taking on debt. The IPO market is open but mostly for smaller deals right now.",
+      "source": "PR Newswire / Renaissance Capital",
+      "url": "https://prnewswire.com/news-releases/third-coast-bancshares-inc-and-great-plains-bancshares-inc-announce-definitive-merger-agreement-302900499.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "JPMorgan falls on a rare miss",
+        "body": "CNBC's bank-earnings live blog led with JPM's revenue and adjusted EPS miss and the ≈3.5% pre-market drop, followed by WFC's NII miss.",
+        "simple": "The biggest US bank made less than expected, and its stock fell. Investors use it as a check on the whole banking industry.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+      },
+      {
+        "title": "IMF: yields could spike in a disorderly way",
+        "body": "The IMF raised its 2026 world growth forecast while warning that debt loads and inflation leave bond markets vulnerable to a sharp, chaotic yield jump.",
+        "simple": "The world economy is doing a bit better than expected, but governments owe a lot. If investors suddenly lose confidence, borrowing costs could jump quickly.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html"
+      },
+      {
+        "title": "Chip rout spreads to Micron, SoftBank, ASML",
+        "body": "SK Hynix dragged Asian stocks to their lowest since August. Micron is ≈−3% pre-market after −3.9% Monday, and Nasdaq-100 futures are ≈−0.8%.",
+        "simple": "Memory-chip stocks soared on AI demand and are now falling as investors take profits and worry about prices. Chips are a big part of the Nasdaq, so the whole index feels it.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html"
+      },
+      {
+        "title": "Starbucks denies Chipotle takeover",
+        "body": "Starbucks said it is not pursuing Chipotle after a report sent CMG shares swinging; CMG closed ≈−4% Monday.",
+        "simple": "A rumor said Starbucks might buy Chipotle. Starbucks said no, and Chipotle's stock fell back.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Bumble in advanced take-private talks",
+        "body": "Per the WSJ (via the Reuters digest), Bumble is in advanced talks to be taken private by Ithaca Holdings at ≈$1B.",
+        "simple": "A buyer would purchase all of Bumble's shares and take it off the stock market. Deals like this usually lean on loans, which is fee business for banks.",
+        "source": "Reuters WSJ digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-13-octobre-4cd7edee0203a1ce7b43a42e69d07b07"
+      },
+      {
+        "title": "Albertsons seeks $8B from Kroger",
+        "body": "Albertsons is pressing an $8B claim in Delaware court over the failed merger with Kroger.",
+        "simple": "The two grocery chains' merger was blocked, and Albertsons says Kroger didn't try hard enough to get it approved. It wants damages.",
+        "source": "Reuters WSJ digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-13-octobre-4cd7edee0203a1ce7b43a42e69d07b07"
+      },
+      {
+        "title": "Amazon in talks for Decart at ≈$7B",
+        "body": "The WSJ reports Amazon is in talks to acquire AI startup Decart for about $7B.",
+        "simple": "Big tech keeps buying AI startups to get talent and technology quickly rather than building it themselves.",
+        "source": "American Bazaar (citing WSJ)",
+        "url": "https://americanbazaaronline.com/2026/10/12/amazon-in-talks-to-acquire-ai-startup-decart-in-7-billion-deal-489847/"
+      },
+      {
+        "title": "Delta pushes Atlanta–Riyadh launch to March 2027",
+        "body": "Delta delayed its planned Atlanta–Riyadh service to March 2027 as Houthi strikes hit Riyadh's airport.",
+        "simple": "The airline is postponing a new route to Saudi Arabia because of recent attacks there. It shows how Gulf conflict is spilling into business decisions.",
+        "source": "Reuters WSJ digest (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-13-octobre-4cd7edee0203a1ce7b43a42e69d07b07"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME's record September volume",
+        "body": "CME reported record September ADV of 31.8M (+22% y/y) and record Q3 ADV of 29.4M, with Treasury F&O up 42% and energy up 37%. Q3 earnings are Oct 21 with a 7:30 AM CT call.",
+        "simple": "Chicago's CME runs the main futures market for interest rates, oil and metals. Wild markets mean more trading and more fees for CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "Northern Trust reports Oct 21",
+        "body": "The Chicago-based custody bank's Q3 consensus is ≈$2.87 EPS on ≈$2.26B revenue, with an 8 AM CT call.",
+        "simple": "Northern Trust looks after money for wealthy families and big institutions. Higher rates can lift what it earns on client cash.",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-10-21-northern-trust-co-stock/"
+      },
+      {
+        "title": "Goolsbee: record gap between mood and data",
+        "body": "Chicago Fed President Goolsbee said Oct 1 that the gap between how Americans feel about the economy and what the official data show is at a record. He is not a 2026 voter.",
+        "simple": "People feel worse about the economy than the numbers suggest, probably because of high prices and borrowing costs. Fed officials watch this because gloomy moods can change spending.",
+        "source": "Hoodline",
+        "url": "https://hoodline.com/2026/10/chicago-fed-chief-says-americans-economic-gloom-hits-record-split-with-the-data/"
+      },
+      {
+        "title": "Amazon takes West Town warehouse, ≈200 jobs",
+        "body": "Amazon is taking over a warehouse in Chicago's West Town with plans for about 200 jobs.",
+        "simple": "Amazon is adding a delivery site in the city. That adds local jobs and supports demand for industrial property.",
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/business"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "IMF lifts growth outlook but warns on disparities",
+        "body": "The NYT frames the IMF's upgraded 2026 forecast as an AI investment boom offsetting an energy shock, with gaps between winners and losers widening.",
+        "simple": "The world economy is growing faster than expected thanks to AI spending, even with oil expensive. The benefits are uneven across countries and industries.",
+        "source": "Reuters NYT digest (Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-13-octobre-6afbbeed373577c3de304742ecc8feff"
+      },
+      {
+        "title": "Musk is the largest known midterm donor",
+        "body": "Elon Musk has given more than $276M to Republican groups and his super PAC since July.",
+        "simple": "The world's richest person is spending heavily on the midterm elections. Election outcomes shape tax, regulation and spending policy, and therefore markets.",
+        "source": "Reuters NYT digest (MarketScreener)",
+        "url": "https://www.marketscreener.com/news/press-digest-new-york-times-business-news-october-13-ce785dddda8ef723"
+      },
+      {
+        "title": "Meta unveils new flagship AI models",
+        "body": "Meta introduced its new 'Muse Wonder' and 'Muse Wonder Full' models.",
+        "simple": "Meta is releasing more powerful AI software to compete with OpenAI and Google. This arms race drives the massive data-center spending lifting growth and chip demand.",
+        "source": "Reuters NYT digest (Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-13-octobre-6afbbeed373577c3de304742ecc8feff"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Exchange volume ≠ dealer P&L",
+      "point": "CME posted record Sept ADV (Treasury F&O +42% y/y), yet JPM's FICC came in ≈$600M light at $5.37B. Good question for an S&T contact: in a fast bear move to a 5.35% 10Y, how much of FICC's miss is inventory marks and lower client risk appetite vs fee volume? Watch whether GS confirms it today."
+    },
+    {
+      "topic": "NII when rates are high",
+      "point": "WFC's NIM is 2.43%, flat q/q and below 2.61% a year ago, despite a 10Y above 5%. Deposit betas (how much of each rate rise banks pass to depositors) have caught up, and a flat-ish curve limits asset repricing. Ask a commercial banker how deposit pricing and loan demand look at these levels, and whether they're adding duration or staying short."
+    },
+    {
+      "topic": "CPI with rates vol rich and equity vol cheap",
+      "point": "VIX ≈15 vs MOVE that topped 100 in September. CPI consensus is +0.6% headline but +0.2% core, so energy is doing the work. A derivatives angle: if core prints soft, front-end SOFR futures could unwind some of the ≈67–88% December-hike pricing, and the oil/inflation link points to breakevens rather than real yields as the driver. That also matters for gold at ≈$4,170."
+    }
+  ],
+  "caveats": "WebFetch was unavailable, so all figures come from search-result summaries of the cited outlets. JPM/WFC numbers are from CNBC's live blog and the WFC release, not the 8-K. Investing.com has slightly different JPM revenue ($50.17B). GS and C were not out at writing. Futures levels and index values were unavailable, so tiles show Monday closes with futures % moves. December hike odds vary widely by source (≈67–88%). MOVE has no fresh print. Russell close and the metals prices from APMEX and aggregators are approximate. WSJ and NYT items come via Reuters press digests (in French, on Boursorama/MarketScreener). No Chicago Tribune story was confirmed, so the Chicago bucket uses CME, MarketBeat, Hoodline and Sun-Times. Kiplinger's Fed speaker times were converted from ET.",
+  "updates": []
+}
