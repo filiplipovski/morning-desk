@@ -11,105 +11,105 @@
     "Chips drag risk: Nasdaq-100 futures are ≈−0.8% as SK Hynix, SoftBank and ASML slide, and Micron is ≈−3% pre-market after Monday's −3.9%. Dow futures are +0.2–0.5% and ES ≈−0.1%. NFIB slipped to 97.9 from 98.7. VIX is ≈15.",
     "Metals: gold ≈$4,177 after a $4,150 dip, holding just above Monday's ≈$4,169 low with DXY ≈102.35 off its 18-month high. Silver is <$61. LME copper is at a two-week high near $14,620/t after a deadly landslide halted part of Codelco's El Teniente. China trade data comes Wednesday (exports seen +25.5% y/y)."
   ],
-  "markets_asof": "≈9:15 AM CT (indexes at 8:30 open; yields/metals mid-morning)",
+  "markets_asof": "≈12:15 PM CT (stocks ≈11:20 AM ET; gold 1:02 PM ET)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,795.27",
-      "change": "−0.15%",
+      "value": "≈7,788",
+      "change": "≈−0.25%",
       "dir": "down",
-      "note": "At open, Reuters"
+      "note": "≈11:20 AM ET, Motley Fool"
     },
     {
       "label": "Dow",
-      "value": "52,092.99",
-      "change": "+0.47%",
-      "dir": "up",
-      "note": "At open; GS, JPM lift"
+      "value": "≈51,790",
+      "change": "≈−0.1%",
+      "dir": "down",
+      "note": "≈−58 pts (CNBC); gave back +0.5% open"
     },
     {
       "label": "Nasdaq Comp",
       "value": "≈27,139",
-      "change": "−0.39%",
+      "change": "≈−0.37%",
       "dir": "down",
-      "note": "At open (−107 pts); memory chips −5–7%"
+      "note": "Memory chips −4–5%"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,794.48",
+      "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Mon close; no fresh print found"
+      "note": "No fresh print found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.774%",
-      "change": "≈−1 bp",
-      "dir": "down",
-      "note": "CNBC, Tue morning"
+      "value": "≈4.79–4.81%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "Unconfirmed read; firming into CPI"
     },
     {
       "label": "UST 10Y",
-      "value": "5.187%",
-      "change": "≈−5 bp",
+      "value": "≈5.22%",
+      "change": "≈−2 bp",
       "dir": "down",
-      "note": "Oct 7 high 5.35%"
+      "note": "Off morning low ≈5.19%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.548%",
-      "change": "≈−5 bp",
-      "dir": "down",
-      "note": "Bull flattening on oil"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Morning 5.548% (−5 bp); no fresh print"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct hike ≈16–18%",
+      "change": "Oct hike ≈22%",
       "dir": "flat",
-      "note": "Morning pricing; no fresh FedWatch read"
+      "note": "Dec hike ≈68% (FedWatch via Rallies)"
     },
     {
       "label": "Brent",
-      "value": "≈$105",
-      "change": "≈−1%+",
+      "value": "≈$105.2",
+      "change": "≈−1%",
       "dir": "down",
-      "note": "CNBC; Mon settle $106.65"
+      "note": "CNBC; Russian diesel relief"
     },
     {
       "label": "WTI crude",
-      "value": "≈$92",
-      "change": "≈−1.9%",
+      "value": "≈$92.9",
+      "change": "≈−1%",
       "dir": "down",
-      "note": "Early Tue (CNBC); no fresh print"
+      "note": "CNBC"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,179–4,188",
-      "change": "≈+0.3%",
-      "dir": "up",
-      "note": "CNBC 9:00 ET / Kitco 9:30 ET"
+      "value": "$4,151.40",
+      "change": "−$19.40",
+      "dir": "down",
+      "note": "Kitco 1:02 PM ET"
     },
     {
       "label": "Silver",
-      "value": "≈$60.43",
+      "value": "≈$60.2–60.5",
       "change": "≈−1%",
       "dir": "down",
-      "note": "Fortune; vs ≈$61 early"
+      "note": "Kitco/Fortune"
     },
     {
       "label": "Copper",
-      "value": "LME $14,618/t",
-      "change": "+0.56%",
-      "dir": "up",
-      "note": "Mon; El Teniente halt. No fresh print"
+      "value": "LME ≈$14,628/t",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "El Teniente halt vs strong dollar"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.35",
+      "value": "≈102.3",
       "change": "≈−0.2%",
       "dir": "down",
-      "note": "Early Tue; Mon 102.58 18-mo high"
+      "note": "Kitco; off 18-mo high"
     }
   ],
   "calendar": [
@@ -424,6 +424,49 @@
   "caveats": "WebFetch was unavailable, so all figures come from search-result summaries of the cited outlets. JPM/WFC numbers are from CNBC's live blog and the WFC release, not the 8-K. Investing.com has slightly different JPM revenue ($50.17B). GS and C were not out at writing. Futures levels and index values were unavailable, so tiles show Monday closes with futures % moves. December hike odds vary widely by source (≈67–88%). MOVE has no fresh print. Russell close and the metals prices from APMEX and aggregators are approximate. WSJ and NYT items come via Reuters press digests (in French, on Boursorama/MarketScreener). No Chicago Tribune story was confirmed, so the Chicago bucket uses CME, MarketBeat, Hoodline and Sun-Times. Kiplinger's Fed speaker times were converted from ET.",
   "updates": [
     {
+      "at": "2026-10-13T17:18:12Z",
+      "label": "Midday",
+      "headline": "The bank-earnings bounce is fading: the Dow gave back its open gain and stocks turned flat-to-red as chips keep falling, and gold slipped to ≈$4,151 while the front end of the Treasury curve firms into CPI.",
+      "points": [
+        "Stocks: the Dow went from +0.47% at the open to +0.02% (51,859.69) by 10:20 ET per Reuters, then to ≈−58 pts (−0.1%) per CNBC. The S&P is ≈7,788 (−0.25%) and the Nasdaq ≈27,139 (−0.37%) as of ≈11:20 ET (Motley Fool). Memory chips are still the drag: Micron ≈−4.5–5%, Sandisk >−4%, plus WDC and Seagate, on fears about China's CXMT.",
+        "Banks: GS is still higher after its beat. JPM is ≈+1% after a post-miss reversal that Reuters ties to raised 2026 NII guidance (the new figure isn't confirmed in what we found). WFC is ≈−1% to −2.5% on the NII miss. Citi is lower despite beating on both EPS and revenue (Investrade). Outside banks, J&J is ≈−6% on an adjusted EPS miss and UNH is up after raising guidance.",
+        "Rates: no clean midday print. One unconfirmed read has the 2Y ≈4.79–4.81% (≈+2 bp) and the 10Y ≈5.22% (≈−2 bp), so part of the morning bull-flattening rally has been given back at the front end ahead of CPI. That read also puts FedWatch at ≈22% for an Oct 28 hike (vs ≈16–18% this morning) and ≈68% by December. We found no readout yet from Barkin or from the 10:30 CT bill auctions.",
+        "Commodities: gold is $4,151.40, −$19.40, at 1:02 PM ET (Kitco), giving back the morning's ≈+0.3%. Silver is ≈$60.2–60.5. Brent is ≈$105.2 and WTI ≈$92.9 (CNBC), down ≈1% on Russian diesel and sanctions easing, though Moscow hasn't confirmed the energy truce. LME copper is ≈$14,628/t, flat, as the El Teniente halt offsets the strong dollar. DXY is ≈102.3.",
+        "Thesis check: the morning call holds. A soft FICC quarter at JPM was confirmed by GS ($3.47B, ≈flat y/y), and equities desks carried the Street. The new wrinkle is that the 2Y is drifting up even as oil falls. The market is not fading hike risk before tomorrow's 7:30 CT CPI (consensus +0.6% m/m, 3.6% y/y)."
+      ],
+      "simple": "The early cheer about strong bank profits wore off, and worries about Chinese competition in memory chips pulled tech stocks down, so the overall market is roughly flat. Short-term Treasury yields (the interest the government pays on two-year debt, which tracks expected Fed moves) edged up. Traders are hedging against tomorrow's inflation report forcing the Fed to raise rates again. Gold dipped because investors are a bit less nervous and are waiting for that same number.",
+      "sources": [
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/13/stock-market-midday-oct-13-bank-earnings-and-chip-pressure-drives-mixed-trading/"
+        },
+        {
+          "name": "Reuters via Lufkin Daily News",
+          "url": "https://lufkindailynews.com/news_reuters/business/wall-st-subdued-in-choppy-trade-after-big-bank-earnings-chips-slide/article_b3a15960-795f-538e-a608-8ad5e42df21c.html"
+        },
+        {
+          "name": "Investrade (mid-morning)",
+          "url": "https://investrade.com/mid-morning-look-october-13-2026/"
+        },
+        {
+          "name": "Kitco (gold)",
+          "url": "https://www.kitco.com/news/article/2026-10-13/gold-firms-dollar-yields-and-oil-retreat-cpi-kitco-am-report"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html"
+        },
+        {
+          "name": "Rallies (yields/FedWatch)",
+          "url": "https://rallies.ai/news/10-year-treasury-yields-fall-while-2-year-yields-rise-84b8aa713c5f0886"
+        },
+        {
+          "name": "Rallies (copper)",
+          "url": "https://rallies.ai/news/copper-steadies-as-dollar-strength-counters-chile-supply-worries-c1b7bf66c3b98649"
+        }
+      ]
+    },
+    {
       "at": "2026-10-13T14:18:41Z",
       "label": "Post-open",
       "headline": "GS and Citi beat on equities and FICC, JPM flips from ≈−3% pre-market to green, and the Dow opens +0.5% while chips drag the Nasdaq; Treasuries hold a 5 bp rally into CPI.",
@@ -463,5 +506,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T14:18:41Z"
+  "updatedAt": "2026-10-13T17:18:12Z"
 }
