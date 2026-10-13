@@ -11,49 +11,49 @@
     "Chips drag risk: Nasdaq-100 futures are ≈−0.8% as SK Hynix, SoftBank and ASML slide, and Micron is ≈−3% pre-market after Monday's −3.9%. Dow futures are +0.2–0.5% and ES ≈−0.1%. NFIB slipped to 97.9 from 98.7. VIX is ≈15.",
     "Metals: gold ≈$4,177 after a $4,150 dip, holding just above Monday's ≈$4,169 low with DXY ≈102.35 off its 18-month high. Silver is <$61. LME copper is at a two-week high near $14,620/t after a deadly landslide halted part of Codelco's El Teniente. China trade data comes Wednesday (exports seen +25.5% y/y)."
   ],
-  "markets_asof": "≈12:15 PM CT (stocks ≈11:20 AM ET; gold 1:02 PM ET)",
+  "markets_asof": "Tue close (yields/gold ≈3:45 PM ET)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,788",
-      "change": "≈−0.25%",
-      "dir": "down",
-      "note": "≈11:20 AM ET, Motley Fool"
+      "value": "7,805.45",
+      "change": "−0.02%",
+      "dir": "flat",
+      "note": "Close (CNBC/Reuters)"
     },
     {
       "label": "Dow",
-      "value": "≈51,790",
-      "change": "≈−0.1%",
+      "value": "51,670.10",
+      "change": "−180.45 (−0.35%)",
       "dir": "down",
-      "note": "≈−58 pts (CNBC); gave back +0.5% open"
+      "note": "Close"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈27,139",
-      "change": "≈−0.37%",
+      "value": "27,204.38",
+      "change": "−0.15%",
       "dir": "down",
-      "note": "Memory chips −4–5%"
+      "note": "Close; PHLX chips −1.2%"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No fresh print found"
+      "note": "No close print found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.79–4.81%",
-      "change": "≈+2 bp",
-      "dir": "up",
-      "note": "Unconfirmed read; firming into CPI"
+      "value": "≈4.80%",
+      "change": "≈0 to +1 bp",
+      "dir": "flat",
+      "note": "Late afternoon (InvestingLive/Rallies)"
     },
     {
       "label": "UST 10Y",
       "value": "≈5.22%",
-      "change": "≈−2 bp",
+      "change": "≈−2 to −3 bp",
       "dir": "down",
-      "note": "Off morning low ≈5.19%"
+      "note": "Intraday low 5.173%"
     },
     {
       "label": "UST 30Y",
@@ -67,49 +67,49 @@
       "value": "3.75–4.00%",
       "change": "Oct hike ≈22%",
       "dir": "flat",
-      "note": "Dec hike ≈68% (FedWatch via Rallies)"
+      "note": "Dec ≈71% (FedWatch via Rallies)"
     },
     {
       "label": "Brent",
-      "value": "≈$105.2",
-      "change": "≈−1%",
+      "value": "$105.69",
+      "change": "−$0.96 (−0.9%)",
       "dir": "down",
-      "note": "CNBC; Russian diesel relief"
+      "note": "Settle (Reuters)"
     },
     {
       "label": "WTI crude",
-      "value": "≈$92.9",
-      "change": "≈−1%",
-      "dir": "down",
-      "note": "CNBC"
+      "value": "$94.14",
+      "change": "+$0.40 (+0.4%)",
+      "dir": "up",
+      "note": "Settle; highest since Sep 24"
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,151.40",
-      "change": "−$19.40",
+      "value": "$4,163.60",
+      "change": "−$7.20",
       "dir": "down",
-      "note": "Kitco 1:02 PM ET"
+      "note": "Kitco 3:45 PM ET"
     },
     {
       "label": "Silver",
-      "value": "≈$60.2–60.5",
-      "change": "≈−1%",
+      "value": "≈$59.78",
+      "change": "≈−0.9%",
       "dir": "down",
-      "note": "Kitco/Fortune"
+      "note": "Mitrade"
     },
     {
       "label": "Copper",
-      "value": "LME ≈$14,628/t",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "El Teniente halt vs strong dollar"
+      "value": "COMEX ≈$6.78/lb",
+      "change": "≈−0.6%",
+      "dir": "down",
+      "note": "Off Codelco-driven 2-wk high"
     },
     {
-      "label": "Dollar index",
-      "value": "≈102.3",
-      "change": "≈−0.2%",
+      "label": "KBW/Banks",
+      "value": "C $124.53",
+      "change": "−5.6%",
       "dir": "down",
-      "note": "Kitco; off 18-mo high"
+      "note": "Google Finance close; GS ≈+0.5%, WFC ≈−1.5%"
     }
   ],
   "calendar": [
@@ -424,6 +424,53 @@
   "caveats": "WebFetch was unavailable, so all figures come from search-result summaries of the cited outlets. JPM/WFC numbers are from CNBC's live blog and the WFC release, not the 8-K. Investing.com has slightly different JPM revenue ($50.17B). GS and C were not out at writing. Futures levels and index values were unavailable, so tiles show Monday closes with futures % moves. December hike odds vary widely by source (≈67–88%). MOVE has no fresh print. Russell close and the metals prices from APMEX and aggregators are approximate. WSJ and NYT items come via Reuters press digests (in French, on Boursorama/MarketScreener). No Chicago Tribune story was confirmed, so the Chicago bucket uses CME, MarketBeat, Hoodline and Sun-Times. Kiplinger's Fed speaker times were converted from ET.",
   "updates": [
     {
+      "at": "2026-10-13T20:18:22Z",
+      "label": "Close",
+      "headline": "Stocks finish flat to lower as Citi's beat-and-sell-off and chip weakness offset Goldman. NY Fed's Williams backs one more 2026 hike but none in 2027, so the 10Y ends ≈2 bp lower while the 2Y holds ≈4.80% into CPI.",
+      "points": [
+        "Close (CNBC/Reuters): S&P 500 7,805.45 (−0.02%), Dow 51,670.10 (−180.45, −0.35%), Nasdaq Comp 27,204.38 (−0.15%). The PHLX chip index fell 1.2%, its fifth straight loss, and Micron was down >3% after Korea's Kospi dropped 5.5% on fears about Chinese memory competition.",
+        "Banks: Citi was the day's loser despite beating (EPS $2.85, rev $23.85B). Reuters had it −3.4% and Google Finance shows a $124.53 close (−5.6%). Investors focused on stepped-up tech and marketing spend, soft Mexican credit, and a ≈$9B capital-neutral translation loss when Banamex is deconsolidated ahead of a 2027 IPO. Citi raised FY NII ex-markets guidance to up mid-to-high 6% and kept its $30B buyback. GS ended ≈+0.5% and WFC ≈−1.5%, while JPM chopped around flat. Correction to Midday: Citi's slide deepened instead of stabilizing.",
+        "Rates/Fed: Williams (Bloomberg interview) said one more hike in 2026 'may be appropriate' (read: December) but he sees no reason for more in 2027. The market prices further tightening, so he is more dovish than it is. Late prints: 10Y ≈5.22% (≈−2 to −3 bp; intraday low 5.173%) and 2Y ≈4.80% (flat to +1 bp), so the 2s10s curve flattened ≈3 bp on the day. FedWatch: Oct 28 hike ≈22%, Dec ≈71%. We found no readouts from Barkin, Collins or the bill auctions.",
+        "Commodities: Brent settled $105.69 (−$0.96) but WTI rose $0.40 to $94.14, its highest close since Sep 24, as attacks in Saudi Arabia and Yemen offset hopes for a U.S.–Russia diesel deal. The Brent–WTI spread is ≈$11.55. Gold is $4,163.60 (−$7.20) at 3:45 PM ET (Kitco), silver ≈$59.78 (−0.9%), and COMEX copper ≈$6.78/lb (≈−0.6%) after Monday's Codelco-driven two-week high.",
+        "Tomorrow (Wed): Sep CPI at 7:30 AM CT (consensus +0.6% m/m, 3.6% y/y; core +0.2%). BAC, MS and BLK report pre-open, plus China trade data and Bowman. A hot core print would push Dec odds toward a sure thing and test the 2Y's 4.80% level. Note that WTI firming at the close cuts against the morning's 'oil easing' leg of the thesis."
+      ],
+      "simple": "Stocks ended roughly where they started. Citigroup fell sharply even though it earned more than expected, because investors worried about its spending plans and a big accounting loss tied to spinning off its Mexican bank. A senior Fed official said he expects one more interest-rate increase this year and probably none next year. That eased fears of a long string of hikes, so longer-term borrowing costs dipped a little. Tomorrow's inflation report is the big test: if prices rose faster than expected, rate-hike bets and mortgage rates could jump.",
+      "sources": [
+        {
+          "name": "CNBC (markets live, close)",
+          "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Reuters via TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45Z13B:0-s-p-500-flat-as-chipmakers-fall-and-bank-earnings-roll-in/"
+        },
+        {
+          "name": "CNBC (Williams)",
+          "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html"
+        },
+        {
+          "name": "InvestingLive (Williams, yields)",
+          "url": "https://investinglive.com/central-banks/fed-williams-sees-no-need-for-rate-hike-in-2027-at-this-time"
+        },
+        {
+          "name": "Rallies (yields/FedWatch)",
+          "url": "https://rallies.ai/news/us-10-year-treasury-yields-follow-european-yields-down-while-2-year-yields-rise-6c8388ac61ef9359"
+        },
+        {
+          "name": "Investing.com (Citi call)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-citigroup-beats-q3-2026-estimates-as-stock-slips-93CH-4947271"
+        },
+        {
+          "name": "Reuters via Central Oregon Daily (oil settle)",
+          "url": "https://centraloregondaily.com/news/consumer/oil-prices-settle-mixed-focus-on-us-russia-diesel-deal-saudi-yemen-attacks/article_5754e26c-d36d-51a2-b27e-96b8c3194f10.html"
+        },
+        {
+          "name": "Mitrade (silver/copper)",
+          "url": "https://mitrade.com/insights/commodity-analysis/metal/copper-codelco-mine-halt-silver-cpi-20261013J1433"
+        }
+      ]
+    },
+    {
       "at": "2026-10-13T17:18:12Z",
       "label": "Midday",
       "headline": "The bank-earnings bounce is fading: the Dow gave back its open gain and stocks turned flat-to-red as chips keep falling, and gold slipped to ≈$4,151 while the front end of the Treasury curve firms into CPI.",
@@ -506,5 +553,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T17:18:12Z"
+  "updatedAt": "2026-10-13T20:18:22Z"
 }
