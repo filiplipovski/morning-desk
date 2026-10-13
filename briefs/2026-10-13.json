@@ -11,105 +11,105 @@
     "Chips drag risk: Nasdaq-100 futures are ≈−0.8% as SK Hynix, SoftBank and ASML slide, and Micron is ≈−3% pre-market after Monday's −3.9%. Dow futures are +0.2–0.5% and ES ≈−0.1%. NFIB slipped to 97.9 from 98.7. VIX is ≈15.",
     "Metals: gold ≈$4,177 after a $4,150 dip, holding just above Monday's ≈$4,169 low with DXY ≈102.35 off its 18-month high. Silver is <$61. LME copper is at a two-week high near $14,620/t after a deadly landslide halted part of Codelco's El Teniente. China trade data comes Wednesday (exports seen +25.5% y/y)."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (Treasuries early Tue; index values are Mon closes)",
+  "markets_asof": "≈9:15 AM CT (indexes at 8:30 open; yields/metals mid-morning)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,807.24",
-      "change": "Fut ≈−0.1%",
+      "value": "7,795.27",
+      "change": "−0.15%",
       "dir": "down",
-      "note": "Mon close −0.06%; futures per Bloomberg"
+      "note": "At open, Reuters"
     },
     {
       "label": "Dow",
-      "value": "51,850.55",
-      "change": "Fut ≈+0.2–0.5%",
+      "value": "52,092.99",
+      "change": "+0.47%",
       "dir": "up",
-      "note": "Mon close +0.38%"
+      "note": "At open; GS, JPM lift"
     },
     {
-      "label": "Nasdaq 100 fut",
-      "value": "—",
-      "change": "≈−0.8%",
+      "label": "Nasdaq Comp",
+      "value": "≈27,139",
+      "change": "−0.39%",
       "dir": "down",
-      "note": "Chip selloff; Comp closed Mon 27,245.90 (−0.44%)"
+      "note": "At open (−107 pts); memory chips −5–7%"
     },
     {
       "label": "Russell 2000",
       "value": "≈2,794.48",
-      "change": "≈−0.45%",
-      "dir": "down",
-      "note": "Mon close; ≈8.6% below Aug 14 record"
+      "change": "—",
+      "dir": "flat",
+      "note": "Mon close; no fresh print found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.77%",
-      "change": "≈−2 bp",
+      "value": "4.774%",
+      "change": "≈−1 bp",
       "dir": "down",
-      "note": "vs Fri 4.80%; CNBC early Tue"
+      "note": "CNBC, Tue morning"
     },
     {
       "label": "UST 10Y",
-      "value": "5.19%",
+      "value": "5.187%",
       "change": "≈−5 bp",
       "dir": "down",
-      "note": "vs Fri 5.24%; Oct 7 high 5.35%"
+      "note": "Oct 7 high 5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.56%",
-      "change": "≈−4 bp",
+      "value": "5.548%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "vs Fri ≈5.60%"
+      "note": "Bull flattening on oil"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct hike ≈16–18%",
       "dir": "flat",
-      "note": "Dec hike ≈67–88% by source"
+      "note": "Morning pricing; no fresh FedWatch read"
     },
     {
       "label": "Brent",
-      "value": "≈$105.06",
-      "change": "≈−1.5%",
+      "value": "≈$105",
+      "change": "≈−1%+",
       "dir": "down",
       "note": "CNBC; Mon settle $106.65"
     },
     {
       "label": "WTI crude",
-      "value": "≈$92.00",
+      "value": "≈$92",
       "change": "≈−1.9%",
       "dir": "down",
-      "note": "CNBC; Mon settle $93.74"
+      "note": "Early Tue (CNBC); no fresh print"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,177",
-      "change": "≈+0.2%",
+      "value": "≈$4,179–4,188",
+      "change": "≈+0.3%",
       "dir": "up",
-      "note": "Dipped to ≈$4,150 overnight; Mon ≈$4,169"
+      "note": "CNBC 9:00 ET / Kitco 9:30 ET"
     },
     {
       "label": "Silver",
-      "value": "≈$61",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Below $61 per Mitrade; APMEX $61.43"
+      "value": "≈$60.43",
+      "change": "≈−1%",
+      "dir": "down",
+      "note": "Fortune; vs ≈$61 early"
     },
     {
       "label": "Copper",
       "value": "LME $14,618/t",
       "change": "+0.56%",
       "dir": "up",
-      "note": "Mon; 2-wk high, El Teniente halt. COMEX ≈$6.71–6.76/lb"
+      "note": "Mon; El Teniente halt. No fresh print"
     },
     {
       "label": "Dollar index",
       "value": "≈102.35",
       "change": "≈−0.2%",
       "dir": "down",
-      "note": "Mon close 102.58, 18-month high"
+      "note": "Early Tue; Mon 102.58 18-mo high"
     }
   ],
   "calendar": [
@@ -422,5 +422,46 @@
     }
   ],
   "caveats": "WebFetch was unavailable, so all figures come from search-result summaries of the cited outlets. JPM/WFC numbers are from CNBC's live blog and the WFC release, not the 8-K. Investing.com has slightly different JPM revenue ($50.17B). GS and C were not out at writing. Futures levels and index values were unavailable, so tiles show Monday closes with futures % moves. December hike odds vary widely by source (≈67–88%). MOVE has no fresh print. Russell close and the metals prices from APMEX and aggregators are approximate. WSJ and NYT items come via Reuters press digests (in French, on Boursorama/MarketScreener). No Chicago Tribune story was confirmed, so the Chicago bucket uses CME, MarketBeat, Hoodline and Sun-Times. Kiplinger's Fed speaker times were converted from ET.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-13T14:18:41Z",
+      "label": "Post-open",
+      "headline": "GS and Citi beat on equities and FICC, JPM flips from ≈−3% pre-market to green, and the Dow opens +0.5% while chips drag the Nasdaq; Treasuries hold a 5 bp rally into CPI.",
+      "points": [
+        "GS: EPS $17.01 vs ≈$12.86–13.02 est.; revenue $18.68B vs ≈$16.8B. Equities $6.44B (+72% y/y) carried the quarter. FICC was $3.47B, ≈flat y/y, with rates, mortgages and credit intermediation weaker and FX and commodities stronger. Stock is ≈+2–3.5% early.",
+        "C: EPS $2.85 vs $2.65–2.66; revenue $23.85B vs $23.72B. Fixed income markets ≈$4.4B (+4% y/y) and Services $6.6B (+15%). Results include a $726M goodwill hit tied to the Banamex 25% stake sale. Early stock moves are mixed by source.",
+        "Correction to the morning summary: JPM's ≈−3.5% pre-market drop reversed, and the stock traded ≈+1–2% after the open. WFC is still lower, between ≈−3% early and 'down slightly' later. Dimon warned another 1-point rise in rates would hurt. GS confirms the morning thesis: rates FICC was soft despite record CME volume.",
+        "Open (Reuters, 8:30 CT): Dow 52,092.99 (+0.47%), S&P 7,795.27 (−0.15%), Nasdaq Comp −0.39%. Memory chips are the drag: Micron ≈−5%, SK Hynix ≈−6% and WDC ≈−7% on CXMT competition fears.",
+        "Rates (CNBC): 2Y 4.774% (−1 bp), 10Y 5.187% (−5 bp), 30Y 5.548% (−5 bp). The curve is bull-flattening (long yields falling faster) as Brent slips >1% to ≈$105 on Russian diesel supply and a U.S.-brokered Russia–Ukraine energy ceasefire. Gold is ≈$4,179–4,188 and silver ≈$60.4. Next: bill auctions at 10:30 and Barkin around noon CT."
+      ],
+      "simple": "The big investment banks made far more money than expected because stock trading was booming, but trading in bonds and interest rates (the 'FICC' desk) was only flat, so busy markets didn't automatically mean easy profits for rate traders. JPMorgan's stock recovered from its early drop as investors decided the miss was mostly one-off. Meanwhile, cheaper oil is easing inflation fears, so bond yields (the interest rate the government pays to borrow) dipped. That matters for mortgages and for how much a bank can earn on its loans.",
+      "sources": [
+        {
+          "name": "Goldman Sachs press release",
+          "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-10-13-q3-results"
+        },
+        {
+          "name": "Citigroup 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://investing.com/news/stock-market-news/sp-500-opens-lower-after-bank-earnings-chips-weigh-4946952"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html"
+        },
+        {
+          "name": "CNBC (bank earnings live)",
+          "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+        },
+        {
+          "name": "CNBC Select (gold)",
+          "url": "https://www.cnbc.com/select/the-price-of-gold-today-oct-13-2026/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-13T14:18:41Z"
 }
