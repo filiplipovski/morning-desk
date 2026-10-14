@@ -11,105 +11,105 @@
     "Global: China's September exports jumped 36.3% y/y vs 25.5% expected, and imports rose 31% vs 24.5%. The surplus was $133.5B, putting a ≈$1T annual surplus in sight, with chip exports +136%. In Europe, ASML posted €11.7B sales and a 57.5% gross margin and guided Q4 to €14.2–15.2B, which could steady chips after five straight down days for the SOX. US futures are modestly higher: Dow E-minis +0.3–0.45%, ES +0.1–0.2%.",
     "Metals and oil: gold is ≈$4,138 (−0.5%, Kitco 7:15 ET), on its third straight decline, with the dollar at an 18-month high. LME copper is up 0.7% to ≈$14,674/t on Chile supply risk and China's Yangshan premium at $135/t, a four-year high. Brent is ≈$105.8–106.6 after Houthi strikes on Saudi Aramco and mines near Hormuz, which offset Trump's Russian-diesel deal (the IEA says little will change)."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT (cash indices = Tue close)",
+  "markets_asof": "≈9:10 AM CT (early trade, post-CPI)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,805.45",
-      "change": "Fut +0.1–0.2%",
-      "dir": "up",
-      "note": "Tue close −0.02%; ES +16.25 pts at 5:41 ET (Reuters)"
+      "value": "≈7,775",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Early trade; Tue close 7,805.45"
     },
     {
       "label": "Dow",
-      "value": "51,670.10",
-      "change": "Fut +0.3–0.45%",
-      "dir": "up",
-      "note": "Tue close −0.35%; YM +234 at 5:41 ET"
+      "value": "≈51,670",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Financials offset; sources split on sign"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "27,204.38",
-      "change": "—",
-      "dir": "flat",
-      "note": "Tue close −0.15%; ASML guide in focus"
+      "value": "≈27,040",
+      "change": "≈−0.6%",
+      "dir": "down",
+      "note": "Rate-sensitive tech lags"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No print found"
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Small caps hit by front-end rise"
     },
     {
       "label": "UST 2Y",
-      "value": "4.772%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "CNBC pre-CPI"
+      "value": "≈4.90–4.92%",
+      "change": "+12–13 bp",
+      "dir": "up",
+      "note": "High ≈4.94%, highest since Sep 29"
     },
     {
       "label": "UST 10Y",
-      "value": "5.195%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "CNBC; Oct 7 high 5.35%"
+      "value": "≈5.28–5.30%",
+      "change": "+9–10 bp",
+      "dir": "up",
+      "note": "Oct 7 high 5.35%"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh print; Tue ≈5.55%"
+      "value": "≈5.59%",
+      "change": "≈+4 bp",
+      "dir": "up",
+      "note": "Curve bear-flattens; 2s10s ≈38 bp"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hike ≈22%",
-      "dir": "flat",
-      "note": "FedWatch; futures price ≈3 more hikes"
+      "change": "Oct 28 hike ≈44–51%",
+      "dir": "up",
+      "note": "FedWatch 43.7% (from 22.1%); Reuters ≈51%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "102.75",
+      "change": "+0.55%",
+      "dir": "up",
+      "note": "18-month high (Reuters)"
     },
     {
       "label": "Brent",
-      "value": "≈$105.8–106.6",
-      "change": "+0.1–0.8%",
-      "dir": "up",
-      "note": "Tue settle $105.69"
+      "value": "≈$105–106",
+      "change": "—",
+      "dir": "flat",
+      "note": "No clean post-CPI print"
     },
     {
       "label": "WTI crude",
-      "value": "≈$94.7–94.9",
-      "change": "+0.6–0.9%",
-      "dir": "up",
-      "note": "Tue settle $94.14"
+      "value": "≈$95",
+      "change": "—",
+      "dir": "flat",
+      "note": "Held near $95 (Mitrade)"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,138",
-      "change": "≈−0.5%",
+      "value": "≈$4,091–4,111",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "Kitco 7:15 AM ET; 3rd straight loss"
+      "note": "Kitco post-CPI; 4th straight loss"
     },
     {
       "label": "Silver",
-      "value": "≈$59–60",
-      "change": "—",
-      "dir": "flat",
-      "note": "Gold/silver ratio ≈70"
+      "value": "≈$57.89",
+      "change": "≈−2.0%",
+      "dir": "down",
+      "note": "Kitco"
     },
     {
-      "label": "Copper (LME)",
-      "value": "≈$14,674/t",
-      "change": "+0.7%",
-      "dir": "up",
-      "note": "Chile supply; SHFE 111,330 yuan"
-    },
-    {
-      "label": "MOVE",
-      "value": "101.09",
-      "change": "—",
-      "dir": "flat",
-      "note": "Oct 13 (CNBC quote); VIX ≈15"
+      "label": "Copper (COMEX)",
+      "value": "≈$6.77/lb",
+      "change": "≈−0.6%",
+      "dir": "down",
+      "note": "LME ≈$14,600/t area pre-data"
     }
   ],
   "calendar": [
@@ -401,5 +401,46 @@
     }
   ],
   "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible. Their buckets use outlets citing them (InvestingLive, Just Security, FDD, FinanceFeeds) or stand-ins (NBC News, WTTW, PR Newswire). Pre-market levels are ranges because sources and timestamps differ. CPI y/y consensus is 3.6% (Reuters/Dow Jones) vs 3.7% (some vendors). The SOFR options OI figure is ≈3 weeks old and unverified. We found no fresh Russell 2000, 30Y or DXY prints. MS results were not out at publication.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-14T14:18:08Z",
+      "label": "Post-open",
+      "headline": "Core CPI ran hot at 0.3% m/m and 2.6% y/y, against 0.2% and 2.5% expected. The 2Y jumped ≈12–13 bp to ≈4.90%, and the odds of an Oct 28 hike roughly doubled to ≈44–50%. That settles the morning's core-0.2-vs-0.3 question in favor of the hawks.",
+      "points": [
+        "CPI (Sep): headline +0.6% m/m (in line), 3.7% y/y vs 3.6% est. (Aug 3.4%). Core +0.3% vs +0.2%, 2.6% y/y vs 2.5% (Aug 2.4%), the second straight 0.3%. Gasoline +9.1% accounted for about half the headline; shelter +0.4%, used cars +0.7%.",
+        "Rates: the 2Y rose ≈+12–13 bp to 4.895–4.92% (session high ≈4.94%, highest since Sep 29). The 10Y is at ≈5.28–5.30% (+9–10 bp) and the 30Y at ≈5.59%. The curve bear-flattened, with 2s10s ≈38 bp vs ≈42 bp pre-data. Odds of an Oct 28 hike are 43.7% on FedWatch, up from 22.1%, and Reuters' futures read is ≈51%. The morning brief's '≈22%' is now stale.",
+        "Dollar and metals: DXY +0.55% to 102.75, a fresh 18-month high. Gold −1.2% to ≈$4,091–4,111 (Kitco), its fourth straight loss. Silver −2% to ≈$57.89. COMEX copper −0.6% to ≈$6.77/lb, giving back part of the Chile supply bid.",
+        "Stocks at the open: S&P 500 ≈−0.4%, Nasdaq ≈−0.6–0.7%, Russell 2000 ≈−0.4%, Dow ≈flat, held up by financials. That reversed the green futures from the morning brief.",
+        "MS beat: EPS $3.03 vs $2.91 LSEG; revenue $20.3B vs $19.95B; ROTCE 22.6%. Equities beat by ≈$909M (+41% y/y), but FICC fell 7% to $2.01B and IB missed by ≈$110M. The stock was ≈−2% pre-market. FICC is now down or missed at all four banks (JPM, GS, BAC, MS)."
+      ],
+      "simple": "CPI (the government's monthly measure of price changes) showed that prices excluding food and fuel rose faster than forecasters expected. That matters because the Fed sets its interest rate based on this underlying trend, and a second hot month makes another rate hike in two weeks close to a coin flip. As a result, short-term Treasury yields (the interest the government pays to borrow) jumped and the dollar strengthened. That makes gold, which pays no interest, less attractive, and it means loans and mortgages tied to these rates are likely to get more expensive.",
+      "sources": [
+        {
+          "name": "CNBC (CPI)",
+          "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/hot-september-cpi-sends-ratehike-bets-soaring-4949438"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-10-14/gold-silver-drop-hotter-cpi-revives-fed-rate-pressure-kitco-am-report"
+        },
+        {
+          "name": "CNBC (Morgan Stanley)",
+          "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-14T14:18:08Z"
 }
