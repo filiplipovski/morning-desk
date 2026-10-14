@@ -11,105 +11,112 @@
     "Global: China's September exports jumped 36.3% y/y vs 25.5% expected, and imports rose 31% vs 24.5%. The surplus was $133.5B, putting a ≈$1T annual surplus in sight, with chip exports +136%. In Europe, ASML posted €11.7B sales and a 57.5% gross margin and guided Q4 to €14.2–15.2B, which could steady chips after five straight down days for the SOX. US futures are modestly higher: Dow E-minis +0.3–0.45%, ES +0.1–0.2%.",
     "Metals and oil: gold is ≈$4,138 (−0.5%, Kitco 7:15 ET), on its third straight decline, with the dollar at an 18-month high. LME copper is up 0.7% to ≈$14,674/t on Chile supply risk and China's Yangshan premium at $135/t, a four-year high. Brent is ≈$105.8–106.6 after Houthi strikes on Saudi Aramco and mines near Hormuz, which offset Trump's Russian-diesel deal (the IEA says little will change)."
   ],
-  "markets_asof": "≈9:10 AM CT (early trade, post-CPI)",
+  "markets_asof": "≈11:45 AM CT (midday)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,775",
-      "change": "≈−0.4%",
+      "value": "≈7,734",
+      "change": "≈−0.9%",
       "dir": "down",
-      "note": "Early trade; Tue close 7,805.45"
+      "note": "11:38 AM ET; Tue close 7,805.45"
     },
     {
       "label": "Dow",
-      "value": "≈51,670",
-      "change": "≈flat",
+      "value": "≈51,620",
+      "change": "≈−0.1%",
       "dir": "flat",
-      "note": "Financials offset; sources split on sign"
+      "note": "Held up vs Nasdaq"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈27,040",
-      "change": "≈−0.6%",
+      "value": "≈26,840",
+      "change": "≈−1.3%",
       "dir": "down",
-      "note": "Rate-sensitive tech lags"
+      "note": "Chips and AI names lead losses"
     },
     {
       "label": "Russell 2000",
-      "value": "—",
-      "change": "≈−0.4%",
+      "value": "2,737.11",
+      "change": "−1.66%",
       "dir": "down",
-      "note": "Small caps hit by front-end rise"
+      "note": "TheStreet afternoon check-in"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.90–4.92%",
-      "change": "+12–13 bp",
+      "value": "≈4.87–4.90%",
+      "change": "≈+10–13 bp",
       "dir": "up",
-      "note": "High ≈4.94%, highest since Sep 29"
+      "note": "Off the ≈4.94% post-CPI high"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.28–5.30%",
-      "change": "+9–10 bp",
+      "value": "≈5.27%",
+      "change": "+6 bp",
       "dir": "up",
-      "note": "Oct 7 high 5.35%"
+      "note": "Yahoo 11:18 AM ET; eased from ≈5.30%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.59%",
+      "value": "≈5.59–5.61%",
       "change": "≈+4 bp",
       "dir": "up",
-      "note": "Curve bear-flattens; 2s10s ≈38 bp"
+      "note": "Curve still bear-flattened"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hike ≈44–51%",
+      "change": "Oct 28 hike ≈44%",
       "dir": "up",
-      "note": "FedWatch 43.7% (from 22.1%); Reuters ≈51%"
+      "note": "Dec hike ≈93–96%; was 22% for Oct pre-CPI"
     },
     {
       "label": "Dollar index",
-      "value": "102.75",
-      "change": "+0.55%",
+      "value": "102.86",
+      "change": "+0.68%",
       "dir": "up",
-      "note": "18-month high (Reuters)"
+      "note": "Highest since Apr 2025; EUR $1.1121"
     },
     {
       "label": "Brent",
-      "value": "≈$105–106",
-      "change": "—",
-      "dir": "flat",
-      "note": "No clean post-CPI print"
+      "value": "≈$106",
+      "change": "≈+0.5%",
+      "dir": "up",
+      "note": "Tue settle $105.69"
     },
     {
       "label": "WTI crude",
-      "value": "≈$95",
-      "change": "—",
-      "dir": "flat",
-      "note": "Held near $95 (Mitrade)"
+      "value": "≈$95.2",
+      "change": "≈+1%",
+      "dir": "up",
+      "note": "Tue settle $94.14"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,091–4,111",
-      "change": "≈−1.2%",
+      "value": "$4,081",
+      "change": "≈−1.9%",
       "dir": "down",
-      "note": "Kitco post-CPI; 4th straight loss"
+      "note": "Kitco 12:44 PM ET; low $4,072.70"
     },
     {
       "label": "Silver",
-      "value": "≈$57.89",
+      "value": "≈$57.9",
       "change": "≈−2.0%",
       "dir": "down",
-      "note": "Kitco"
+      "note": "Kitco AM; no clean midday print"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.77/lb",
-      "change": "≈−0.6%",
+      "value": "≈$6.75/lb",
+      "change": "≈−0.7%",
       "dir": "down",
-      "note": "LME ≈$14,600/t area pre-data"
+      "note": "Sources split $6.61–6.75 by contract"
+    },
+    {
+      "label": "BAC",
+      "value": "$50.96",
+      "change": "−5.6%",
+      "dir": "down",
+      "note": "12:07 PM ET; was −8% at the low"
     }
   ],
   "calendar": [
@@ -403,6 +410,49 @@
   "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible. Their buckets use outlets citing them (InvestingLive, Just Security, FDD, FinanceFeeds) or stand-ins (NBC News, WTTW, PR Newswire). Pre-market levels are ranges because sources and timestamps differ. CPI y/y consensus is 3.6% (Reuters/Dow Jones) vs 3.7% (some vendors). The SOFR options OI figure is ≈3 weeks old and unverified. We found no fresh Russell 2000, 30Y or DXY prints. MS results were not out at publication.",
   "updates": [
     {
+      "at": "2026-10-14T17:17:45Z",
+      "label": "Midday",
+      "headline": "The CPI selloff spread from bonds into stocks by midday. The Nasdaq is down ≈1.3% and the Russell 2000 ≈1.7%, gold is near its session low around $4,080, and BofA is down ≈5–6%. The 10Y has eased to ≈5.27% from its post-CPI high, but the market still prices an Oct 28 hike near a coin flip.",
+      "points": [
+        "Stocks deteriorated after the open. As of ≈11:40 AM ET, the S&P 500 is ≈−0.9% at ≈7,734, the Nasdaq ≈−1.3% at ≈26,840, and the Dow ≈−0.1% at ≈51,620. The Russell 2000 is −1.66% at 2,737 (TheStreet), so small caps are taking the brunt of the front-end repricing. The opening drop of ≈0.4% has roughly doubled.",
+        "Rates have come off their post-CPI highs: the 10Y is at ≈5.27%, +6 bp (Yahoo, 11:18 AM ET), vs ≈5.28–5.30% at the open, and the 2Y is ≈4.87–4.90%. Pricing for an Oct 28 hike is ≈44% (hold ≈56%), and pricing for a December hike is ≈93–96%. The post-open read is unchanged: the front end is driving the move, and the market sees December as near-certain while October stays live.",
+        "Dollar and metals: DXY +0.68% to 102.86, highest since Apr 2025. EUR/USD is $1.1121, a 17-month low, and USD/JPY is 158.81. Spot gold is $4,081 (−$78.70, ≈−1.9%; low $4,072.70, Kitco 12:44 PM ET), so its loss has deepened from −1.2% at the open. WTI is firm at ≈$95 and Brent at ≈$106, both up vs Tuesday settles of $94.14 and $105.69.",
+        "Banks: BAC is at $50.96, −5.6% (12:07 PM ET); it was down as much as 8% in the morning. That puts it on top of Tuesday's −5.6%, after a 91¢ EPS (vs $1.10 est.; $1.08 ex-fine) and a 17% FICC drop. MS was ≈−2% despite its beat. No major bank M&A or IPO pricing crossed this morning.",
+        "Thesis check: the morning's framing of 'core 0.2 vs 0.3 decides the 2Y' resolved hawkish and is holding. Watch Thursday 7:30 CT PPI and retail sales, plus PNC pre-open, before the Oct 17 Fed blackout."
+      ],
+      "simple": "After the hot inflation report this morning, investors spent the late morning pricing in higher interest rates for longer. Small companies and tech stocks feel that most, because they rely on cheap borrowing or on profits far in the future. The stronger dollar and higher yields (the interest bonds pay) pulled gold lower, since gold pays no interest. Bank of America kept falling because a weak trading quarter came on top of a $1.2B fine over missed reports of suspicious transactions.",
+      "sources": [
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/14/stock-market-midday-oct-14-hot-inflation-weighs-on-markets-coreweave-plummets-15/"
+        },
+        {
+          "name": "TheStreet (live)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
+        },
+        {
+          "name": "Yahoo Finance (live)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html"
+        },
+        {
+          "name": "Kitco (gold)",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "Rallies.ai (dollar)",
+          "url": "https://rallies.ai/news/dollar-hits-fresh-18-month-high-as-hot-inflation-boosts-fed-hike-expectations-37d845c1939cd324"
+        },
+        {
+          "name": "CNBC (BAC)",
+          "url": "https://cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+        },
+        {
+          "name": "Invezz (BAC)",
+          "url": "https://invezz.com/news/2026/10/14/bank-of-america-shares-slip-over-5-as-1-2-billion-fine-hits-q3-profits/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-14T14:18:08Z",
       "label": "Post-open",
       "headline": "Core CPI ran hot at 0.3% m/m and 2.6% y/y, against 0.2% and 2.5% expected. The 2Y jumped ≈12–13 bp to ≈4.90%, and the odds of an Oct 28 hike roughly doubled to ≈44–50%. That settles the morning's core-0.2-vs-0.3 question in favor of the hawks.",
@@ -442,5 +492,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T14:18:08Z"
+  "updatedAt": "2026-10-14T17:17:45Z"
 }
