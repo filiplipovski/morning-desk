@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-15",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-15T11:23:01Z",
+  "headline": "Overnight, the AI-credit rout took over from hot CPI as the driver: CoreWeave CDS is above 1,000 bp and the Kospi fell 7.6%, and the bid for safety has pulled the 10Y down ≈9 bp to ≈5.10% and cut Oct 28 hike odds to roughly a third. PPI and retail sales at 7:30 CT decide whether inflation or the flight to quality sets the front end.",
+  "summary": [
+    "Correction to yesterday's Close update: its tiles (2Y ≈4.90%, 10Y ≈5.29%) were the post-CPI intraday spike, not the close. CNBC's closes were 2Y 4.81% (+1 bp), 10Y 5.19% (−2 bp) and 30Y 5.52% (−4 bp), after the 10Y touched ≈5.33%. The curve bear-flattened on CPI (core +0.3% m/m, 2.6% y/y), then bull-steepened when tech broke and shorts covered. This morning the 2Y is 4.74% (−6 bp), the 10Y 5.10% (−9 bp, a three-week low) and the 30Y 5.44%.",
+    "The risk-off is about AI credit, not just tech multiples. CoreWeave fell 15% Wednesday and is ≈−4.5% pre-market, its 2032 bonds yield above 15%, and its CDS widened from >600 bp to >1,000 bp. CNBC tallies more than $1T lost this week across the top 20 AI/chip names, and the Kospi closed −7.6% after a circuit breaker (SK Hynix and Samsung each fell >11%) even though TSMC beat (ADR EPS $4.60 vs ≈$4.44; Q4 guide $52.3–54.3B). NQ futures are ≈−1.2%, ES ≈−0.4% and Dow futures ≈+0.4%.",
+    "7:30 CT: PPI (Sep) consensus is +0.5% m/m (some surveys say +0.6%) with core at +0.3%. Retail sales are seen at +0.3% (prior +1.2%), ex-autos at +0.5%, and claims at 195K. A hot core PPI feeds straight into core PCE and would undo the overnight rally. Hike odds for Oct 28 swung from >50% intraday Wednesday to ≈30–37% late, December is ≈90%, and Commerzbank counts ≈29 bp of hikes by end-2026 and ≈75 bp by end-2027.",
+    "Regional banks are beating on EPS and slightly missing on revenue. PNC posted adjusted EPS of $5.09 vs $4.91 and revenue of $6.56B vs $6.61B; NII was $4.2B (+$99M q/q), average loans rose 17% y/y on C&I, and net charge-offs were up 44% y/y to $257M. USB posted $1.34 vs $1.32, revenue $7.97B vs $8.01B and a NIM of 2.84%. Schwab is due pre-open ($1.66 / $7.20B). BAC fell ≈5% Wednesday after its $1.2B fine (the OCC's $750M share is a record), and the BKX is ≈12% off its August high.",
+    "Metals reversed with yields. Spot gold is +1.2% at ≈$4,150 (Dec ≈$4,174) after Wednesday's settle of $4,108.60, helped by a Bloomberg report that China is buying Treasuries through non-US custodians and by the DXY's slide from 102.9 to ≈102.1. Silver fell 6.1% to $55.88 Wednesday and is back to ≈$56.50. LME copper closed at $14,484.50 (−0.6%), ≈$390 below its September record.",
+    "Oil is easing. Brent is ≈$104.3 (−1.7%) and WTI ≈$94.1 (−1%) after Wednesday's settles of $106.06 and $95.09, on reports that Washington may ease sanctions on some shadow-fleet tankers to cut freight rates. Hormuz risk is still rising: a Singapore-flagged container ship sank after a projectile strike. API showed an 11.1M bbl crude draw, and EIA data comes at 11:00 CT because of the holiday delay."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (futures, yields, FX, metals, oil); index levels are Wed close",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,718.94",
+      "change": "−1.11%",
+      "dir": "down",
+      "note": "Wed close, worst day since July; ES ≈−0.4% pre-mkt"
+    },
+    {
+      "label": "Dow",
+      "value": "51,621.48",
+      "change": "−0.09%",
+      "dir": "flat",
+      "note": "Wed close; Dow futures ≈+0.4%"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "26,692.87",
+      "change": "−1.88%",
+      "dir": "down",
+      "note": "Wed close; NQ futures ≈−1.2% (≈−380 pts)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,729.53",
+      "change": "−1.93%",
+      "dir": "down",
+      "note": "Wed close; RTY futures ≈+0.3% (Reuters)"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.74%",
+      "change": "−6 bp",
+      "dir": "down",
+      "note": "CNBC; Wed close 4.81%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.10%",
+      "change": "−9 bp",
+      "dir": "down",
+      "note": "Three-week low; Wed close 5.19%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.44%",
+      "change": "−8 bp",
+      "dir": "down",
+      "note": "CNBC; Wed close 5.52%"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct 28 hike ≈30–37%",
+      "dir": "flat",
+      "note": "Wed late FedWatch/FNN reads; Dec ≈90%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.1",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Off Wed's 18-month high ≈102.9"
+    },
+    {
+      "label": "WTI crude",
+      "value": "≈$94.1",
+      "change": "≈−1.1%",
+      "dir": "down",
+      "note": "Wed settle $95.09"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$104.3",
+      "change": "≈−1.7%",
+      "dir": "down",
+      "note": "Wed settle $106.06"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,150",
+      "change": "≈+1.2%",
+      "dir": "up",
+      "note": "Dec fut ≈$4,174; Wed Dec settle $4,108.60"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$56.50",
+      "change": "≈+1.5%",
+      "dir": "up",
+      "note": "Dec fell 6.1% to $55.88 Wed"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "$14,484.50/t",
+      "change": "−0.6%",
+      "dir": "down",
+      "note": "Wed close; record $14,875 (Sep)"
+    },
+    {
+      "label": "VIX",
+      "value": "16.87",
+      "change": "+10.5%",
+      "dir": "up",
+      "note": "Wed close; SKEW 157, a 60-session high"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Out",
+      "event": "PNC & U.S. Bancorp Q3; TSMC Q3",
+      "consensus": "PNC $4.91 / $6.61B; USB $1.32 / $8.00B",
+      "prior": "PNC Q2 $4.85",
+      "why": "Both regionals beat on EPS and missed slightly on revenue. PNC's loans +17% y/y show C&I demand is alive, and charge-offs +44% y/y are the line to watch. USB's call is at 8:00 CT."
+    },
+    {
+      "time": "Pre-open",
+      "event": "Charles Schwab Q3; also Prologis, Freeport-McMoRan",
+      "consensus": "SCHW EPS $1.66 / rev $7.20B",
+      "prior": "—",
+      "why": "Schwab is a read on cash sorting and NII at 5% long rates. FCX is a direct copper read with El Teniente and Centinela disrupted."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "PPI (Sep)",
+      "consensus": "+0.5% m/m; core +0.3%",
+      "prior": "+0.4%; core +0.2%",
+      "why": "Some surveys say +0.6% headline. After a 0.3% core CPI, the PPI components that feed core PCE decide whether Oct hike odds climb back toward 50%."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Retail sales (Sep)",
+      "consensus": "+0.3% m/m; ex-autos +0.5%; control (ex-autos & gas) +0.2%",
+      "prior": "+1.2% (TD: +1.1%); ex-autos +1.4%",
+      "why": "After August's surge, a firm print supports Goolsbee's overheating worry. A miss would let the flight to quality run."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial jobless claims; Empire State & Philly Fed (Oct)",
+      "consensus": "Claims 195K; Empire —; Philly —",
+      "prior": "Claims 197K; Empire 7.6",
+      "why": "Claims below 200K keep the labor market from giving the Fed cover to wait."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "4-week ($110B) and 8-week ($105B) bill auctions; 20Y & 5Y TIPS sizes announced",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Large bill supply sits next to SOFR at 3.89%. The 20Y reopening (Oct 21) and 5Y TIPS (Oct 22) sizes set next week's duration supply."
+    },
+    {
+      "time": "11:00 AM",
+      "event": "EIA weekly petroleum status (holiday-delayed)",
+      "consensus": "—",
+      "prior": "API: crude −11.1M bbl, Cushing +1.8M",
+      "why": "Confirms or refutes the API draw. The SPR at 283M bbl is the lowest since 1982."
+    },
+    {
+      "time": "Afternoon / 10:30 PM",
+      "event": "Fed's Hammack (time unconfirmed); Chair Warsh at IMF in Bangkok, 10:30 PM CT",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Warsh gets the last word before the Oct 17 blackout. Any validation of an October move would reprice the 2Y overnight."
+    },
+    {
+      "time": "Fri Oct 16",
+      "event": "Truist Q3; monthly options expiration",
+      "consensus": "TFC EPS ≈$1.12–1.17",
+      "prior": "—",
+      "why": "Opex comes with SKEW at 157 and VIX1D jumping, so dealer hedging can exaggerate moves."
+    },
+    {
+      "time": "Next FOMC",
+      "event": "FOMC decision Wed Oct 28",
+      "consensus": "Hike ≈30–37%; hold ≈63–70% (Wed late)",
+      "prior": "3.75–4.00%",
+      "why": "Blackout starts Sat Oct 17. CME and Northern Trust report Oct 21."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "CPI spike fades as the tech rout bids duration",
+        "body": "The 10Y hit ≈5.33% after CPI but closed at 5.19% (−2 bp), and it is ≈5.10% this morning, a three-week low. The 2Y round-tripped from ≈4.94% intraday to a 4.81% close and is now 4.74%. Saxo and Newsquawk attribute the reversal to safe-haven buying and stretched shorts covering as AI stocks broke.",
+        "simple": "A Treasury yield is the interest the government pays to borrow, and it moves opposite to the bond's price. Hot inflation first pushed yields up because traders expected more Fed hikes, then a stock-market scare sent investors running into Treasuries, which pulled yields back down. For borrowers, lower long yields mean slightly cheaper mortgages and corporate loans, at least for now.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html"
+      },
+      {
+        "title": "Fed path: October back to a minority view, December near-locked",
+        "body": "Oct 28 hike odds swung from >50% intraday Wednesday to ≈30–37% late (FXStreet 31.6%, FNN 37.1%), while December is ≈90%. Commerzbank counts ≈29 bp of hikes by end-2026 and ≈75 bp by end-2027. Goolsbee called CPI 'discouraging' but wants more data, and Bowman and Daly signalled no rush.",
+        "simple": "Futures markets let traders bet on where the Fed's policy rate will be, and the prices tell you the odds of a hike at each meeting. Fed officials sounded worried about inflation but not ready to act in two weeks, so traders pushed the next hike out to December. That matters because the Fed's rate sets what banks pay on deposits and charge on floating-rate loans.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/gold-rebounds-as-global-equity-sell-off-weigh-on-treasury-yields-202610151104"
+      },
+      {
+        "title": "Global yields follow Treasuries lower",
+        "body": "The Bund 10Y fell ≈6–9 bp to ≈3.38–3.40%, its lowest since Sep 9, and the JGB 10Y dropped ≈5 bp to ≈2.93%, a one-month low. Gilts are lower across the curve. As of Oct 9, the 10Y TIPS real yield was ≈2.87–2.91%, 10Y breakevens 2.33% and the Fed's 10Y term premium ≈1.08%, so most of the 5%+ 10Y is real yield and term premium rather than expected inflation.",
+        "simple": "Government bond markets around the world move together because big investors can shift money between them. A 'real yield' is what a bond pays after inflation, and 'term premium' is the extra pay investors demand for locking money up for years. With both high, long-term borrowing is expensive mainly because investors want compensation for risk, not because they expect runaway inflation.",
+        "source": "Finimize",
+        "url": "https://finimize.com/content/bund-yields-fell-as-ai-trade-got-a-reality-check"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Vol reprices at the front of the curve",
+        "body": "The VIX closed at 16.87 (+10.5%), and VIX1D jumped 31.6% to 14.11, but the term structure stayed in contango with VIX3M at 18.79. SKEW hit 157.3, a 60-session high, and VVIX was 94.5. Saxo's read: front-end vol repriced while longer-dated vol held, so traders are buying crash protection for days, not months.",
+        "simple": "The VIX measures how much traders pay for options that protect against S&P 500 swings. 'Contango' means longer-dated protection still costs more than short-dated, a sign the market sees this as a near-term scare rather than a crisis. A high SKEW reading means people are paying up specifically for insurance against a sharp drop.",
+        "source": "Saxo",
+        "url": "https://www.home.saxo/en-gb/content/articles/options/front-end-reprices-long-end-holds---options-brief---15-october-2026-15102026"
+      },
+      {
+        "title": "AI credit stress shows up in CDS",
+        "body": "CoreWeave's credit default swaps widened from >600 bp Wednesday to >1,000 bp early today, and its 2032 bonds yield above 15% after a 15% stock drop. That is the derivatives market pricing real default risk in the AI data-center build-out, which runs heavily on debt, and it helped drive the duration bid in Treasury futures.",
+        "simple": "A credit default swap (CDS) is insurance against a company not paying its debts. 1,000 bp means paying about 10% of the debt's value each year for that insurance, a level usually seen at distressed borrowers. When lenders get nervous about a company tied to the AI boom, banks and bond investors who funded data centers start re-checking their exposure.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/commodities-news/morning-bid-coreweave-unravels-4951097"
+      },
+      {
+        "title": "CME's record quarter sets up Oct 21 earnings; ICE moves on livestock",
+        "body": "CME posted record September ADV of 31.8M contracts (+22% y/y) and a record Q3 of 29.4M (+16%), with interest-rate products at records. BrokerTec set a single-day record of $1.261T on Sep 30. ICE plans to list live cattle, feeder cattle and lean hog futures from Dec 7, pending approval, which challenges a CME franchise.",
+        "simple": "CME Group runs the Chicago exchange where traders buy and sell futures, contracts to trade something later at a price fixed now. Volatile rates mean more hedging, and CME earns a fee on every contract. ICE launching rival livestock contracts tests whether CME's long hold on that market is as secure as it looks.",
+        "source": "CME Group",
+        "url": "https://investor.cmegroup.com/news-releases/news-release-details/cme-group-reports-record-average-daily-volume-september-and-q3"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold rebounds above $4,150 as yields and the dollar retreat",
+        "body": "Spot gold is ≈$4,150–4,159 (+1.2%) and Dec futures ≈$4,174 (+1.6%), recovering from a $4,073 one-week low Wednesday and a Dec settle of $4,108.60 (−1.6%). The drivers are the 10Y's ≈9 bp drop, a DXY back to ≈102.1, and a Bloomberg report that China is buying Treasuries via non-US custodians, which pushed Canada's holdings to nearly $600B.",
+        "simple": "Gold pays no interest, so it gets more attractive when bond yields fall and when the dollar weakens, which makes gold cheaper for foreign buyers. Both happened overnight, undoing Wednesday's inflation-driven selloff. For banks with precious-metals desks, swings like this drive client hedging and trading revenue.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-rebounds-firmly-as-china-treasuries-buying-report-smashes-us-yields-202610150401"
+      },
+      {
+        "title": "Silver and platinum took the bigger hit",
+        "body": "Dec silver fell 6.1% to $55.88 Wednesday and is ≈$56.50 (+1.5%) now. Platinum fell ≈3.5% to $1,604, a 10-week low. The industrial-heavy metals fell hardest because hike fears and the AI-equity rout hit growth expectations on top of the dollar move.",
+        "simple": "Silver and platinum are used heavily in factories and electronics as well as for investment, so they swing more than gold when growth worries rise. A 6% one-day drop is large for a commodity. It shows how fast leveraged positions get flushed out when interest-rate expectations jump.",
+        "source": "FXStreet",
+        "url": "https://fxstreet.com/news/silver-price-forecast-xag-usd-recovers-to-near-5650-amid-weakness-in-usd-bond-yields-202610150816"
+      },
+      {
+        "title": "Copper slips from near-record as the dollar peaks; supply risk persists",
+        "body": "LME 3M closed at $14,484.50/t (−0.6%) Wednesday after touching $14,700, ≈$390 below September's $14,875 record, and aluminium broke below $3,000. LME stocks are 232,275 t. Codelco's El Teniente is partly suspended after a fatal landslide, and a strike at Antofagasta's Centinela adds risk. Central-bank demand underpins gold: the PBOC bought ≈21 t in September, its 23rd straight monthly purchase.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price tracks both economic growth and mine supply. Prices dipped because a strong dollar makes metals pricier for most buyers, but problems at big Chilean mines keep supply tight. Freeport-McMoRan reports today and will show how miners are handling it.",
+        "source": "SMM (Shanghai Metals Market)",
+        "url": "https://news.metal.com/newscontent/104160163-copper-retreats-06-as-dollar-hits-18-month-high-aluminium-breaks-below-3000-usdtonne"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "PNC: EPS beat on loan growth, charge-offs climbing",
+      "body": "Adjusted EPS was $5.09 ($4.97 reported) vs $4.91, and revenue $6.56B vs $6.61B. NII was $4.2B (+$99M q/q), while fees fell 6% q/q to $2.1B after a strong Q2 in capital markets. Average loans rose 17% y/y on C&I, the efficiency ratio was 57%, and net charge-offs were $257M (+44% y/y).",
+      "simple": "PNC is a big Pittsburgh-based regional bank, and it makes most of its money from net interest income (the gap between what it earns on loans and pays on deposits). Businesses are borrowing a lot more, which grows that income. The rising loan losses (charge-offs) are the early warning to watch if the economy slows under higher rates.",
+      "source": "PNC investor relations",
+      "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
+    },
+    {
+      "title": "U.S. Bancorp edges past on EPS with BTIG in the numbers",
+      "body": "EPS was $1.34 vs $1.32, and net revenue $7.97B (+8.7%) vs $8.01B expected, including the BTIG acquisition. NII was $4.47B with a NIM of 2.84%. The provision was $654M and CET1 10.80%, with efficiency at 55.9%.",
+      "simple": "Net interest margin (NIM) is the bank's profit spread on its loans and deposits, expressed as a percentage. CET1 is the core capital cushion regulators require to absorb losses, so a higher number means a safer bank. USB is buying a trading firm, BTIG, to earn more fee income that doesn't depend on interest rates.",
+      "source": "StockTitan (company release)",
+      "url": "https://www.stocktitan.net/news/USB/u-s-bancorp-reports-third-quarter-2026-mav3q4qx6n2p.html"
+    },
+    {
+      "title": "BAC fine: OCC's largest ever, with no end date on the order",
+      "body": "BAC fell ≈5% Wednesday (low $49.44) on adjusted EPS of $1.08 vs $1.10, after a $1.2B AML/sanctions penalty that cost 17¢. The OCC's $750M share is its largest ever, and it covers more than $5B of unreported suspicious transactions. The consent order has no termination date, and bank stocks (BKX) are ≈12% off their mid-August high.",
+      "simple": "Anti-money-laundering (AML) rules require banks to flag suspicious transfers to the government. Bank of America failed to report billions of dollars of them and is being fined heavily. An open-ended order means regulators will keep watching closely, which can slow the bank's growth plans and raise its compliance costs.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+    },
+    {
+      "title": "Deals: Bumble take-private, Galderma–ZO, IonQ–Elisity",
+      "body": "Ithaca Holdings is taking Bumble private for $1.3B in cash at $6.05/share, a ≈138% premium. Galderma agreed to buy ZO Skin Health from Blackstone at a $1.5B enterprise value (via the WSJ). Separately, IonQ is buying Elisity for up to $1.3B. We found no new bank M&A in the past 48h; the last was TowneBank buying blueharbor for ≈$154M on Oct 6.",
+      "simple": "M&A (mergers and acquisitions) is when companies buy each other, and investment banks earn advisory fees and lend money to finance the deals. A 'take-private' means a buyer purchases all public shares so the company stops trading on the stock market. Steady mid-size deals keep bank fee income flowing even when markets are shaky.",
+      "source": "SEC filing (Bumble 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm"
+    },
+    {
+      "title": "IPO window: small deals only, Anthropic looms",
+      "body": "Amaero priced a downsized IPO at $4.25, and BioVentrix pulled its $17M deal. City Therapeutics (≈$175M) and Iambic (≈$150M) are on the calendar, and US IPOs year to date total 115. Per a Reuters digest of the NYT, Anthropic's Q3 revenue rose ≈45% q/q to ≈$16.8B ahead of what could be the largest IPO ever.",
+      "simple": "An IPO (initial public offering) is when a company first sells shares to the public, with banks underwriting (guaranteeing and selling) the deal for a fee. In shaky markets, smaller IPOs get cut or pulled. A giant listing like Anthropic would be a large fee event for whichever banks lead it.",
+      "source": "Renaissance Capital",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "AI-chip rout erases more than $1T this week",
+        "body": "The 20 biggest AI/semiconductor names have lost more than $1T this week on rate and AI-funding worries. SK Hynix fell >10%, Samsung 8.7% and SoftBank 7.9%, and pre-market Nvidia was −1.8%, Micron −4.4% and AMD −3.5%.",
+        "simple": "Investors have spent heavily on companies tied to artificial intelligence, often with borrowed money. Higher interest rates make that debt costlier and future profits worth less today, so the stocks are being sold hard. Since these companies are a large share of major indexes, their slide drags down many retirement accounts.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+      },
+      {
+        "title": "Ship sinks near Hormuz; oil still eases",
+        "body": "The Singapore-flagged GFS Pride sank after an unidentified projectile hit it, and all 21 crew escaped. A second ship was damaged. Dec Brent still fell ≈1.7% to ≈$104.3 and Nov WTI ≈1.1% to ≈$94.05, and the IEA warned that diesel will stay tight into next year.",
+        "simple": "The Strait of Hormuz is a narrow channel that carries about a fifth of the world's oil. Attacks there raise the risk premium (the extra price for possible disruption), but reports that the US may relax some sanctions to free up tankers pushed prices down today. Diesel shortages matter because trucking and farming run on it, so they feed into food and goods prices.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html"
+      },
+      {
+        "title": "Nasdaq futures slide while the Dow holds up",
+        "body": "Pre-market, NQ futures were ≈−1.1–1.3%, ES ≈−0.3–0.4% and Dow futures ≈+0.3–0.4%. That follows the S&P's −1.11% (7,718.94) and the Nasdaq's −1.88% (26,692.87) Wednesday, the worst day since July.",
+        "simple": "Futures trade before the stock market opens and show where prices are likely to start. The tech-heavy Nasdaq is under pressure, while the Dow, heavier in banks and industrial companies, is holding up. That gap shows money moving out of AI bets into steadier businesses.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Dollar backs off 18-month high as Fed officials cool October talk",
+        "body": "The DXY slipped to ≈102.1 from ≈102.9 as yields fell. Bowman and Daly said the Fed can wait for more data before Oct 27–28. Reuters had put 'no change' at ≈49% right after CPI, vs 81% before it.",
+        "simple": "The dollar index measures the dollar against major currencies, and it tends to rise when US interest rates are expected to climb. Fed officials hinted they aren't in a hurry, so the dollar gave back some gains. A softer dollar helps US exporters and makes commodities like gold cheaper for buyers abroad.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/dollar-falls-from-18-month-high-despite-hot-cpi-as-fed-curb-hike-bets.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Netflix cuts ≈1,000 jobs, ≈6% of staff",
+        "body": "These are Netflix's biggest cuts since 2022, mostly in product, technology, legal and HR. The WSJ ties them to slower growth and softer engagement.",
+        "simple": "Layoffs at a profitable tech company signal that management expects slower growth and wants to protect margins (the profit kept from each dollar of sales). It's part of a broader pattern of big companies trimming staff while spending heavily on AI.",
+        "source": "Reuters digest of WSJ (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-15-octobre-9baa430db2dc59d320b4703bffdbc169"
+      },
+      {
+        "title": "Japan to fund up to $21B of GlobalFoundries fabs in New York",
+        "body": "Japan will put up to $21B toward two GlobalFoundries chip plants in New York State, to be jointly owned by US and Japanese interests. GFS rose ≈4.8% to $48.94.",
+        "simple": "A 'fab' is a chip factory, and governments are paying to build them at home so they aren't dependent on Asia for chips. Japan funding plants in the US is part of trade-and-investment deals between the two countries. Projects this size need large bank loans and bond deals.",
+        "source": "Reuters digest of WSJ (Zonebourse)",
+        "url": "https://www.zonebourse.com/actualite-bourse/revue-de-presse-wall-street-journal-15-octobre-ce785dd3d88bf220"
+      },
+      {
+        "title": "AEP plans ≈$4B fuel-cell plant to power Google",
+        "body": "American Electric Power plans ≈$4B of fuel-cell generation in Wyoming, backed by a 20-year power purchase agreement with Google.",
+        "simple": "AI data centers need huge amounts of electricity, so tech companies are signing long-term contracts directly with utilities. A 20-year contract makes the project easy to finance with debt, which is steady business for commercial and project-finance banks.",
+        "source": "Reuters digest of WSJ (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-15-octobre-9baa430db2dc59d320b4703bffdbc169"
+      },
+      {
+        "title": "Galderma buys ZO Skin Health from Blackstone",
+        "body": "Galderma agreed to acquire ZO Skin Health from Blackstone at a $1.5B enterprise value.",
+        "simple": "Private-equity firms like Blackstone buy companies, improve them and then sell them, and this is one of those exits. Enterprise value is the total price including the company's debt. Sales like this return cash to private-equity investors, who then fund new deals that banks help finance.",
+        "source": "Reuters digest of WSJ (Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-15-octobre-9baa430db2dc59d320b4703bffdbc169"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Rush and Endeavor Health plan to merge into Chicago's largest system",
+        "body": "The combined system would have 12 hospitals, 400+ sites, 46,000+ staff and over 2M patients a year under the Rush name, led by Endeavor CEO J.P. Gallagher. Endeavor commits $1B ($300M community, $500M academics/research, $200M quality). The deal needs regulatory approval and targets an early-2027 close.",
+        "simple": "Hospital systems merge to cut costs and gain bargaining power with insurers. Regulators check whether the merger would push up prices for patients. A deal this size usually brings bond refinancing and advisory work for banks.",
+        "source": "Chicago Sun-Times (Tribune not accessible)",
+        "url": "https://chicago.suntimes.com/health/2026/10/14/endeavor-health-rush-announce-proposed-merged-healthcare-system"
+      },
+      {
+        "title": "Chicago Fed's Goolsbee: September CPI was 'discouraging'",
+        "body": "Goolsbee flagged services inflation and demand overheating tied to AI capex as concerns, but he isn't yet backing a hike and wants more data before Oct 27–28.",
+        "simple": "Goolsbee runs the Chicago Fed and votes on interest rates. He is saying inflation is a problem but he won't commit to raising rates yet. Markets read comments like his to guess what the Fed will do in two weeks.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/feds-goolsbee-says-september-cpi-data-was-discouraging--yahoo-finance-4949896"
+      },
+      {
+        "title": "Council falls one vote short of overriding Johnson's borrowing veto",
+        "body": "The override failed by one vote, a week before Mayor Johnson presents his plan to close an $882M 2027 budget gap.",
+        "simple": "Chicago borrows by selling municipal bonds, and how it handles its budget hole affects its credit rating (a grade for how likely it is to repay). A lower rating means higher interest costs for the city, which taxpayers pay. Muni investors and underwriting banks watch these fights closely.",
+        "source": "Crain's Chicago Business",
+        "url": "https://chicagobusiness.com/politics-policy/ccb-brandon-johnson-city-council-veto-override-20261014"
+      },
+      {
+        "title": "ICE takes aim at CME's livestock futures",
+        "body": "ICE plans to launch live cattle, feeder cattle and lean hog futures, targeting Dec 7 pending regulatory approval, in a direct challenge to CME's long-held dominance (reported Oct 13).",
+        "simple": "Ranchers and meatpackers use livestock futures to lock in prices and protect against swings. CME has owned this market for decades. A rival could pressure CME's fees, though traders usually stick with the exchange that already has the most activity.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-cme-ice-nyse-cattle-futures-20261013/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Anthropic's Q3 revenue ≈$16.8B ahead of possible record IPO",
+        "body": "The NYT reports Anthropic's Q3 revenue rose ≈45% q/q to ≈$16.8B, ahead of what could be the biggest IPO on record.",
+        "simple": "Anthropic builds AI models and is growing revenue very fast. If it goes public, the banks running the IPO would earn large fees, and it would test whether investors still want AI exposure after this week's selloff.",
+        "source": "Reuters digest of NYT (Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-15-octobre-05d9d3af59913d7d1b7ceb359b596956"
+      },
+      {
+        "title": "Iran escalates attacks on shipping near Hormuz",
+        "body": "Attacks on vessels near the Strait last week nearly matched all of September's total, and a container ship sank off Oman.",
+        "simple": "More attacks make shipping through the Gulf riskier and pricier, which raises insurance and freight costs and eventually what people pay for fuel. That is why oil stays above $100 despite talk of easing sanctions.",
+        "source": "Reuters digest of NYT (Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-15-octobre-05d9d3af59913d7d1b7ceb359b596956"
+      },
+      {
+        "title": "Senate Finance probes Meta's $6.6B in R&D tax credits",
+        "body": "Senators are questioning Meta's use of federal research tax credits, which total $6.6B over two years and may have cut its tax bill.",
+        "simple": "The R&D tax credit lowers taxes for companies that spend on research. Lawmakers want to know whether Meta's claims stretched the rules. Any tightening could raise effective tax rates across Big Tech.",
+        "source": "Reuters digest of NYT (Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-15-octobre-05d9d3af59913d7d1b7ceb359b596956"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Inflation shock vs flight to quality",
+      "point": "In 24 hours the 10Y went from 5.19% to a 5.33% intraday high on core CPI of 0.3%, then to ≈5.10% as AI credit cracked (CoreWeave CDS >1,000 bp). The front end is pricing ≈29 bp of hikes by end-2026 even as the long end rallies. Question for a rates trader: when the inflation and risk-off signals point opposite ways, do you fade the long-end rally into PPI, or position for a bull steepener on the view that credit stress ends the hiking cycle?"
+    },
+    {
+      "topic": "Regional NII is working, but watch credit",
+      "point": "PNC grew average loans 17% y/y with NII up $99M q/q, and USB holds a 2.84% NIM, while big-bank FICC missed at JPM, BAC and MS. But PNC's charge-offs rose 44% y/y. For a commercial-banking interview: with C&I demand this strong at 5%+ long rates, how much is AI/data-center capex financing, and how is the bank pricing that concentration now that CoreWeave's CDS trades like a distressed name?"
+    },
+    {
+      "topic": "Gold's tug of war: real yields vs official buying",
+      "point": "Gold fell to $4,073 on CPI and the dollar, then rebounded to ≈$4,150 as the 10Y dropped 9 bp, with the PBOC on its 23rd straight month of buying (≈21 t in September) and global ETFs taking a record $31B in Q3. Silver fell 6.1% in one day. For a metals desk: is the gold–real-yield link back in charge, or does central-bank buying put a floor under gold that makes selling downside puts (low strikes) the better trade?"
+    }
+  ],
+  "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible, and several research tools could not open pages directly. WSJ and NYT items come from Reuters' French-language press digests (Boursorama/Zonebourse), and the Chicago bucket uses the Sun-Times, Crain's and Reuters. Most figures are drawn from search-result excerpts, and pre-market levels are approximate with snapshot times varying. Yesterday's Close update showed intraday-spike yields; this brief uses CNBC/Forbes closes. Oct 28 hike odds vary widely by snapshot (≈30–48%). Consensus for PPI headline conflicts (+0.5% vs +0.6%), and Empire/Philly consensus was not found. The MOVE index, palladium and a live copper quote were not confirmed, and real-yield/term-premium figures are as of Oct 9.",
+  "updates": []
+}
