@@ -11,105 +11,105 @@
     "Metals reversed with yields. Spot gold is +1.2% at ≈$4,150 (Dec ≈$4,174) after Wednesday's settle of $4,108.60, helped by a Bloomberg report that China is buying Treasuries through non-US custodians and by the DXY's slide from 102.9 to ≈102.1. Silver fell 6.1% to $55.88 Wednesday and is back to ≈$56.50. LME copper closed at $14,484.50 (−0.6%), ≈$390 below its September record.",
     "Oil is easing. Brent is ≈$104.3 (−1.7%) and WTI ≈$94.1 (−1%) after Wednesday's settles of $106.06 and $95.09, on reports that Washington may ease sanctions on some shadow-fleet tankers to cut freight rates. Hormuz risk is still rising: a Singapore-flagged container ship sank after a projectile strike. API showed an 11.1M bbl crude draw, and EIA data comes at 11:00 CT because of the holiday delay."
   ],
-  "markets_asof": "≈9:15 AM CT (early session; some tiles are pre-market, see notes)",
+  "markets_asof": "≈11:00 AM–12:15 PM CT (intraday snapshots; see notes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,696",
-      "change": "≈−0.3%",
-      "dir": "down",
-      "note": "Early session (Yahoo Finance); Wed close 7,718.94"
+      "value": "≈7,728",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Yahoo Finance live blog, late morning; Wed close 7,718.94"
     },
     {
       "label": "Dow",
-      "value": "≈51,930",
-      "change": "≈+0.6%",
+      "value": "≈52,070",
+      "change": "≈+0.9%",
       "dir": "up",
-      "note": "Early session; rotation into value and defensives"
+      "note": "≈+440 pts at noon ET (24/7 Wall St)"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,480",
-      "change": "≈−0.8%",
+      "value": "≈26,609",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "Early session; chips and CoreWeave (≈−14%) still leading lower"
+      "note": "Yahoo; 24/7 Wall St had −1.1% at noon ET"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,734",
-      "change": "≈+0.2%",
+      "value": "—",
+      "change": "≈+0.7%",
       "dir": "up",
-      "note": "Pre-market futures read (Benzinga); no confirmed open print"
+      "note": "IWM ETF move midday; no index print found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.75%",
-      "change": "≈−6 bp",
+      "value": "≈4.76%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "CNBC post-PPI; Wed close 4.81%"
+      "note": "CNBC; Wed close 4.81%"
     },
     {
       "label": "UST 10Y",
       "value": "≈5.08%",
-      "change": "≈−11 bp",
+      "change": "≈−10 bp",
       "dir": "down",
-      "note": "CNBC post-PPI (5.07–5.09%); lowest since late Sep"
+      "note": "CNBC/Reuters range 5.06–5.09%; biggest daily drop since Aug 2025"
     },
     {
       "label": "UST 30Y",
-      "value": "5.44%",
-      "change": "−8 bp",
+      "value": "≈5.43%",
+      "change": "≈−9 bp",
       "dir": "down",
-      "note": "Pre-data CNBC read; no fresh post-data print found"
+      "note": "CNBC"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct 28 hike ≈31%",
       "dir": "flat",
-      "note": "Odds barely moved despite the hot PPI (CNBC)"
+      "note": "Morning FedWatch read; no fresh midday print. Bills stopped at 4.00–4.05%"
     },
     {
       "label": "Dollar index",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Feeds conflict (≈102.1 pre-mkt vs an undated 102.6); no reliable post-data print"
+      "note": "Wed hit 102.90 (FXStreet); no reliable Thu print"
     },
     {
       "label": "WTI crude",
-      "value": "≈$94.77",
-      "change": "≈−0.3%",
-      "dir": "down",
-      "note": "Early NY session (FXStreet); Wed settle $95.09"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable midday print; ≈$94.8 early session, Wed settle ≈$95"
     },
     {
       "label": "Brent",
-      "value": "≈$104.3",
-      "change": "≈−1.7%",
-      "dir": "down",
-      "note": "Pre-market read; no fresh post-data print found"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable midday print"
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,144.60",
-      "change": "Recouped CPI loss",
+      "value": "≈$4,156",
+      "change": "≈+1.3%",
       "dir": "up",
-      "note": "Kitco 8:53 AM ET; ≈$4,148 at 8:08 AM CT"
+      "note": "Kitco; day range $4,099–4,169"
     },
     {
-      "label": "Silver (spot)",
-      "value": "≈$56.70",
-      "change": "≈+1.9%",
+      "label": "Silver (COMEX)",
+      "value": "≈$57.25",
+      "change": "≈+2.5%",
       "dir": "up",
-      "note": "After Wed's 6% drop"
+      "note": "Comex Live snapshot"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.48/lb",
-      "change": "≈−0.7%",
+      "value": "≈$6.57/lb",
+      "change": "≈−1.4%",
       "dir": "down",
-      "note": "Spot quote; LME Wed close $14,484.50/t"
+      "note": "Comex Live snapshot"
     }
   ],
   "calendar": [
@@ -424,6 +424,57 @@
   "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible, and several research tools could not open pages directly. WSJ and NYT items come from Reuters' French-language press digests (Boursorama/Zonebourse), and the Chicago bucket uses the Sun-Times, Crain's and Reuters. Most figures are drawn from search-result excerpts, and pre-market levels are approximate with snapshot times varying. Yesterday's Close update showed intraday-spike yields; this brief uses CNBC/Forbes closes. Oct 28 hike odds vary widely by snapshot (≈30–48%). Consensus for PPI headline conflicts (+0.5% vs +0.6%), and Empire/Philly consensus was not found. The MOVE index, palladium and a live copper quote were not confirmed, and real-yield/term-premium figures are as of Oct 9.",
   "updates": [
     {
+      "at": "2026-10-15T17:17:27Z",
+      "label": "Midday",
+      "headline": "At midday the rotation is holding. The 10Y is near 5.08% (≈−10 bp) and the Dow is up ≈0.9%, but CoreWeave hit a new low and tech lags, so the market is still trading AI credit rather than the 6.3% PPI.",
+      "points": [
+        "Stocks ≈11:00–11:15 CT: Dow ≈52,070 (+0.9%), S&P ≈7,728 (+0.1%), Nasdaq ≈26,609 (−0.3%; 24/7 Wall St had it −1.1% at noon ET). XLF is +0.85% and IWM +0.7%: money is moving out of AI/chips into banks, value and small caps. The S&P has recovered from the ≈−0.3% early dip.",
+        "Rates: the 10Y is ≈5.07–5.09% and the 30Y ≈5.43%, per CNBC/Reuters. That puts the 10Y on track for its biggest one-day drop since Aug 2025. The 2Y is ≈4.76% (−5 bp), so the curve is bull-flattening (long yields falling faster): 2s10s ≈32 bp vs ≈37 bp at Wed close. Bills: the 4-wk stopped at 4.000% (BTC 2.56) and the 8-wk at 4.050% (BTC 2.26), per an aggregator, not yet verified with Treasury. Both are at or above the 4.00% top of the funds range, so the bill market is still pricing hike risk for Oct 28/Dec 9.",
+        "AI credit: CoreWeave is ≈−9% at ≈$59.8, below its $60.56 prior 52-week low, for a 4th straight loss. Mizuho cut its target to $88 from $115. The company has ≈$50B of debt, and its 2031/2032 notes yielded ≈14.8–14.9% on Wed.",
+        "Metals: gold is ≈$4,154–4,159 (+1.2–1.3%; Kitco day range $4,099–4,169) as real yields fall. Silver is ≈$57.25 (+2.5%), which has now made back about 40% of Wed's 6% drop. COMEX copper is ≈$6.57/lb (−1.4%), pressured by hot inflation data and the preliminary Escondida deal that averts a strike.",
+        "Banks: USB beat on EPS ($1.34 vs $1.32) but revenue was $7.97B vs $7.99B. It raised FY26 revenue and operating-leverage guidance and sees net interest margin (NIM) heading toward 3% in 2027. Correction to the calendar: FCX's full Q3 report is Oct 27, not today (its Oct 2 update already showed ≈830M lb of copper). EIA crude: one feed shows −8.6M bbl vs −0.2M expected. That is unconfirmed, and there is no reliable fresh WTI/Brent print."
+      ],
+      "simple": "Investors are selling AI and chip stocks, worried that heavily indebted AI companies like CoreWeave can't keep borrowing at high rates. They are putting the money into Treasuries and \"boring\" stocks like banks and industrials instead. That buying pushes Treasury yields (the interest a bond pays) down, which helps gold, because gold pays no interest and looks better when bonds pay less. Short-term Treasury bills still pay above the Fed's current range, though, so traders haven't ruled out a Fed rate hike this month.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html"
+        },
+        {
+          "name": "The Globe and Mail (Reuters)",
+          "url": "https://www.theglobeandmail.com/investing/article-us-treasury-yields-fall-sharply-on-ai-jitters/"
+        },
+        {
+          "name": "24/7 Wall St",
+          "url": "https://247wallst.com/cards/the-flat-s-p-500-is-hiding-a-rotation-the-dow-is-up-442-poi-gspc-market-bell-01m504tyjxvvj2gcbbvf6re9tm"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/copy-stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-122056767.html"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-10-15/gold-price-hits-4154oz-after-retail-sales-rise-08-september"
+        },
+        {
+          "name": "Schaeffer's",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/10/15/coreweave-stock-extends-slide-as-ai-debt-fears-mount"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/earnings/us-bancorp-earnings-beat-by-002-revenue-fell-short-of-estimates-4951167"
+        },
+        {
+          "name": "Rallies (bill auctions)",
+          "url": "https://rallies.ai/news/us-4-week-bills-high-rate-4000-5381ad6d012bf8cf"
+        },
+        {
+          "name": "Mining.com",
+          "url": "https://mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table"
+        }
+      ]
+    },
+    {
       "at": "2026-10-15T14:18:41Z",
       "label": "Post-open",
       "headline": "September PPI blew out (+1.3% m/m, core +0.7%) and retail sales beat (+0.8%), yet the AI-credit flight to quality wins: the 10Y is still ≈11 bp lower at ≈5.08% and October hike odds are stuck near 31%.",
@@ -467,5 +518,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T14:18:41Z"
+  "updatedAt": "2026-10-15T17:17:27Z"
 }
