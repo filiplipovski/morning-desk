@@ -10,108 +10,112 @@
     "Equities: ES is ≈+0.2%, Dow futures +145 pts and NQ ≈−0.2% (Invezz). That follows Thursday's Dow +1.08%, Russell +1.38% and Nasdaq flat. The rotation from AI megacaps into cyclicals and small caps is the trade into monthly opex. VIX is ≈16, but SKEW at 157 (Saxo) shows heavy demand for crash protection.",
     "Commodities: spot gold is ≈$4,180 (+0.2%), on track for a ≈0.2–0.5% weekly dip, but the dollar's first weekly fall in five weeks (DXY ≈102.0) is a tailwind. Silver is ≈$57.9 (+0.8%), and LME copper is $14,462 (+0.8%) after a near two-week low. Brent is ≈$105.5 and WTI ≈$97.6, with WTI up ≈6% on the week as Hormuz flows run at 68% of normal (Kpler) and EIA showed an 8.6M bbl draw."
   ],
-  "markets_asof": "≈9:00 AM CT, post-open (index levels derived from % moves; Russell, 30Y and VIX not refreshed)",
+  "markets_asof": "≈12:15 PM CT, midday (index levels from Yahoo quote panel; yields not freshly printed)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,752",
-      "change": "+0.1%",
-      "dir": "up",
-      "note": "at open; Thu close 7,744.06"
+      "value": "≈7,658",
+      "change": "−1.1%",
+      "dir": "down",
+      "note": "Yahoo panel ≈1:15 PM ET; live text said −0.6%"
     },
     {
       "label": "Dow",
-      "value": "≈52,386",
-      "change": "+0.4%",
-      "dir": "up",
-      "note": "at open; Thu close 52,177.69"
+      "value": "≈51,909",
+      "change": "−0.5%",
+      "dir": "down",
+      "note": "erased a ≈405-pt intraday gain"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,633",
-      "change": "−0.3%",
+      "value": "≈26,183",
+      "change": "−2.0%",
       "dir": "down",
-      "note": "at open; Thu close 26,713.03"
+      "note": "NDX ≈−1.4%; software and chips leading"
     },
     {
       "label": "Russell 2000",
-      "value": "2,767.27",
-      "change": "—",
-      "dir": "flat",
-      "note": "Thu close; no fresh print found"
+      "value": "≈2,730",
+      "change": "−1.3%",
+      "dir": "down",
+      "note": "Thu close 2,767.27"
     },
     {
       "label": "UST 2Y",
       "value": "4.731%",
       "change": "−1 bp",
       "dir": "down",
-      "note": "CNBC; hit ≈4.76% after data"
+      "note": "CNBC; no fresh midday print"
     },
     {
       "label": "UST 10Y",
-      "value": "5.074%",
-      "change": "−1 bp",
-      "dir": "down",
-      "note": "CNBC; briefly 5.119% (+3 bp)"
+      "value": "≈5.07–5.10%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC text 5.074%, its table 5.102%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.42%",
-      "change": "—",
+      "value": "≈5.42–5.45%",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "6:20 AM CT level; not refreshed"
+      "note": "CNBC text 5.422%, its table 5.447%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hold ≈85%",
+      "change": "Oct 28 hold ≈84%",
       "dir": "flat",
-      "note": "CME FedWatch; hike ≈15%"
+      "note": "CME FedWatch via ActionForex; hike ≈16%"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.2",
-      "change": "—",
-      "dir": "flat"
+      "value": "≈101.9",
+      "change": "≈−0.3% vs AM",
+      "dir": "down",
+      "note": "Kitco"
     },
     {
       "label": "WTI crude",
-      "value": "≈$97.6",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Investing.com"
+      "value": "≈$97.1",
+      "change": "≈−0.5% vs AM",
+      "dir": "down",
+      "note": "Kitco"
     },
     {
       "label": "Brent",
-      "value": "≈$105.7",
-      "change": "≈flat",
-      "dir": "flat"
+      "value": "≈$105.3",
+      "change": "≈−0.4% vs AM",
+      "dir": "down",
+      "note": "Kitco"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,185",
-      "change": "+0.35%",
-      "dir": "up"
+      "value": "≈$4,175",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Kitco/Mitrade range $4,172–4,180"
     },
     {
       "label": "Silver (spot)",
       "value": "≈$57.9",
       "change": "≈+0.8%",
-      "dir": "up"
+      "dir": "up",
+      "note": "FXStreet; not refreshed since morning"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.56/lb",
-      "change": "—",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "LME $14,462/t at 0959 GMT"
+      "note": "Investing.com"
     },
     {
       "label": "VIX",
-      "value": "≈16",
+      "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "morning level; not refreshed"
+      "note": "no reliable intraday print found"
     }
   ],
   "calendar": [
@@ -405,6 +409,41 @@
   "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible, and page fetches failed this run, so every figure comes from search-result excerpts. WSJ items use MarketScreener digests and syndicated copies; NYT items come from the Oct 15 print-edition listing. The Chicago bucket uses Crain's, CME and StockTitan in place of the Tribune. Pre-market levels are approximate snapshots (≈5:30–6:20 AM CT). Oct hike odds differ by source (14–17%). The import-price consensus conflicts (+0.8% vs +0.9%). The gilt yield is single-source, and I didn't find a reliable KBW Bank Index reading.",
   "updates": [
     {
+      "at": "2026-10-16T17:17:54Z",
+      "label": "Midday",
+      "headline": "The morning's rotation cracked by midday. The Dow gave back a ≈405-pt gain as a software selloff joined the chip rout, so the S&P is ≈−0.6% to −1.1% and the Nasdaq ≈−1.4% to −2%. Bonds stayed calm: the 10Y is near 5.07–5.10% and Oct 28 hike odds are ≈15–16%.",
+      "points": [
+        "Equities: Yahoo Finance's 1:15 PM ET live post had the S&P ≈−0.6%, the Nasdaq 100 ≈−1.4% and the Dow ≈flat. Its quote panel was worse: S&P 7,657.75 (−1.11%), Dow 51,908.52 (−0.52%), Nasdaq Comp 26,182.78 (−1.98%), Russell 2000 2,730.43 (≈−1.3%). The S&P and Nasdaq are headed for weekly losses, while the Dow is still ≈+1% on the week.",
+        "What's driving it: software. Salesforce, ServiceNow and Atlassian are each down >3%, and 41 of the 45 names in Yahoo's software basket are falling, about $130B of market value gone. Chips are weak again too: Intel and AMD are ≈−3% and Nvidia is +0.4% at $218.10 (24/7 Wall St). Correction to the morning thesis: small caps are not carrying the cyclical rotation today, since the Russell has given back part of Thursday's +1.38%.",
+        "Rates: we found no clean midday Treasury print. CNBC's latest read has the 2Y at 4.731% (−1 bp), the 10Y at 5.074% (−1 bp) and the 30Y at 5.422% (≈flat), though its own data table shows a 10Y at 5.102% and a 30Y at 5.447%, so the long end may be drifting up. CME FedWatch has an Oct 28 hike at ≈16.1% (ActionForex), down from 27.7% Thursday, with a hold at ≈83.9%. That is unchanged since the Post-open update.",
+        "Commodities and FX: gold ≈$4,172–4,180 (Kitco early US trade, Mitrade), silver ≈$57.9, Brent ≈$105.3, WTI ≈$97.1, DXY ≈101.9 (Kitco), so the dollar is extending its first weekly fall in five weeks. The haven bid is going to bonds and gold, not the dollar.",
+        "Banks and deals: we found no new bank M&A today. The Friday regionals (TFC, RF, MTB, CFG) have no clean intraday reads in our searches. Watch whether the bank leg of the rotation survives the risk-off move into opex."
+      ],
+      "simple": "This morning investors were selling tech stocks and buying old-economy names like banks and industrials. By midday they were selling almost everything, led by software companies that sell products to businesses, so even the Dow's early gain disappeared. Bond yields (the interest rate the government pays to borrow) barely moved. That tells you the selling is about worries over AI-related spending and valuations, not about the Fed. Traders still expect the Fed to hold rates steady at its Oct 28 meeting.",
+      "sources": [
+        {
+          "name": "Yahoo Finance live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+        },
+        {
+          "name": "24/7 Wall St (chips)",
+          "url": "https://247wallst.com/investing/2026/10/16/intel-and-amd-drop-3-as-rotation-out-of-ai-chip-stocks-continues-nvidia-holds-steady"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html"
+        },
+        {
+          "name": "ActionForex (FedWatch)",
+          "url": "https://www.actionforex.com/action-insight/market-overview/657759-dollar-extends-slide-as-fed-warsh-refuses-to-revive-october-hike-bets/"
+        },
+        {
+          "name": "The Bold News / Kitco AM report",
+          "url": "https://theboldnews.com/gold-holds-near-4170-as-inflation-keeps-december-fed-tightening-in-play-kitco-am-report/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-16T14:21:37Z",
       "label": "Post-open",
       "headline": "Both second-tier prints ran hot (import prices +1.1% vs +0.8%, IP +0.7% vs +0.4%), but the bond market shrugged: the 10Y briefly hit ≈5.12% then slipped back to ≈5.07%, and Oct 28 hold odds stayed ≈85%.",
@@ -440,5 +479,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T14:21:37Z"
+  "updatedAt": "2026-10-16T17:17:54Z"
 }
