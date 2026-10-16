@@ -10,112 +10,105 @@
     "Equities: ES is ≈+0.2%, Dow futures +145 pts and NQ ≈−0.2% (Invezz). That follows Thursday's Dow +1.08%, Russell +1.38% and Nasdaq flat. The rotation from AI megacaps into cyclicals and small caps is the trade into monthly opex. VIX is ≈16, but SKEW at 157 (Saxo) shows heavy demand for crash protection.",
     "Commodities: spot gold is ≈$4,180 (+0.2%), on track for a ≈0.2–0.5% weekly dip, but the dollar's first weekly fall in five weeks (DXY ≈102.0) is a tailwind. Silver is ≈$57.9 (+0.8%), and LME copper is $14,462 (+0.8%) after a near two-week low. Brent is ≈$105.5 and WTI ≈$97.6, with WTI up ≈6% on the week as Hormuz flows run at 68% of normal (Kpler) and EIA showed an 8.6M bbl draw."
   ],
-  "markets_asof": "≈12:15 PM CT, midday (index levels from Yahoo quote panel; yields not freshly printed)",
+  "markets_asof": "Fri close ≈4:00 PM CT (some figures provisional)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,658",
-      "change": "−1.1%",
+      "value": "7,659.44",
+      "change": "−1.09%",
       "dir": "down",
-      "note": "Yahoo panel ≈1:15 PM ET; live text said −0.6%"
+      "note": "Fri close (TheStreet); weekly loss"
     },
     {
       "label": "Dow",
-      "value": "≈51,909",
-      "change": "−0.5%",
+      "value": "≈51,930",
+      "change": "≈−0.45%",
       "dir": "down",
-      "note": "erased a ≈405-pt intraday gain"
+      "note": "Yahoo late-session read; Thu close 52,177.69"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,183",
-      "change": "−2.0%",
+      "value": "26,140.03",
+      "change": "−2.14%",
       "dir": "down",
-      "note": "NDX ≈−1.4%; software and chips leading"
+      "note": "Close (TheStreet); S&P tech −3%+"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,730",
-      "change": "−1.3%",
+      "value": "2,719.57",
+      "change": "−1.72%",
       "dir": "down",
-      "note": "Thu close 2,767.27"
+      "note": "Close (TheStreet)"
     },
     {
       "label": "UST 2Y",
-      "value": "4.731%",
-      "change": "−1 bp",
-      "dir": "down",
-      "note": "CNBC; no fresh midday print"
+      "value": "≈4.73–4.76%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC reads; Thu close 4.757%"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.07–5.10%",
-      "change": "≈flat",
+      "value": "≈5.08%",
+      "change": "≈+2 bp",
       "dir": "flat",
-      "note": "CNBC text 5.074%, its table 5.102%"
+      "note": "Investing.com provisional; ≈−15 bp w/w"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.42–5.45%",
+      "value": "≈5.42–5.44%",
       "change": "≈flat",
       "dir": "flat",
-      "note": "CNBC text 5.422%, its table 5.447%"
+      "note": "CNBC reads"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct 28 hold ≈84%",
       "dir": "flat",
-      "note": "CME FedWatch via ActionForex; hike ≈16%"
+      "note": "CME FedWatch; hike ≈16%"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.9",
-      "change": "≈−0.3% vs AM",
+      "value": "≈101.5",
+      "change": "≈−0.4%",
       "dir": "down",
-      "note": "Kitco"
+      "note": "Investing.com, undated; first weekly fall in 5 wks"
     },
     {
       "label": "WTI crude",
-      "value": "≈$97.1",
-      "change": "≈−0.5% vs AM",
-      "dir": "down",
-      "note": "Kitco"
+      "value": "$101.41",
+      "change": "+3.5%",
+      "dir": "up",
+      "note": "Settle (CNBC)"
     },
     {
       "label": "Brent",
-      "value": "≈$105.3",
-      "change": "≈−0.4% vs AM",
-      "dir": "down",
-      "note": "Kitco"
+      "value": "$109.86",
+      "change": "+3.7%",
+      "dir": "up",
+      "note": "Settle; touched $110 (CNBC)"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,175",
-      "change": "≈+0.1%",
+      "value": "≈$4,200",
+      "change": "≈+0.6%",
       "dir": "up",
-      "note": "Kitco/Mitrade range $4,172–4,180"
+      "note": "USAGold/Convex late; down slightly w/w"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$57.9",
-      "change": "≈+0.8%",
+      "value": "≈$58",
+      "change": "≈+0.9%",
       "dir": "up",
-      "note": "FXStreet; not refreshed since morning"
+      "note": "USAGold"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.56/lb",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Investing.com"
-    },
-    {
-      "label": "VIX",
-      "value": "—",
+      "value": "≈$6.56–6.60/lb",
       "change": "—",
       "dir": "flat",
-      "note": "no reliable intraday print found"
+      "note": "morning read; no PM print found"
     }
   ],
   "calendar": [
@@ -409,6 +402,49 @@
   "caveats": "WSJ, NYT and the Chicago Tribune were not directly accessible, and page fetches failed this run, so every figure comes from search-result excerpts. WSJ items use MarketScreener digests and syndicated copies; NYT items come from the Oct 15 print-edition listing. The Chicago bucket uses Crain's, CME and StockTitan in place of the Tribune. Pre-market levels are approximate snapshots (≈5:30–6:20 AM CT). Oct hike odds differ by source (14–17%). The import-price consensus conflicts (+0.8% vs +0.9%). The gilt yield is single-source, and I didn't find a reliable KBW Bank Index reading.",
   "updates": [
     {
+      "at": "2026-10-16T20:17:42Z",
+      "label": "Close",
+      "headline": "The week ended on a tech-and-oil shock rather than a rates story. Brent hit $110 intraday and settled ≈$109.86 (+3.7%) as Iran stepped up Hormuz attacks, while the Nasdaq closed −2.1% and the Russell −1.7%, but the 10Y held ≈5.08%, about 15 bp lower on the week.",
+      "points": [
+        "Equities close (TheStreet): S&P 500 7,659.44 (−1.09%), Nasdaq Comp 26,140.03 (−2.14%), Russell 2000 2,719.57 (−1.72%), Dow ≈−0.4/−0.5% (Yahoo). The S&P tech sector fell >3% and energy rose 2.5%. The S&P and Nasdaq posted weekly losses. Correction to the morning thesis: the cyclical rotation did not hold into opex, since only energy and the Dow's value names held up.",
+        "Oil reversed the midday dip and overturned the Midday tile (Brent ≈$105.3, down). CNBC has Brent touching $110, its first time there since May, and settling at $109.86 (+3.7%), with WTI at $101.41 (+3.5%). At least nine ships have been attacked near Hormuz since Sunday, and Kpler puts flows through the strait at 9.4 mb/d, ≈70% of the pre-war level. Ukraine's vow to hit Russian refineries added to it.",
+        "Rates: the long end barely moved despite oil. Investing.com's provisional 10Y close is ≈5.082% (day range 5.059–5.096%), and CNBC's last read had the 2Y at ≈4.73–4.76% and the 30Y at ≈5.42–5.44%. On the week the 10Y fell ≈15 bp from 5.24% on Oct 9, so haven demand and the fading odds of an October hike (≈16%, CME FedWatch) beat three hot inflation prints. One FXStreet-cited read put a December hike at ≈91%, which we have not verified. The risk is that $110 Brent feeds straight back into breakevens.",
+        "Metals: spot gold firmed late to ≈$4,198–4,200 (USAGold, Convex) from $4,165 at 9 AM ET, yet is still ≈−0.2% to −0.5% on the week (CNBC/Reuters). Silver ≈$58. The DXY is ≈101.5 (Investing.com, undated) and on track for its first weekly fall in five weeks. We found no afternoon copper print, so the ≈$6.56–6.60/lb tile is a morning read.",
+        "Banks: the Friday regionals all beat on EPS but missed on revenue. Truist made $1.42 adjusted vs $1.14 est. on $3.75B revenue, short on securities and loan-sale losses. Citizens made $1.41, two cents ahead, with revenue ≈$20M light. Share reads conflict (CFG anywhere from +1% to −5%). Next week: Fed blackout from Sat, Wintrust Mon PM, then the 20Y reopening plus CME Group and Northern Trust earnings on Wed Oct 21."
+      ],
+      "simple": "Oil jumped because Iran attacked more tankers near the Strait of Hormuz, a narrow sea lane that much of the world's oil passes through. Investors worry that fewer barrels will get out, and pricier oil means pricier gas and goods. Stocks, especially tech, fell, but bond yields (the interest the government pays to borrow) stayed put because investors still bought Treasuries as a safe place to park money. For banks and borrowers, that keeps loan rates high but not rising, while oil becomes the main inflation risk the Fed has to watch.",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html"
+        },
+        {
+          "name": "Investing.com (10Y history)",
+          "url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+        },
+        {
+          "name": "CNBC/Reuters (gold)",
+          "url": "https://www.cnbc.com/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-october-16-2026/"
+        },
+        {
+          "name": "Investing.com (Truist)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-truist-beats-on-eps-in-q3-2026-as-revenue-misses-93CH-4954217"
+        }
+      ]
+    },
+    {
       "at": "2026-10-16T17:17:54Z",
       "label": "Midday",
       "headline": "The morning's rotation cracked by midday. The Dow gave back a ≈405-pt gain as a software selloff joined the chip rout, so the S&P is ≈−0.6% to −1.1% and the Nasdaq ≈−1.4% to −2%. Bonds stayed calm: the 10Y is near 5.07–5.10% and Oct 28 hike odds are ≈15–16%.",
@@ -479,5 +515,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T17:17:54Z"
+  "updatedAt": "2026-10-16T20:17:42Z"
 }
