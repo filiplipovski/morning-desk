@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-17",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-10-17T11:20:58Z",
+  "headline": "The 10Y fell ≈15 bp this week (its biggest weekly drop since Aug 2025) even after three hot inflation prints. With the Fed now in blackout, next week turns on Brent near $110, the Nasdaq's worst week since June and Wednesday's 20Y reopening plus CME and Tesla earnings.",
+  "summary": [
+    "Week in rates: the 10Y ended Friday at ≈5.09–5.10% (Rallies/Trading Economics/Motley Fool), about 15 bp lower on the week and nearly 25 bp under Wednesday's post-CPI high near 5.33%. That came despite CPI at 3.7% y/y, PPI at 6.3% y/y and import prices at 8.1% y/y. Haven buying on the AI-credit scare beat the inflation data. The 2Y is ≈4.73–4.76%, leaving 2s10s ≈34–36 bp.",
+    "Fed: the blackout began today, ahead of the Oct 27–28 FOMC. CME FedWatch has a hold at ≈83% (hike ≈16–17%), down from >50% hike odds intraday on CPI day, and a December hike is still ≈88% priced. Warsh's Bangkok non-answer was the last Fed word, so next week's data (housing starts, claims, flash PMIs, UMich final) and earnings carry the tape alone.",
+    "Equities: the S&P 500 closed at 7,659.44 (−1.09% Fri, ≈−2% w/w) and the Nasdaq at 26,140.03 (−2.14% Fri, ≈−4 to −4.5% w/w, its worst week since June). The Dow held up at 52,002.41 (≈+0.7% w/w). CoreWeave fell ≈12% Friday on AI-debt fears, and an unconfirmed rumor of a hedge-fund blowup sent the VIX to 22.31 intraday (close ≈20).",
+    "Oil and metals: Brent settled at $109.86 (+3.7%) after touching $110, and WTI at $101.41, as Iran escalated Hormuz attacks. Today the IRGC claims a tanker carrying >2M bbl hit a mine (unconfirmed), so watch Sunday-evening Globex. Gold ended ≈$4,165–4,190, about flat to slightly lower on the week, while silver lagged at ≈$56.9 and LME copper fell ≈1% w/w to ≈$14,480/t.",
+    "Banks: the KBW Bank Index fell ≈1% for a sixth straight weekly loss, its longest streak since 2008, and is ≈13% off its August record (Bloomberg via Qz). Q3 EPS beats (Truist, Regions, Citizens, M&T) didn't break the streak. Truist also agreed to sell its $7.7B LightStream consumer-loan book to Carlyle. Next: Wintrust Mon PM, KeyCorp and Capital One Tue, Northern Trust and CME Group Wed."
+  ],
+  "markets_asof": "Fri Oct 16 close (weekend: no live trading); oil = settles, metals/DXY = late snapshots",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,659.44",
+      "change": "−1.09%",
+      "dir": "down",
+      "note": "Fri close; ≈−2% w/w (CNBC/TheStreet)"
+    },
+    {
+      "label": "Dow",
+      "value": "52,002.41",
+      "change": "−0.34%",
+      "dir": "down",
+      "note": "Fri close; ≈+0.7% w/w"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "26,140.03",
+      "change": "−2.14%",
+      "dir": "down",
+      "note": "≈−4 to −4.5% w/w, worst since June"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,719.57",
+      "change": "−1.72%",
+      "dir": "down",
+      "note": "Fri close (TheStreet)"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.73–4.76%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC late reads; no clean close found"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.09–5.10%",
+      "change": "≈−15 bp w/w",
+      "dir": "down",
+      "note": "Biggest weekly drop since Aug 2025"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.42–5.44%",
+      "change": "≈flat Fri",
+      "dir": "flat",
+      "note": "CNBC reads; 5.73% high earlier in Oct"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct 28 hold ≈83%",
+      "dir": "flat",
+      "note": "CME FedWatch; Dec hike ≈88%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.5–101.7",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Late/intraday reads; first weekly fall in 5 wks"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$101.41",
+      "change": "+3.51%",
+      "dir": "up",
+      "note": "Fri settle"
+    },
+    {
+      "label": "Brent",
+      "value": "$109.86",
+      "change": "+3.72%",
+      "dir": "up",
+      "note": "Fri settle; touched $110, first since May"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,165–4,190",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Kitco 5 PM ≈$4,164; Motley Fool $4,187.90; ≈flat to −0.5% w/w"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$56.9",
+      "change": "≈−1.5%",
+      "dir": "down",
+      "note": "Kitco late; ≈−11% over the month"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,480/t",
+      "change": "≈−1% w/w",
+      "dir": "down",
+      "note": "Official Fri; ≈3% below Sep record $14,875"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun · 5:00 PM",
+      "event": "CME Globex reopens: first read on the Hormuz mine claim",
+      "consensus": "—",
+      "prior": "Brent $109.86, WTI $101.41",
+      "why": "If the IRGC tanker claim holds, crude gaps up and breakevens push the long end back toward 5.2%. If not, Friday's haven bid in Treasuries can extend."
+    },
+    {
+      "time": "Sun · 9:00 PM",
+      "event": "China Q3 GDP + Sep activity data",
+      "consensus": "4.4% y/y; 1.1% q/q",
+      "prior": "4.3% y/y; 0.9% q/q",
+      "why": "This is the copper read. China's inventories are rebuilding, so a miss would extend LME's ≈1% weekly slide (Newsquawk)."
+    },
+    {
+      "time": "Mon · 9:00 AM",
+      "event": "NAHB housing market index (Oct)",
+      "consensus": "31",
+      "prior": "32",
+      "why": "With 30Y mortgages above 7%, builder sentiment shows how the 5% 10Y is reaching housing."
+    },
+    {
+      "time": "Mon · after close",
+      "event": "Wintrust (Chicago) Q3; Fifth Third reported in Schwab's calendar",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The Chicago commercial-bank read: deposit costs, CRE and loan growth with the 10Y above 5%. The call is Tue 10:00 AM CT."
+    },
+    {
+      "time": "Tue · 7:30 AM",
+      "event": "Housing starts / building permits (Sep)",
+      "consensus": "Starts 1.310M (Wells: 1.250M)",
+      "prior": "Starts 1.275M; permits 1.403M",
+      "why": "This is the main US data point of a light week. A wide range of forecasts means room for a surprise."
+    },
+    {
+      "time": "Tue · 9:00 AM",
+      "event": "Pending home sales (Sep)",
+      "consensus": "0.0% m/m",
+      "prior": "—",
+      "why": "Existing-home sales were already out (3.99M vs 3.95M est.), so this confirms the trend."
+    },
+    {
+      "time": "Tue",
+      "event": "KeyCorp (BMO), Capital One, GM, GE Aerospace, RTX, 3M; Netflix after close",
+      "consensus": "KEY $0.46; NFLX ≈$0.82 / ≈$12.9B",
+      "prior": "—",
+      "why": "KeyCorp is a test of the regional-bank NII story. Capital One is a read on consumer credit with gas near $4.50."
+    },
+    {
+      "time": "Wed · 12:00 PM",
+      "event": "20Y bond reopening ($13B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This tests long-end demand after the 15 bp haven rally. A tail (a yield above the pre-auction level) would say the rally was short-covering."
+    },
+    {
+      "time": "Wed",
+      "event": "CME Group & Northern Trust Q3 (BMO); Tesla, Meta, IBM, Lam after close; VIX settlement",
+      "consensus": "CME $2.98 / $1.71B; NTRS ≈$2.87 / $2.26B; TSLA ≈$0.43–0.45 / ≈$28B",
+      "prior": "—",
+      "why": "CME should show record Q3 ADV (29.4M). Tesla and Meta set the tone for the AI-capex trade that broke the Nasdaq this week."
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "Initial jobless claims; leading index",
+      "consensus": "200K",
+      "prior": "199K",
+      "why": "Claims near 200K keep a December hike live. Thursday also has P&G, Blackstone, Ford and Newmont (gold miner margins at ≈$4,200)."
+    },
+    {
+      "time": "Thu · 10:00 AM",
+      "event": "Kansas City Fed manufacturing (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Watch the prices-paid component with oil above $100."
+    },
+    {
+      "time": "Late week (date TBC)",
+      "event": "5Y TIPS reopening (≈$26B per TBAC plan)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Real-yield demand with breakevens on the rise. It feeds straight into gold's opportunity cost."
+    },
+    {
+      "time": "Fri · 8:45 AM",
+      "event": "S&P Global flash PMIs (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Global flash PMIs land the same day (Germany, Eurozone, UK). A weak euro-area print would cool ECB hawkishness, per FXStreet."
+    },
+    {
+      "time": "Fri · 9:00 AM",
+      "event": "UMich sentiment, final (Oct)",
+      "consensus": "46.3",
+      "prior": "Prelim 48.1; Sep 51.0",
+      "why": "Watch the inflation-expectations components. The Fed cites them, and $110 Brent is feeding them."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC",
+      "consensus": "Hold ≈83%; hike ≈16–17%",
+      "prior": "Sep: +25 bp to 3.75–4.00%",
+      "why": "A pause is priced for October and ≈88% odds of a December hike. Kitco puts Sep PCE on Oct 29."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "10Y posts its biggest weekly drop since Aug 2025 despite three hot prints",
+        "body": "The 10Y finished ≈5.09–5.10%, down ≈15 bp on the week and off a 5.33% post-CPI high. CPI (3.7% y/y), PPI (6.3% y/y) and import prices (+1.1% m/m, 8.1% y/y) all ran hot, but the haven bid from AI-credit stress and lower October hike odds won. Earlier in October the 10Y set a 24-year high near 5.36% and the 30Y hit 5.73%, its highest since 2002.",
+        "simple": "A Treasury yield is the interest the government pays to borrow. Yields usually rise when inflation runs hot, but this week investors were scared enough about tech stocks and AI-related debt that they bought safe government bonds anyway, which pushed yields down. Mortgage and business-loan rates follow the 10-year, so a lower yield is a small relief, though it is still near its highest level in decades.",
+        "source": "CNBC / Rallies",
+        "url": "https://www.cnbc.com/amp/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html"
+      },
+      {
+        "title": "Blackout begins: October pause priced, December hike still ≈88%",
+        "body": "FedWatch has an Oct 28 hold at ≈83%, and futures still price ≈88% odds of a December hike. Goldman and Citi both call December. The Sep hike took funds to 3.75–4.00%, and Kitco puts the next PCE print on Oct 29.",
+        "simple": "Before each meeting, Fed officials stop giving speeches for about ten days (the 'blackout'). Markets now expect no rate change in October but a quarter-point increase in December, so borrowing costs would go up again before year-end. For banks that means loan yields stay high, but so does what they pay depositors.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/news/article/2026-10-16/gold-silver-diverge-fed-pause-expectations-collide-rising-crude-prices"
+      },
+      {
+        "title": "Global week ahead: China GDP, flash PMIs, and inflation in the UK, Japan and Canada",
+        "body": "China Q3 GDP is due Sunday night CT, with consensus at 4.4% y/y (prior 4.3%) and 1.1% q/q (prior 0.9%), according to Newsquawk. UK, Japan and Canada CPI and global flash PMIs follow. FXStreet expects both the Fed and the ECB to hold in 10 days, with oil keeping hike talk subdued in Europe.",
+        "simple": "A flash PMI is a quick survey of purchasing managers that shows whether factories and service firms are growing (above 50) or shrinking (below 50). With US data light next week, foreign numbers will move global bond yields, and those carry over to US Treasuries.",
+        "source": "Newsquawk / FXStreet",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-19-23rd-october-2026-highlights-include-uk-japan-and-canada-inflation-china-activity-data-and-global-flash-pmis-"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "VIX spikes to 22.31 on a hedge-fund rumor; call buyers bet on a volatile November",
+        "body": "The VIX sat near 16 most of Friday morning, then jumped ≈30% to 22.31 intraday on an unconfirmed rumor that an AI-focused hedge fund had blown up, and closed ≈20 (≈+21%). Large VIX call bets are positioned for volatility to last into November (BigGo). VIX futures and options settle Wed Oct 21, and the week opened with SKEW at a record 157.",
+        "simple": "The VIX measures how much investors pay for options that protect against S&P 500 swings, so it is often called the 'fear gauge.' It jumped on a rumor that hasn't been confirmed, which shows how nervous traders already were. Expensive protection makes hedging costlier for funds and banks' trading clients.",
+        "source": "BigGo Finance / CNBC",
+        "url": "https://finance.biggo.com/news/30628c15-02f6-41e0-a646-156600ee15eb"
+      },
+      {
+        "title": "CME heads into Wednesday's earnings on record Q3 volume",
+        "body": "Q3 ADV was a record 29.4M contracts (+16% y/y) and September 31.8M (+22%). Interest-rate ADV was 16.2M in September (+22%), with Treasury futures and options at 9.5M (+42%) and energy at 3.1M (+37%). Consensus for Q3 is ≈$2.98 EPS on $1.71B revenue.",
+        "simple": "ADV is average daily volume, the number of futures and options contracts traded each day. When rates and oil swing hard, hedgers and speculators trade more, and CME (the Chicago exchange) earns a fee on every contract. This year's volatile rates market has been very good for its revenue.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "CoreWeave CDS at records as AI credit cracks",
+        "body": "CoreWeave fell ≈12% Friday. Its 5Y CDS spreads are at all-time highs, and its $1.25B 2032 bonds touched a ≈15% yield this week, with total debt above $51B. The Philadelphia semiconductor index fell nearly 4% Friday.",
+        "simple": "A credit default swap (CDS) is insurance against a company not repaying its debt, and a higher price means more fear of default. Investors are questioning whether AI data-center builders borrowed too much. That matters to banks that lend to them or underwrite their bonds.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount-4953586"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold churns near $4,200; Wall Street analysts split",
+        "body": "Spot gold ended ≈$4,165–4,190, roughly flat to −0.5% on the week after a post-CPI low near $4,073, and still ≈25% below January's ≈$5,589 record. In Kitco's weekly survey 33% of pros are bullish, 17% bearish and 50% neutral. Retail is 43% bullish and 45% bearish.",
+        "simple": "Gold pays no interest, so it struggles when bond yields (the return on 'safe' alternatives) are high, and it gains when the dollar weakens or fear rises. This week those forces roughly cancelled out. The market is waiting for a clear signal, most likely from the Fed's December decision.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/news/article/2026-10-16/wall-street-undecided-golds-near-term-trajectory-main-street-flirts-bearish"
+      },
+      {
+        "title": "Silver lags gold as oil revives hike fears",
+        "body": "Silver slipped to ≈$56.85 Friday while gold held flat (Kitco PM), and it is ≈−11% over the past month after Wednesday's 6% plunge. Kitco says rising crude keeps December hike bets alive and caps the precious-metals rebound.",
+        "simple": "Silver is half precious metal and half industrial metal, so it falls harder than gold when investors worry about growth or higher rates. High oil prices raise inflation and make another Fed hike more likely, which hurts metals that pay no interest.",
+        "source": "Kitco / CNBC",
+        "url": "https://www.kitco.com/news/article/2026-10-16/gold-silver-diverge-fed-pause-expectations-collide-rising-crude-prices"
+      },
+      {
+        "title": "LME copper falls ≈1% on the week ahead of China GDP",
+        "body": "Three-month LME copper traded at $14,480/t in Friday's official session, ≈3% below September's $14,875 record, and was ≈1% lower on the week. Hot US inflation, the AI selloff and a build in Chinese inventories weighed, while Chilean supply risk sets a floor.",
+        "simple": "Copper is used in wiring, buildings and data centers, so its price is a gauge of global growth. China buys about half the world's copper, which makes Monday's China GDP report the next big test. Rising stockpiles there suggest buyers think current prices are too high.",
+        "source": "Business Recorder (Reuters)",
+        "url": "https://www.brecorder.com/news/40444527/london-copper-ticks-up-but-heads-for-weekly-loss"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Big-bank stocks log a sixth straight weekly loss, the longest streak since 2008",
+      "body": "The 24-member KBW Bank Index fell ≈1–1.2% this week and is ≈13% below its August record, in correction territory. EPS beats didn't help. The drivers are higher-for-longer rates, the Fed's first hike in three years, and fears that AI erodes bank margins.",
+      "simple": "A correction is a drop of 10% or more from a peak. Banks are earning well, but investors worry that high rates will cause more loan losses and that AI will squeeze fees. Six down weeks in a row hasn't happened since the 2008 financial crisis.",
+      "source": "Bloomberg via Qz",
+      "url": "https://qz.com/big-bank-stocks-weekly-losing-streak-2008-101626"
+    },
+    {
+      "title": "Truist sells $7.7B LightStream book to Carlyle",
+      "body": "On Oct 14 Truist agreed to sell $7.7B of unsecured consumer loans, essentially all of LightStream, to Carlyle. That follows the ≈$5.5B Regional Acceptance auto-loan sale and Q3's ≈$1.4B AFS loss taken to reinvest near 5%.",
+      "simple": "Truist is selling loans to a private-equity firm and selling old low-yield bonds at a loss so it can put the money into higher-paying assets. It is a clear example of 'private credit' (investment firms rather than banks) taking over consumer lending. Truist gets a simpler, more profitable balance sheet, and Carlyle gets loans that pay steady interest.",
+      "source": "Truist 8-K (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm"
+    },
+    {
+      "title": "Small-bank M&A keeps moving: Third Coast–Great Plains, TowneBank–blueharbor",
+      "body": "Third Coast is buying Great Plains in an all-stock deal valued at ≈$239.6M, creating a ≈$9B-asset bank that is expected to close in Q1 2027. TowneBank is paying ≈$154M for blueharbor, and Equity Bancshares disclosed its Lincoln Bancorp deal with Q3 results.",
+      "simple": "Small banks are merging to spread rising tech and compliance costs over a bigger base. All-stock means the buyer pays with its own shares instead of cash. Faster regulatory approvals this year have made these deals easier, which creates advisory work for commercial and investment bankers.",
+      "source": "Bankers Digest",
+      "url": "https://bankersdigest.com/third-coast-bancshares-and-great-plains-bancshares-announce-plans-to-merge/"
+    },
+    {
+      "title": "Trading desks are the bright spot as bank stocks slump",
+      "body": "Equity-trading units at five top lenders brought in nearly $67B over the first nine months, per Briefs' tally, as volatility from the Iran war, inflation and the AI selloff kept clients active. That is the S&T side of a sector the market is otherwise selling.",
+      "simple": "When markets swing, clients trade more, and banks earn spreads and fees by making markets for them. That's why sales & trading desks can have record years while the bank's stock falls on worries about loans.",
+      "source": "Briefs",
+      "url": "https://www.briefs.co/news/big-bank-stock-trading-shines-but-the-sector-s-slump-rolls-o/"
+    },
+    {
+      "title": "Chicago's turn next week: Wintrust Monday, Northern Trust Wednesday",
+      "body": "Wintrust reports after Monday's close (call Tue 10:00 AM CT), and Northern Trust reports Wednesday (≈$2.87 EPS / $2.26B est.). Watch deposit betas, CRE marks and fee income, with the 10Y near 5.1%.",
+      "simple": "Wintrust is a large Chicago commercial bank that lends to local businesses. Northern Trust manages and safeguards money for wealthy families and institutions. Their results show how high rates are affecting Midwest borrowers and wealth clients.",
+      "source": "StockTitan / MarketBeat",
+      "url": "https://www.stocktitan.net/news/WTFC/wintrust-financial-corporation-announces-third-quarter-and-year-to-8iq15rncobvy.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Nasdaq slides 2% to its worst week since June",
+        "body": "The Nasdaq fell 2.14% Friday and ≈4%+ on the week, and the S&P lost ≈2% for the week, erasing its October gain. Tech fell >3% while energy rose ≈2.5% on $110 Brent, and the Dow eked out ≈+0.7% w/w.",
+        "simple": "Investors sold tech stocks over worries that AI companies borrowed too much, and bought oil companies as crude prices jumped. The Dow held up better because it has fewer tech names.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Big earnings next week may not calm market fears",
+        "body": "Tesla, Meta, Netflix, IBM and GE Aerospace report next week. CNBC argues that strong results may not be enough with the AI-debt, oil and Fed-hike worries still unresolved.",
+        "simple": "Companies are reporting their summer-quarter profits. Even good numbers might not lift stocks if investors are mostly worried about bigger risks like debt and inflation.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html"
+      },
+      {
+        "title": "Gold gains on a softer dollar but posts a weekly drop",
+        "body": "Gold rose Friday as the dollar slipped toward its first weekly fall in five, but it still closed slightly lower for the week (≈−0.5% at the Friday morning read).",
+        "simple": "Gold is priced in dollars, so a weaker dollar makes it cheaper for foreign buyers and pushes the price up. It wasn't enough to undo the drop earlier in the week.",
+        "source": "CNBC (Reuters)",
+        "url": "https://www.cnbc.com/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Drone strikes hit ships in Romanian Black Sea waters",
+        "body": "WSJ's What's News reported drone strikes on two ships in Romanian waters. Combined with Ukraine's vow to hit Russian refineries, it adds a second shipping-risk premium alongside Hormuz.",
+        "simple": "Attacks on ships near a NATO country's coast raise the risk of moving oil and grain by sea. Higher insurance and freight costs feed into fuel and food prices.",
+        "source": "WSJ What's News podcast (summary; WSJ.com not accessible)",
+        "url": "https://podcasts.apple.com/us/podcast/wsj-whats-news/id152016440"
+      },
+      {
+        "title": "News Corp signs an AI content deal with Meta worth up to $50M a year",
+        "body": "WSJ owner News Corp agreed to let Meta use its content in AI products for up to $50M a year. It is the latest publisher licensing deal as others sue AI firms.",
+        "simple": "AI companies need news articles to train and power chatbots. Publishers are choosing between charging for access and suing, and these deals put a price on journalism in the AI era.",
+        "source": "Press Gazette (on WSJ owner)",
+        "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Mark Walter's insurers used loan rollovers to skirt capital rules",
+        "body": "Bloomberg, via Crain's, reports that the Chicago billionaire's insurance companies used rollovers of short-term loans as an accounting maneuver to sidestep capital requirements.",
+        "simple": "Insurers must hold a cushion of capital to pay claims. Repeatedly renewing short-term loans can make a balance sheet look safer than it is, and regulators are watching private-equity-owned insurers more closely.",
+        "source": "Crain's Chicago Business (Bloomberg)",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-walter-insurers-skirted-capital-rules-loopholes-20261016/"
+      },
+      {
+        "title": "United and Air Canada seek to add US–Canada routes",
+        "body": "Chicago-based United and Air Canada want to expand their joint venture with new cross-border routes, even as US–Canada tensions rise.",
+        "simple": "A joint venture lets two airlines share routes and revenue as if they were one. For United, more Canada routes mean more traffic through hubs like O'Hare.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/transportation/ccb-united-air-canada-want-more-routes-20261016/"
+      },
+      {
+        "title": "Rush–Endeavor Health merger faces regulator hurdles",
+        "body": "The proposed combination of two big Chicago-area hospital systems is being tested on scale and leverage over insurers.",
+        "simple": "Regulators worry that very large hospital systems can raise prices on insurers, which then show up in premiums. Big healthcare mergers also bring financing and advisory work for Chicago banks.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/health-care/ccb-regulation-rush-endeavor-merger-20261015/"
+      },
+      {
+        "title": "CME Group: record rates volume going into Oct 21 earnings",
+        "body": "September interest-rate ADV hit 16.2M (+22%), and Treasury futures and options were up 42%. Q3 ADV was a record 29.4M contracts.",
+        "simple": "Chicago's biggest exchange is having a record year because volatile interest rates make investors hedge more, and it earns a fee on every trade.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Stocks post their worst week since June",
+        "body": "The S&P lost 1.1% and the Nasdaq 2.1% Friday, and both had their worst week since June. Meta fell 3.7% and Alphabet 2.5%.",
+        "simple": "Big tech companies make up a large share of the main stock indexes, so when they fall the whole market looks weak, even though most other stocks moved less.",
+        "source": "Washington Post (AP); NYT not accessible",
+        "url": "https://www.washingtonpost.com/business/2026/10/16/wall-street-stocks-dow-nasdaq/b0444434-c99e-11f1-aefb-abe4112d087e_story.html"
+      },
+      {
+        "title": "AI debt worries hit the Nasdaq",
+        "body": "CNN focused on CoreWeave and the debt behind the AI build-out: semiconductors had their worst week in about 18 months, and CoreWeave's bonds and shares slid together.",
+        "simple": "Companies building AI data centers borrowed heavily, betting demand will keep rising. If lenders get nervous, it gets harder and more expensive for those firms to keep building.",
+        "source": "CNN (NYT substitute)",
+        "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave"
+      },
+      {
+        "title": "The US economy before and after the Iran war",
+        "body": "NBC's chart pack: CPI is 3.4% vs 2.4% before the war, gas averages ≈$4.50/gal and 30Y mortgages are above 7%.",
+        "simple": "The war pushed up oil prices, and those flow into almost everything people buy. That is why the Fed is raising rates even though growth is slowing.",
+        "source": "NBC News (NYT substitute)",
+        "url": "https://www.nbcnews.com/business/economy/us-economy-iran-war-five-charts-rcna598412"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why the 10Y rallied through three hot inflation prints",
+      "point": "This week CPI was 3.7%, PPI 6.3% and import prices 8.1% y/y, yet the 10Y fell ≈15 bp to ≈5.09%, its biggest weekly drop since Aug 2025. Flight-to-quality from the AI-credit scare (CoreWeave CDS at records) and October hike odds collapsing from >50% to ≈16% beat the inflation data. Ask a rates trader: is this term premium coming out, or short-covering that Wednesday's $13B 20Y reopening will expose? And how do you position 2s10s (≈35 bp) into an October pause with a December hike priced at ≈88%?"
+    },
+    {
+      "topic": "Volatility is CME's revenue line",
+      "point": "CME's Q3 ADV was a record 29.4M (+16%), with Treasury futures and options +42% in September. A Fed hiking into an oil shock is the best environment an exchange can get. In a CME Fellow or S&T conversation, connect it to the desk: higher Treasury-futures OI means more basis trading and more SOFR-futures hedging of Dec-hike risk. Ask how much of that volume is the cash-futures basis trade vs. real-money hedging, and what changes if margins go up."
+    },
+    {
+      "topic": "Banks in a six-week slump while trading desks boom",
+      "point": "The KBW Bank Index has six straight weekly losses (longest since 2008, ≈−13% from Aug), yet top banks' equity-trading revenue is ≈$67B YTD and the regionals beat on EPS. Truist shows the balance-sheet response: a ≈$1.4B AFS loss to reinvest near 5% and $7.7B of LightStream loans sold to Carlyle. Good commercial-banking question: when private credit buys consumer and middle-market loans, what is left for the bank besides deposits, treasury management and fees?"
+    }
+  ],
+  "caveats": "WSJ, NYT and the Chicago Tribune were not accessible this run (search blocked, page fetches failed), so WSJ items rely on its podcast summary and Press Gazette, NYT is replaced by the Washington Post (AP), CNN and NBC (labeled), and the Chicago bucket uses Crain's and CME. All figures come from search-result excerpts. Friday closes for the 2Y, 30Y, DXY and gold vary by source and are shown as ranges. The VIX close (≈20) is single-source, and the hedge-fund rumor and the IRGC tanker-mine claim are unconfirmed. Next week's dates and consensus come from third-party calendars; the 5Y TIPS date and the Fifth Third timing are unconfirmed.",
+  "updates": []
+}
