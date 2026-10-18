@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-18",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-10-18T11:19:46Z",
+  "headline": "Iran now says two tankers carrying ≈2M bbl each hit mines and caught fire. That claim is unconfirmed, but with Brent at $109.86 it sets up a risky Globex open tonight. China GDP lands at 9 PM CT (4.4% est.), and the week runs through LME Week, the $13B 20Y reopening and CME's own earnings.",
+  "summary": [
+    "Weekend risk: the IRGC now claims two loaded tankers (≈2M bbl each) caught fire after hitting mines on a route it hadn't authorized. Al Jazeera and TBS carried the claim, and nothing independent confirms it. Earlier this month CENTCOM blamed Iranian drones and missiles, not mines. Attacks hit a war-high 12 ships in the Oct 5–11 week (Safety4Sea), and Kpler had Hormuz flows at ≈68% of normal. With Brent at $109.86 and WTI at $101.41 on Friday's settle, a confirmed incident gaps crude higher at Sunday 5 PM CT.",
+    "Rates set-up: the 10Y ended Friday at ≈5.09–5.10%, down ≈15 bp on the week, and the 2Y at ≈4.73–4.76% (2s10s ≈35 bp). CME FedWatch has an Oct 28 hold at ≈83–85% and a December hike at ≈88%. CNBC's Friday analysis argues Warsh could still surprise with a hike because he won't give guidance, but Goldman calls for an October pause and a final hike in December. With the Fed in blackout, data and supply drive things: the $13B 20Y reopening is Wed and the $26B 5Y TIPS is Thu.",
+    "China at 9 PM CT tonight: the Reuters poll has Q3 GDP at 4.4% y/y (prior 4.3%) and 1.1% q/q (prior 0.9%), with September activity data alongside. That would be a second straight quarter below the 4.5% floor of the official target (Goldman), which raises the odds of stimulus. Base metals go into LME Week (Oct 19–23, London) in backwardation, with record-low copper and zinc treatment charges and LME copper at ≈$14,480/t, ≈3% under September's $14,875 record.",
+    "Earnings: Wintrust (Mon AMC, $3.31 / $754.7M), KeyCorp (Tue BMO, $0.46) and Capital One (Tue, $5.50 / $16.25B) test regional-bank NII and consumer credit. The KBW Bank Index has six straight weekly losses, its longest streak since 2008. On Wednesday CME ($2.98) and Northern Trust ($2.87) report before the open, then Tesla after the close (≈$0.43 est., ≈$27.8B revenue). Netflix (Tue, $0.82 / $12.87B) and Meta test whether the Nasdaq's worst week since June becomes a trend.",
+    "Policy noise: OFAC's general license allows imports of Russian-origin diesel through Apr 7, 2027, and on Friday Trump waived newly passed Russia sanctions (Al Jazeera). Analysts and the EU doubt it lowers diesel prices much (AAA's record was ≈$6.53/gal in late September). Trump also pledged no new strikes on Iran before the Nov 3 midterms, which leaves Iran setting the pace in Hormuz."
+  ],
+  "markets_asof": "Fri Oct 16 close (weekend: no live trading; Globex reopens Sun 5 PM CT). Oil = settles; metals/DXY = late snapshots",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,659.44",
+      "change": "−1.09%",
+      "dir": "down",
+      "note": "Fri close; ≈−2% w/w (CNBC/TheStreet)"
+    },
+    {
+      "label": "Dow",
+      "value": "52,002.41",
+      "change": "−0.34%",
+      "dir": "down",
+      "note": "Fri close; ≈+0.7% w/w"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "26,140.03",
+      "change": "−2.14%",
+      "dir": "down",
+      "note": "≈−4 to −4.5% w/w, worst since June"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,719.57",
+      "change": "−1.72%",
+      "dir": "down",
+      "note": "Fri close (TheStreet)"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.73–4.76%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC late reads; no clean close found"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.09–5.10%",
+      "change": "≈−15 bp w/w",
+      "dir": "down",
+      "note": "Biggest weekly drop since Aug 2025"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.42–5.44%",
+      "change": "≈flat Fri",
+      "dir": "flat",
+      "note": "CNBC reads; 5.73% high earlier in Oct"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct 28 hold ≈83%",
+      "dir": "flat",
+      "note": "CME FedWatch; Dec hike ≈88%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.5–101.7",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Late/intraday reads; first weekly fall in 5 wks"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$101.41",
+      "change": "+3.51%",
+      "dir": "up",
+      "note": "Fri settle"
+    },
+    {
+      "label": "Brent",
+      "value": "$109.86",
+      "change": "+3.72%",
+      "dir": "up",
+      "note": "Fri settle; touched $110, first since May"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,165–4,190",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Kitco 5 PM ≈$4,164; Motley Fool $4,187.90; ≈flat to −0.5% w/w"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$56.9",
+      "change": "≈−1.5%",
+      "dir": "down",
+      "note": "Kitco late; ≈−11% over the month"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,480/t",
+      "change": "≈−1% w/w",
+      "dir": "down",
+      "note": "Official Fri; ≈3% below Sep record $14,875"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun · 5:00 PM",
+      "event": "CME Globex reopens: first price on the IRGC two-tanker mine claim",
+      "consensus": "—",
+      "prior": "Brent $109.86, WTI $101.41",
+      "why": "A confirmed hit or a US response gaps crude and breakevens higher and pushes the long end back toward 5.2%. A denial keeps Friday's haven bid in Treasuries alive."
+    },
+    {
+      "time": "Sun · 9:00 PM",
+      "event": "China Q3 GDP + Sep retail sales, industrial output, FAI",
+      "consensus": "4.4% y/y; 1.1% q/q",
+      "prior": "4.3% y/y; 0.9% q/q",
+      "why": "A second quarter below 4.5% raises stimulus odds, which matters for copper going into LME Week."
+    },
+    {
+      "time": "Mon–Fri",
+      "event": "LME Week, London (Metals Seminar Mon, LME Dinner Tue)",
+      "consensus": "—",
+      "prior": "LME Cu ≈$14,480/t",
+      "why": "2027 copper/zinc treatment-charge talks start from record lows. Producer and trader commentary often moves copper and tin (tin >$50K/t since June)."
+    },
+    {
+      "time": "Mon · 9:00 AM",
+      "event": "NAHB housing market index (Oct)",
+      "consensus": "31",
+      "prior": "32",
+      "why": "How builders feel about a 5%+ 10Y and mortgage rates above 7%."
+    },
+    {
+      "time": "Mon · after close",
+      "event": "Wintrust (Chicago) Q3; call Tue 10:00 AM CT",
+      "consensus": "EPS $3.31; rev $754.7M",
+      "prior": "—",
+      "why": "The Chicago commercial-bank read on deposit costs, CRE and loan growth."
+    },
+    {
+      "time": "Tue · 7:30 AM",
+      "event": "Housing starts / building permits (Sep)",
+      "consensus": "Starts 1.310M (Wells 1.250M)",
+      "prior": "Starts 1.275M; permits 1.403M",
+      "why": "The main US print of a light data week. Forecasts span a wide range, so there's room for a surprise."
+    },
+    {
+      "time": "Tue",
+      "event": "KeyCorp (BMO); Capital One; Netflix after close; also GM, GE Aerospace, RTX, 3M",
+      "consensus": "KEY $0.46 / $2.05B; COF $5.50 / $16.25B; NFLX $0.82 / $12.87B",
+      "prior": "—",
+      "why": "KeyCorp is a regional NII test. Capital One shows consumer credit with gas and diesel near records."
+    },
+    {
+      "time": "Wed · before open",
+      "event": "CME Group & Northern Trust Q3",
+      "consensus": "CME $2.98; NTRS $2.87",
+      "prior": "CME Q3 ADV record 29.4M",
+      "why": "CME turns rate-hike volatility into revenue. Watch Treasury-futures OI, SOFR options and the guide for 24/7 trading."
+    },
+    {
+      "time": "Wed · 12:00 PM",
+      "event": "20Y bond reopening ($13B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The first test of long-end demand after the 15 bp rally. A tail would say last week was short-covering, not real-money buying."
+    },
+    {
+      "time": "Wed · after close",
+      "event": "Tesla; also Meta, IBM, Lam Research this week",
+      "consensus": "TSLA ≈$0.43 (some show $0.21) / ≈$27.8B",
+      "prior": "Q3 deliveries 486,532",
+      "why": "Sets the tone for the AI-capex trade that drove the Nasdaq to −4% last week."
+    },
+    {
+      "time": "Thu · 7:30 AM",
+      "event": "Initial jobless claims; leading index",
+      "consensus": "200K",
+      "prior": "199K",
+      "why": "Claims near 200K keep a December hike priced. Newmont reports Thursday, a read on miner margins at ≈$4,200 gold."
+    },
+    {
+      "time": "Thu · 12:00 PM",
+      "event": "5Y TIPS new issue ($26B per refunding plan)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Measures demand for real yield (inflation-protected return) while breakevens rise, which feeds gold's opportunity cost."
+    },
+    {
+      "time": "Fri · 8:45 AM",
+      "event": "S&P Global flash PMIs (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Flash PMIs for the euro area and UK land the same morning. Watch the prices-paid components with Brent near $110."
+    },
+    {
+      "time": "Fri · 9:00 AM",
+      "event": "UMich sentiment, final (Oct)",
+      "consensus": "46.3",
+      "prior": "Prelim 48.1; Sep 51.0",
+      "why": "The Fed watches the inflation-expectations components."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC",
+      "consensus": "Hold ≈83–85%; hike ≈15–17%",
+      "prior": "Sep: +25 bp to 3.75–4.00%",
+      "why": "An October pause is priced and a December hike is ≈88%. Warsh's no-guidance style is the tail risk."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "The 10Y's 15 bp rally meets a supply test on Wednesday",
+        "body": "The 10Y ended the week at ≈5.09–5.10% after its biggest weekly drop since Aug 2025, with 2s10s ≈35 bp. Treasury reopens $13B of 20Ys Wed, then sells a new $26B 5Y TIPS Thu (refunding statement).",
+        "simple": "A Treasury yield is the interest the government pays to borrow, and it falls when investors rush to buy bonds for safety. Last week fear of AI-company debt problems drove that buying. This week's auctions show whether real long-term investors still want bonds at these levels, which feeds mortgage and business loan rates.",
+        "source": "US Treasury / RTTNews",
+        "url": "https://home.treasury.gov/news/press-releases/sb0590"
+      },
+      {
+        "title": "Markets price an October pause, but CNBC warns Warsh could hike",
+        "body": "Futures price only ≈15% odds of a hike on Oct 28, down from ≈70% in late September. CNBC argues Warsh's refusal to signal leaves room for a surprise, while Goldman expects a pause and then a final hike in December.",
+        "simple": "Normally Fed officials hint at their next move so markets aren't shocked. The new chair, Kevin Warsh, has stopped giving those hints. So the ≈85% bet on no change could be wrong, and a surprise hike would raise borrowing costs quickly.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+      },
+      {
+        "title": "China GDP tonight is the first global read of the week",
+        "body": "The Reuters poll of 50 economists has Q3 at 4.4% y/y and 1.1% q/q (prior 4.3%/0.9%), with full-year 2026 at 4.5%. It's out at 0200 GMT Monday, 9 PM CT Sunday.",
+        "simple": "GDP is the total output of an economy. China growing below its own target usually means more government stimulus, which raises demand for commodities and can nudge global yields. It's the first big number markets see before the US week starts.",
+        "source": "Reuters via Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/articles/china-q3-growth-set-pick-092516257.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Sunday's Globex open is the event risk",
+        "body": "Iran's claim of two mined tankers came after Brent settled at $109.86 (+3.7%) and WTI at $101.41 on Friday. UKMTO counted a war-high 12 ships attacked Oct 5–11, and Kpler had Hormuz flows ≈68% of normal.",
+        "simple": "Futures are contracts to buy or sell later at a price fixed today, and CME's Globex trades them almost around the clock. When news breaks over a weekend, the reopening price 'gaps' to catch up. Traders holding positions can make or lose a lot in seconds, which is why desks pre-hedge with options on Friday.",
+        "source": "Al Jazeera / Safety4Sea / CNBC",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+      },
+      {
+        "title": "CME reports Wednesday off a record Q3",
+        "body": "Consensus is $2.98 EPS. Q3 ADV was a record 29.4M contracts (+16%), helped by Treasury futures and options, and an Oct 9 corn record of 1.21M contracts. Wells Fargo raised its target to $315 from $301 (Oct 14).",
+        "simple": "CME earns a small fee on every contract traded, so it profits when markets are nervous and people hedge more. A Fed raising rates into an oil shock is close to ideal for its volumes. The earnings show how much of that volatility turned into profit.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "CME shelves the 24/7 micro crude contract",
+        "body": "On Oct 2 CME suspended plans for a 24/7 10-barrel crude futures contract, even as weekend war headlines show the demand for trading outside Globex hours.",
+        "simple": "A 10-barrel contract is small enough for retail traders. Trading it 24/7 would let people react to weekend news like tonight's tanker claim. Pausing the launch means exchanges still close on Saturdays, so risk keeps building up until Sunday evening.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_suspendsplanstolaunch24710-barrelcrudeoilcontract.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold is stuck under $4,200; Wall Street is split",
+        "body": "Kitco's survey: 4 of 12 analysts are bullish, 2 bearish and the rest neutral, and Main Street is nearly bearish (139 votes). The weekly range was $4,216.91 (Mon) to $4,073.35 (Wed), after 3.7% CPI revived hike fears.",
+        "simple": "Gold pays no interest, so when rates might rise, holding it costs more in income you give up. That pulls against its appeal as a war hedge. Most pros now expect it to drift sideways until the Fed decides.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/news/article/2026-10-16/wall-street-undecided-golds-near-term-trajectory-main-street-flirts-bearish"
+      },
+      {
+        "title": "Base metals go into LME Week with record-low TCs",
+        "body": "LME Week runs Oct 19–23. Copper and zinc treatment charges are at record lows ahead of 2027 talks, tin has held above $50K/t since June, and copper, zinc, aluminium and tin are all in backwardation.",
+        "simple": "A treatment charge (TC) is the fee smelters earn for turning ore into metal. Record lows mean mine supply is so scarce that smelters barely get paid. Backwardation (spot prices above futures) means buyers want metal now, a sign of a tight market.",
+        "source": "Fastmarkets / Business Recorder",
+        "url": "https://www.fastmarkets.com/insights/base-metals-head-to-lme-week-2026-with-record-low-tcs-war-hit-supply-chains/"
+      },
+      {
+        "title": "Copper's tariff pull may fade by year-end",
+        "body": "LME 3M copper was ≈$14,480/t Friday, +17% YTD and ≈3% below September's $14,875 record. Marex's Ian Roper expects pressure as the window for US-bound shipments closes in early December.",
+        "simple": "Copper has been tight partly because traders rushed metal into the US ahead of expected tariffs. Once that rush ends, more metal stays elsewhere and prices can ease. That matters for wiring, construction and EV costs.",
+        "source": "Business Recorder (Reuters)",
+        "url": "https://www.brecorder.com/news/40444557/copper-leads-base-metals-higher-ahead-of-lme-week"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Bank stocks' six-week losing streak goes into the regional earnings round",
+      "body": "The KBW Bank Index logged a sixth straight weekly loss (longest since 2008), ≈13% off its August record, despite EPS beats at Truist, Regions, Citizens and M&T. KeyCorp ($0.46) and Capital One ($5.50 / $16.25B) report Tuesday.",
+      "simple": "Bank stocks fall when investors worry about future loan losses or slimmer margins, even if this quarter's profits look fine. With rates high and oil near $110, the concern is that borrowers start to struggle. This week's results test that worry.",
+      "source": "Bloomberg via Qz / MarketBeat",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-10-19-wintrust-financial-co-stock/"
+    },
+    {
+      "title": "Wintrust kicks off Chicago bank earnings Monday",
+      "body": "Wintrust reports after Monday's close: $3.31 EPS on $754.7M revenue is expected, and the call is Tue. Northern Trust ($2.87) reports Wed before the open.",
+      "simple": "Wintrust is a Chicago commercial bank that lends to local businesses and commercial real estate. Its results show how mid-sized lenders handle paying more for deposits while loan demand cools. Northern Trust is mainly a wealth and custody bank, so it reads more like markets activity.",
+      "source": "Wintrust / MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wintrust-financial-corporation-announces-third-201500077.html"
+    },
+    {
+      "title": "Small-bank M&A keeps running: 145 deals YTD",
+      "body": "Through Oct 6, 145 banks were acquired in 2026 (NIC). New this month: Third Coast–Great Plains (all-stock, ≈$239.6M) and Chicago's Byline buying Illinois State Bancorp.",
+      "simple": "Small banks merge to share the fixed costs of technology and compliance and to gather cheaper deposits. Faster regulatory approvals this year keep deals coming. For customers it usually means a new name on the branch and sometimes fewer branches.",
+      "source": "ABA Banking Journal / Bankers Digest",
+      "url": "https://bankingjournal.aba.com/2026/10/bank-acquisitions-announced-in-five-states-3/"
+    },
+    {
+      "title": "WSJ probe ties White House crypto adviser to Tether payments",
+      "body": "BPI's Oct 17 roundup cites a WSJ investigation alleging a company co-owned by Bo Hines got millions from Tether while he steered the GENIUS stablecoin act. Fed VC Bowman also spoke on post-SVB supervision.",
+      "simple": "A stablecoin is a crypto token meant to always be worth $1, and the GENIUS Act set the rules for issuing them. If an official helping write the law was paid by the biggest issuer, the law's credibility suffers. Banks competing with stablecoins for deposits will watch closely.",
+      "source": "BPI (citing WSJ)",
+      "url": "https://bpi.com/bpinsights-october-17-2026"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Brent touches $110 as Iran escalates Hormuz attacks",
+        "body": "Brent briefly hit $110 Friday, its first time there since May, and settled at $109.86, with WTI at $101.41. Iran stepped up attacks, and Ukraine vowed to hit Russian refineries.",
+        "simple": "Most of the world's oil is priced off Brent. A jump to $110 raises gasoline, diesel and airfare costs and pushes inflation up. That makes the Fed more likely to keep rates high.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+      },
+      {
+        "title": "Warsh's no-guidance style is the October wildcard",
+        "body": "Futures price ≈15% odds of an Oct 28 hike. CNBC argues the market may be too sure, since conventions on Fed signaling may not have survived the leadership change.",
+        "simple": "Investors assume the Fed won't surprise them, but the new chair has stopped hinting. If the Fed hikes anyway, stock and bond prices would drop sharply because almost nobody is positioned for it.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+      },
+      {
+        "title": "Trump's Russia diesel deal may help Putin more than drivers",
+        "body": "CNBC's Oct 17 analysis says the deal (300K tons now, 500K in Nov, >4M total) gives Moscow leverage and raises questions about US support for Kyiv. Analysts doubt it lowers prices.",
+        "simple": "Diesel powers trucks and farm equipment, so its price feeds into nearly everything. The US eased sanctions to let Russian diesel flow, but Russia may not deliver much. That means less relief at the pump and a political win for Russia.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "WSJ: crypto adviser's firm got Tether money during the GENIUS Act push",
+        "body": "Per BPI's summary, the WSJ alleges a company co-owned by White House crypto adviser Bo Hines received millions from Tether while the stablecoin law moved through Congress.",
+        "simple": "This is a conflict-of-interest story: someone shaping the rules may have been paid by a company those rules benefit. It could lead to calls to revisit stablecoin rules that banks have lobbied on.",
+        "source": "BPI (citing WSJ)",
+        "url": "https://bpi.com/bpinsights-october-17-2026"
+      },
+      {
+        "title": "WSJ: October Fed decision far harder to call than usual",
+        "body": "Seoul Economic Daily cites a WSJ note that the Oct 28 decision is unusually hard to predict, with Warsh calling global tightening 'synchronous'. The blackout began Oct 17.",
+        "simple": "'Blackout' means Fed officials can't speak publicly before a meeting, so there won't be any more hints. With the chair praising other central banks for raising rates, a hike is not off the table.",
+        "source": "Seoul Economic Daily (citing WSJ)",
+        "url": "https://en.sedaily.com/international/2026/10/16/us-rate-path-clouded-as-markets-await-warshs-oct-16-remarks"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Wintrust's Q3 opens the Chicago bank week",
+        "body": "Wintrust reports Monday after the close ($3.31 / $754.7M est.), then Northern Trust Wed and CME Wed before the open, with CME at $2.98 coming off record 29.4M ADV.",
+        "simple": "Three big Chicago financial firms report in three days. Together they show how local business lending, wealth management and the futures exchange are doing in a world of high rates and war-driven oil prices.",
+        "source": "Wintrust / MarketBeat",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wintrust-financial-corporation-announces-third-201500077.html"
+      },
+      {
+        "title": "Ishbia warns of the 'cost of doing nothing' on the White Sox Railyards",
+        "body": "White Sox minority owner Justin Ishbia pushed back on criticism of the South Loop Railyards stadium plan, which needs a new Amtrak maintenance facility next to Rate Field (Oct 15).",
+        "simple": "A new stadium district is a multibillion-dollar real-estate and public-financing bet. If it stalls, the land stays empty and the city loses a potential tax base. That makes it a test of Chicago's ability to get big projects financed.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/real-estate/commercial/ccb-justin-ishbia-crains-event-c-suite-white-sox-amtrak-cost-of-doing-nothing/"
+      },
+      {
+        "title": "Byline buys Illinois State Bancorp",
+        "body": "Chicago's Byline Bancorp agreed to acquire Illinois State Bancorp, one of five states' bank deals in ABA's latest weekly roundup.",
+        "simple": "A bigger local bank is buying a smaller one to gain deposits and customers. It's part of the steady consolidation among Illinois community banks.",
+        "source": "ABA Banking Journal",
+        "url": "https://bankingjournal.aba.com/2026/10/bank-acquisitions-announced-in-five-states-3/"
+      },
+      {
+        "title": "CME's record corn day",
+        "body": "CME corn futures set a daily volume record of 1,206,376 contracts on Oct 9, beating a 2019 high, after a surprise USDA report.",
+        "simple": "A surprise government crop estimate sent farmers, food companies and speculators rushing to re-hedge. It shows CME's agricultural business also gains when news shocks markets.",
+        "source": "PR Newswire (CME Group)",
+        "url": "https://www.prnewswire.com/news-releases/cme-groups-corn-futures-set-new-daily-volume-record-after-usda-raised-outlook-302906207.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Iran says two tankers hit mines and caught fire",
+        "body": "The IRGC says two tankers carrying ≈2M bbl each caught fire after hitting mines on an unauthorized route with trackers off. Tehran says its conditions for reopening Hormuz still stand. There's no independent confirmation.",
+        "simple": "Iran is trying to control which ships can pass through Hormuz, a choke point for about a fifth of the world's oil. Even unconfirmed claims scare shippers and insurers, which keeps oil prices high.",
+        "source": "Al Jazeera (NYT not accessible)",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+      },
+      {
+        "title": "Trump eases Russia sanctions as Europe weighs its own gas imports",
+        "body": "Al Jazeera (Oct 17) reports Trump signed an order waiving newly passed Russia sanctions in the 'national interest', on top of an OFAC diesel license running to Apr 7, 2027.",
+        "simple": "Sanctions limit who can buy from Russia. Waiving them lets more Russian fuel reach world markets, which could ease prices a little, but it also weakens pressure on Moscow over Ukraine. European allies objected.",
+        "source": "Al Jazeera (NYT not accessible)",
+        "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas"
+      },
+      {
+        "title": "Trump's no-strike pledge didn't calm oil",
+        "body": "NBC: Trump pledged no attacks on Iran before the Nov 3 midterms, yet oil kept rising. Analysts warn a wider conflict that damages infrastructure could push crude toward $150.",
+        "simple": "Promising not to strike Iran was meant to cool markets. But Iran is attacking ships on its own terms, so the threat to oil supply hasn't gone away and prices stay high.",
+        "source": "NBC News (NYT not accessible)",
+        "url": "https://www.nbcnews.com/business/energy/oil-prices-stocks-trump-iran-rcna602248"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Pricing weekend gap risk in crude",
+      "point": "Iran's two-tanker mine claim landed Sunday with Globex closed and Brent at $109.86. CME just shelved its 24/7 10-barrel crude contract, so weekend risk still builds up until the 5 PM CT reopen. A good S&T or derivatives question: how do desks hedge Friday-to-Sunday gap risk (short-dated options, Monday weeklies, Brent/WTI spreads), and does CME's pause leave room for 24/7 crypto-style venues to take that flow?"
+    },
+    {
+      "topic": "Is the 15 bp Treasury rally real money or short-covering?",
+      "point": "The 10Y fell to ≈5.09% through hot CPI (3.7%) and PPI (6.3%) prints, yet FedWatch still prices ≈88% odds of a December hike. Wednesday's $13B 20Y and Thursday's $26B 5Y TIPS are the tests. A tail on the 20Y plus strong TIPS demand would point to inflation hedging, not growth fear. Ask a rates trader how they'd trade 2s10s (≈35 bp) around an FOMC where the chair won't pre-signal."
+    },
+    {
+      "topic": "What record-low TCs mean for copper",
+      "point": "Copper and zinc treatment charges are at record lows going into LME Week's 2027 talks, with metals in backwardation and LME copper ≈$14,480/t (+17% YTD). In a metals conversation, connect it: mine scarcity squeezes smelters and keeps spreads backwardated, while Marex expects a December fade as the US tariff pull ends. Ask how a metals desk would express that view, e.g. Dec/Mar calendar spreads versus outright."
+    }
+  ],
+  "caveats": "WSJ, NYT and the Chicago Tribune were not accessible this run, and page fetches failed (DNS errors), so everything comes from search-result excerpts. WSJ items are via BPI and Seoul Economic Daily citations. The NYT bucket uses Al Jazeera and NBC, and the Chicago bucket uses Crain's, ABA, Wintrust and CME. Market tiles are Friday Oct 16 closes repeated from yesterday's brief, with ranges where sources differ. The IRGC two-tanker mine claim is unconfirmed, and CENTCOM has disputed earlier mine claims. Earnings consensus comes from aggregators (Tesla estimates vary). The 5Y TIPS size comes from the refunding plan, not a final announcement.",
+  "updates": []
+}
