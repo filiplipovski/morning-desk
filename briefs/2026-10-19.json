@@ -11,105 +11,112 @@
     "Banks: Fifth Third posted adjusted Q3 EPS of $1.13 vs ≈$1.08–1.09 consensus, with NII of $2.28B (+3% q/q) and CET1 at 10.02%. That is its first quarter with Comerica fully integrated, per its 8-K. Wintrust (Chicago) reports after the close ($3.31 / $754.7M est.), then KeyCorp ($0.46) and Capital One on Tuesday, and CME ($2.98 / $1.71B) and Northern Trust Wednesday. The KBW Bank Index needs to break a six-week losing streak, its longest since 2008, and it sits ≈13% below August's record.",
     "Metals: gold is +0.3% at $4,175.60 spot, and Dec futures briefly went above $4,200 as real yields eased. Silver is up ≈1% to ≈$57.5, platinum ≈+1.3% (≈$1,655) and palladium ≈+1.5% (≈$1,133). The structural bid is intact: WGC data show a record $31B of Q3 ETF inflows, and the PBoC bought 23t in September, its biggest month since Oct 2023."
   ],
-  "markets_asof": "≈9:00 AM CT (cash open; indices derived from Fri close × TheStreet % changes; 2Y/30Y/DXY/copper not refreshed since pre-market)",
+  "markets_asof": "≈11:00 AM–12:15 PM CT (mixed snapshots; 30Y and Russell from mid-morning reads)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,703",
-      "change": "+0.57%",
+      "value": "≈7,723",
+      "change": "≈+0.8%",
       "dir": "up",
-      "note": "Fri close 7,659.44"
+      "note": "Fool/24/7 Wall St., ≈11 AM CT"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,425",
-      "change": "+1.09%",
+      "value": "≈26,576",
+      "change": "≈+1.6%",
       "dir": "up",
-      "note": "Tech rebound after worst week since June"
+      "note": "Chips/AI leading"
     },
     {
       "label": "Dow",
-      "value": "≈51,961",
-      "change": "−0.08%",
+      "value": "≈52,094",
+      "change": "≈+0.15%",
       "dir": "flat",
       "note": "Fri close 52,002.41"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,674",
-      "change": "−1.66%",
-      "dir": "down",
-      "note": "Fri close 2,719.57; already in correction"
+      "value": "≈2,726",
+      "change": "≈+0.2%",
+      "dir": "flat",
+      "note": "Investrade mid-morning; earlier −1.66% was Friday's move"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.73%",
-      "change": "≈−1 bp",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "Pre-market read; not refreshed"
+      "note": "Trading Economics"
     },
     {
       "label": "UST 10Y",
-      "value": "5.079%",
+      "value": "≈5.08%",
       "change": "≈−1 bp",
       "dir": "down",
-      "note": "CNBC; near 1-month low"
+      "note": "Trading Economics"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.41%",
-      "change": "≈−2 bp",
-      "dir": "down",
-      "note": "Pre-market read; not refreshed"
+      "value": "≈5.45%",
+      "change": "≈+1.5 bp",
+      "dir": "up",
+      "note": "Investrade; curve bear-steepening"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Oct 28 hold ≈84%",
       "dir": "flat",
-      "note": "CME FedWatch (morning); hike ≈16%"
+      "note": "FedWatch morning read; not refreshed"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.80",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Pre-market read; not refreshed"
+      "value": "≈101.93",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Range 101.76–102.08"
     },
     {
       "label": "WTI crude",
-      "value": "≈$97",
-      "change": "≈−4%",
+      "value": "≈$98.4",
+      "change": "≈−3%",
       "dir": "down",
-      "note": "FXStreet, European morning; Fri settle $101.41"
+      "note": "Fri settle $101.41"
     },
     {
       "label": "Brent",
-      "value": "$107.57",
-      "change": "−2.1%",
+      "value": "≈$108.6",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "Reuters 0619 GMT; Fri settle $109.86"
+      "note": "Fri settle $109.86"
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,162.92",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "JM Bullion 8:49 AM CT; overnight gain gone"
+      "value": "≈$4,146",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Invezz; firmer dollar, lower oil"
     },
     {
       "label": "Silver (spot)",
-      "value": "$58.03",
-      "change": "+$0.63 (+1.1%)",
+      "value": "≈$57.15",
+      "change": "≈+0.3%",
       "dir": "up",
-      "note": "JM Bullion"
+      "note": "Off $58 morning high"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.54/lb",
-      "change": "≈+0.2%",
+      "value": "≈$6.58/lb",
+      "change": "—",
       "dir": "flat",
-      "note": "Pre-market read; not refreshed"
+      "note": "Snapshot; change not confirmed"
+    },
+    {
+      "label": "VIX",
+      "value": "≈18.1",
+      "change": "—",
+      "dir": "flat",
+      "note": "Sunday Guardian mid-session"
     }
   ],
   "calendar": [
@@ -417,6 +424,49 @@
   "caveats": "WSJ, NYT and the Chicago Tribune couldn't be accessed, and direct page fetches failed (DNS errors), so all figures come from search-result excerpts; WSJ and NYT items are cited via other outlets as marked. Futures, yields, metals and oil are early-session reads from different times and outlets, shown as ≈ or ranges. The Russell and Dow futures levels weren't found. The IRGC tanker-mine claim remains unconfirmed. The MOVE (≈102.5) and the Barclays TRS probe each rest on a single source. The swap spread is our own calculation. Fifth Third's consensus varies by aggregator. Canada CPI consensus wasn't found.",
   "updates": [
     {
+      "at": "2026-10-19T17:17:58Z",
+      "label": "Midday",
+      "headline": "The tech rebound broadened into midday (S&P ≈+0.8%, Nasdaq ≈+1.5–1.7%), but the long end is cheapening: the 30Y is up ≈1.5 bp to ≈5.45% while the 2Y sits flat at ≈4.73%, so the curve is bear-steepening into Wednesday's 20Y.",
+      "points": [
+        "Stocks at ≈11 AM CT: S&P 500 ≈7,721–7,725 (+0.8%), Nasdaq Comp ≈26,576 (+1.5–1.7%), Dow ≈52,094 (+0.15%), VIX ≈18 (Motley Fool, 24/7 Wall St., Sunday Guardian). Correction to the Post-open note: the Russell 2000's −1.66% was Friday's move, not today's. A mid-morning read had it ≈2,726, +0.2% (Investrade), so small caps are flat rather than collapsing. The 'megacap-only' point still holds.",
+        "Rates: the 10Y is ≈5.08% (−1 bp) and the 2Y ≈4.73% (flat) per Trading Economics, but the 30Y is ≈5.45% (+1.5 bp, Investrade) vs the ≈5.41% morning read. That puts 2s30s near 72 bp. The morning's 'term premium' thesis is intact: supply-sensitive long-end paper isn't joining the rally. Today's 26-wk bill drew a 2.84 bid-to-cover (in line); the stop rates weren't published in sources I could reach.",
+        "Oil: WTI ≈$98.4 (≈−3% vs the $101.41 settle) and Brent ≈$108.6 (≈−1.2%) per Yahoo/ZeroHedge snapshots. The Russia waiver is still the driver. The unconfirmed IRGC tanker-mine claims haven't produced a squeeze, and Hormuz traffic trackers still show the strait effectively shut.",
+        "Metals and the dollar: spot gold has slipped to ≈$4,146 (−0.5%) per Invezz, below the ≈$4,163 Post-open read. Lower oil cools breakevens, the DXY is firmer at ≈101.93 (+0.1%), and that combination is hitting gold. Silver is ≈$57.1–57.2 (+0.2–0.3%), off the $58 morning print. COMEX copper is ≈$6.57–6.59/lb.",
+        "No new bank M&A today. Wintrust (≈$3.31 EPS est.) still reports after the close. FedWatch odds weren't refreshed (morning: ≈84% hold for Oct 28)."
+      ],
+      "simple": "Big tech stocks keep recovering from last week's sell-off. But long-term government bonds are falling in price, which pushes their yields (the interest they pay) higher, even as short-term yields hold steady. When long-term borrowing costs rise faster than short-term ones (a 'steepening' curve), investors are usually asking for extra pay to hold debt for decades. That matters for mortgages and for banks, which borrow short and lend long. Gold slipped because cheaper oil eases inflation fears and a slightly stronger dollar makes gold pricier for foreign buyers.",
+      "sources": [
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-midday-oct-19-tech-stocks-rebound-as-ai-confidence-returns"
+        },
+        {
+          "name": "24/7 Wall St. (midday)",
+          "url": "https://247wallst.com/cards/tech-is-carrying-the-entire-session-the-nasdaq-is-up-1-52-gspc-market-bell-01m5aeccsrnx9dsv9nbm0tj3d0"
+        },
+        {
+          "name": "Investrade (mid-morning)",
+          "url": "https://investrade.com/mid-morning-look-october-19-2026/"
+        },
+        {
+          "name": "Trading Economics (10Y/2Y)",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+        },
+        {
+          "name": "Invezz (gold/silver)",
+          "url": "https://invezz.com/ca/news/2026/10/19/gold-slips-silver-rises-as-lower-oil-prices-ease-rate-hike-pressure/"
+        },
+        {
+          "name": "ZeroHedge (Brent, DXY)",
+          "url": "https://zerohedge.com/markets/futures-rise-dip-buyers-rush-back-chips-after-worst-nasdaq-week-liberation-day"
+        },
+        {
+          "name": "Yahoo Finance (gold/oil)",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-19-2026-little-change-in-gold-prices-as-oil-sailed-to-may-highs-112123151.html"
+        }
+      ]
+    },
+    {
       "at": "2026-10-19T14:20:00Z",
       "label": "Post-open",
       "headline": "Megacap tech is leading the rebound (Nasdaq ≈+1.1%, S&P ≈+0.6%), but small caps are getting crushed (Russell ≈−1.7%) as NAHB sinks to 29, a 14-year low, and the 10Y holds just under 5.08%.",
@@ -460,5 +510,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-19T14:20:00Z"
+  "updatedAt": "2026-10-19T17:17:58Z"
 }
