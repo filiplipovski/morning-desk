@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-19",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-19T11:28:19Z",
+  "headline": "The feared 'Black Monday' isn't showing up: Brent is off ≈1.7% to ≈$108 on Trump's Russia-sanctions waiver while the IRGC's tanker-mine claim stays unconfirmed, China's 4.5% GDP beat has Nasdaq futures up ≈1% and the 10Y has slipped to ≈5.07%, and a heavy regional-bank week opens with Fifth Third's beat and Wintrust tonight.",
+  "summary": [
+    "Oil gap risk fizzled. Late Sunday Dec Brent printed $108.52, then traded $107.60–108.06 in Asia, against Friday's $109.86 settle. WTI briefly dipped under $99. The driver is Friday's waiver of new Russia sanctions, not Hormuz: the IRGC still claims two ≈2M-bbl tankers hit mines, but no major wire has confirmed it and CENTCOM says escorted transits continue. A confirmation is the main upside risk to crude and breakevens today.",
+    "Rates: 10Y ≈5.07% (−2 bp), 2Y ≈4.73% (≈flat), 30Y ≈5.41% (CNBC/Trading Economics), so 2s10s ≈34 bp. Term premium is 1.33 pp on the SF Fed model, up from 1.07 a year ago. With the Fed in blackout, FedWatch has an Oct 28 hold at ≈84% and a hike at ≈16%. Supply starts today with $95B 13-week and $82B 26-week bills, then the $13B 20Y reopening Wednesday and the 5Y TIPS Thursday.",
+    "China beat: Q3 GDP grew 4.5% y/y (poll 4.4%, Q2 4.3%) and 1.2% q/q. September retail sales rose 1.1% (poll ≈0.6%) and industrial output 5.5% (in line). Fixed-asset investment fell 7.2% YTD, with property investment down 20.6%. Exports, not consumers, did the work. That supports copper (≈$14,480/t LME into LME Week) and risk sentiment, but it lowers the odds of a big stimulus package.",
+    "Equities: S&P futures are ≈+0.5% at ≈7,740 and Nasdaq-100 futures ≈+1.0% at ≈29,687 after the Nasdaq's −4.5% week. Europe is the soft spot: the Stoxx 600 is ≈−0.3 to −0.7% and the CAC is down ≈1% after the weekend's French riots (more than 2,000 arrests). The French 10Y is up ≈7 bp, with the OAT–Bund spread ≈137 bp.",
+    "Banks: Fifth Third posted adjusted Q3 EPS of $1.13 vs ≈$1.08–1.09 consensus, with NII of $2.28B (+3% q/q) and CET1 at 10.02%. That is its first quarter with Comerica fully integrated, per its 8-K. Wintrust (Chicago) reports after the close ($3.31 / $754.7M est.), then KeyCorp ($0.46) and Capital One on Tuesday, and CME ($2.98 / $1.71B) and Northern Trust Wednesday. The KBW Bank Index needs to break a six-week losing streak, its longest since 2008, and it sits ≈13% below August's record.",
+    "Metals: gold is +0.3% at $4,175.60 spot, and Dec futures briefly went above $4,200 as real yields eased. Silver is up ≈1% to ≈$57.5, platinum ≈+1.3% (≈$1,655) and palladium ≈+1.5% (≈$1,133). The structural bid is intact: WGC data show a record $31B of Q3 ETF inflows, and the PBoC bought 23t in September, its biggest month since Oct 2023."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (futures; yields/DXY/metals early-session reads; oil from Asian/European trade)",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "≈7,739.75",
+      "change": "≈+0.5%",
+      "dir": "up",
+      "note": "Sun night (Yahoo); held ≈+0.5% at 3 AM CT"
+    },
+    {
+      "label": "Nasdaq-100 fut",
+      "value": "≈29,686.75",
+      "change": "≈+1.0%",
+      "dir": "up",
+      "note": "AI buyers return after −4.5% week"
+    },
+    {
+      "label": "Dow fut",
+      "value": "—",
+      "change": "≈+0.1%",
+      "dir": "flat",
+      "note": "Level not found; Benzinga had up to +0.5% late Sun"
+    },
+    {
+      "label": "Russell 2000 fut",
+      "value": "—",
+      "change": "≈+0.5%",
+      "dir": "up",
+      "note": "Fri cash close 2,719.57"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.73%",
+      "change": "≈−1 bp",
+      "dir": "flat",
+      "note": "CNBC/Trading Economics"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.07%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "Fri close 5.085% (CNBC)"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.41%",
+      "change": "≈−2 bp",
+      "dir": "down",
+      "note": "2s10s ≈34 bp"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct 28 hold ≈84%",
+      "dir": "flat",
+      "note": "CME FedWatch; hike ≈16%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.80",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Faded opening high of 102.01 (FXStreet)"
+    },
+    {
+      "label": "WTI crude",
+      "value": "≈$99.80",
+      "change": "≈−1.6%",
+      "dir": "down",
+      "note": "Asian trade; briefly < $99; Fri settle $101.41"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$108.0",
+      "change": "≈−1.7%",
+      "dir": "down",
+      "note": "Range $107.60–108.52; Fri settle $109.86"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "$4,175.60",
+      "change": "+0.3%",
+      "dir": "up",
+      "note": "Dec fut $4,196.40, briefly > $4,200"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$57.5",
+      "change": "≈+1.0%",
+      "dir": "up",
+      "note": "FXStreet $57.53; APMEX later $58.31"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.54/lb",
+      "change": "≈+0.2%",
+      "dir": "flat",
+      "note": "LME 3M last ≈$14,480/t (Fri); no Mon LME print found"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Fifth Third Q3 earnings (out per 8-K)",
+      "consensus": "≈$1.08–1.09 adj. EPS",
+      "prior": "—",
+      "why": "It's the first clean quarter with Comerica fully in. The adjusted $1.13 beat and NII +3% q/q set the bar for regional NII stories all week."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Canada CPI (Sep)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The cleanest read of the energy shock on a G10 peer, and it moves the CAD and front-end correlation with US rates."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "NAHB Housing Market Index (Oct)",
+      "consensus": "31",
+      "prior": "32",
+      "why": "September was the lowest since Sep 2025. With the 10Y above 5%, mortgage rates are squeezing builders, and a further drop feeds the growth-scare side of the Fed debate."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "Treasury bills: $95B 13-wk, $82B 26-wk",
+      "consensus": "—",
+      "prior": "4.085% / 4.200%",
+      "why": "Last week's stops sit ≈20–31 bp above the 3.89% SOFR fixing, so bills already price some chance of a hike. Watch whether that premium widens or narrows."
+    },
+    {
+      "time": "After close",
+      "event": "Wintrust (WTFC) Q3; also W.R. Berkley, BOK Financial, F.N.B., Steel Dynamics",
+      "consensus": "WTFC $3.31 EPS / $754.7M",
+      "prior": "Q2 $3.30 EPS (record $233.7M NI)",
+      "why": "This is Chicago's biggest local bank and a premium-finance/commercial lender. Its deposit costs and loan growth test whether the KBW's six-week slide is overdone. The call is Tue at 10 AM CT."
+    },
+    {
+      "time": "Wed · 12:00 PM",
+      "event": "$13B 20Y bond reopening (CME, Northern Trust, Abbott report before the open)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the week's first long-end supply test after a −15 bp rally. A tail would confirm the 5% 10Y still needs a concession."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC (Fed in blackout)",
+      "consensus": "Hold ≈84% / +25 bp ≈16%",
+      "prior": "3.75–4.00% (Sept hike)",
+      "why": "Warsh gave no guidance in Bangkok. Thursday's claims (200K est.) and Friday's flash PMIs (composite 57.6 est. vs 58.4) are the last big inputs."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "10Y drifts to ≈5.07% as oil, not inflation, leads",
+        "body": "The 10Y is ≈5.07% (−2 bp) and the 2Y ≈4.73%, extending last week's −15 bp rally as Brent slips ≈1.7%. The long end still carries a 1.33 pp term premium (SF Fed, Oct 15), up from 1.07 a year ago and 1.28 at the September FOMC.",
+        "simple": "Term premium is the extra yield investors demand for locking money up for 10 years instead of rolling short loans. It has risen because of inflation risk, war-driven energy prices and heavy government borrowing. Even if the Fed stops hiking, long-term rates on mortgages and corporate debt can stay high for that reason.",
+        "source": "CNBC / SF Fed",
+        "url": "https://www.cnbc.com/2026/10/19/bonds-treasurys-us-yields.html"
+      },
+      {
+        "title": "Real yields ease off the 2.95% peak before Thursday's 5Y TIPS",
+        "body": "As of Oct 14 the 10Y TIPS real yield was 2.84%, down from a 2.95% high on Oct 5, the 5Y was 2.64% and the 10Y breakeven 2.35%. Thursday's $26B 5Y TIPS sale tests demand for inflation protection while Brent sits near $108.",
+        "simple": "A real yield is what a bond pays after inflation. TIPS are Treasuries that adjust for inflation, and the breakeven is the inflation rate the market expects. Falling real yields help gold, and with CPI at 3.7%, a 2.35% breakeven suggests investors think the current inflation is temporary.",
+        "source": "TreasuryRateWatch / tipsyield",
+        "url": "https://treasuryratewatch.com/daily/tips-real-yields"
+      },
+      {
+        "title": "French riots widen the OAT–Bund spread",
+        "body": "The French 10Y is up ≈7 bp Monday after weekend riots with more than 2,000 arrests, and the CAC is down ≈1%. The OAT sits ≈4.86% vs the Bund at ≈3.41% (≈137 bp spread). The Gilt is ≈5.38% and the JGB 10Y ≈2.9–3.1% (sources disagree).",
+        "simple": "A spread is the gap between two countries' borrowing costs. A wider gap means investors see France as riskier, here because of social unrest on top of debt near 119% of GDP. Stress in Europe can push money into US Treasuries, which tends to pull US yields down.",
+        "source": "CNBC / Yahoo Finance (Bloomberg)",
+        "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME heads into Wednesday's earnings off record Q3 volume",
+        "body": "Q3 average daily volume was a record 29.4M contracts (+16% y/y), including 15.1M in interest-rate products (+13%) and 2.7M in energy (+16%). September alone set a record at 31.8M. Consensus is $2.98 EPS on ≈$1.71B revenue, with results Wed before the open (call 7:30 AM CT).",
+        "simple": "CME runs the exchanges where traders buy and sell futures, contracts to trade something later at a price fixed today. It earns a fee on each trade, so volatile months like this one, with Fed, war and oil swings, are good for business. Volume is the number to watch, along with whether new products keep the growth going.",
+        "source": "CME Group / AlphaStreet",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/02/cme_group_reportsrecordaveragedailyvolumeforseptemberandq3driven.html"
+      },
+      {
+        "title": "Vol and front-end pricing: an October hike is mostly priced out",
+        "body": "FedWatch shows ≈84% hold / ≈16% hike for Oct 28, down from ≈44% hike odds right after CPI on Oct 14. SOFR fixed 3.89% (Oct 15) vs IORB at 3.90%, and the 10Y SOFR swap was 4.71%. That puts the 10Y swap spread around −35 to −37 bp (our arithmetic). The VIX closed Friday at 19.99 and the MOVE at ≈102.5 (single source).",
+        "simple": "Fed-funds and SOFR futures let traders bet on where the Fed's rate will be, and FedWatch turns those prices into odds. A swap spread is the gap between the swap rate and the Treasury yield. A deeply negative spread means Treasuries yield more than swaps, a sign that dealers are struggling to absorb all the government debt.",
+        "source": "Tradingpedia / BlueGamma / Bloomberg",
+        "url": "https://tradingpedia.com/2026/10/19/loonie-holds-firm-as-softer-fed-outlook-weighs-on-usd"
+      },
+      {
+        "title": "Brent options record, and the weekend gap that didn't come",
+        "body": "ICE Brent options set Q3 records for volume and ADV as Hormuz risk drove hedging. Monday's open went the other way: Brent fell from $109.86 to ≈$107.60–108.52 on the Russia waiver, not up on the IRGC mine claim.",
+        "simple": "An option is the right, but not the obligation, to buy or sell at a set price. Traders use options to protect against sudden jumps like a weekend tanker attack. This weekend the bigger news was more Russian supply being allowed, so anyone who paid up for upside protection lost money.",
+        "source": "Energy News / ADVFN",
+        "url": "https://energynews.pro/en/ice-brent-options-post-record-volume-in-the-third-quarter-of-2026"
+      },
+      {
+        "title": "CME widens its crypto lineup while fighting the CFTC on perps",
+        "body": "CME lists Bitcoin Cash and Uniswap futures today, bringing it to 11 single-asset crypto contracts, and plans European dairy futures and options. It is also suing the CFTC over the agency's approval of bitcoin perpetual futures at a rival.",
+        "simple": "A perpetual future is a futures contract that never expires, hugely popular on offshore crypto exchanges. CME argues the CFTC's approval for a competitor was improper because these products could pull trading away from CME's traditional dated futures. That is a fight over who wins the next wave of trading volume.",
+        "source": "Blockhead",
+        "url": "https://blockhead.co/2026/10/19/cme-group-adds-bitcoin-cash-and-uniswap-futures-taking-its-single-asset-crypto-lineup-to-11"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold +0.3% to $4,175.60 as yields ease; futures test $4,200",
+        "body": "Spot gold is $4,175.60 and Dec futures $4,196.40 after briefly going above $4,200, following a −0.7% week. WGC data show a record $31B of Q3 ETF inflows (holdings a record 4,256t), and the PBoC added 23t in September, its largest month since Oct 2023. Gold is still ≈26% below its 2026 peak.",
+        "simple": "Gold pays no interest, so it does better when real interest rates fall and the dollar is flat or weaker, as this morning. Central banks, led by China, keep buying it to hold fewer dollars. That puts a floor under the price even when traders turn cautious.",
+        "source": "Mitrade (Reuters) / Kitco (WGC)",
+        "url": "https://www.kitco.com/news/article/2026-10-15/china-buys-gold-dip-etf-holdings-hit-record-and-holiday-demand-lifts-q4"
+      },
+      {
+        "title": "Silver and PGMs bounce 1–1.5% after a rough month",
+        "body": "Silver is ≈$57.5 (+≈1%; APMEX later showed $58.31) after falling ≈11% over the past month. Platinum is ≈$1,651–1,656 (+≈1.3%) and palladium ≈$1,133 (+≈1.5%).",
+        "simple": "Silver and platinum-group metals (PGMs: platinum and palladium) are partly precious and partly industrial, used in solar panels and car catalytic converters. They swing harder than gold. China's stronger-than-expected factory output gave them a lift today.",
+        "source": "Yahoo Finance / FXStreet",
+        "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610190931"
+      },
+      {
+        "title": "LME Week opens with record-negative copper treatment charges",
+        "body": "LME copper is ≈$14,480/t (Fri), ≈3% below September's $14,875 record. Antofagasta cleared Centinela concentrate at −$310/t and Los Pelambres in the −$330s, with Teck's Highland Valley in the −$370s. 2027 benchmark talks with Chinese smelters start this week. Grasberg, Kamoa-Kakula and El Teniente remain disrupted, and a possible 15% US refined-copper tariff from Jan 2027 is still unconfirmed.",
+        "simple": "Treatment charges are the fee miners normally pay smelters to turn ore into metal. When they go negative, smelters are paying miners for ore, which shows how scarce mined copper is. Tight supply plus China's 4.5% growth keeps copper near records, raising costs for wiring, power grids and data centers.",
+        "source": "Kitco (Reuters) / SMM",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-10-16/antofagasta-nets-its-highest-ever-copper-treatment-charges-auction"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Fifth Third beats as the Comerica integration finishes",
+      "body": "Q3 adjusted EPS was $1.13 ($0.90 reported) vs ≈$1.08–1.09 consensus. Net income to common was $828M vs $608M a year ago, NII $2.28B (+3% q/q), revenue ≈$3.28B and CET1 10.02%.",
+      "simple": "NII (net interest income) is what a bank earns on loans minus what it pays depositors, its core profit engine. CET1 is the bank's cushion of top-quality capital against losses. Fifth Third bought Comerica, and this quarter shows the merger adding earnings, a template for other regional-bank deals.",
+      "source": "SEC 8-K (Fifth Third)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000035527/000003552726000229/q32026earningsrelease.htm"
+    },
+    {
+      "title": "KBW Bank Index: six straight losing weeks, longest since 2008",
+      "body": "Big-bank shares fell ≈1% last week, leaving the index ≈13% below its August record. BofA dropped 5.7% on a revenue miss and a $1.2B settlement charge. Regions earned $0.71 with record capital-markets fees, and PNC net income was $2.097B.",
+      "simple": "The KBW index tracks large US bank stocks. Investors are selling on fears that AI-related loans could sour and that hot inflation forces more Fed hikes, which can hurt loan demand. Good earnings haven't been enough to stop the slide so far.",
+      "source": "Bloomberg / FINCHANNEL",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008"
+    },
+    {
+      "title": "Regional earnings wave: Wintrust tonight, KeyCorp and Capital One Tuesday",
+      "body": "Wintrust is expected at $3.31 EPS / $754.7M revenue (Q2: $3.30, record $233.7M NI). KeyCorp is expected at $0.46 on ≈$2.05B. Capital One's focus is Discover card migration costs. BOK Financial, F.N.B. and ServisFirst also report this week.",
+      "simple": "Regional banks lend to mid-sized companies and local real estate, so their results show how Main Street is handling 5% Treasury yields. Watch deposit costs, meaning what banks pay savers, and loan growth. For Capital One, the question is whether absorbing Discover's card network is costing more than planned.",
+      "source": "MarketBeat / AlphaStreet",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-10-19-wintrust-financial-co-stock/"
+    },
+    {
+      "title": "Private credit: record fundraising, a deployment squeeze and a Barclays swap probe",
+      "body": "Nuveen Private Capital reached $100B, and Reuters reports private-credit fundraising at records while finding deals to fund gets harder. CNBC reported the Bank of England is examining whether Barclays traders misstated total return swaps on private-credit loans. The shares fell ≈2.5%; one source only.",
+      "simple": "Private credit is lending by investment funds instead of banks. A total return swap lets a bank pass the gains and losses on a loan to someone else without selling it. If those swaps were valued wrongly, losses tied to risky loans could be hiding on a bank's books, which is why regulators care.",
+      "source": "Alternative Credit Investor / CNBC",
+      "url": "https://alternativecreditinvestor.com/2026/10/19/exclusive-nuveen-private-capital-hits-100bn-after-three-year-fundraising-drive/"
+    },
+    {
+      "title": "Quiet IPO week before a possible Anthropic filing; M&A led by tech",
+      "body": "Renaissance Capital lists no US IPOs this week, with an Anthropic filing possibly as soon as Friday. Last week's deals: Proofpoint–Varonis (≈$6.3B) and Copart–ACV (≈$1.9B). Byline–Illinois State Bancorp ($87.9M, Oct 6) is the latest Illinois bank deal.",
+      "simple": "An IPO is when a private company first sells shares to the public, and investment banks earn big fees running it. A mega-IPO like Anthropic's would be a major test of investor appetite. Small bank mergers like Byline's show community banks combining to spread rising compliance and technology costs.",
+      "source": "Renaissance Capital / Banking Dive",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/122277/us-ipo-week-ahead-ipo-calendar-stays-quiet-ahead-of-potential-anthropic"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures rise as AI buyers return after the worst week since June",
+        "body": "Nasdaq futures are up ≈1% and Brent is down 1.7% to ≈$108.02 on the Russia waiver. Fed funds futures show ≈84% odds of an Oct 28 hold.",
+        "simple": "Stock futures trade overnight and preview the day's opening. After a big selloff in tech stocks, bargain hunters are stepping back in. Cheaper oil also eases inflation fears that would push the Fed to hike.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "French riots hit Paris stocks and bonds",
+        "body": "The CAC fell ≈1–1.2% and the French 10Y rose ≈7 bp after weekend riots with more than 2,000 arrests. The euro slipped to ≈$1.1225.",
+        "simple": "When a country looks politically unstable, investors demand more interest to lend to it and sell its stocks. France already has heavy government debt, so unrest makes markets worry about its ability to manage it.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+      },
+      {
+        "title": "China's Q3 growth quickens to 4.5% on exports",
+        "body": "GDP grew 4.5% y/y (4.4% expected) and 1.2% q/q. Industrial output rose 5.5%, retail sales 1.1%, and FAI fell 7.2% YTD.",
+        "simple": "GDP measures an economy's total output. China grew a bit faster than expected, but mostly by selling goods abroad rather than its own people spending. That is good for metals demand, but it reduces the pressure on Beijing to stimulate.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
+      },
+      {
+        "title": "Indonesian stocks hit a six-year low on MSCI downgrade fears",
+        "body": "Indonesia's benchmark fell more than 5% Monday on fears that MSCI will cut the market's index status.",
+        "simple": "MSCI builds the indexes that trillions of dollars of funds copy. A downgrade forces those funds to sell automatically, so investors are getting out early.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/amp/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Putin floats a Trump–Xi summit on Ukraine",
+        "body": "The WSJ reports Putin proposed a three-way meeting next month without Zelensky. The Kremlin says the idea is under discussion but not settled.",
+        "simple": "A peace deal would likely bring more Russian oil and gas to market, which would push energy prices down. Leaving Ukraine out of the talks makes any deal politically fragile.",
+        "source": "US News (Reuters, citing WSJ)",
+        "url": "https://www.usnews.com/news/world/articles/2026-10-18/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-wsj-says"
+      },
+      {
+        "title": "Russian fuel waivers become a midterm liability for the GOP",
+        "body": "Trump's Russian diesel license and sanctions waivers are dogging Republican candidates ahead of Nov 3, while diesel stays near record highs.",
+        "simple": "Waivers let Americans buy Russian fuel despite sanctions, aimed at lowering diesel prices. Voters and allies see it as going easy on Russia, and diesel is still expensive, so it isn't helping much politically.",
+        "source": "SBS News (citing WSJ)",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008804612"
+      },
+      {
+        "title": "Michael Dell: the memory chip crunch will worsen",
+        "body": "Dell expects the memory shortage to deepen into 2027 and called it possibly 'a four-year problem.'",
+        "simple": "AI data centers are gobbling up memory chips, leaving fewer for PCs and phones. Prices for those devices may rise, and chipmakers like Micron profit.",
+        "source": "Newsquawk (citing WSJ)",
+        "url": "https://www.newsquawk.com/headlines/michael-dell-dell-expects-memory-crunch-to-get-worse-wsj-reports"
+      },
+      {
+        "title": "Oil falls ≈2% as the Russia waiver outweighs Hormuz",
+        "body": "Brent fell to ≈$107.60–108 and WTI to ≈$97.50–100. Analysts note the waiver doesn't fix the Hormuz disruption.",
+        "simple": "More legal Russian supply calms fears of a shortage. But the Strait of Hormuz, where much of the world's oil passes, is still disrupted, so prices remain far above normal.",
+        "source": "AGBI",
+        "url": "https://www.agbi.com/oil-and-gas/2026/10/trumps-russia-sanctions-waiver-pushes-oil-prices-down/"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Wintrust reports after the close",
+        "body": "Consensus is $3.31 EPS (vs $3.06 a year ago) on ≈$754.7M revenue, after a record Q2 profit of $233.7M.",
+        "simple": "Wintrust is Chicago's largest locally based bank. Its results show how local businesses and borrowers are coping with high interest rates.",
+        "source": "MarketBeat (Tribune not accessible)",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-10-19-wintrust-financial-co-stock/"
+      },
+      {
+        "title": "CME adds Bitcoin Cash and Uniswap futures",
+        "body": "The launch brings CME to 11 single-asset crypto contracts. CME also plans European dairy futures and reports Q3 Wednesday after record September ADV of 31.8M.",
+        "simple": "The Chicago exchange keeps adding products so more traders bring their business to it. Crypto futures let big institutions bet on digital coins through a regulated exchange.",
+        "source": "Blockhead / CME Group",
+        "url": "https://blockhead.co/2026/10/19/cme-group-adds-bitcoin-cash-and-uniswap-futures-taking-its-single-asset-crypto-lineup-to-11"
+      },
+      {
+        "title": "United Airlines reports Tuesday with fuel the swing factor",
+        "body": "Analysts expect ≈$3.03 EPS within the $2.50–3.50 guide. Fuel added ≈$575M of cost in Q3.",
+        "simple": "Jet fuel is an airline's second-biggest cost after labor. With oil around $100, investors want to know how much United can pass on through higher fares.",
+        "source": "Yahoo Finance (Barchart)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-united-airlines-next-063112518.html"
+      },
+      {
+        "title": "Goolsbee: AI build-out may be overheating the economy",
+        "body": "The Chicago Fed president called September CPI 'discouraging' but wants more data before backing another hike. The policy range is 3.75–4.00%.",
+        "simple": "Massive spending on AI data centers is pushing up demand for power, construction and chips, which can raise prices. Goolsbee is signaling patience, not an automatic hike.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-austan-goolsbee-inflation-overheating-20261014/"
+      },
+      {
+        "title": "Diesel costs squeeze Chicago's less visible businesses",
+        "body": "US diesel averaged ≈$6.28/gal around Oct 8, up ≈70% since the war began Feb 28. That pressures truckers, distributors and contractors in the Chicago area.",
+        "simple": "Diesel powers trucks, trains and construction equipment, so its price feeds into almost everything that gets shipped. Small firms can't hedge it the way airlines can.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/gist-podcast/ccb-diesel-prices-hurting-chicago-businesses-20261015/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "US floats reviving Russian gas transit through Ukraine",
+        "body": "The NYT reports US officials proposed, as part of a peace framework, that the EU buy more Russian gas and that Ukraine allow transit again.",
+        "simple": "Europe cut Russian gas after the invasion and pays more for alternatives. Reopening the pipeline would cut European energy costs but hand Russia revenue and leverage.",
+        "source": "UA News (citing NYT)",
+        "url": "https://ua.news/en/world/nyt-povidomila-pro-propozitsiiu-ssha-vidnoviti-tranzit-rosiiskogo-gazu-cherez-ukrayinu"
+      },
+      {
+        "title": "France's worst riots in years expose fiscal risk",
+        "body": "The OAT 10Y is at ≈4.86% vs the Bund at 3.41%, with French debt near 119% of GDP.",
+        "simple": "France borrows a lot, and unrest makes painful budget fixes harder. That is why its borrowing cost is well above Germany's.",
+        "source": "Yahoo Finance (Bloomberg)",
+        "url": "https://finance.yahoo.com/economy/policy/articles/frances-riots-highlight-growing-risk-064002890.html"
+      },
+      {
+        "title": "Warsh keeps markets guessing before Oct 28",
+        "body": "October hike odds fell below ≈15–20% from ≈27% after his Bangkok remarks. Goldman expects a skip now and a hike in December, with CPI at 3.7%.",
+        "simple": "By refusing to give guidance, the Fed chair keeps traders uncertain. Markets now think the Fed waits this month but may still raise rates by year-end.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Negative swap spreads at a 5% 10Y",
+      "point": "With the 10Y SOFR swap ≈4.71% vs the 10Y Treasury ≈5.07–5.09%, the 10Y swap spread is about −35 to −37 bp (my arithmetic off public quotes). Ask a rates desk whether that reflects dealer balance-sheet limits (SLR) as coupon supply grows, and whether the SLR changes have made swap-spread wideners a real trade into the November refunding."
+    },
+    {
+      "topic": "Copper: negative TCs vs. a futures discount to the record",
+      "point": "Antofagasta's spot charges at −$310 to −$370/t mean smelters are paying miners for concentrate, yet LME copper is ≈3% below its $14,875 record. A good metals question for LME Week: is the physical tightness showing up in the LME spreads/backwardation and the COMEX–LME arb (tariff risk from Jan 2027) rather than in the outright price?"
+    },
+    {
+      "topic": "CME's print as a vol barometer",
+      "point": "CME's record Q3 ADV of 29.4M (rates 15.1M) came during a Fed hiking cycle, a war and $110 Brent. Before Wednesday, ask whether consensus of $2.98 already captures the rate-per-contract mix, and how much the perp-futures fight with the CFTC and its 11-coin crypto lineup matter next to Treasury and SOFR futures, which still drive the franchise."
+    }
+  ],
+  "caveats": "WSJ, NYT and the Chicago Tribune couldn't be accessed, and direct page fetches failed (DNS errors), so all figures come from search-result excerpts; WSJ and NYT items are cited via other outlets as marked. Futures, yields, metals and oil are early-session reads from different times and outlets, shown as ≈ or ranges. The Russell and Dow futures levels weren't found. The IRGC tanker-mine claim remains unconfirmed. The MOVE (≈102.5) and the Barclays TRS probe each rest on a single source. The swap spread is our own calculation. Fifth Third's consensus varies by aggregator. Canada CPI consensus wasn't found.",
+  "updates": []
+}
