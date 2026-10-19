@@ -11,42 +11,42 @@
     "Banks: Fifth Third posted adjusted Q3 EPS of $1.13 vs ≈$1.08–1.09 consensus, with NII of $2.28B (+3% q/q) and CET1 at 10.02%. That is its first quarter with Comerica fully integrated, per its 8-K. Wintrust (Chicago) reports after the close ($3.31 / $754.7M est.), then KeyCorp ($0.46) and Capital One on Tuesday, and CME ($2.98 / $1.71B) and Northern Trust Wednesday. The KBW Bank Index needs to break a six-week losing streak, its longest since 2008, and it sits ≈13% below August's record.",
     "Metals: gold is +0.3% at $4,175.60 spot, and Dec futures briefly went above $4,200 as real yields eased. Silver is up ≈1% to ≈$57.5, platinum ≈+1.3% (≈$1,655) and palladium ≈+1.5% (≈$1,133). The structural bid is intact: WGC data show a record $31B of Q3 ETF inflows, and the PBoC bought 23t in September, its biggest month since Oct 2023."
   ],
-  "markets_asof": "≈11:00 AM–12:15 PM CT (mixed snapshots; 30Y and Russell from mid-morning reads)",
+  "markets_asof": "Close ≈3:15 PM CT (indices final; yields, oil and metals are late-session reads, not settles)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,723",
-      "change": "≈+0.8%",
+      "value": "7,690.73",
+      "change": "+0.41%",
       "dir": "up",
-      "note": "Fool/24/7 Wall St., ≈11 AM CT"
+      "note": "Close (CNBC); faded from ≈+0.8% midday"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,576",
-      "change": "≈+1.6%",
+      "value": "26,430.89",
+      "change": "+1.11%",
       "dir": "up",
-      "note": "Chips/AI leading"
+      "note": "Close; chips led"
     },
     {
       "label": "Dow",
-      "value": "≈52,094",
-      "change": "≈+0.15%",
+      "value": "51,966.03",
+      "change": "−0.07%",
       "dir": "flat",
-      "note": "Fri close 52,002.41"
+      "note": "Close; −36.38 pts"
     },
     {
       "label": "Russell 2000",
       "value": "≈2,726",
       "change": "≈+0.2%",
       "dir": "flat",
-      "note": "Investrade mid-morning; earlier −1.66% was Friday's move"
+      "note": "Mid-morning read; close not confirmed (Fri 2,721.37)"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.73%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Trading Economics"
+      "value": "≈4.76%",
+      "change": "≈+3 bp",
+      "dir": "up",
+      "note": "Trading Economics; approximate"
     },
     {
       "label": "UST 10Y",
@@ -58,65 +58,65 @@
     {
       "label": "UST 30Y",
       "value": "≈5.45%",
-      "change": "≈+1.5 bp",
+      "change": "≈+2–4 bp",
       "dir": "up",
-      "note": "Investrade; curve bear-steepening"
+      "note": "TE pages show 5.44–5.47%; curve steeper"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hold ≈84%",
+      "change": "Oct 28 hold priced",
       "dir": "flat",
-      "note": "FedWatch morning read; not refreshed"
+      "note": "LSEG Dec hike ≈88% (Fri read)"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.93",
+      "value": "≈101.9",
       "change": "≈+0.1%",
       "dir": "up",
-      "note": "Range 101.76–102.08"
+      "note": "Midday read; not refreshed"
     },
     {
       "label": "WTI crude",
-      "value": "≈$98.4",
-      "change": "≈−3%",
+      "value": "≈$98",
+      "change": "≈−2–3%",
       "dir": "down",
-      "note": "Fri settle $101.41"
+      "note": "Intraday $97.5–99.5; settle not confirmed (Fri $101.41)"
     },
     {
       "label": "Brent",
-      "value": "≈$108.6",
-      "change": "≈−1.2%",
+      "value": "≈$108",
+      "change": "≈−1.5–2%",
       "dir": "down",
-      "note": "Fri settle $109.86"
+      "note": "Intraday $107.6–108.4 (Fri $109.86)"
     },
     {
-      "label": "Gold (spot)",
-      "value": "≈$4,146",
-      "change": "≈−0.5%",
+      "label": "Gold (Dec fut)",
+      "value": "$4,163.40",
+      "change": "−0.42%",
       "dir": "down",
-      "note": "Invezz; firmer dollar, lower oil"
+      "note": "2:33 PM CT (Yahoo); spot ≈$4,168–4,181"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$57.15",
-      "change": "≈+0.3%",
+      "value": "≈$58.2",
+      "change": "≈+0.8%",
       "dir": "up",
-      "note": "Off $58 morning high"
+      "note": "USAGOLD"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.58/lb",
-      "change": "—",
-      "dir": "flat",
-      "note": "Snapshot; change not confirmed"
+      "value": "$6.54/lb",
+      "change": "+0.16%",
+      "dir": "up",
+      "note": "Trading Economics"
     },
     {
       "label": "VIX",
-      "value": "≈18.1",
+      "value": "≈18",
       "change": "—",
       "dir": "flat",
-      "note": "Sunday Guardian mid-session"
+      "note": "Midday read; close not confirmed"
     }
   ],
   "calendar": [
@@ -424,6 +424,57 @@
   "caveats": "WSJ, NYT and the Chicago Tribune couldn't be accessed, and direct page fetches failed (DNS errors), so all figures come from search-result excerpts; WSJ and NYT items are cited via other outlets as marked. Futures, yields, metals and oil are early-session reads from different times and outlets, shown as ≈ or ranges. The Russell and Dow futures levels weren't found. The IRGC tanker-mine claim remains unconfirmed. The MOVE (≈102.5) and the Barclays TRS probe each rest on a single source. The swap spread is our own calculation. Fifth Third's consensus varies by aggregator. Canada CPI consensus wasn't found.",
   "updates": [
     {
+      "at": "2026-10-19T20:18:19Z",
+      "label": "Close",
+      "headline": "Tech's rebound held but halved into the bell (Nasdaq +1.11%, S&P +0.41%, Dow −0.07%), and the long end kept cheapening: the 30Y finished ≈5.45% against a ≈5.08% 10Y. Wintrust and Zions report tonight.",
+      "points": [
+        "Final levels (CNBC): S&P 500 7,690.73 (+0.41%), Nasdaq Comp 26,430.89 (+1.11%), Dow 51,966.03 (−36.38, −0.07%). At midday the S&P was ≈+0.8% and the Nasdaq ≈+1.6%, so roughly half the gain faded. Chips led all day (Bloomberg had a chip gauge +3.5% at midday). This was dip-buying after the Nasdaq's −4.5% week, not a broad re-rating. Meta and Tesla later this week are the real test of the AI trade.",
+        "Rates (approximate; no official close in reach): 10Y ≈5.08% (≈−1 bp), 2Y ≈4.76%, 30Y ≈5.44–5.47% (≈+2–4 bp) per Trading Economics. That's 2s30s ≈70 bp: a mild bear-steepener into Wednesday's $13B 20Y. The morning's '10Y slipped to ≈5.07%' read held but didn't extend. The market still prices an Oct 28 hold, and LSEG had a December hike at ≈88% (Friday read; not refreshed today). Axios flagged unusual Treasury volatility: last week's hot CPI briefly pushed the 10Y over 5.3%.",
+        "Commodities: oil stayed lower on the Russia waiver, with Brent ≈$107.6–108.4 (≈−1.5–2% vs the $109.86 Fri settle) and WTI ≈$97.5–99.5. I couldn't confirm settles. Gold Dec futures were $4,163.40 (−$17.70, −0.42%) at 2:33 PM CT (Yahoo), with spot ≈$4,168–4,181. Silver outperformed again at ≈$58.2 spot (+0.8%, USAGOLD), and COMEX copper was $6.54/lb (+0.16%, Trading Economics).",
+        "Banks: I found no new bank M&A today. After the close: Wintrust (est. $3.31 EPS / $754.7M revenue; Q2 was $3.30 with a 3.52% NIM), Zions, W.R. Berkley, BOK Financial, F.N.B. and Steel Dynamics. The 26-wk bill drew a 2.84 bid-to-cover vs a 2.74 average, so demand was ordinary. I couldn't find the 13-wk result.",
+        "Tuesday (CT): Sep housing starts at 7:30 AM (1.30M est vs 1.275M prior) and the KC Fed manufacturing survey at 10 AM. Pre-market earnings: GE, GM, RTX, 3M, Northrop, Halliburton, Ally, MSCI. After the close: Netflix, Capital One, Intuitive Surgical, Chubb, United. The Wintrust call is at 10 AM. The Fed is still in blackout."
+      ],
+      "simple": "Tech stocks finished higher but gave back about half their morning gains, a sign that investors are cautiously buying the dip rather than fully confident. Long-term government bonds kept falling in price, so their yields (the interest they pay) rose. Thirty-year borrowing costs are now well above ten-year ones, and that gap (a 'steeper curve') usually means investors want extra pay to lend for decades. That keeps mortgage and long-term business loan rates high, but it helps banks, which earn the gap between short-term deposits and longer-term loans. Tonight's results from Chicago's Wintrust will show whether that benefit is reaching the bank's profits.",
+      "sources": [
+        {
+          "name": "CNBC (live updates/close)",
+          "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Bloomberg (markets wrap)",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "name": "Trading Economics (30Y)",
+          "url": "https://tradingeconomics.com/united-states/30-year-bond-yield"
+        },
+        {
+          "name": "Axios (Treasury volatility)",
+          "url": "https://axios.com/2026/10/19/treasury-yields-hedge-funds-volatility"
+        },
+        {
+          "name": "Business Recorder/Reuters (Fed odds)",
+          "url": "https://brecorder.com/news/40444850/us-treasuries-ten-year-yields-set-for-biggest-weekly-loss-in-more-than-a-year"
+        },
+        {
+          "name": "USAGOLD (gold/silver)",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-october-19-2026/"
+        },
+        {
+          "name": "RTTNews (oil)",
+          "url": "https://www.rttnews.com/story.aspx?Id=3700045"
+        },
+        {
+          "name": "MarketBeat (Wintrust est.)",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-10-19-wintrust-financial-co-stock/"
+        },
+        {
+          "name": "Investrade (week calendar)",
+          "url": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-19T17:17:58Z",
       "label": "Midday",
       "headline": "The tech rebound broadened into midday (S&P ≈+0.8%, Nasdaq ≈+1.5–1.7%), but the long end is cheapening: the 30Y is up ≈1.5 bp to ≈5.45% while the 2Y sits flat at ≈4.73%, so the curve is bear-steepening into Wednesday's 20Y.",
@@ -510,5 +561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-19T17:17:58Z"
+  "updatedAt": "2026-10-19T20:18:19Z"
 }
