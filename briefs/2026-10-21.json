@@ -11,86 +11,440 @@
     "Equities: futures are firm (S&P ≈+0.2%, Nasdaq-100 ≈+0.6%, Dow ≈flat, Benzinga) on Musk confirming SpaceX and Tesla boards have formed special merger committees. SpaceX rose ≈8% after hours and Tesla 1–2%. Losers after hours: Netflix ≈−6% (Q4 guide $13.4B vs $13.51B, 2026 ad revenue cut to ≈$2.7B), Intuitive ≈−7% (per-procedure pricing cut) and United ≈−2–4% (Q4 EPS guide $0.50–1.50 vs ≈$1.75; fuel cost +62%). Tesla, IBM, TI and Lam report tonight.",
     "Metals: gold is ≈$4,115–4,122, down for a fourth straight day, pushed lower by 5%+ yields, December hike odds and oil-driven inflation fears. The $4,076 support level is in play. Silver is $57.34 (−1.1%) and COMEX copper ≈$6.48/lb (−0.9%). LME copper is ≈$14,342 into LME Week after rising LME stocks and the end of a Chilean mine strike, still below the $14,875 record."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT. Futures and commodities are early-Wed prints. Index levels and Russell are Tue closes. Yields are early-Wed estimates (official Treasury table not reachable).",
+  "markets_asof": "Post-open ≈9:20 AM CT. Index levels are early-session snapshots; tiles marked 'no fresh print' carry over earlier values.",
   "markets": [
-    {"label": "S&P 500", "value": "7,712.57", "change": "fut ≈+0.2%", "dir": "up", "note": "Tue close +0.28%; futures via Benzinga"},
-    {"label": "Nasdaq Comp", "value": "26,424.82", "change": "NQ fut ≈+0.6%", "dir": "up", "note": "Tue −0.02%; SpaceX-Tesla merger talk"},
-    {"label": "Dow", "value": "52,495.88", "change": "fut ≈flat", "dir": "flat", "note": "Tue +529.85 (+1.02%)"},
-    {"label": "Russell 2000", "value": "2,773.42", "change": "+1.65%", "dir": "up", "note": "Tue close; small caps led"},
-    {"label": "UST 2Y", "value": "≈4.79%", "change": "≈flat", "dir": "flat", "note": "Tue ≈4.78–4.79%"},
-    {"label": "UST 10Y", "value": "≈5.12–5.13%", "change": "≈+1 bp", "dir": "up", "note": "Tue close ≈5.115% (CNBC)"},
-    {"label": "UST 30Y", "value": "≈5.43%", "change": "≈flat", "dir": "flat", "note": "Tue 5.426% (CNBC)"},
-    {"label": "Fed funds", "value": "3.75–4.00%", "change": "Oct hold ≈83%", "dir": "flat", "note": "Dec hike ≈88–94%"},
-    {"label": "Dollar index", "value": "≈101.6", "change": "≈−0.1%", "dir": "down", "note": "Near 3-week low (Vantage)"},
-    {"label": "Brent (Dec)", "value": "≈$110.4", "change": "+1.4%", "dir": "up", "note": "Tue settle $108.79; 5-mo high $111.99"},
-    {"label": "WTI (Dec)", "value": "≈$99.2", "change": "+1.4%", "dir": "up", "note": "Nov expired $101.79 Tue"},
-    {"label": "Gold (spot)", "value": "≈$4,115–4,122", "change": "≈−0.2%", "dir": "down", "note": "4th straight decline; support $4,076"},
-    {"label": "Silver", "value": "$57.34", "change": "−1.1%", "dir": "down", "note": "FXStreet"},
-    {"label": "Copper (COMEX)", "value": "≈$6.48/lb", "change": "≈−0.9%", "dir": "down", "note": "LME 3M ≈$14,342 (Mon)"}
+    {
+      "label": "S&P 500",
+      "value": "≈7,734",
+      "change": "≈+0.3%",
+      "dir": "up",
+      "note": "Early session (Investing.com)"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "≈26,621",
+      "change": "≈+0.7%",
+      "dir": "up",
+      "note": "SpaceX ≈+8%, chips ≈+2%"
+    },
+    {
+      "label": "Dow",
+      "value": "≈52,563",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Hovered near flat at the open"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,773.42",
+      "change": "—",
+      "dir": "flat",
+      "note": "Tue close; no fresh print found"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.79%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "No fresh print; early estimate"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.12%",
+      "change": "≈+0–1 bp",
+      "dir": "flat",
+      "note": "Ahead of noon 20Y auction"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.44%",
+      "change": "≈+1 bp",
+      "dir": "up",
+      "note": "CNBC/Yahoo early trade"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hold 82.8%",
+      "dir": "flat",
+      "note": "Dec hike ≈90–94% (FedWatch)"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.6",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print found"
+    },
+    {
+      "label": "Brent (Dec)",
+      "value": "≈$110",
+      "change": "≈+1.1–1.5%",
+      "dir": "up",
+      "note": "Quotes $109.64–110.40; Tue settle $108.79"
+    },
+    {
+      "label": "WTI (Dec)",
+      "value": "≈$99.2",
+      "change": "+1.4%",
+      "dir": "up",
+      "note": "EIA inventories 9:30 CT"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,110–4,115",
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "4th straight decline; support $4,076"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$57.3–58.3",
+      "change": "—",
+      "dir": "flat",
+      "note": "Sources conflict (FXStreet/Kitco vs APMEX)"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.61/lb",
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "Kitco; morning tile likely low"
+    }
   ],
   "calendar": [
-    {"time": "6:00 AM", "event": "MBA mortgage applications (week)", "consensus": "—", "prior": "−2.7%; 30Y fixed 7.50%", "why": "Mortgage rates at 7.5% are crushing housing: Tuesday brought 1.221M starts and record-low pending sales. Another drop backs the growth-scare side of the Fed debate."},
-    {"time": "Pre-mkt", "event": "Earnings out: CME Group, Northern Trust, Old National; due: AT&T, Abbott, Danaher, Thermo Fisher, Philip Morris, NextEra", "consensus": "CME $2.98 · NTRS ≈$2.81–2.87 · ONB $0.66 · T $0.60 / ≈$31.7B", "prior": "Actual: CME $3.02 · NTRS $3.40 · ONB $0.66", "why": "CME is the clearest read on how much hedging a 5% 10Y and $110 oil are generating. Northern Trust tests trust-bank fee income at record asset prices."},
-    {"time": "9:30 AM", "event": "United Airlines Q3 call; EIA weekly crude inventories", "consensus": "Crude ≈−0.1M to −0.3M bbl", "prior": "API Tue: −4.9M bbl", "why": "United assumes $4.80/gal jet fuel for Q4. A draw anywhere near API's −4.9M would add to the oil squeeze that is holding up breakevens."},
-    {"time": "12:00 PM", "event": "$13B 20-year bond reopening", "consensus": "WI ≈5.47% (20Y Tue, Forbes)", "prior": "Sep stop 5.420%", "why": "This is the first long-end supply test since oil went back above $110. A tail would show the curve still needs a term-premium concession, and a stop-through would back the 'bond bottom' option bets."},
-    {"time": "After close", "event": "Tesla, IBM, Texas Instruments, Lam Research", "consensus": "TSLA ≈$0.43–0.45 / $27.94B · IBM ≈$2.87 / ≈$16.8–17.0B", "prior": "—", "why": "Tesla's call (3:30 PM CT) is the first chance to press Musk on the SpaceX merger. Lam and TI test the chip trade after this week's Micron strike scare. Sources conflict on whether Meta reports today or Oct 28."},
-    {"time": "Oct 27–28", "event": "FOMC (Fed in blackout)", "consensus": "Hold ≈83% / +25 bp ≈16%", "prior": "3.75–4.00% (Sept hike)", "why": "December hike odds are 88–94%. The last inputs before the meeting are Thursday's claims and Friday's flash PMIs."}
+    {
+      "time": "6:00 AM",
+      "event": "MBA mortgage applications (week)",
+      "consensus": "—",
+      "prior": "−2.7%; 30Y fixed 7.50%",
+      "why": "Mortgage rates at 7.5% are crushing housing: Tuesday brought 1.221M starts and record-low pending sales. Another drop backs the growth-scare side of the Fed debate."
+    },
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings out: CME Group, Northern Trust, Old National; due: AT&T, Abbott, Danaher, Thermo Fisher, Philip Morris, NextEra",
+      "consensus": "CME $2.98 · NTRS ≈$2.81–2.87 · ONB $0.66 · T $0.60 / ≈$31.7B",
+      "prior": "Actual: CME $3.02 · NTRS $3.40 · ONB $0.66",
+      "why": "CME is the clearest read on how much hedging a 5% 10Y and $110 oil are generating. Northern Trust tests trust-bank fee income at record asset prices."
+    },
+    {
+      "time": "9:30 AM",
+      "event": "United Airlines Q3 call; EIA weekly crude inventories",
+      "consensus": "Crude ≈−0.1M to −0.3M bbl",
+      "prior": "API Tue: −4.9M bbl",
+      "why": "United assumes $4.80/gal jet fuel for Q4. A draw anywhere near API's −4.9M would add to the oil squeeze that is holding up breakevens."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$13B 20-year bond reopening",
+      "consensus": "WI ≈5.47% (20Y Tue, Forbes)",
+      "prior": "Sep stop 5.420%",
+      "why": "This is the first long-end supply test since oil went back above $110. A tail would show the curve still needs a term-premium concession, and a stop-through would back the 'bond bottom' option bets."
+    },
+    {
+      "time": "After close",
+      "event": "Tesla, IBM, Texas Instruments, Lam Research",
+      "consensus": "TSLA ≈$0.43–0.45 / $27.94B · IBM ≈$2.87 / ≈$16.8–17.0B",
+      "prior": "—",
+      "why": "Tesla's call (3:30 PM CT) is the first chance to press Musk on the SpaceX merger. Lam and TI test the chip trade after this week's Micron strike scare. Sources conflict on whether Meta reports today or Oct 28."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC (Fed in blackout)",
+      "consensus": "Hold ≈83% / +25 bp ≈16%",
+      "prior": "3.75–4.00% (Sept hike)",
+      "why": "December hike odds are 88–94%. The last inputs before the meeting are Thursday's claims and Friday's flash PMIs."
+    }
   ],
   "desk": {
     "rates": [
-      {"title": "Tuesday's bond rally was oil-driven, and oil has reversed it", "body": "Treasuries rallied 3–6 bp (Bloomberg) as oil eased on Iran-deal hopes and the housing data disappointed. The 10Y closed ≈5.115% (CNBC) and the 30Y ≈5.426%, after trading at 5.144% early (Reuters via Yahoo). With Brent back at ≈$110 overnight, the 10Y is ≈5.12–5.13% and above last week's 5.04% low.", "simple": "A yield is the interest rate a bond pays, and it moves opposite to the bond's price. Investors bought bonds Tuesday because cheaper oil means less inflation, but the oil drop didn't last. That keeps mortgage, car-loan and business borrowing costs near their highest levels in about 20 years.", "source": "Bloomberg / CNBC", "url": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-rise-as-oil-retreats-from-highest-levels-in-weeks"},
-      {"title": "$13B 20Y reopening at noon CT is the day's supply test", "body": "Treasury is reopening the 20Y for $13B, settling Oct 23. September's auction stopped at 5.420%, and the 20Y traded ≈5.47% Tuesday (Forbes). Hedge funds' long-bond short has shrunk four weeks running to 17.4% from 18.6% (Sigro), so there is less short-covering demand to absorb supply.", "simple": "A 'reopening' means the government is selling more of a bond that already exists. A 'tail' means it had to pay a higher rate than traders expected, which is a sign of weak demand. With fewer short sellers left who need to buy bonds back, the auction relies on genuine buyers.", "source": "U.S. Treasury / Investing.com", "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"},
-      {"title": "Global yields: UK CPI shock, French spread blowout, BOJ heading higher", "body": "UK September CPI jumped to 3.5% from 3.1%, which locks in a November BoE hike, and 10Y gilts sit at 5.42–5.44%. French unrest pushed the OAT–Bund spread to ≈147 bp, its widest close since the euro crisis, while 10Y Bunds fell to 3.43%. A Reuters poll sees the BOJ at 1.50% in December, and 51% of economists now expect a terminal rate of 2% or more.", "simple": "A spread is the gap between two yields. A wider gap means investors want extra pay to hold the riskier country's debt. Rising rates in Britain and Japan pull global money away from US bonds, and that keeps US long-term rates higher too.", "source": "FXStreet / Trading Economics / Reuters poll", "url": "https://www.fxstreet.com/analysis/uk-jobs-surprise-locks-in-a-november-boe-hike-as-gilts-miss-the-haven-bid-202610201005"},
-      {"title": "Real yields near 18-year highs; Fed path firmly hawkish", "body": "The 10Y TIPS real yield is ≈2.80% and the 10Y breakeven ≈2.35% (Oct 19, Treasury real-curve data). September's TIPS reopening cleared at 2.653%, the highest in nearly 18 years. CPI is 3.7%, Goldman sees a second and final hike in December, and LSEG prices ≈88% for that move.", "simple": "A real yield is a bond's return after inflation. TIPS are Treasuries whose principal rises with inflation. A real yield near 2.8% means money is genuinely expensive, which slows borrowing and puts pressure on assets that pay no interest, like gold.", "source": "Treasury Rate Watch / Tipswatch / Business Recorder (LSEG)", "url": "https://tipswatch.com/2026/09/17/10-year-tips-reopening-gets-real-yield-of-2-653-highest-in-nearly-18-years/"}
+      {
+        "title": "Tuesday's bond rally was oil-driven, and oil has reversed it",
+        "body": "Treasuries rallied 3–6 bp (Bloomberg) as oil eased on Iran-deal hopes and the housing data disappointed. The 10Y closed ≈5.115% (CNBC) and the 30Y ≈5.426%, after trading at 5.144% early (Reuters via Yahoo). With Brent back at ≈$110 overnight, the 10Y is ≈5.12–5.13% and above last week's 5.04% low.",
+        "simple": "A yield is the interest rate a bond pays, and it moves opposite to the bond's price. Investors bought bonds Tuesday because cheaper oil means less inflation, but the oil drop didn't last. That keeps mortgage, car-loan and business borrowing costs near their highest levels in about 20 years.",
+        "source": "Bloomberg / CNBC",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-rise-as-oil-retreats-from-highest-levels-in-weeks"
+      },
+      {
+        "title": "$13B 20Y reopening at noon CT is the day's supply test",
+        "body": "Treasury is reopening the 20Y for $13B, settling Oct 23. September's auction stopped at 5.420%, and the 20Y traded ≈5.47% Tuesday (Forbes). Hedge funds' long-bond short has shrunk four weeks running to 17.4% from 18.6% (Sigro), so there is less short-covering demand to absorb supply.",
+        "simple": "A 'reopening' means the government is selling more of a bond that already exists. A 'tail' means it had to pay a higher rate than traders expected, which is a sign of weak demand. With fewer short sellers left who need to buy bonds back, the auction relies on genuine buyers.",
+        "source": "U.S. Treasury / Investing.com",
+        "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+      },
+      {
+        "title": "Global yields: UK CPI shock, French spread blowout, BOJ heading higher",
+        "body": "UK September CPI jumped to 3.5% from 3.1%, which locks in a November BoE hike, and 10Y gilts sit at 5.42–5.44%. French unrest pushed the OAT–Bund spread to ≈147 bp, its widest close since the euro crisis, while 10Y Bunds fell to 3.43%. A Reuters poll sees the BOJ at 1.50% in December, and 51% of economists now expect a terminal rate of 2% or more.",
+        "simple": "A spread is the gap between two yields. A wider gap means investors want extra pay to hold the riskier country's debt. Rising rates in Britain and Japan pull global money away from US bonds, and that keeps US long-term rates higher too.",
+        "source": "FXStreet / Trading Economics / Reuters poll",
+        "url": "https://www.fxstreet.com/analysis/uk-jobs-surprise-locks-in-a-november-boe-hike-as-gilts-miss-the-haven-bid-202610201005"
+      },
+      {
+        "title": "Real yields near 18-year highs; Fed path firmly hawkish",
+        "body": "The 10Y TIPS real yield is ≈2.80% and the 10Y breakeven ≈2.35% (Oct 19, Treasury real-curve data). September's TIPS reopening cleared at 2.653%, the highest in nearly 18 years. CPI is 3.7%, Goldman sees a second and final hike in December, and LSEG prices ≈88% for that move.",
+        "simple": "A real yield is a bond's return after inflation. TIPS are Treasuries whose principal rises with inflation. A real yield near 2.8% means money is genuinely expensive, which slows borrowing and puts pressure on assets that pay no interest, like gold.",
+        "source": "Treasury Rate Watch / Tipswatch / Business Recorder (LSEG)",
+        "url": "https://tipswatch.com/2026/09/17/10-year-tips-reopening-gets-real-yield-of-2-653-highest-in-nearly-18-years/"
+      }
     ],
     "derivatives": [
-      {"title": "CME Group: record Q3 on volatility-driven hedging", "body": "Revenue was $1.737B vs ≈$1.71B expected. Adj. EPS $3.02 vs $2.98, GAAP $2.89. ADV was a Q3-record 29.4M contracts (+16%), with double-digit growth in all six asset classes. Market-data revenue hit a record $243M (+20%) and ≈$1B went back to shareholders.", "simple": "CME runs the main US exchange for futures, which are contracts to buy or sell something later at a price fixed today. When rates, oil and metals swing, more companies and funds hedge (protect themselves against price moves), and CME collects a fee on every contract. War, a hiking Fed and 5% yields have been very good for its business.", "source": "CME Group (PR Newswire)", "url": "https://www.prnewswire.com/news-releases/cme-group-inc-reports-highest-q3-revenue-on-record-for-q3-2026-302915184.html"},
-      {"title": "Options desks split on the bond bottom", "body": "Traders are adding options bets that the 10Y yield rises at least 20 bp by month-end (GuruFocus). Meanwhile, Saxo reports upside in long-duration Treasury ETFs being sold across several expiries. The MOVE index (Treasury implied vol) is ≈98–102, down from its second-highest level of the year.", "simple": "An option is the right, not the obligation, to buy or sell at a set price. Here some traders are paying for protection in case yields jump again, while others sell the chance of a big bond rally. The MOVE index measures how much traders expect bond prices to swing; it has eased but is still high.", "source": "GuruFocus / Saxo / Cboe", "url": "https://home.saxo/en-gb/content/articles/options/the-front-end-drains-the-tails-do-not---options-brief---20-october-2026-20102026"},
-      {"title": "Swap spreads deeply negative; COT shows shorts covering", "body": "The 10Y SOFR swap was ≈4.73% on Oct 20 (BlueGamma) vs a ≈5.12–5.15% 10Y Treasury, which implies a 10Y swap spread of roughly −40 bp (my calculation). CFTC data (as of Oct 13) shows hedge funds' long-bond short trimmed to 17.4% of open interest, its smallest since 2019. The next COT report is Oct 23.", "simple": "A swap spread compares the fixed rate on an interest-rate swap (a contract trading fixed for floating rates) with the Treasury yield. A deeply negative spread means Treasuries yield more than swaps because there are too many bonds for dealers' balance sheets to hold. That's a sign of supply strain in the government bond market.", "source": "BlueGamma / Sigro Research", "url": "https://sigroresearch.substack.com/p/positioning-the-long-bond-short-is"}
+      {
+        "title": "CME Group: record Q3 on volatility-driven hedging",
+        "body": "Revenue was $1.737B vs ≈$1.71B expected. Adj. EPS $3.02 vs $2.98, GAAP $2.89. ADV was a Q3-record 29.4M contracts (+16%), with double-digit growth in all six asset classes. Market-data revenue hit a record $243M (+20%) and ≈$1B went back to shareholders.",
+        "simple": "CME runs the main US exchange for futures, which are contracts to buy or sell something later at a price fixed today. When rates, oil and metals swing, more companies and funds hedge (protect themselves against price moves), and CME collects a fee on every contract. War, a hiking Fed and 5% yields have been very good for its business.",
+        "source": "CME Group (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-inc-reports-highest-q3-revenue-on-record-for-q3-2026-302915184.html"
+      },
+      {
+        "title": "Options desks split on the bond bottom",
+        "body": "Traders are adding options bets that the 10Y yield rises at least 20 bp by month-end (GuruFocus). Meanwhile, Saxo reports upside in long-duration Treasury ETFs being sold across several expiries. The MOVE index (Treasury implied vol) is ≈98–102, down from its second-highest level of the year.",
+        "simple": "An option is the right, not the obligation, to buy or sell at a set price. Here some traders are paying for protection in case yields jump again, while others sell the chance of a big bond rally. The MOVE index measures how much traders expect bond prices to swing; it has eased but is still high.",
+        "source": "GuruFocus / Saxo / Cboe",
+        "url": "https://home.saxo/en-gb/content/articles/options/the-front-end-drains-the-tails-do-not---options-brief---20-october-2026-20102026"
+      },
+      {
+        "title": "Swap spreads deeply negative; COT shows shorts covering",
+        "body": "The 10Y SOFR swap was ≈4.73% on Oct 20 (BlueGamma) vs a ≈5.12–5.15% 10Y Treasury, which implies a 10Y swap spread of roughly −40 bp (my calculation). CFTC data (as of Oct 13) shows hedge funds' long-bond short trimmed to 17.4% of open interest, its smallest since 2019. The next COT report is Oct 23.",
+        "simple": "A swap spread compares the fixed rate on an interest-rate swap (a contract trading fixed for floating rates) with the Treasury yield. A deeply negative spread means Treasuries yield more than swaps because there are too many bonds for dealers' balance sheets to hold. That's a sign of supply strain in the government bond market.",
+        "source": "BlueGamma / Sigro Research",
+        "url": "https://sigroresearch.substack.com/p/positioning-the-long-bond-short-is"
+      }
     ],
     "metals": [
-      {"title": "Gold down four days straight as yields and oil squeeze it", "body": "Spot gold is ≈$4,115–4,122 (Kitco $4,122.30), its fourth straight decline, with $4,076 the support analysts watch. Oil above $110 feeds December hike bets, and the 10Y is above 5.1%. Goldman's end-2026 target is $4,900, but its Fed-hike downside case is $4,400.", "simple": "Gold pays no interest, so when bonds pay over 5% holding gold costs you more in lost income. Oil-driven inflation fears make a Fed hike more likely, which pushes rates up further. Big buyers like central banks are what keep the price from falling harder.", "source": "Kitco / FX Leaders / Goldman Sachs", "url": "https://www.fxleaders.com/news/2026/10/20/gold-price-forecast-xau-usd-oil-yields-4076-support/"},
-      {"title": "PBoC's 23rd straight month of buying, its biggest since 2023", "body": "China's central bank added ≈740k oz (≈23t, WGC; Kitco says 21t) in September, bringing reserves to a record 77.47M oz. That is the largest monthly purchase since Oct 2023 and ≈103t so far in 2026.", "simple": "Central banks hold gold as a reserve that no other government can freeze or print. China buying steadily for almost two years puts a floor under the price. That's why gold is holding above $4,000 even with high real yields, which would normally push it down.", "source": "World Gold Council / Kitco", "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"},
-      {"title": "Copper into LME Week: rich forecasts, softer tape", "body": "LME 3M copper fell 0.4% to ≈$14,342 Monday as LME stocks rose and a Chilean mine strike ended. That leaves it below the $14,875 record set Sept 10 on refined-copper tariff bets, and the COMEX premium has nearly vanished. Citi sees $15,000 over 12 months and JPM $14,800 for Q4. Treatment charges (smelter fees) are at record lows, and the Yangshan premium hit a 4-year high of $135/t.", "simple": "Copper goes into wiring, power grids and data centers, so its price tracks global building and electricity demand. Record-low smelter fees mean mined copper ore is scarce. Rising LME warehouse stocks and the end of a strike, though, mean near-term supply looks a bit less tight.", "source": "Kitco / Fastmarkets / SteelNews", "url": "https://www.kitco.com/news/off-the-wire/2026-10-19/copper-price-falls-lme-stocks-edge-higher-and-mine-supply-concerns"},
-      {"title": "Silver and PGMs track gold lower", "body": "Silver is $57.34 (−1.1%, FXStreet) after a ≈$56.9–58.6 range Tuesday. Platinum was $1,634.90 and palladium ≈$1,088–1,105 (Fortune, Tue). Silver's industrial (solar, electronics) side gives it more downside than gold if growth fears build.", "simple": "Silver and platinum are part precious metal, part industrial input. They usually follow gold, but they swing harder because factory demand matters too. Weak housing and auto data are a headwind for that demand.", "source": "FXStreet / Fortune", "url": "https://fortune.com/article/current-price-of-silver-10-20-2026/"}
+      {
+        "title": "Gold down four days straight as yields and oil squeeze it",
+        "body": "Spot gold is ≈$4,115–4,122 (Kitco $4,122.30), its fourth straight decline, with $4,076 the support analysts watch. Oil above $110 feeds December hike bets, and the 10Y is above 5.1%. Goldman's end-2026 target is $4,900, but its Fed-hike downside case is $4,400.",
+        "simple": "Gold pays no interest, so when bonds pay over 5% holding gold costs you more in lost income. Oil-driven inflation fears make a Fed hike more likely, which pushes rates up further. Big buyers like central banks are what keep the price from falling harder.",
+        "source": "Kitco / FX Leaders / Goldman Sachs",
+        "url": "https://www.fxleaders.com/news/2026/10/20/gold-price-forecast-xau-usd-oil-yields-4076-support/"
+      },
+      {
+        "title": "PBoC's 23rd straight month of buying, its biggest since 2023",
+        "body": "China's central bank added ≈740k oz (≈23t, WGC; Kitco says 21t) in September, bringing reserves to a record 77.47M oz. That is the largest monthly purchase since Oct 2023 and ≈103t so far in 2026.",
+        "simple": "Central banks hold gold as a reserve that no other government can freeze or print. China buying steadily for almost two years puts a floor under the price. That's why gold is holding above $4,000 even with high real yields, which would normally push it down.",
+        "source": "World Gold Council / Kitco",
+        "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"
+      },
+      {
+        "title": "Copper into LME Week: rich forecasts, softer tape",
+        "body": "LME 3M copper fell 0.4% to ≈$14,342 Monday as LME stocks rose and a Chilean mine strike ended. That leaves it below the $14,875 record set Sept 10 on refined-copper tariff bets, and the COMEX premium has nearly vanished. Citi sees $15,000 over 12 months and JPM $14,800 for Q4. Treatment charges (smelter fees) are at record lows, and the Yangshan premium hit a 4-year high of $135/t.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price tracks global building and electricity demand. Record-low smelter fees mean mined copper ore is scarce. Rising LME warehouse stocks and the end of a strike, though, mean near-term supply looks a bit less tight.",
+        "source": "Kitco / Fastmarkets / SteelNews",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-10-19/copper-price-falls-lme-stocks-edge-higher-and-mine-supply-concerns"
+      },
+      {
+        "title": "Silver and PGMs track gold lower",
+        "body": "Silver is $57.34 (−1.1%, FXStreet) after a ≈$56.9–58.6 range Tuesday. Platinum was $1,634.90 and palladium ≈$1,088–1,105 (Fortune, Tue). Silver's industrial (solar, electronics) side gives it more downside than gold if growth fears build.",
+        "simple": "Silver and platinum are part precious metal, part industrial input. They usually follow gold, but they swing harder because factory demand matters too. Weak housing and auto data are a headwind for that demand.",
+        "source": "FXStreet / Fortune",
+        "url": "https://fortune.com/article/current-price-of-silver-10-20-2026/"
+      }
     ]
   },
   "banking": [
-    {"title": "Capital One beats big with Discover integrated", "body": "Q3 net income was $3.5B ($5.61 GAAP; $6.69 adj. vs ≈$5.30–5.50 consensus) on $16.3B revenue and an 8.41% NIM. Discover-related amortization ($483M) and integration costs ($338M) are still being absorbed. Shares rose after hours.", "simple": "Capital One is a giant credit-card lender that bought Discover's card network. NIM, or net interest margin, is the gap between what a bank earns on loans and what it pays on deposits, and credit cards earn very wide margins. The beat suggests consumers are still paying their bills despite high rates.", "source": "Capital One 8-K / Investing.com", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-capital-one-beats-q3-2026-estimates-shares-rise-93CH-4961323"},
-      {"title": "Northern Trust and Old National report this morning", "body": "Northern Trust (Chicago) earned $3.40 a share ($642.9M), vs $2.29 a year ago and a ≈$2.81 Benzinga consensus (comparability unclear), after $48.7M of notable items. Old National posted record net income of $250.0M ($0.66, in line) on $57.6B deposits and $51.2B loans, though its commercial pipeline fell 20% q/q to $4.4B.", "simple": "Northern Trust mainly earns fees for holding and managing assets for wealthy families and institutions, so high stock prices help it. Old National is a Midwest regional bank. A shrinking commercial pipeline means fewer business loans are on the way, an early sign companies are pulling back at these rates.", "source": "SEC 8-K filings", "url": "https://www.sec.gov/Archives/edgar/data/0000073124/000007312426000063/q32026earningsreleaseex991.htm"},
-      {"title": "Regional banks: a mostly clean week", "body": "KeyCorp beat ($0.51 vs $0.46, revenue $2.04B, stock +3.2%, $320M of buybacks). Zions earned $1.78 (+20% y/y), though NIM is 3.23%. Ally raised its dividend to $0.35, its first increase since 2022. Wintrust posted its 7th straight record ($239.1M, $3.37) with ≈8% annualized loan and deposit growth.", "simple": "Regional banks lend to local businesses and households. Earnings beats and bigger dividends and buybacks show their loan books are holding up. The one weak spot is that the margins they earn are getting squeezed as deposit costs stay high.", "source": "Investing.com / Motley Fool", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-keycorp-tops-profit-forecasts-in-q3-2026-as-shares-rise-93CH-4960489"},
-      {"title": "SpaceX and Tesla form merger committees", "body": "Musk said both boards have formed special committees of independent directors to evaluate a combination, which he called 'a good idea.' There is no agreement yet, and a deal would need approval from 50% of all outstanding Tesla shares. SpaceX rose ≈8% after hours on Q3 revenue of ≈$14.6B (+161%), and Tesla 1–2%.", "simple": "A special committee is a group of independent directors who negotiate a deal when the same person (here, Musk) sits on both sides, to protect outside shareholders. If it happens, it would be one of the largest mergers ever, worth large advisory fees to the investment banks involved.", "source": "TechCrunch / Axios", "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"},
-      {"title": "Anthropic's draft S-1 surfaces ahead of a possible IPO", "body": "The WSJ reports Anthropic's draft filing shows H1 2026 revenue of $16.3B (vs $1.1B a year earlier) and a net loss of $80.7B. About $72B of that loss is a non-cash charge on convertible notes and financing instruments. A listing could come as soon as November (unconfirmed), and the company declined to comment.", "simple": "An S-1 is the disclosure document a company files to sell shares to the public in an IPO. Most of the reported loss is an accounting charge tied to how the company raised money, not cash it spent. A deal this size would be a huge fee event for capital-markets desks.", "source": "WSJ via Reuters/US News", "url": "https://money.usnews.com/investing/news/articles/2026-10-20/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports"}
+    {
+      "title": "Capital One beats big with Discover integrated",
+      "body": "Q3 net income was $3.5B ($5.61 GAAP; $6.69 adj. vs ≈$5.30–5.50 consensus) on $16.3B revenue and an 8.41% NIM. Discover-related amortization ($483M) and integration costs ($338M) are still being absorbed. Shares rose after hours.",
+      "simple": "Capital One is a giant credit-card lender that bought Discover's card network. NIM, or net interest margin, is the gap between what a bank earns on loans and what it pays on deposits, and credit cards earn very wide margins. The beat suggests consumers are still paying their bills despite high rates.",
+      "source": "Capital One 8-K / Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-capital-one-beats-q3-2026-estimates-shares-rise-93CH-4961323"
+    },
+    {
+      "title": "Northern Trust and Old National report this morning",
+      "body": "Northern Trust (Chicago) earned $3.40 a share ($642.9M), vs $2.29 a year ago and a ≈$2.81 Benzinga consensus (comparability unclear), after $48.7M of notable items. Old National posted record net income of $250.0M ($0.66, in line) on $57.6B deposits and $51.2B loans, though its commercial pipeline fell 20% q/q to $4.4B.",
+      "simple": "Northern Trust mainly earns fees for holding and managing assets for wealthy families and institutions, so high stock prices help it. Old National is a Midwest regional bank. A shrinking commercial pipeline means fewer business loans are on the way, an early sign companies are pulling back at these rates.",
+      "source": "SEC 8-K filings",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000073124/000007312426000063/q32026earningsreleaseex991.htm"
+    },
+    {
+      "title": "Regional banks: a mostly clean week",
+      "body": "KeyCorp beat ($0.51 vs $0.46, revenue $2.04B, stock +3.2%, $320M of buybacks). Zions earned $1.78 (+20% y/y), though NIM is 3.23%. Ally raised its dividend to $0.35, its first increase since 2022. Wintrust posted its 7th straight record ($239.1M, $3.37) with ≈8% annualized loan and deposit growth.",
+      "simple": "Regional banks lend to local businesses and households. Earnings beats and bigger dividends and buybacks show their loan books are holding up. The one weak spot is that the margins they earn are getting squeezed as deposit costs stay high.",
+      "source": "Investing.com / Motley Fool",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-keycorp-tops-profit-forecasts-in-q3-2026-as-shares-rise-93CH-4960489"
+    },
+    {
+      "title": "SpaceX and Tesla form merger committees",
+      "body": "Musk said both boards have formed special committees of independent directors to evaluate a combination, which he called 'a good idea.' There is no agreement yet, and a deal would need approval from 50% of all outstanding Tesla shares. SpaceX rose ≈8% after hours on Q3 revenue of ≈$14.6B (+161%), and Tesla 1–2%.",
+      "simple": "A special committee is a group of independent directors who negotiate a deal when the same person (here, Musk) sits on both sides, to protect outside shareholders. If it happens, it would be one of the largest mergers ever, worth large advisory fees to the investment banks involved.",
+      "source": "TechCrunch / Axios",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+    },
+    {
+      "title": "Anthropic's draft S-1 surfaces ahead of a possible IPO",
+      "body": "The WSJ reports Anthropic's draft filing shows H1 2026 revenue of $16.3B (vs $1.1B a year earlier) and a net loss of $80.7B. About $72B of that loss is a non-cash charge on convertible notes and financing instruments. A listing could come as soon as November (unconfirmed), and the company declined to comment.",
+      "simple": "An S-1 is the disclosure document a company files to sell shares to the public in an IPO. Most of the reported loss is an accounting charge tied to how the company raised money, not cash it spent. A deal this size would be a huge fee event for capital-markets desks.",
+      "source": "WSJ via Reuters/US News",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-20/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports"
+    }
   ],
   "sources": {
     "cnbc": [
-      {"title": "United cuts its outlook as fuel costs surge 62%", "body": "Revenue was a record $17.9B (+17.4%), but adj. EPS of $2.54 missed. The Q4 guide of $0.50–1.50 is well below the ≈$1.75 consensus, and it assumes jet fuel at $4.80/gal vs $3.90 in Q3. Shares fell ≈2–4% after hours.", "simple": "Jet fuel is an airline's second-biggest cost, and the Middle East conflict has pushed it sharply higher. United is filling planes but making less on each ticket after fuel. It shows how an oil shock flows straight into company profits.", "source": "CNBC", "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html"},
-      {"title": "Netflix slides ≈6% on a soft guide and an ad-revenue cut", "body": "EPS was $0.87 vs $0.82 and revenue $12.87B, in line. The Q4 revenue guide of ≈$13.4B trails the $13.51B estimate, the 2026 ad-revenue target fell to ≈$2.7B from $3B, and it plans ≈1,000 job cuts.", "simple": "Beating this quarter wasn't enough because investors pay for future growth, and the outlook came in light. The smaller ad forecast suggests the cheaper, ad-supported plan is earning less than hoped.", "source": "CNBC", "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html"},
-      {"title": "GM beats but the stock falls 6–7%", "body": "Adj. EPS was $3.70 vs $3.63 on ≈$50.0B revenue. It narrowed FY EPS guidance to $12.75–13.75 and approved a new $20B buyback, but cost pressure hit the shares.", "simple": "A buyback is a company purchasing its own shares, which usually supports the price. Investors focused instead on rising costs and a guide that didn't go up, which matters more for future profits.", "source": "CNBC", "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"},
-      {"title": "Boeing's 737 Max 10 wins FAA certification", "body": "After years of delays, the largest Max variant is certified, with 1,555 orders from 30+ customers. Fleetwide safety-retrofit deadlines run to Oct 2027 and Oct 2029.", "simple": "The FAA must approve a new plane model before airlines can fly it. Certification lets Boeing start delivering a backlog it can finally turn into cash. United is one of the biggest buyers waiting on this jet.", "source": "CNBC", "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html"}
+      {
+        "title": "United cuts its outlook as fuel costs surge 62%",
+        "body": "Revenue was a record $17.9B (+17.4%), but adj. EPS of $2.54 missed. The Q4 guide of $0.50–1.50 is well below the ≈$1.75 consensus, and it assumes jet fuel at $4.80/gal vs $3.90 in Q3. Shares fell ≈2–4% after hours.",
+        "simple": "Jet fuel is an airline's second-biggest cost, and the Middle East conflict has pushed it sharply higher. United is filling planes but making less on each ticket after fuel. It shows how an oil shock flows straight into company profits.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html"
+      },
+      {
+        "title": "Netflix slides ≈6% on a soft guide and an ad-revenue cut",
+        "body": "EPS was $0.87 vs $0.82 and revenue $12.87B, in line. The Q4 revenue guide of ≈$13.4B trails the $13.51B estimate, the 2026 ad-revenue target fell to ≈$2.7B from $3B, and it plans ≈1,000 job cuts.",
+        "simple": "Beating this quarter wasn't enough because investors pay for future growth, and the outlook came in light. The smaller ad forecast suggests the cheaper, ad-supported plan is earning less than hoped.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html"
+      },
+      {
+        "title": "GM beats but the stock falls 6–7%",
+        "body": "Adj. EPS was $3.70 vs $3.63 on ≈$50.0B revenue. It narrowed FY EPS guidance to $12.75–13.75 and approved a new $20B buyback, but cost pressure hit the shares.",
+        "simple": "A buyback is a company purchasing its own shares, which usually supports the price. Investors focused instead on rising costs and a guide that didn't go up, which matters more for future profits.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+      },
+      {
+        "title": "Boeing's 737 Max 10 wins FAA certification",
+        "body": "After years of delays, the largest Max variant is certified, with 1,555 orders from 30+ customers. Fleetwide safety-retrofit deadlines run to Oct 2027 and Oct 2029.",
+        "simple": "The FAA must approve a new plane model before airlines can fly it. Certification lets Boeing start delivering a backlog it can finally turn into cash. United is one of the biggest buyers waiting on this jet.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html"
+      }
     ],
     "wsj": [
-      {"title": "Anthropic's draft S-1 shows an $80.7B first-half loss", "body": "This was a WSJ scoop. H1 revenue was $16.3B, and ≈$72B of the loss is a non-cash charge on financing instruments. Compute spending could reach $750B.", "simple": "This is the first detailed look at the finances of one of the biggest AI companies. It shows revenue growing very fast alongside huge accounting losses. Investors will have to decide what the business is worth before any IPO.", "source": "WSJ via Reuters/US News", "url": "https://money.usnews.com/investing/news/articles/2026-10-20/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports"},
-      {"title": "Larry Ellison pledges SpaceX, Tesla and Paramount shares for loans", "body": "Ellison expanded borrowing with Citi, JPMorgan, HSBC, UBS and BNP Paribas, pledging those shares as collateral for the first time. The money backs his son's $81B Warner Bros. takeover, which closed Oct 6. The loan size was not disclosed.", "simple": "A share-backed loan lets a billionaire borrow against stock without selling it, which avoids taxes. Banks like these loans because the collateral is liquid. If the stock falls sharply, though, the borrower must add collateral or sell.", "source": "WSJ via Finimize", "url": "https://finimize.com/content/larry-ellison-put-oracle-shares-up-to-fund-a-media-deal"},
-      {"title": "Optimum nears a lender takeover; Hughes gets interim Chapter 11 approval", "body": "The WSJ's Oct 21 list includes Optimum Communications nearing a debt deal that hands control to its lenders, and Hughes Network winning interim approval in its bankruptcy case. No figures were visible.", "simple": "When a company can't pay its debts, lenders can swap what they're owed for ownership. Distressed deals like these are a growing business for restructuring bankers while rates stay high.", "source": "WSJ via Rallies.ai digest", "url": "https://rallies.ai/news/wall-street-journal-top-stories-for-october-21-7bd0030aeb2a19e9"}
+      {
+        "title": "Anthropic's draft S-1 shows an $80.7B first-half loss",
+        "body": "This was a WSJ scoop. H1 revenue was $16.3B, and ≈$72B of the loss is a non-cash charge on financing instruments. Compute spending could reach $750B.",
+        "simple": "This is the first detailed look at the finances of one of the biggest AI companies. It shows revenue growing very fast alongside huge accounting losses. Investors will have to decide what the business is worth before any IPO.",
+        "source": "WSJ via Reuters/US News",
+        "url": "https://money.usnews.com/investing/news/articles/2026-10-20/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports"
+      },
+      {
+        "title": "Larry Ellison pledges SpaceX, Tesla and Paramount shares for loans",
+        "body": "Ellison expanded borrowing with Citi, JPMorgan, HSBC, UBS and BNP Paribas, pledging those shares as collateral for the first time. The money backs his son's $81B Warner Bros. takeover, which closed Oct 6. The loan size was not disclosed.",
+        "simple": "A share-backed loan lets a billionaire borrow against stock without selling it, which avoids taxes. Banks like these loans because the collateral is liquid. If the stock falls sharply, though, the borrower must add collateral or sell.",
+        "source": "WSJ via Finimize",
+        "url": "https://finimize.com/content/larry-ellison-put-oracle-shares-up-to-fund-a-media-deal"
+      },
+      {
+        "title": "Optimum nears a lender takeover; Hughes gets interim Chapter 11 approval",
+        "body": "The WSJ's Oct 21 list includes Optimum Communications nearing a debt deal that hands control to its lenders, and Hughes Network winning interim approval in its bankruptcy case. No figures were visible.",
+        "simple": "When a company can't pay its debts, lenders can swap what they're owed for ownership. Distressed deals like these are a growing business for restructuring bankers while rates stay high.",
+        "source": "WSJ via Rallies.ai digest",
+        "url": "https://rallies.ai/news/wall-street-journal-top-stories-for-october-21-7bd0030aeb2a19e9"
+      }
     ],
     "tribune": [
-      {"title": "CME Group posts its best Q3 ever", "body": "Revenue was $1.737B, adj. EPS $3.02 vs $2.98 and ADV 29.4M (+16%), with market-data revenue a record $243M. The stock closed Friday at $293.87.", "simple": "CME, headquartered in Chicago, earns more when markets are jumpy because more traders hedge. This quarter had a war, oil above $100 and a Fed hiking rates, so business boomed.", "source": "CME Group (PR Newswire); Tribune not accessible", "url": "https://www.prnewswire.com/news-releases/cme-group-inc-reports-highest-q3-revenue-on-record-for-q3-2026-302915184.html"},
-      {"title": "Mayor Johnson revives the corporate head tax in a $17.6B budget", "body": "The 2027 proposal brings back a per-employee tax on large employers, setting up a City Council fight.", "simple": "A head tax charges big companies a fee for each worker they employ in the city. Supporters say it funds services, while business groups warn it pushes jobs to the suburbs. Chicago's large employers, including banks and exchanges, would pay it.", "source": "Crain's Chicago Business", "url": "https://www.chicagobusiness.com/politics-policy/ccb-brandon-johnson-city-council-budget-head-tax-20261020/"},
-      {"title": "Wintrust's 7th straight record quarter", "body": "Net income was $239.1M ($3.37), with loans +$1.1B and deposits +$1.3B, both about 8% annualized.", "simple": "Wintrust is Chicago's largest locally based bank. Growing loans and deposits at the same time is hard when rates are high, which makes this a sign of share gains in the Chicago market.", "source": "Motley Fool (transcript)", "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/wintrust-wtfc-q3-2026-earnings-call-transcript/"},
-      {"title": "Goolsbee: September inflation 'discouraging,' but wait for data", "body": "The Chicago Fed president's last remarks (Oct 14) before the blackout favored patience over another immediate hike.", "simple": "Goolsbee votes on interest rates this year. His leaning toward waiting is one reason markets see an October pause even though a December hike is mostly expected.", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/article/chicago-feds-goolsbee-calls-september-inflation-discouraging-but-favors-waiting-on-more-data-185843740.html"}
+      {
+        "title": "CME Group posts its best Q3 ever",
+        "body": "Revenue was $1.737B, adj. EPS $3.02 vs $2.98 and ADV 29.4M (+16%), with market-data revenue a record $243M. The stock closed Friday at $293.87.",
+        "simple": "CME, headquartered in Chicago, earns more when markets are jumpy because more traders hedge. This quarter had a war, oil above $100 and a Fed hiking rates, so business boomed.",
+        "source": "CME Group (PR Newswire); Tribune not accessible",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-inc-reports-highest-q3-revenue-on-record-for-q3-2026-302915184.html"
+      },
+      {
+        "title": "Mayor Johnson revives the corporate head tax in a $17.6B budget",
+        "body": "The 2027 proposal brings back a per-employee tax on large employers, setting up a City Council fight.",
+        "simple": "A head tax charges big companies a fee for each worker they employ in the city. Supporters say it funds services, while business groups warn it pushes jobs to the suburbs. Chicago's large employers, including banks and exchanges, would pay it.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/politics-policy/ccb-brandon-johnson-city-council-budget-head-tax-20261020/"
+      },
+      {
+        "title": "Wintrust's 7th straight record quarter",
+        "body": "Net income was $239.1M ($3.37), with loans +$1.1B and deposits +$1.3B, both about 8% annualized.",
+        "simple": "Wintrust is Chicago's largest locally based bank. Growing loans and deposits at the same time is hard when rates are high, which makes this a sign of share gains in the Chicago market.",
+        "source": "Motley Fool (transcript)",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/wintrust-wtfc-q3-2026-earnings-call-transcript/"
+      },
+      {
+        "title": "Goolsbee: September inflation 'discouraging,' but wait for data",
+        "body": "The Chicago Fed president's last remarks (Oct 14) before the blackout favored patience over another immediate hike.",
+        "simple": "Goolsbee votes on interest rates this year. His leaning toward waiting is one reason markets see an October pause even though a December hike is mostly expected.",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/article/chicago-feds-goolsbee-calls-september-inflation-discouraging-but-favors-waiting-on-more-data-185843740.html"
+      }
     ],
     "nyt": [
-      {"title": "DealBook: Musk's next big deal?", "body": "DealBook leads with the SpaceX–Tesla merger committees and the French turmoil unsettling investors (OAT–Bund spread ≈147 bp).", "simple": "Two of Musk's companies are formally studying a combination, and political unrest in France is making investors demand more to lend to its government. Both stories involve huge sums and big risks for markets.", "source": "NYT DealBook via newsletter listing", "url": "https://newsletterhunt.com/newsletters/dealbook"},
-      {"title": "NYT: pardon followed $50M paid to Trump's ex-lawyer", "body": "The NYT reported that a Venezuelan billionaire's family paid Alina Habba at least $50M before he received a Trump pardon.", "simple": "A pardon wipes out a federal conviction or charge. The report raises questions about paying for access, which could draw congressional or legal scrutiny.", "source": "NYT via Mediaite", "url": "https://www.mediaite.com/crime/billionaire-scored-trump-pardon-after-50-million-deal-with-alina-habba/"},
-      {"title": "DealBook: voters unmoved by lower drug prices", "body": "The Oct 21 newsletter finds voters giving Trump little credit for drug-price cuts. The print edition also covers the Max 10 approval and Amazon's seasonal hiring.", "simple": "Lower drug prices were supposed to be a political win. If voters don't notice them, the pressure shifts back to other cost-of-living issues like gas, which is high because of the oil shock.", "source": "NYT via PressReader index (date uncertain)", "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"}
+      {
+        "title": "DealBook: Musk's next big deal?",
+        "body": "DealBook leads with the SpaceX–Tesla merger committees and the French turmoil unsettling investors (OAT–Bund spread ≈147 bp).",
+        "simple": "Two of Musk's companies are formally studying a combination, and political unrest in France is making investors demand more to lend to its government. Both stories involve huge sums and big risks for markets.",
+        "source": "NYT DealBook via newsletter listing",
+        "url": "https://newsletterhunt.com/newsletters/dealbook"
+      },
+      {
+        "title": "NYT: pardon followed $50M paid to Trump's ex-lawyer",
+        "body": "The NYT reported that a Venezuelan billionaire's family paid Alina Habba at least $50M before he received a Trump pardon.",
+        "simple": "A pardon wipes out a federal conviction or charge. The report raises questions about paying for access, which could draw congressional or legal scrutiny.",
+        "source": "NYT via Mediaite",
+        "url": "https://www.mediaite.com/crime/billionaire-scored-trump-pardon-after-50-million-deal-with-alina-habba/"
+      },
+      {
+        "title": "DealBook: voters unmoved by lower drug prices",
+        "body": "The Oct 21 newsletter finds voters giving Trump little credit for drug-price cuts. The print edition also covers the Max 10 approval and Amazon's seasonal hiring.",
+        "simple": "Lower drug prices were supposed to be a political win. If voters don't notice them, the pressure shifts back to other cost-of-living issues like gas, which is high because of the oil shock.",
+        "source": "NYT via PressReader index (date uncertain)",
+        "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"
+      }
     ]
   },
   "talking_points": [
-    {"topic": "CME's record quarter is a volatility trade", "point": "CME's Q3 ADV hit 29.4M (+16%) with double-digit growth in all six asset classes, and market-data revenue rose 20% to $243M. Exchanges are the cleanest long-volatility equity: a hiking Fed, a 5% 10Y and $110 Brent all drive hedging. Ask how much of the rates ADV is SOFR futures, and whether it holds up if the Fed stops after December."},
-    {"topic": "Negative swap spreads and Treasury supply", "point": "10Y SOFR swaps at ≈4.73% vs a ≈5.12% Treasury implies a spread of about −40 bp. Too many Treasuries are chasing limited dealer balance sheet. Pair it with today's $13B 20Y and you can argue the long end carries a supply premium that SLR relief or Fed balance-sheet policy could compress. That would steepen swaps relative to cash."},
-    {"topic": "Gold's floor is the official sector", "point": "Gold has fallen four days in a row to ≈$4,115 with real yields ≈2.8%. The PBoC bought ≈23t in September (largest since Oct 2023, ≈103t YTD), and Goldman still targets $4,900 with a $4,400 hike-scenario floor. On a desk, you'd hedge with less real-yield beta and more attention to Asian session flows and central bank buying."}
+    {
+      "topic": "CME's record quarter is a volatility trade",
+      "point": "CME's Q3 ADV hit 29.4M (+16%) with double-digit growth in all six asset classes, and market-data revenue rose 20% to $243M. Exchanges are the cleanest long-volatility equity: a hiking Fed, a 5% 10Y and $110 Brent all drive hedging. Ask how much of the rates ADV is SOFR futures, and whether it holds up if the Fed stops after December."
+    },
+    {
+      "topic": "Negative swap spreads and Treasury supply",
+      "point": "10Y SOFR swaps at ≈4.73% vs a ≈5.12% Treasury implies a spread of about −40 bp. Too many Treasuries are chasing limited dealer balance sheet. Pair it with today's $13B 20Y and you can argue the long end carries a supply premium that SLR relief or Fed balance-sheet policy could compress. That would steepen swaps relative to cash."
+    },
+    {
+      "topic": "Gold's floor is the official sector",
+      "point": "Gold has fallen four days in a row to ≈$4,115 with real yields ≈2.8%. The PBoC bought ≈23t in September (largest since Oct 2023, ≈103t YTD), and Goldman still targets $4,900 with a $4,400 hike-scenario floor. On a desk, you'd hedge with less real-yield beta and more attention to Asian session flows and central bank buying."
+    }
   ],
   "caveats": "WSJ, NYT and the Chicago Tribune were not read directly. Stories come from secondary coverage (Reuters/US News, Finimize, Mediaite, newsletter indexes, Crain's), and no Reuters press digest for Oct 21 was found. Fetching pages failed, so figures come from search summaries. Yields are approximate (official Treasury table not reachable). Pre-market levels are early prints with loose timestamps. Northern Trust's consensus may not be like-for-like. Meta's report date conflicts across sources.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-21T14:21:39Z",
+      "label": "Post-open",
+      "headline": "Stocks opened higher on the SpaceX-Tesla merger talk (Nasdaq ≈+0.7%), but Brent ≈$110 is keeping the 10Y pinned near 5.12% and gold at 4th-day lows near $4,110 ahead of the noon 20Y auction.",
+      "points": [
+        "Open: S&P ≈7,734 (+0.3%), Nasdaq ≈26,621 (+0.7%), Dow ≈52,563 (+0.1%). Leaders: SpaceX ≈+8% after Q3 revenue rose 161% to $14.6B and Musk confirmed both boards have merger committees (combined value ≈$3.5T). AMD and Nvidia ≈+2%. Netflix is ≈−5–6% on its weak Q4 and ad guide.",
+        "Rates: the 10Y is ≈5.12% and the 30Y ≈5.44% (≈+1 bp), steady before the $13B 20Y reopening at noon CT (WI ≈5.47% vs Sept 5.420% stop). FedWatch: Oct 28 hold 82.8% / hike 17.2%; Dec hike ≈90–94%. No fresh 2Y print found; it was ≈4.79% earlier.",
+        "Oil/metals: Brent ≈$109.6–110.4, Dec WTI ≈$99.2. EIA weekly crude comes out at 9:30 CT, after API's −4.93M bbl draw (≈−1.3M expected). Gold touched ≈$4,110 (FXStreet), a 4th straight loss, and is now ≈$34 above the $4,076 support. Silver quotes conflict at ≈$57.3–58.3. Kitco has COMEX copper at ≈$6.61/lb (−0.3%), so this morning's ≈$6.48 tile was probably too low.",
+        "CME Group follow-up: management says Q4 ADV is tracking +17% vs last year's record Q4 and full-year ADV +12%. September ADV was 31.8M (+22%). Revenue was $1.74B vs ≈$1.71B expected. I could not confirm a reliable share-price reaction.",
+        "Not found yet: MBA mortgage applications for the week, and price reactions to Northern Trust, AT&T and Abbott. Treat this morning's calendar for those as unchanged."
+      ],
+      "simple": "Stocks opened a little higher because investors are excited about Elon Musk possibly merging SpaceX and Tesla. Interest rates on government bonds (yields, the interest the government pays to borrow) didn't fall, though, because oil above $110 a barrel keeps inflation worries alive. That is also why gold, which pays no interest and looks less attractive when bonds pay 5%, fell for a fourth day. The noon sale of 20-year Treasury bonds will show whether investors still want long-term U.S. debt at these rates, and the answer affects mortgage and business borrowing costs.",
+      "sources": [
+        {
+          "name": "CNBC (live updates)",
+          "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (SpaceX)",
+          "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html"
+        },
+        {
+          "name": "FXStreet (gold)",
+          "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hits-lows-near-4-110-as-yields-oil-pick-up-202610211053"
+        },
+        {
+          "name": "Oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html"
+        },
+        {
+          "name": "FX News Group (CME)",
+          "url": "https://fxnewsgroup.com/forex-news/exchanges/cme-group-registers-q3-2026-revenue-of-1-7bn/"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/price"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-21T14:21:39Z"
 }
