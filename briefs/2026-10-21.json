@@ -11,28 +11,28 @@
     "Equities: futures are firm (S&P ≈+0.2%, Nasdaq-100 ≈+0.6%, Dow ≈flat, Benzinga) on Musk confirming SpaceX and Tesla boards have formed special merger committees. SpaceX rose ≈8% after hours and Tesla 1–2%. Losers after hours: Netflix ≈−6% (Q4 guide $13.4B vs $13.51B, 2026 ad revenue cut to ≈$2.7B), Intuitive ≈−7% (per-procedure pricing cut) and United ≈−2–4% (Q4 EPS guide $0.50–1.50 vs ≈$1.75; fuel cost +62%). Tesla, IBM, TI and Lam report tonight.",
     "Metals: gold is ≈$4,115–4,122, down for a fourth straight day, pushed lower by 5%+ yields, December hike odds and oil-driven inflation fears. The $4,076 support level is in play. Silver is $57.34 (−1.1%) and COMEX copper ≈$6.48/lb (−0.9%). LME copper is ≈$14,342 into LME Week after rising LME stocks and the end of a Chilean mine strike, still below the $14,875 record."
   ],
-  "markets_asof": "Post-open ≈9:20 AM CT. Index levels are early-session snapshots; tiles marked 'no fresh print' carry over earlier values.",
+  "markets_asof": "Midday ≈10:30–11:40 AM CT; tiles noted 'no fresh print' carry over earlier values.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,734",
-      "change": "≈+0.3%",
+      "value": "7,752",
+      "change": "+0.52%",
       "dir": "up",
-      "note": "Early session (Investing.com)"
+      "note": "≈10:30 CT (Fool)"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,621",
-      "change": "≈+0.7%",
+      "value": "26,717",
+      "change": "+1.09%",
       "dir": "up",
-      "note": "SpaceX ≈+8%, chips ≈+2%"
+      "note": "SpaceX ≈+10%, Tesla +3.3%"
     },
     {
       "label": "Dow",
-      "value": "≈52,563",
-      "change": "≈+0.1%",
+      "value": "52,647",
+      "change": "+0.29%",
       "dir": "up",
-      "note": "Hovered near flat at the open"
+      "note": "AT&T ≈−6–7% a drag"
     },
     {
       "label": "Russell 2000",
@@ -46,21 +46,21 @@
       "value": "≈4.79%",
       "change": "≈flat",
       "dir": "flat",
-      "note": "No fresh print; early estimate"
+      "note": "No fresh print; morning estimate"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.12%",
-      "change": "≈+0–1 bp",
-      "dir": "flat",
-      "note": "Ahead of noon 20Y auction"
+      "value": "≈5.09–5.11%",
+      "change": "≈−1 to −3 bp",
+      "dir": "down",
+      "note": "Sources differ; 20Y auction at noon CT"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.44%",
       "change": "≈+1 bp",
       "dir": "up",
-      "note": "CNBC/Yahoo early trade"
+      "note": "Post-open level; no fresh print"
     },
     {
       "label": "Fed funds",
@@ -78,38 +78,38 @@
     },
     {
       "label": "Brent (Dec)",
-      "value": "≈$110",
-      "change": "≈+1.1–1.5%",
+      "value": "≈$109.0",
+      "change": "≈+0.2%",
       "dir": "up",
-      "note": "Quotes $109.64–110.40; Tue settle $108.79"
+      "note": "Faded a $2 gain despite EIA draw"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$99.2",
-      "change": "+1.4%",
-      "dir": "up",
-      "note": "EIA inventories 9:30 CT"
+      "value": "≈$97.7–99.2",
+      "change": "—",
+      "dir": "flat",
+      "note": "Quotes conflict; EIA crude −3.06M bbl"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,110–4,115",
-      "change": "≈−0.3%",
-      "dir": "down",
-      "note": "4th straight decline; support $4,076"
+      "value": "$4,136.90",
+      "change": "+$12.80 (+0.3%)",
+      "dir": "up",
+      "note": "Kitco ≈10:40 CT; 4-day slide snapped"
     },
     {
       "label": "Silver",
-      "value": "≈$57.3–58.3",
-      "change": "—",
-      "dir": "flat",
-      "note": "Sources conflict (FXStreet/Kitco vs APMEX)"
+      "value": "≈$57.51",
+      "change": "≈−0.6%",
+      "dir": "down",
+      "note": "Kitco AM report"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.61/lb",
       "change": "≈−0.3%",
       "dir": "down",
-      "note": "Kitco; morning tile likely low"
+      "note": "Post-open level; no fresh print"
     }
   ],
   "calendar": [
@@ -403,6 +403,53 @@
   "caveats": "WSJ, NYT and the Chicago Tribune were not read directly. Stories come from secondary coverage (Reuters/US News, Finimize, Mediaite, newsletter indexes, Crain's), and no Reuters press digest for Oct 21 was found. Fetching pages failed, so figures come from search summaries. Yields are approximate (official Treasury table not reachable). Pre-market levels are early prints with loose timestamps. Northern Trust's consensus may not be like-for-like. Meta's report date conflicts across sources.",
   "updates": [
     {
+      "at": "2026-10-21T17:17:44Z",
+      "label": "Midday",
+      "headline": "The Musk trade is carrying stocks (Nasdaq ≈+1.1%, SpaceX ≈+10%) while bonds catch a small bid: the 10Y has slipped to ≈5.09–5.11% and gold has snapped its 4-day losing streak, even as a bigger-than-expected EIA crude draw failed to push Brent past $110.",
+      "points": [
+        "Stocks at ≈10:30 CT (Motley Fool): S&P 7,752 (+0.52%), Nasdaq 26,717 (+1.09%), Dow 52,647 (+0.29%). SpaceX ≈+10–11% on Q3 revenue of $14.58B (+161%) and the merger-committee news; Tesla +3.3% ahead of tonight's print. Netflix ≈−3–4%. AT&T ≈−6–7% despite $0.65 adj. EPS vs $0.60 and a raised 2026 EPS guide of ≈$2.40, because spectrum purchases push its 2.5x net-debt/EBITDA target out to 2029. Northern Trust ≈+0.4% at $166.03, so the beat is not getting much credit.",
+        "Rates: the 10Y is ≈5.09–5.11% (AP/Bloomberg vs Fool), down 1–3 bp from Tuesday's 5.12%. The 20Y WI was ≈5.485% pre-auction. One aggregator (Helious) shows the $13B reopening at a 5.469% high yield, a ≈0.9 bp tail, 2.73x bid-to-cover and 58.2% indirects. I could not confirm this against TreasuryDirect, and the bid-to-cover matches an Oct 2025 sale, so treat it as unverified. No fresh 2Y, DXY or FedWatch prints found; the morning's ≈83% Oct hold / ≈90%+ Dec hike stands.",
+        "Oil: EIA showed crude −3.06M bbl to 412.5M vs ≈−0.82M expected (API −4.9M), and gasoline −2.95M to 205.3M (Investing.com). Even so, Brent faded to ≈$109.0 (+0.2%) after being up as much as $2. WTI quotes conflict at ≈$97.7–99.2. The morning's 'Brent above $110' framing is now stale.",
+        "Metals: Kitco had gold at $4,136.90 (+$12.80) around 10:40 CT, so the morning's 'fourth straight decline' is reversing as yields ease. Dec futures are ≈$4,158 (Yahoo). Silver is ≈$57.51 (−0.6%, Kitco AM). No fresh copper print; the tile carries over the post-open number.",
+        "Still ahead: Tesla, IBM, TI and Lam after the close (Tesla call 3:30 PM CT). Abbott's reaction wasn't found."
+      ],
+      "simple": "Stocks are up mostly because of excitement about Elon Musk's companies: SpaceX posted huge sales growth and may merge with Tesla. Bond yields (the interest the government pays to borrow) dipped slightly, which helped gold, since gold pays no interest and looks better when bonds pay a little less. U.S. oil stockpiles shrank more than expected, which normally pushes prices up, but oil barely moved. That suggests traders already priced in the supply fears from the Middle East.",
+      "sources": [
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/21/stock-market-midday-oct-21-tech-gains-lift-nasdaq-as-spacex-soars/"
+        },
+        {
+          "name": "AP via ABC News",
+          "url": "https://abcnews.com/Business/wireStory/us-stocks-nudge-higher-spacex-tesla-nvidia-climb-137436812"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/10/21/us-futures-mostly-higher-as-wall-street-digests-earnings-from-spacex-netflix/"
+        },
+        {
+          "name": "CNBC (midday movers)",
+          "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-midday-spcx-meta-smci-roiv.html"
+        },
+        {
+          "name": "Investing.com (EIA)",
+          "url": "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-drop-306-million-barrels-93CH-4963561"
+        },
+        {
+          "name": "Helious (20Y auction, unverified)",
+          "url": "https://helious.io/news/auc-912810UX4-2026-10-21/20-year-bond-auction-in-line"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-10-21/gold-gains-silver-slips-oil-prices-rise-fed-rate-hike-expectations-persist"
+        },
+        {
+          "name": "Yahoo Finance (AT&T)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-stock-tumbling-today-131726018.html"
+        }
+      ]
+    },
+    {
       "at": "2026-10-21T14:21:39Z",
       "label": "Post-open",
       "headline": "Stocks opened higher on the SpaceX-Tesla merger talk (Nasdaq ≈+0.7%), but Brent ≈$110 is keeping the 10Y pinned near 5.12% and gold at 4th-day lows near $4,110 ahead of the noon 20Y auction.",
@@ -446,5 +493,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-21T14:21:39Z"
+  "updatedAt": "2026-10-21T17:17:44Z"
 }
