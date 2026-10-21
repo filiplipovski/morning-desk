@@ -1,144 +1,144 @@
 {
- "briefs": [
-  {
-   "date": "2026-10-21",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-21T11:30:00Z",
-   "headline": "Tuesday's Iran-deal relief is already gone: tanker attacks have Brent back above $110 and the 10Y stuck near 5.12% ahead of the $13B 20Y reopening at noon. In Chicago, CME Group posted a record Q3 (adj. $3.02 vs $2.98) and Northern Trust beat, while Netflix, Intuitive and United sold off after hours.",
-   "updatedAt": "2026-10-21T17:17:44Z"
-  },
-  {
-   "date": "2026-10-20",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-20T11:23:05Z",
-   "headline": "Monday's 'rally' was really a bear day in bonds: Treasury's official curve put the 10Y at \u22485.15% (+6 bp), and it's only \u22485.11% this morning. Brent is stuck near $110 after Iran threatened Bab al-Mandeb. A clean sweep of industrial and bank beats (GE, RTX, GM, KeyCorp, Wintrust) runs into housing starts at 7:30 and Capital One and Netflix tonight.",
-   "updatedAt": "2026-10-20T20:17:51Z"
-  },
-  {
-   "date": "2026-10-19",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-19T11:28:19Z",
-   "headline": "The feared 'Black Monday' isn't showing up: Brent is off \u22481.7% to \u2248$108 on Trump's Russia-sanctions waiver while the IRGC's tanker-mine claim stays unconfirmed, China's 4.5% GDP beat has Nasdaq futures up \u22481% and the 10Y has slipped to \u22485.07%, and a heavy regional-bank week opens with Fifth Third's beat and Wintrust tonight.",
-   "updatedAt": "2026-10-19T20:18:19Z"
-  },
-  {
-   "date": "2026-10-18",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-18T11:19:46Z",
-   "headline": "Iran now says two tankers carrying \u22482M bbl each hit mines and caught fire. That claim is unconfirmed, but with Brent at $109.86 it sets up a risky Globex open tonight. China GDP lands at 9 PM CT (4.4% est.), and the week runs through LME Week, the $13B 20Y reopening and CME's own earnings."
-  },
-  {
-   "date": "2026-10-17",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-17T11:20:58Z",
-   "headline": "The 10Y fell \u224815 bp this week (its biggest weekly drop since Aug 2025) even after three hot inflation prints. With the Fed now in blackout, next week turns on Brent near $110, the Nasdaq's worst week since June and Wednesday's 20Y reopening plus CME and Tesla earnings."
-  },
-  {
-   "date": "2026-10-16",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-16T11:35:00Z",
-   "headline": "Warsh's non-answer in Bangkok cut Oct 28 hike odds to \u224815\u201317%, so the 10Y is holding near 5.07% after its best day since Aug 2025. The test now is whether regional banks, all beating on EPS, can keep the old-economy rotation going while AI credit stabilizes.",
-   "updatedAt": "2026-10-16T20:17:42Z"
-  },
-  {
-   "date": "2026-10-15",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-15T11:23:01Z",
-   "headline": "Overnight, the AI-credit rout took over from hot CPI as the driver: CoreWeave CDS is above 1,000 bp and the Kospi fell 7.6%, and the bid for safety has pulled the 10Y down \u22489 bp to \u22485.10% and cut Oct 28 hike odds to roughly a third. PPI and retail sales at 7:30 CT decide whether inflation or the flight to quality sets the front end.",
-   "updatedAt": "2026-10-15T20:18:07Z"
-  },
-  {
-   "date": "2026-10-14",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-14T11:21:43Z",
-   "headline": "The FICC slump now runs through three of the big banks: Bank of America's fixed income fell 17% to $2.6B and missed by \u2248$300M, on top of a $1.2B Treasury fine. That leaves CPI at 7:30 CT to settle the rates story. A 2Y at 4.77% is braced for an energy-heavy +0.6% headline, so the 2Y's next move depends on whether core prints 0.2 or 0.3.",
-   "updatedAt": "2026-10-14T20:17:28Z"
-  },
-  {
-   "date": "2026-10-13",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-13T11:22:03Z",
-   "headline": "Banks open earnings season with a stumble: JPMorgan missed on FICC ($5.37B vs \u2248$6B expected) and revenue, and Wells missed NII. Meanwhile cash Treasuries reopen 2\u20135 bp richer (10Y \u22485.19%) as oil eases, so the day's question is whether GS and Citi confirm a trading slowdown going into Wednesday's CPI.",
-   "updatedAt": "2026-10-13T20:18:22Z"
-  },
-  {
-   "date": "2026-10-12",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-12T11:27:09Z",
-   "headline": "Oil absorbed the Riyadh airport strike with barely a flinch. Brent opened \u2248+0.7% to $105.48 Sunday, then gave it back in Asia on Trump's unconfirmed Russia\u2013Ukraine 'energy ceasefire.' With cash Treasuries shut for Columbus Day, today is a thin-liquidity holding pattern before Tuesday's JPM/GS/WFC/C prints and Wednesday's CPI decide whether the \u224870\u201385% December-hike pricing holds.",
-   "updatedAt": "2026-10-12T20:18:16Z"
-  },
-  {
-   "date": "2026-10-11",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-11T11:20:30Z",
-   "headline": "A Houthi missile killed at least 12 at Riyadh's airport on Saturday, and Trump says the US may join Saudi strikes. That puts a Middle East risk premium back into oil when futures reopen at 5 PM CT tonight, in a week where Wednesday's CPI (\u22483.6% y/y) and Tuesday's big-bank earnings test a 10Y at 5.24% and \u224870\u201384% odds of a December hike."
-  },
-  {
-   "date": "2026-10-10",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-10T11:21:49Z",
-   "headline": "The 10Y hit a 24-year high of \u22485.36% Wednesday. A record-strong 10Y auction and Trump's Iran pledge pulled it back to a 5.24% close Friday, but the 2Y is still at 4.80% with \u224870\u201384% odds of a December hike. Next week's tests are Tuesday's big-bank earnings, Wednesday's September CPI (\u22483.6\u20133.7% headline) and Thursday's retail sales/PPI."
-  },
-  {
-   "date": "2026-10-09",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-09T11:24:10Z",
-   "headline": "Trump's pledge of no Iran strikes before the midterms has pulled Brent back to \u2248$103 and parked the 10Y at 5.24%, about 12 bp below Wednesday's 24-year high. With this week's supply done, the 2Y still edging up and the bond market likely shut Monday, today is about UMich inflation expectations and positioning ahead of Tuesday's big-bank earnings and Wednesday's September CPI.",
-   "updatedAt": "2026-10-09T20:18:19Z"
-  },
-  {
-   "date": "2026-10-08",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-08T11:23:15Z",
-   "headline": "Wednesday's auction relief didn't last. Waller said more hikes are coming and Brent jumped \u22484% to \u2248$104, which put the 10Y back at 5.35% and the 30Y at 5.725%, so today's noon CT $22B 30Y reopening is the real test of whether long-end buyers show up above 5.7%.",
-   "updatedAt": "2026-10-08T20:18:20Z"
-  },
-  {
-   "date": "2026-10-07",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-07T11:22:59Z",
-   "headline": "Tuesday's relief rally in the long end is gone. The 30Y touched 5.704%, a 24-year high, and the 10Y is 5.32% (+6 bp) after Houthi strikes on Saudi Arabia pushed Brent to \u2248$101.5, so the noon CT $39B 10Y auction and the 1 PM minutes decide whether 5.35% breaks.",
-   "updatedAt": "2026-10-07T20:18:12Z"
-  },
-  {
-   "date": "2026-10-06",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-06T11:24:58Z",
-   "headline": "The long end is getting relief after Monday's 2002 highs: the 10Y is \u22485.28% (\u22123 bp) and the 30Y \u22485.63%, with Brent back under $100 and futures up 0.25\u20130.4%. Today's tests are the $58B 3Y auction at noon CT and Williams/Bowman, ahead of Wednesday's 10Y reopening and FOMC minutes.",
-   "updatedAt": "2026-10-06T20:18:43Z"
-  },
-  {
-   "date": "2026-10-05",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-05T11:24:50Z",
-   "headline": "OPEC+ held November output steady and the G7's 100M-barrel stock release has WTI under $90. That takes some pressure off the long end, with the 10Y \u22483 bp lower at \u22485.25%. But France's debt troubles pushed the euro to a 17-month low, and ISM services at 9:00 AM CT is the day's first test before $119B of 3Y/10Y/30Y supply.",
-   "updatedAt": "2026-10-05T20:18:16Z"
-  },
-  {
-   "date": "2026-10-04",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-04T11:21:08Z",
-   "headline": "The market is leaning bearish into $119B of 3Y/10Y/30Y supply and Wednesday's FOMC minutes. A +29K payrolls print moved the hike to December, but the 10Y still finished the week at 5.28%, the 2s10s curve steepened \u224820 bp, and Wall Street's gold survey turned net bearish for the first time in months."
-  },
-  {
-   "date": "2026-10-03",
-   "edition": "Weekend edition",
-   "generatedAt": "2026-10-03T11:21:37Z",
-   "headline": "A +29K payrolls miss pushed the Fed's next hike from October to December, but the 10Y still ended the week near 5.28%. That leaves next week's $119B of 3Y/10Y/30Y supply and Wednesday's FOMC minutes as the test of whether the long end can hold below Thursday's 5.344% high."
-  },
-  {
-   "date": "2026-10-02",
-   "edition": "Morning edition",
-   "generatedAt": "2026-10-02T11:25:00Z",
-   "headline": "Payrolls at 7:30 AM CT (+84\u201390K est.) decide whether October hike odds (~28\u201336%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
-   "updatedAt": "2026-10-02T20:17:50Z"
-  },
-  {
-   "date": "2026-10-01",
-   "edition": "Evening edition \u00b7 prep for Fri Oct 2",
-   "generatedAt": "2026-10-02T01:41:00Z",
-   "headline": "Soft August PCE cut October hike odds to about 35\u201338% and the 10-year faded from 5.34% to 5.24%, but December is priced near-certain; Friday's 7:30 AM CT payrolls (+90K est.) decides if October comes back."
-  }
- ]
+  "briefs": [
+    {
+      "date": "2026-10-21",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-21T11:30:00Z",
+      "headline": "Tuesday's Iran-deal relief is already gone: tanker attacks have Brent back above $110 and the 10Y stuck near 5.12% ahead of the $13B 20Y reopening at noon. In Chicago, CME Group posted a record Q3 (adj. $3.02 vs $2.98) and Northern Trust beat, while Netflix, Intuitive and United sold off after hours.",
+      "updatedAt": "2026-10-21T20:17:43Z"
+    },
+    {
+      "date": "2026-10-20",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-20T11:23:05Z",
+      "headline": "Monday's 'rally' was really a bear day in bonds: Treasury's official curve put the 10Y at ≈5.15% (+6 bp), and it's only ≈5.11% this morning. Brent is stuck near $110 after Iran threatened Bab al-Mandeb. A clean sweep of industrial and bank beats (GE, RTX, GM, KeyCorp, Wintrust) runs into housing starts at 7:30 and Capital One and Netflix tonight.",
+      "updatedAt": "2026-10-20T20:17:51Z"
+    },
+    {
+      "date": "2026-10-19",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-19T11:28:19Z",
+      "headline": "The feared 'Black Monday' isn't showing up: Brent is off ≈1.7% to ≈$108 on Trump's Russia-sanctions waiver while the IRGC's tanker-mine claim stays unconfirmed, China's 4.5% GDP beat has Nasdaq futures up ≈1% and the 10Y has slipped to ≈5.07%, and a heavy regional-bank week opens with Fifth Third's beat and Wintrust tonight.",
+      "updatedAt": "2026-10-19T20:18:19Z"
+    },
+    {
+      "date": "2026-10-18",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-18T11:19:46Z",
+      "headline": "Iran now says two tankers carrying ≈2M bbl each hit mines and caught fire. That claim is unconfirmed, but with Brent at $109.86 it sets up a risky Globex open tonight. China GDP lands at 9 PM CT (4.4% est.), and the week runs through LME Week, the $13B 20Y reopening and CME's own earnings."
+    },
+    {
+      "date": "2026-10-17",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-17T11:20:58Z",
+      "headline": "The 10Y fell ≈15 bp this week (its biggest weekly drop since Aug 2025) even after three hot inflation prints. With the Fed now in blackout, next week turns on Brent near $110, the Nasdaq's worst week since June and Wednesday's 20Y reopening plus CME and Tesla earnings."
+    },
+    {
+      "date": "2026-10-16",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-16T11:35:00Z",
+      "headline": "Warsh's non-answer in Bangkok cut Oct 28 hike odds to ≈15–17%, so the 10Y is holding near 5.07% after its best day since Aug 2025. The test now is whether regional banks, all beating on EPS, can keep the old-economy rotation going while AI credit stabilizes.",
+      "updatedAt": "2026-10-16T20:17:42Z"
+    },
+    {
+      "date": "2026-10-15",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-15T11:23:01Z",
+      "headline": "Overnight, the AI-credit rout took over from hot CPI as the driver: CoreWeave CDS is above 1,000 bp and the Kospi fell 7.6%, and the bid for safety has pulled the 10Y down ≈9 bp to ≈5.10% and cut Oct 28 hike odds to roughly a third. PPI and retail sales at 7:30 CT decide whether inflation or the flight to quality sets the front end.",
+      "updatedAt": "2026-10-15T20:18:07Z"
+    },
+    {
+      "date": "2026-10-14",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-14T11:21:43Z",
+      "headline": "The FICC slump now runs through three of the big banks: Bank of America's fixed income fell 17% to $2.6B and missed by ≈$300M, on top of a $1.2B Treasury fine. That leaves CPI at 7:30 CT to settle the rates story. A 2Y at 4.77% is braced for an energy-heavy +0.6% headline, so the 2Y's next move depends on whether core prints 0.2 or 0.3.",
+      "updatedAt": "2026-10-14T20:17:28Z"
+    },
+    {
+      "date": "2026-10-13",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-13T11:22:03Z",
+      "headline": "Banks open earnings season with a stumble: JPMorgan missed on FICC ($5.37B vs ≈$6B expected) and revenue, and Wells missed NII. Meanwhile cash Treasuries reopen 2–5 bp richer (10Y ≈5.19%) as oil eases, so the day's question is whether GS and Citi confirm a trading slowdown going into Wednesday's CPI.",
+      "updatedAt": "2026-10-13T20:18:22Z"
+    },
+    {
+      "date": "2026-10-12",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-12T11:27:09Z",
+      "headline": "Oil absorbed the Riyadh airport strike with barely a flinch. Brent opened ≈+0.7% to $105.48 Sunday, then gave it back in Asia on Trump's unconfirmed Russia–Ukraine 'energy ceasefire.' With cash Treasuries shut for Columbus Day, today is a thin-liquidity holding pattern before Tuesday's JPM/GS/WFC/C prints and Wednesday's CPI decide whether the ≈70–85% December-hike pricing holds.",
+      "updatedAt": "2026-10-12T20:18:16Z"
+    },
+    {
+      "date": "2026-10-11",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-11T11:20:30Z",
+      "headline": "A Houthi missile killed at least 12 at Riyadh's airport on Saturday, and Trump says the US may join Saudi strikes. That puts a Middle East risk premium back into oil when futures reopen at 5 PM CT tonight, in a week where Wednesday's CPI (≈3.6% y/y) and Tuesday's big-bank earnings test a 10Y at 5.24% and ≈70–84% odds of a December hike."
+    },
+    {
+      "date": "2026-10-10",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-10T11:21:49Z",
+      "headline": "The 10Y hit a 24-year high of ≈5.36% Wednesday. A record-strong 10Y auction and Trump's Iran pledge pulled it back to a 5.24% close Friday, but the 2Y is still at 4.80% with ≈70–84% odds of a December hike. Next week's tests are Tuesday's big-bank earnings, Wednesday's September CPI (≈3.6–3.7% headline) and Thursday's retail sales/PPI."
+    },
+    {
+      "date": "2026-10-09",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-09T11:24:10Z",
+      "headline": "Trump's pledge of no Iran strikes before the midterms has pulled Brent back to ≈$103 and parked the 10Y at 5.24%, about 12 bp below Wednesday's 24-year high. With this week's supply done, the 2Y still edging up and the bond market likely shut Monday, today is about UMich inflation expectations and positioning ahead of Tuesday's big-bank earnings and Wednesday's September CPI.",
+      "updatedAt": "2026-10-09T20:18:19Z"
+    },
+    {
+      "date": "2026-10-08",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-08T11:23:15Z",
+      "headline": "Wednesday's auction relief didn't last. Waller said more hikes are coming and Brent jumped ≈4% to ≈$104, which put the 10Y back at 5.35% and the 30Y at 5.725%, so today's noon CT $22B 30Y reopening is the real test of whether long-end buyers show up above 5.7%.",
+      "updatedAt": "2026-10-08T20:18:20Z"
+    },
+    {
+      "date": "2026-10-07",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-07T11:22:59Z",
+      "headline": "Tuesday's relief rally in the long end is gone. The 30Y touched 5.704%, a 24-year high, and the 10Y is 5.32% (+6 bp) after Houthi strikes on Saudi Arabia pushed Brent to ≈$101.5, so the noon CT $39B 10Y auction and the 1 PM minutes decide whether 5.35% breaks.",
+      "updatedAt": "2026-10-07T20:18:12Z"
+    },
+    {
+      "date": "2026-10-06",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-06T11:24:58Z",
+      "headline": "The long end is getting relief after Monday's 2002 highs: the 10Y is ≈5.28% (−3 bp) and the 30Y ≈5.63%, with Brent back under $100 and futures up 0.25–0.4%. Today's tests are the $58B 3Y auction at noon CT and Williams/Bowman, ahead of Wednesday's 10Y reopening and FOMC minutes.",
+      "updatedAt": "2026-10-06T20:18:43Z"
+    },
+    {
+      "date": "2026-10-05",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-05T11:24:50Z",
+      "headline": "OPEC+ held November output steady and the G7's 100M-barrel stock release has WTI under $90. That takes some pressure off the long end, with the 10Y ≈3 bp lower at ≈5.25%. But France's debt troubles pushed the euro to a 17-month low, and ISM services at 9:00 AM CT is the day's first test before $119B of 3Y/10Y/30Y supply.",
+      "updatedAt": "2026-10-05T20:18:16Z"
+    },
+    {
+      "date": "2026-10-04",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-04T11:21:08Z",
+      "headline": "The market is leaning bearish into $119B of 3Y/10Y/30Y supply and Wednesday's FOMC minutes. A +29K payrolls print moved the hike to December, but the 10Y still finished the week at 5.28%, the 2s10s curve steepened ≈20 bp, and Wall Street's gold survey turned net bearish for the first time in months."
+    },
+    {
+      "date": "2026-10-03",
+      "edition": "Weekend edition",
+      "generatedAt": "2026-10-03T11:21:37Z",
+      "headline": "A +29K payrolls miss pushed the Fed's next hike from October to December, but the 10Y still ended the week near 5.28%. That leaves next week's $119B of 3Y/10Y/30Y supply and Wednesday's FOMC minutes as the test of whether the long end can hold below Thursday's 5.344% high."
+    },
+    {
+      "date": "2026-10-02",
+      "edition": "Morning edition",
+      "generatedAt": "2026-10-02T11:25:00Z",
+      "headline": "Payrolls at 7:30 AM CT (+84–90K est.) decide whether October hike odds (~28–36%) come back, while a possible diesel and crude stock release has knocked Brent back under $100 and the 10Y sits near 5.24%.",
+      "updatedAt": "2026-10-02T20:17:50Z"
+    },
+    {
+      "date": "2026-10-01",
+      "edition": "Evening edition · prep for Fri Oct 2",
+      "generatedAt": "2026-10-02T01:41:00Z",
+      "headline": "Soft August PCE cut October hike odds to about 35–38% and the 10-year faded from 5.34% to 5.24%, but December is priced near-certain; Friday's 7:30 AM CT payrolls (+90K est.) decides if October comes back."
+    }
+  ]
 }
