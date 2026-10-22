@@ -11,105 +11,105 @@
     "Supply and real yields: Treasury sells a $26B new 5Y TIPS at noon CT. Pre-auction talk puts the real yield ≈2.55–2.60%, vs a ≈2.37% 5Y breakeven (nominal 5Y ≈4.89%, Tipswatch). Wednesday's 20Y reopening tailed ≈0.9 bp at 5.469%. A soft TIPS sale with oil at $111 would show inflation protection is expensive while real-rate buyers are still demanding a concession.",
     "Metals and Chicago: gold fell ≈$54 to ≈$4,086 (Kitco 6:17 ET, range $4,066–4,145), even though yields and the dollar both slipped, which looks like liquidation rather than a rates story. LME copper closed Wednesday at $14,370.5 (−0.59%) as LME stocks rose 8% in a week. In Chicago, Abbott will spin off its $8.5B Nutrition unit (Similac, Ensure) tax-free by end-2027, and CME says open interest topped 133M contracts after a record Q3."
   ],
-  "markets_asof": "≈11:00 AM–12:15 PM CT (Russell 8:36 AM CT; copper 6:40 AM CT)",
+  "markets_asof": "Close 3:00 PM CT (metals ≈1:45 PM CT; yields late session)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,662",
-      "change": "≈−1.2%",
+      "value": "7,663.43",
+      "change": "−1.21%",
       "dir": "down",
-      "note": "Noon ET; Wed close 7,757.17"
+      "note": "Wed close 7,757.17"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈26,120",
-      "change": "≈−2.1%",
+      "value": "26,008.86",
+      "change": "−2.6%",
       "dir": "down",
-      "note": "Semis lead; Meta ≈−7%, Lam ≈−9%"
+      "note": "Worst day since June"
     },
     {
       "label": "Dow",
-      "value": "≈52,720",
-      "change": "≈−0.3%",
-      "dir": "down",
-      "note": "Wed close 52,856.09"
+      "value": "52,867.98",
+      "change": "+0.02%",
+      "dir": "flat",
+      "note": "Rotation out of tech"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,781",
-      "change": "+0.3%",
-      "dir": "up",
-      "note": "9:36 AM ET print; no midday figure"
-    },
-    {
-      "label": "UST 2Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No reliable midday print (≈4.73% pre-claims)"
+      "note": "No closing print found"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.69%",
+      "change": "≈−12 bp",
+      "dir": "down",
+      "note": "Late session (Benzinga)"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.996%",
-      "change": "≈−15 bp",
+      "value": "≈4.99%",
+      "change": "≈−12.5 bp",
       "dir": "down",
-      "note": "First sub-5% since Sep 23 (CNBC)"
+      "note": "Biggest drop since Aug 2025"
     },
     {
       "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "≈5.35% post-open; no fresh print"
+      "note": "≈5.35% post-open; no close"
+    },
+    {
+      "label": "5Y TIPS auction",
+      "value": "2.367%",
+      "change": "0.7 bp tail",
+      "dir": "flat",
+      "note": "Bid-to-cover 2.41"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈88%",
+      "change": "Dec hike ≈high-80s%",
       "dir": "flat",
-      "note": "FedWatch via roundup; FOMC Oct 27–28"
-    },
-    {
-      "label": "Dollar index",
-      "value": "—",
-      "change": "softer",
-      "dir": "down",
-      "note": "Near 3-week low (AM)"
+      "note": "FOMC Oct 27–28"
     },
     {
       "label": "Brent (Dec)",
-      "value": "≈$111–112",
-      "change": "≈+2–3%",
+      "value": "≈$112–113",
+      "change": "≈+3%",
       "dir": "up",
-      "note": "5-month high; Saudi strikes"
+      "note": "Hi $113.40; settle not yet seen"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$99–100",
-      "change": "≈+2–3%",
+      "value": "≈$100",
+      "change": "≈+3%",
       "dir": "up",
       "note": "Wed settle $97.15"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,055–4,062",
-      "change": "≈−1.9%",
+      "value": "≈$4,033",
+      "change": "−2.6%",
       "dir": "down",
-      "note": "Kitco −$78 at 10:54 ET"
+      "note": "Kitco 2:46 PM ET"
     },
     {
       "label": "Silver",
-      "value": "≈$55.5–55.9",
-      "change": "≈−3.5%",
+      "value": "≈$54.64",
+      "change": "−5.6%",
       "dir": "down",
-      "note": "Near 2026 low; support ≈$54.77"
+      "note": "New 2026 low"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.47/lb",
-      "change": "−1.7%",
+      "value": "≈$6.34/lb",
+      "change": "≈−2.5%",
       "dir": "down",
-      "note": "≈6:40 AM CT; no fresh print"
+      "note": "1:44 PM ET"
     }
   ],
   "calendar": [
@@ -389,6 +389,53 @@
   "caveats": "WSJ, NYT and Tribune are paywalled, and direct page fetches were blocked this run, so stories come from search excerpts: the Reuters WSJ press digest (MarketScreener), the NYT print-edition index (PressReader), Crain's and Bloomberg excerpts for Chicago, and other outlets' coverage. Pre-market yields, futures and Brent are ranges because sources and timestamps differ. No Thursday prints were found for the Russell 2000, WTI, silver or copper, so those tiles carry Wednesday levels or '—'. Blackstone's distributable EPS and the December hike odds (76–90%) could not be pinned down.",
   "updates": [
     {
+      "at": "2026-10-22T20:17:45Z",
+      "label": "Close",
+      "headline": "Tech had its worst day since June (Nasdaq −2.6%) and the 10Y closed under 5% (≈4.99%, −12.5 bp, its biggest one-day drop since Aug 2025), while gold (≈−2.5%) and silver (≈−5.5%) kept selling off even with lower yields and $112 Brent.",
+      "points": [
+        "Close: S&P 500 7,663.43 (−1.21%), Nasdaq Comp 26,008.86 (−2.6%; Reuters has −2.7%), Dow 52,867.98 (+0.02%), per CNBC. Chips led the drop: AMD −8%+, Micron −6%, Nvidia −4%, Meta ≈−7%. The Dow finishing flat is the rotation the brief flagged. I couldn't find a Russell close.",
+        "Rates: Benzinga's late-session print has the 10Y at ≈4.99% (−12.5 bp) and the 2Y at ≈4.69% (−11.9 bp), so 2s10s is ≈+30 bp, about where it started the day. This was a parallel haven rally and not a Fed repricing: December hike odds are still in the high 80s. Correction to the brief: the 5.07–5.09% 10Y level is stale by ≈8–10 bp.",
+        "$26B 5Y TIPS (new issue): high real yield 2.367% vs 2.360% when-issued, so a 0.7 bp tail. Bid-to-cover 2.41, the weakest since Apr 2025 (6-auction avg 2.52). Indirects took 62.1%, directs 32.4%, dealers 5.5%. The coupon is 2.25%, and the real yield is the highest at auction for this tenor in ≈3 years. It came in well below the ≈2.52–2.60% pre-auction talk because nominals rallied, which implies a 5Y breakeven around ≈2.3–2.4%.",
+        "Metals: Kitco at 2:46 PM ET had gold at ≈$4,033 (−$107, −2.6%) and silver at ≈$54.64 (−5.6%), breaking FXStreet's ≈$54.77 support and setting a new 2026 low. Copper ≈$6.34–6.36/lb (≈−2.5–2.8%). The pattern of gold falling while yields fall and oil rises suggests liquidation and Fed-hike fears, not a real-yield story.",
+        "Oil and tomorrow: Brent traded as high as $113.40, its highest since May 5, and WTI ≈$100 (+3%) after the State Department ordered non-emergency staff out of Saudi Arabia. I hadn't seen official settles when this was written (Wed: Brent $108.82, WTI $97.15). Friday: S&P Global flash PMIs at 8:45 AM CT (mfg cons. 55.5 vs 55.9 prior, services 57.9 vs 58.8, per TD) and final UMich sentiment at 9:00 AM CT. These are the last inputs before the Oct 27–28 FOMC blackout ends."
+      ],
+      "simple": "Investors sold big tech companies, worried they're spending too much on AI, and put the money into U.S. government bonds. That buying pushed the 10-year yield (the interest the government pays to borrow for 10 years, which mortgage rates follow) to its biggest one-day drop in over a year. The government also sold inflation-protected bonds (TIPS, whose payout rises with inflation). Buyers demanded slightly more than expected, so the sale went fine but not great. Gold and silver fell hard anyway: traders still expect the Fed to raise rates to fight oil-driven inflation, and higher rates make metals that pay no interest less attractive.",
+      "sources": [
+        {
+          "name": "CNBC (market close)",
+          "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Benzinga (yields)",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62539017/meta-ai-spending-10-year-yield-below-5-stock-market-today"
+        },
+        {
+          "name": "Tipswatch (TIPS auction)",
+          "url": "https://tipswatch.com/2026/10/22/5-year-tips-auction-gets-real-yield-of-2-367-on-a-strong-day-for-treasurys/"
+        },
+        {
+          "name": "Newsquawk (TIPS tail)",
+          "url": "https://www.newsquawk.com/headlines/us-sells-usd26bln-of-5yr-tips-tails-07bps"
+        },
+        {
+          "name": "InvestingLive (TIPS allotments)",
+          "url": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/"
+        },
+        {
+          "name": "Kitco (metals)",
+          "url": "https://www.kitco.com/price/precious-metals"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
+        },
+        {
+          "name": "TD Economics (calendar)",
+          "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+        }
+      ]
+    },
+    {
       "at": "2026-10-22T17:17:33Z",
       "label": "Midday",
       "headline": "The risk-off move got bigger by noon. The 10Y fell below 5% (≈4.996%, −15 bp) for the first time since Sept 23, the Nasdaq is down ≈2.1%, and gold and silver are still falling even as yields drop.",
@@ -479,5 +526,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-22T17:17:33Z"
+  "updatedAt": "2026-10-22T20:17:45Z"
 }
