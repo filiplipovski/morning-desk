@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-22",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-22T11:25:44Z",
+  "headline": "For once oil and bonds are both up: Houthi strikes on Saudi Aramco sites lifted Brent ≈2.7% to ≈$111–112, yet the 10Y fell to ≈5.07–5.09%. An AI-earnings selloff (Lam −6–8%, Tesla capex cut, Meta's $9.9B charge) knocked Nasdaq futures down ≈1.3–1.8% and sent money into Treasuries ahead of 7:30 claims and the noon $26B 5Y TIPS sale.",
+  "summary": [
+    "Risk-off pre-market (Bloomberg/Benzinga, ≈6:00 AM CT): S&P futures ≈−0.7% to −1.0%, Nasdaq-100 ≈−1.3% to −1.8% (erasing most of its 2.2% weekly gain), Dow ≈−0.5%. Wednesday closed S&P 7,757.17 (+0.58%) and Dow 52,856.09 (+0.69%). Lam Research is ≈−6–8% despite $8.22B revenue vs ≈$8.13B, on a wide guide, December shipments slipping into March and lower China sales. IBM beat on revenue ($17.1B vs $16.82B) but fell; TI beat ($2.62 vs $2.42 EPS) and was ≈flat.",
+    "Musk/Meta: Tesla earned $0.48 adj. vs ≈$0.45 on ≈$28.05B revenue with FCF of +$1.53B, but cut 2026 capex to ≈$20B and pushed out Optimus/robotaxi timelines. Shares reversed from $386.47 to ≈$374 after hours. Meta revenue rose 26% to $64.6B (vs ≈$63.3B) with a $73–76B Q4 guide, but GAAP EPS was $3.83 after a $9.9B legal charge. Q3 capex was $34.9B, FY range narrowed to $135–145B, FCF ≈−$2.1B, and it plans a new non-voting Class C stock. Shares +2.5–5% after hours, but the stock is now ≈−1% pre-market.",
+    "Oil vs. rates: Houthi strikes on an Aramco field and an Eastern Province airport (≥3 killed; a drone aimed at Shaybah was intercepted) pushed Brent to ≈$111.6–112.3 (+$2.8), near a 5-month high. The U.S. ordered non-emergency staff out of Saudi Arabia. Treasuries rallied anyway: T-notes +16 ticks and the 10Y ≈5.07–5.09% (range 5.08–5.16%, Newsquawk), vs Wednesday's ≈5.11%. Equity risk-off and haven demand are outweighing the inflation hit from oil this morning. The DXY is ≈101.6 (−0.2%), and the yen and franc lead G10.",
+    "Fed: still in blackout before Oct 27–28. FedWatch shows ≈83–84% hold / ≈16% hike for October. December hike odds read 76–90% depending on the snapshot. A Reuters poll has 94 of 100 economists expecting a hold next week and all 100 expecting a December hike. Today's claims (7:30 CT, ≈200K vs 199K) are the last labor print before the meeting. A jump would be the first data to dent December pricing.",
+    "Supply and real yields: Treasury sells a $26B new 5Y TIPS at noon CT. Pre-auction talk puts the real yield ≈2.55–2.60%, vs a ≈2.37% 5Y breakeven (nominal 5Y ≈4.89%, Tipswatch). Wednesday's 20Y reopening tailed ≈0.9 bp at 5.469%. A soft TIPS sale with oil at $111 would show inflation protection is expensive while real-rate buyers are still demanding a concession.",
+    "Metals and Chicago: gold fell ≈$54 to ≈$4,086 (Kitco 6:17 ET, range $4,066–4,145), even though yields and the dollar both slipped, which looks like liquidation rather than a rates story. LME copper closed Wednesday at $14,370.5 (−0.59%) as LME stocks rose 8% in a week. In Chicago, Abbott will spin off its $8.5B Nutrition unit (Similac, Ensure) tax-free by end-2027, and CME says open interest topped 133M contracts after a record Q3."
+  ],
+  "markets_asof": "Pre-market ≈6:00–6:20 AM CT (futures, gold, DXY, Brent); yields from early-London notes; cash indices, silver and copper are Wed closes",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "≈−0.7% to −1.0%",
+      "change": "≈−1%",
+      "dir": "down",
+      "note": "Wed cash close 7,757.17 (+0.58%)"
+    },
+    {
+      "label": "Nasdaq-100 fut",
+      "value": "≈−1.3% to −1.8%",
+      "change": "≈−1.6%",
+      "dir": "down",
+      "note": "Lam, Tesla, Meta drag"
+    },
+    {
+      "label": "Dow fut",
+      "value": "≈−0.5%",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Wed close 52,856.09 (+360.21)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable print found"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.79%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Wed close 4.791% (CNBC); no clean overnight print"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.07–5.09%",
+      "change": "≈−3 bp",
+      "dir": "down",
+      "note": "T-notes +16 ticks (Newsquawk); haven bid"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.40%",
+      "change": "≈−1 bp",
+      "dir": "down",
+      "note": "Wed 5.41%; 1-wk low 5.397%"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct hold ≈83–84%",
+      "dir": "flat",
+      "note": "EFFR 3.88%; Dec hike 76–90%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.60",
+      "change": "−0.18%",
+      "dir": "down",
+      "note": "JPY, CHF lead on haven flows"
+    },
+    {
+      "label": "USD/JPY",
+      "value": "≈157.7–158.2",
+      "change": "—",
+      "dir": "flat",
+      "note": "JGB 10Y 2.88%, 6-wk low"
+    },
+    {
+      "label": "Brent (Dec)",
+      "value": "≈$111.6–112.3",
+      "change": "≈+$2.8 (+2.6%)",
+      "dir": "up",
+      "note": "Houthi strikes on Saudi sites"
+    },
+    {
+      "label": "WTI (Dec)",
+      "value": "$97.15",
+      "change": "—",
+      "dir": "flat",
+      "note": "Wed settle; no clean overnight print"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,086",
+      "change": "−$54.30 (−1.3%)",
+      "dir": "down",
+      "note": "Kitco 6:17 ET; range $4,066–4,145"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$57.4–57.7",
+      "change": "—",
+      "dir": "flat",
+      "note": "Wed quotes; no fresh print"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "$14,370.5/t",
+      "change": "−0.59%",
+      "dir": "down",
+      "note": "Wed close (SMM); record $14,875"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: Lockheed (out), Blackstone (out), Union Pacific (6:45 AM), Honeywell, American Airlines, P&G, Valero",
+      "consensus": "UNP ≈$3.47 / $7.14B · HON $2.17 / $5.01B · AAL ≈−$0.28 to −$0.36 / $16.2B · LMT $7.52",
+      "prior": "Actual: LMT $7.97 adj., rev $20.7B, FY EPS guide $30.35–30.75, backlog $292B · BX GAAP NI to BX $662M, div $1.12 (Q2 $1.29)",
+      "why": "American is the cleanest read on what $111 Brent does to airline margins after United's weak guide (AAL EPS estimates are down 58% in 60 days). Blackstone's dividend cut from $1.29 to $1.12 signals slower realizations, a read-through for capital-markets fees."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial / continuing jobless claims",
+      "consensus": "≈200K / ≈1.72M",
+      "prior": "199K / 1.71M",
+      "why": "This is the last labor data before the Oct 27–28 FOMC. A clear upside surprise is the only thing on today's calendar that could cut into the ≈80–90% December hike pricing and steepen 2s10s."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Conference Board Leading Index (Sept)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is a secondary print. A fresh decline would add to the housing-led growth-scare story (record-low pending sales, 7.5% mortgages)."
+    },
+    {
+      "time": "TBA",
+      "event": "Chicago Fed Survey of Economic Conditions (Oct)",
+      "consensus": "—",
+      "prior": "CFNAI Aug −0.04 (Sept CFNAI due Oct 26)",
+      "why": "It is the Midwest read on activity and hiring plans, and the Chicago Fed's own data, so useful for local networking conversations."
+    },
+    {
+      "time": "10:00 AM",
+      "event": "Kansas City Fed manufacturing (Oct)",
+      "consensus": "—",
+      "prior": "Composite 14 (Sept)",
+      "why": "Regional surveys are showing input-price pressure from diesel and energy. A hot prices-paid reading supports the hawks."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$26B 5-year TIPS (new issue, CUSIP 91282CRR4)",
+      "consensus": "Real yield ≈2.55–2.60% (est.)",
+      "prior": "Apr new issue 1.367%, 2.57x cover",
+      "why": "With a ≈2.37% breakeven and oil at $111, this tests demand for inflation protection. A tail of 3+ bp would push real yields toward ≈2.70% and pressure gold."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC (blackout)",
+      "consensus": "Hold ≈83–84% / +25 bp ≈16%",
+      "prior": "3.75–4.00%",
+      "why": "Friday's flash PMIs and next week's PCE are the last inputs. Reuters' poll is unanimous for a December hike."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Bonds rally even as oil spikes, because fear beats inflation this morning",
+        "body": "T-notes gained 16 ticks overnight and the 10Y traded 5.08–5.16% before settling ≈5.07–5.09%, roughly 3–4 bp below Wednesday's ≈5.11%, even with Brent +$2.8 to ≈$111–112 (Newsquawk; Bloomberg via PANews). The catalysts were the AI-earnings selloff and the U.S. ordering non-emergency staff out of Saudi Arabia. The 30Y hit a 1-week low of 5.397%.",
+        "simple": "Usually higher oil pushes bond yields (the interest rate a bond pays) up, because it means more inflation. This morning investors are more scared of a stock drop and a wider Gulf war, so they are buying the safest asset, U.S. government bonds, which pushes yields down. If this lasts, mortgage rates could ease a little, but it rests on fear, not on good news about inflation.",
+        "source": "Newsquawk / Bloomberg (via PANews)",
+        "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---22nd-october-2026"
+      },
+      {
+        "title": "Fed: October hold is near-certain; December hike is the consensus trade",
+        "body": "FedWatch puts an Oct 28 hold at ≈83–84% (hike ≈16%), and December hike odds range from 76% to ≈90% depending on the snapshot. A Reuters poll shows 94 of 100 economists expecting a hold next week and all 100 a December hike. The effective fed funds rate is 3.88% (H.15).",
+        "simple": "The Fed sets a target for the overnight rate banks charge each other. Traders bet on its next move using futures (contracts that pay off based on where rates end up). Markets are almost sure the Fed waits next week but raises rates in December to fight 3.7% inflation. That keeps loan, credit-card and deposit rates high into 2027.",
+        "source": "Mitrade (Reuters poll, CME FedWatch)",
+        "url": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
+      },
+      {
+        "title": "Noon test: $26B 5Y TIPS with real yields ≈2.6% and breakevens only ≈2.37%",
+        "body": "The new 5Y TIPS (settles Oct 30) is expected near a 2.55–2.60% real yield. The 5Y breakeven is ≈2.37% against a 4.89% nominal 5Y (Tipswatch), and April's new issue cleared at 1.367%. The coupon is set 1/8 point below the auction yield.",
+        "simple": "TIPS are Treasury bonds whose principal rises with inflation. Their 'real yield' is what you earn on top of inflation. The 'breakeven' (the gap between normal and inflation-protected yields) is the inflation rate the market expects, and at ≈2.4% it is well below today's 3.7% CPI. That means investors trust the Fed to bring inflation down. A weak auction would push real yields higher, which tightens financial conditions and usually hurts gold.",
+        "source": "Tipswatch",
+        "url": "https://tipswatch.com/2026/10/18/this-weeks-5-year-tips-auction-could-be-the-ultimate-conservative-investment/"
+      },
+      {
+        "title": "Global: JGBs and haven FX catch the bid; ECB hawks stay vocal",
+        "body": "Japan's 10Y closed at 2.88%, a 6-week low, and the yen and franc are the top G10 performers on haven flows, while NZD fell on cooler CPI. An ECB member said more tightening may be needed if inflation stays above target. Euro Stoxx 50 futures are −0.6% after Wednesday's +1.5% to 6,213.",
+        "simple": "When investors get nervous, they buy currencies and bonds seen as safe, such as the Japanese yen, the Swiss franc and government debt. Japan's 10-year yield near 2.9% is very high by its own history. That matters because Japanese investors are big buyers of U.S. bonds and may keep more money at home.",
+        "source": "Newsquawk",
+        "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---22nd-october-2026"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME: Treasury futures OI +1.2M contracts to 24M; September ADV a record 7.7M",
+        "body": "CME's October Rates Recap shows Treasury futures open interest up 1.2M contracts (≈$75M DV01) to ≈24M, and September Treasury futures ADV of 7.7M was the highest September ever, beating the prior high by nearly 2M/day. Treasury futures-plus-options OI set its all-time record of 36.33M in February.",
+        "simple": "Open interest is the number of futures contracts still open, a measure of how many positions people are holding. DV01 is how much money those positions gain or lose per 0.01% move in rates. Rising open interest at 5% yields means more investors are hedging or betting on rates, which earns fees for CME and is the business rates desks run.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "CME's Q3 call: open interest above 133M and Q4 ADV tracking +17%",
+        "body": "Total OI ended Q3 at 128M contracts, a record for an end-September, and topped 133M by the call date. Management flagged that weekly and short-dated expirations distort year-on-year OI comparisons. Q4 ADV is tracking +17% vs last year's record Q4, after Q3 ADV of 29.4M (+16%).",
+        "simple": "CME runs the futures exchanges where banks, funds and companies hedge rates, oil, metals and stocks. Trading is booming because rates, oil and geopolitics are all volatile, and that shows up directly in CME's record revenue. The caveat: more very short-term options trading inflates some of the headline numbers.",
+        "source": "TradingKey (CME Q3 call transcript)",
+        "url": "https://www.tradingkey.com/news/transcripts/262229736-tradingkey"
+      },
+      {
+        "title": "Earnings vol: the AI complex reprices and option markets brace for big single-stock moves",
+        "body": "Nasdaq-100 futures are ≈−1.3% to −1.8% after Lam (≈−6–8%), IBM and Tesla (≈−3% after hours) disappointed, and Meta's capex range rose to $135–145B with FCF ≈−$2.1B. Options imply an ≈8% move in Spotify on today's report. Single-stock event risk is driving index vol this week, not macro.",
+        "simple": "Options are contracts that pay off if a stock moves past a set price. Their prices show how big a move traders expect, called implied volatility. This week, results from a few giant tech and AI companies are moving the whole market, so traders are paying up to protect against sharp swings in individual names.",
+        "source": "Benzinga",
+        "url": "https://benzinga.com/trading-ideas/movers/26/10/62509463/traders-are-pricing-an-8-swing-in-spotify-ahead-of-earnings"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold drops ≈$54 to ≈$4,086 even with lower yields and a softer dollar",
+        "body": "Kitco had spot gold at $4,086.00 bid at 6:17 ET (−$54.30, −1.31%), with a $4,066–4,145 range, after Wednesday's late ≈$4,141. That puts it back near the ≈$4,076 support level flagged this week. Both the 10Y (≈−3 bp) and DXY (−0.18%) are lower, so the usual drivers don't explain the drop. This looks like liquidation alongside the equity selloff and fully priced December hike odds.",
+        "simple": "Gold usually rises when interest rates and the dollar fall, because it pays no interest and is priced in dollars. Today it is falling anyway, which often happens when investors sell what they can to cover losses elsewhere. If the stock selloff deepens, gold can fall at first and recover later.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/price"
+      },
+      {
+        "title": "Copper: LME stocks up 8% in a week, Codelco's record premium and an 'AI is overhyped' debate at LME Week",
+        "body": "LME 3M copper closed Wednesday at $14,370.5/t (−0.59%), ≈3.4% below the Sept 10 record of $14,875. LME stocks rose 11,475 t in a day and 8% in a week, while Codelco is offering a record $350/t premium over LME. A Fastmarkets/Bloomberg LME Week panel called AI an 'overhyped' demand driver. Strike risk at Highland Valley Copper is a new supply wildcard.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price tracks the global economy. More copper sitting in exchange warehouses means less tightness right now. But the world's biggest producer charging a record premium for future supply shows buyers still expect shortages, so the long-term story still points up.",
+        "source": "MINING.COM / Fastmarkets",
+        "url": "https://www.mining.com/web/copper-price-falls-as-lme-stocks-edge-higher-and-mine-supply-concerns-ease/"
+      },
+      {
+        "title": "Silver and PGMs drift: silver ≈$57.4–57.7, platinum ≈$1,624–1,641",
+        "body": "Wednesday quotes put silver at $57.36–57.67, platinum at $1,624–1,641 and palladium at ≈$1,076–1,087 (Fortune 8 AM ET; Metalcharts). No reliable Thursday print was found, but silver usually trades as high-beta gold, so expect it lower with today's ≈1.3% gold drop.",
+        "simple": "Silver and platinum are both precious and industrial metals: they're used in jewelry and investment, and also in solar panels, electronics and car exhaust systems. That double role makes them swing more than gold. When gold falls and growth worries rise, as now, they tend to fall harder.",
+        "source": "Fortune / Metalcharts",
+        "url": "https://fortune.com/article/current-price-of-silver-10-21-2026"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Blackstone cuts its quarterly dividend to $1.12 from $1.29",
+      "body": "Blackstone's Q3 release (8-K, this morning) shows GAAP net income ≈$1.3B ($662M attributable to BX; $2.5B YTD). The dividend falls to $1.12/share from Q2's $1.29, when distributable earnings were $2B ($1.52/sh). Q3 distributable earnings weren't in the material I could access.",
+      "simple": "Blackstone is the world's biggest private-equity and real-estate investor. It pays shareholders based on profits from selling investments. A smaller dividend suggests fewer or less profitable exits this quarter, which matters to banks because those sales generate M&A, IPO and loan-refinancing fees.",
+      "source": "SEC (Blackstone 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001393818/000119312526428297/d160590dex991.htm"
+    },
+    {
+      "title": "Meta's capex machine: $34.9B a quarter, negative FCF and a new non-voting share class",
+      "body": "Meta guided 2026 capex to $135–145B and raised FY expenses to $175–179B (including a $9.9B legal charge). Q3 FCF was ≈−$2.12B, and it announced a non-voting Class C stock. With hyperscaler capex now outrunning operating cash flow, expect more jumbo IG bond deals and new equity structures, a growing fee pool for DCM/ECM desks.",
+      "simple": "Meta is spending more on AI data centers than its business brings in, so it will probably have to borrow or raise money from investors. The new non-voting shares let it sell stock without diluting Mark Zuckerberg's control. For investment banks, that means big bond and stock deals to underwrite (help sell to investors).",
+      "source": "TradingView (Stocktwits) / InvestingLive",
+      "url": "https://investinglive.com/stocks/meta-q3-beats-on-revenue-and-eps-as-9-9b-legal-charge-lifts-full-year-expense-outlook"
+    },
+    {
+      "title": "Regional bank M&A keeps grinding: Peoples–Capital, Trailmark approval, TowneBank–blueharbor",
+      "body": "Peoples Bancorp's pending deal for Capital Bancorp creates a ≈$14B-asset franchise. Adams Community and Pittsfield Cooperative won FDIC/Massachusetts approval Oct 21 to form Trailmark Bank, and TowneBank is buying blueharbor for ≈$154M (Q1 2027 close). Big 2026 closes so far: Santander/Webster $12.3B, Fifth Third/Comerica $10.9B, Pinnacle/Synovus $8.6B.",
+      "simple": "Banks merge to get bigger and spread the cost of technology and regulation across more customers. Regulators are approving deals faster this year, so mid-sized banks are combining steadily. That reshapes who lends to local businesses and creates advisory work for bank-focused investment bankers.",
+      "source": "Harvard Law Forum on Corporate Governance / Investing.com",
+      "url": "https://corpgov.law.harvard.edu/2026/10/20/laying-the-groundwork-for-bank-ma/"
+    },
+    {
+      "title": "Union Pacific reports at 6:45 AM CT with the $85B Norfolk Southern deal still at the STB",
+      "body": "Consensus is ≈$3.47 EPS on $7.14B revenue. The STB accepted the revised merger application effective May 28 but held it in abeyance pending supplemental filings. A final decision may not come until ≈Sept 2027, and the companies target a 2027 close.",
+      "simple": "Union Pacific wants to buy Norfolk Southern to create the first coast-to-coast U.S. freight railroad. A federal board (the STB) has to approve it, and shippers and rival railroads are fighting it as anticompetitive. It is one of the biggest pending M&A deals, and banks are financing and advising on it.",
+      "source": "Yahoo Finance / SEC filings",
+      "url": "https://finance.yahoo.com/economy/policy/articles/stb-pauses-union-pacific-norfolk-150307961.html"
+    },
+    {
+      "title": "IPO pipeline: Lycia Therapeutics' $250M Nasdaq deal is set for this week",
+      "body": "Lycia set terms for a $250M IPO at $16–18/share. Calendars disagree on whether it trades Oct 22 or Oct 23. It tests biotech risk appetite on a day the Nasdaq is set to open ≈1.5% lower.",
+      "simple": "An IPO (initial public offering) is when a private company first sells shares to the public, with banks underwriting the deal. Selling-day market mood matters a lot. If stocks are falling, companies may price at the low end or delay, which cuts banks' fees.",
+      "source": "IPOScoop",
+      "url": "https://www.iposcoop.com/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures sell off as Meta and Tesla lead the AI trade lower; oil rises",
+        "body": "CNBC's live blog frames the morning as an AI-earnings reversal: mega-caps Meta and Tesla slid after their reports while oil jumped on Gulf tensions. Bloomberg's tally has Nasdaq-100 futures −1.7% and S&P −1%.",
+        "simple": "Stocks of the biggest tech companies are falling before the open because investors question whether all the money spent on AI will pay off. Higher oil prices from Middle East attacks add to the gloom, since they raise costs for businesses and consumers.",
+        "source": "CNBC",
+        "url": "https://cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Treasury yields steady as investors await jobless claims",
+        "body": "Wednesday's close: the 2Y rose <1 bp to 4.791% and the 30Y fell >1 bp to 5.41%, with the 10Y ≈5.11%. The 20Y reopening drew 2.73x cover at 5.469%. Claims are seen at ≈200K vs 199K.",
+        "simple": "Bond yields (the interest the government pays to borrow) barely moved Wednesday as traders waited for new jobs data. Weekly unemployment claims are a fast gauge of layoffs. A big jump would hint the economy is cooling and could make the Fed less eager to raise rates.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/amp/2026/10/21/bonds-us-treasurys-yields.html"
+      },
+      {
+        "title": "Tesla beats but cuts capex; shares reverse lower after hours",
+        "body": "Tesla posted $0.48 adj. EPS vs ≈$0.45 on ≈$28.05B revenue, with auto gross margin ex-credits of 18.1% (from 16.3%) and FCF of +$1.53B. Operating income fell 56% y/y and 2026 capex was cut to ≈$20B. Shares fell from a $386.47 close to ≈$374 after hours.",
+        "simple": "Tesla made more profit per car than expected and generated cash instead of burning it, but investors focused on the delays to its robot and self-driving taxi plans. Since much of Tesla's stock price rests on those future bets, pushing them back hurt more than the good quarter helped.",
+        "source": "Electrek / Investing.com",
+        "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Musk personally ordered the Starlink slowdown that hit Ukraine's drones",
+        "body": "The Journal reports, citing U.S. officials, that Musk ordered a speed cap on the military-grade Starlink service Ukraine depends on, and later discussed it with President Trump. It lands as SpaceX and Tesla boards form merger committees for a combination valued at ≈$3.5T.",
+        "simple": "Starlink is SpaceX's satellite internet, and Ukraine's army relies on it to fly drones. If one person can throttle a military's communications, governments and investors will question how risky it is to depend on Musk's companies, and that could matter for SpaceX contracts and the Tesla merger review.",
+        "source": "WSJ (via Quartz / Japan Times)",
+        "url": "https://qz.com/musk-starlink-speed-cap-ukraine-drones-wsj-102126"
+      },
+      {
+        "title": "Meta leads the Journal's front: bigger AI spend, a legal hit and a new share class",
+        "body": "Reuters' WSJ digest leads with Meta. Revenue beat at $64.6B, but a $9.9B legal charge cut GAAP EPS to $3.83, FY expenses rose to $175–179B, and Meta will create non-voting Class C shares.",
+        "simple": "Meta earned more from ads than expected, but it is spending heavily on AI and took a large legal charge. The new class of shares without voting rights lets it raise money while the founder keeps control. Some investors see that as poor governance.",
+        "source": "Reuters PRESS DIGEST-WSJ (via MarketScreener)",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-22-ce785cd9df80ff2d"
+      },
+      {
+        "title": "Tesla aims to sell Cybercab robotaxis by year-end despite a federal probe",
+        "body": "The Journal's coverage alongside the Meta lead says Tesla still targets Cybercab sales by year-end even as federal safety investigators examine its self-driving tech. The earnings call pushed out wider robotaxi and Optimus timelines.",
+        "simple": "Tesla wants to sell a self-driving car with no steering wheel. Regulators are looking into whether its driver-assist software is safe, and that could slow approvals. The gap between Tesla's promises and what it delivers is now the main debate for its stock.",
+        "source": "Reuters PRESS DIGEST-WSJ (via MarketScreener)",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-22-ce785cd9df80ff2d"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Abbott will spin off its $8.5B Nutrition business by end-2027",
+        "body": "The Abbott Park–based company will distribute the Nutrition unit (Similac, Ensure, Pedialyte, Glucerna; ≈16,000 staff, 14 plants) tax-free to shareholders, led by Daniel Salvadori. RemainCo keeps devices, diagnostics and established pharma (≈$42B sales). 2026 guidance is unchanged and the CEO ruled out a sale. Shares slipped.",
+        "simple": "A spin-off gives existing shareholders shares in a new, separate company instead of selling the business. Abbott wants to wall off its baby-formula unit, which has been hit by recalls and lawsuits, so the rest of the company can be valued as a medical-device maker. For banks, this means advisory work and probably a new debt package for the spun-off company.",
+        "source": "Crain's Chicago Business / Bloomberg (Tribune paywalled)",
+        "url": "https://www.chicagobusiness.com/health-care/ccb-abbott-nutrition-spinoff-20261020/"
+      },
+      {
+        "title": "CME Group's record quarter: open interest past 133M, Q4 volume tracking +17%",
+        "body": "After a record Q3 (revenue $1.737B, adj. EPS $3.02 vs $2.98, ADV 29.4M), management said OI rose from 128M at quarter-end to >133M and Q4 ADV is running +17% vs a record Q4 2025.",
+        "simple": "CME, based in Chicago, earns a small fee on every futures and options trade. Volatile interest rates, oil and metals mean more hedging and more trades, so CME is one of the few companies that benefits directly from market turmoil.",
+        "source": "Investing.com (CME Q3 call transcript)",
+        "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-cme-group-tops-q3-2026-estimates-as-revenue-hits-record-93CH-4922977"
+      },
+      {
+        "title": "Chicago Fed: regional survey out today; national activity index was −0.04 in August",
+        "body": "The Chicago Fed releases its Survey of Economic Conditions today. The CFNAI was −0.04 in August (from 0.08 in July), just below the trend-growth line of zero, and the September CFNAI is due Oct 26, two days before the FOMC decision.",
+        "simple": "The Chicago Fed National Activity Index combines 85 economic indicators into one number, where zero means the economy is growing at its normal pace. A slightly negative reading means growth is a bit below trend. That is the kind of slowdown the Fed is weighing against high inflation.",
+        "source": "Chicago Fed / Trading Economics",
+        "url": "https://www.chicagofed.org/research/data/data-release-calendar"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Labor market is 'solid but stagnant'",
+        "body": "The Times' Oct 21 business section argues hiring has stalled without mass layoffs. Claims near 199K and slow payroll growth fit that picture, which is why today's claims print matters for December Fed pricing.",
+        "simple": "Companies aren't firing many people, but they aren't hiring much either. People who have jobs are fairly safe, but job seekers have a hard time. For the Fed, that makes a rate hike less risky for jobs but still a gamble.",
+        "source": "NYT print edition (via PressReader index)",
+        "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"
+      },
+      {
+        "title": "$8 billion aid plan to cover farm losses from diesel costs",
+        "body": "The administration announced an $8B plan to offset farmers' losses from soaring diesel prices, a direct fiscal cost of the $100+ oil shock.",
+        "simple": "Farmers run tractors and trucks on diesel, and oil near $110 has driven fuel costs sharply higher. The government is spending money to cushion them. That adds to federal borrowing at a time when the Treasury already pays above 5% on long-term debt.",
+        "source": "NYT print edition (via PressReader index)",
+        "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"
+      },
+      {
+        "title": "New lawsuit challenges Canada tariffs; Boeing's 737 Max wins a U.S. approval",
+        "body": "A suit challenges the president's authority to impose tariffs on Canada. Separately, Boeing won a U.S. approval tied to the 737 Max. Amazon plans 300,000 seasonal hires.",
+        "simple": "Tariffs are taxes on imports, and courts may limit how freely the president can impose them. That matters for prices and trade-sensitive companies. Boeing's approval helps it deliver more planes, and Amazon's large seasonal hiring suggests retailers expect a decent holiday season.",
+        "source": "NYT print edition (via PressReader index)",
+        "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Oil up, yields down: which channel wins?",
+      "point": "This morning Brent rose ≈$2.8 while the 10Y fell ≈3 bp, so the haven/growth channel beat the inflation channel. The tell will be breakevens. If the 5Y breakeven (≈2.37%) rises while the 10Y falls, the real-yield component is collapsing, which helps duration and eventually gold. If the noon TIPS auction tails, the market is still demanding real-rate compensation even with 3.7% CPI and a December hike ≈fully priced."
+    },
+    {
+      "topic": "Exchange volume is the cleanest volatility trade",
+      "point": "Treasury futures OI rose 1.2M contracts (≈$75M DV01) to 24M, September Treasury ADV was a record 7.7M, and CME OI is above 133M with Q4 ADV tracking +17%. A sharp interview question: how much of that is basis-trade and hedge-fund leverage that could unwind quickly, and how does the growth in short-dated options change risk at the clearinghouse?"
+    },
+    {
+      "topic": "Copper: tariff arbitrage vs. physical tightness",
+      "point": "LME copper is ≈3.4% below its $14,875 record as LME stocks rose 8% in a week, yet Codelco is asking a record $350/t premium over LME and Highland Valley strike risk is rising. On a metals desk, the trade is the spread structure, not the outright price: near-term surplus versus forward tightness, plus the COMEX–LME arbitrage driven by the threat of a U.S. refined-copper tariff."
+    }
+  ],
+  "caveats": "WSJ, NYT and Tribune are paywalled, and direct page fetches were blocked this run, so stories come from search excerpts: the Reuters WSJ press digest (MarketScreener), the NYT print-edition index (PressReader), Crain's and Bloomberg excerpts for Chicago, and other outlets' coverage. Pre-market yields, futures and Brent are ranges because sources and timestamps differ. No Thursday prints were found for the Russell 2000, WTI, silver or copper, so those tiles carry Wednesday levels or '—'. Blackstone's distributable EPS and the December hike odds (76–90%) could not be pinned down.",
+  "updates": []
+}
