@@ -11,28 +11,28 @@
     "Today: S&P Global flash PMIs at 8:45 AM CT (mfg cons. 55.3–55.5 vs 55.9; services 57.9–58.1 vs 58.8) and final UMich at 9:00 AM (cons. 46.3; the preliminary 1-yr inflation expectation was 4.7%). Futures as of 6 AM ET: S&P −0.2%, Dow −0.6%, Nasdaq 100 ≈flat. Telecoms are −3%+ premarket on a Bloomberg report that SpaceX is in cell-tower talks; Crown Castle +8.5%.",
     "Banking: AmEx beat (adj. EPS $4.68 vs $4.14 a year ago, revenue +9% to $20.1B, billed business +8% to $454B) and raised 2026 EPS guidance to $18.30–18.60 from $17.30–17.90, so the affluent consumer is still spending. First Citizens reports before the open. Next week brings 2Y/5Y/7Y supply (Oct 26/27/29) into the FOMC."
   ],
-  "markets_asof": "≈9:15–9:25 AM CT Fri (stocks from 9:41–10:19 AM ET snapshots; copper timestamp unclear)",
+  "markets_asof": "≈12:15 PM CT Fri (stocks ≈12:00 PM CT, metals/oil ≈9:45 AM CT; mixed snapshots)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−0.5%",
+      "value": "≈7,631",
+      "change": "≈−0.4%",
       "dir": "down",
-      "note": "TheStreet 9:41 AM ET; Thu close 7,663.43"
+      "note": "Yahoo ≈1 PM ET; Thu 7,663.43"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈25,948",
-      "change": "≈−0.2%",
-      "dir": "down",
-      "note": "Yahoo ≈10:19 AM ET; Thu 26,008.86"
+      "value": "≈26,075",
+      "change": "≈+0.3%",
+      "dir": "up",
+      "note": "Fool 11:40 AM ET; Thu 26,008.86"
     },
     {
       "label": "Dow",
-      "value": "≈52,126",
-      "change": "≈−1.4%",
+      "value": "≈52,246",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "Yahoo ≈10:19 AM ET; Thu 52,867.98"
+      "note": "Yahoo ≈1 PM ET; Thu 52,867.98"
     },
     {
       "label": "Russell 2000",
@@ -43,17 +43,17 @@
     },
     {
       "label": "UST 2Y",
-      "value": "4.692%",
+      "value": "≈4.69%",
       "change": "≈+5 bp",
       "dir": "up",
-      "note": "CNBC"
+      "note": "CNBC post-open; no fresh midday quote"
     },
     {
       "label": "UST 10Y",
-      "value": "4.997%",
-      "change": "≈+4 bp",
+      "value": "4.99%",
+      "change": "≈+3 bp",
       "dir": "up",
-      "note": "CNBC; back at the 5% line"
+      "note": "CNBC; Thu close 4.951%"
     },
     {
       "label": "UST 30Y",
@@ -71,38 +71,38 @@
     },
     {
       "label": "Brent (Dec)",
-      "value": "≈$114.0–114.3",
-      "change": "≈+1.0%",
+      "value": "≈$114.4",
+      "change": "≈+1.1%",
       "dir": "up",
-      "note": "IRGC tanker claims; Thu $113.17"
+      "note": "COMEX Live 10:45 AM ET; Thu $113.17"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$100.3",
-      "change": "≈+0.9%",
+      "value": "≈$101.1",
+      "change": "≈+1.6%",
       "dir": "up",
-      "note": "Early NY session; Thu $99.47"
+      "note": "COMEX Live 10:45 AM ET; Thu $99.47"
     },
     {
-      "label": "Gold (spot)",
-      "value": "≈$4,025",
+      "label": "Gold",
+      "value": "≈$4,026–4,037",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Kitco; steep weekly loss"
+      "note": "Kitco/COMEX Live; low $3,986.50"
     },
     {
       "label": "Silver",
-      "value": "$53.71",
-      "change": "−1.4%",
+      "value": "≈$53.8",
+      "change": "≈−1.4 to −2.1%",
       "dir": "down",
-      "note": "Kitco"
+      "note": "Kitco/COMEX Live"
     },
     {
-      "label": "Copper (COMEX Dec)",
-      "value": "≈$6.46/lb",
-      "change": "≈+1%",
+      "label": "Copper (COMEX)",
+      "value": "≈$6.44/lb",
+      "change": "≈+0.7%",
       "dir": "up",
-      "note": "Investing.com; timestamp unclear"
+      "note": "COMEX Live 10:45 AM ET"
     },
     {
       "label": "Dollar index",
@@ -389,6 +389,45 @@
   "caveats": "Direct page fetches were blocked this run, so everything comes from search-result excerpts. WSJ, NYT and Tribune are paywalled: WSJ and NYT items come from Reuters press digests (MarketScreener) and other outlets' coverage of their reports, and the Tribune bucket uses SEC filings and Chicago-focused outlets because no dated Tribune business stories were found. Only two NYT-linked stories could be verified. Futures values are percentage changes only (no levels). Treasury yields are late-session marks that differ by 1–2 bp across CNBC, Reuters and investingLive. December hike odds range from 76% to 90% by source. Platinum and palladium are intraday ranges. The Russell 2000 close is from a single source (Investrade).",
   "updates": [
     {
+      "at": "2026-10-23T17:17:36Z",
+      "label": "Midday",
+      "headline": "Midday split: the Dow is down ≈1.2% and the S&P ≈0.4% while the Nasdaq holds a small gain, the 10Y sits just under 5% (≈4.99%), and Brent stays at ≈$114 with energy leading.",
+      "points": [
+        "Stocks: at ≈1 PM ET, Yahoo had the Dow at ≈52,246 (≈−1.2%) and the S&P 500 at ≈7,631 (≈−0.4%). At 11:40 AM ET, the Motley Fool had the Nasdaq Comp at +0.26% (≈26,075). Tech is stabilizing after Thursday's −2.6%, and the losses are in the Dow's non-tech names. Sources disagree by a few tenths, so treat the levels as approximate.",
+        "Rates: CNBC has the 10Y up ≈3 bp at 4.99%, a slightly smaller rise than the post-open +4 bp, after Thursday's −19.8 bp close at 4.951%. I found no fresh midday 2Y or 30Y quote. Final UMich 5-yr inflation expectations rose to 3.5% from 3.3% (1-yr 4.7%), which fits the post-open point that the data don't support a growth scare.",
+        "Energy: COMEX Live had Brent at ≈$114.4 and WTI at ≈$101.1 at 10:45 AM ET. Energy is the top S&P sector (Fool). SLB beat on adj. EPS of $0.64 vs ≈$0.62 and revenue of $9.45B vs ≈$9.28B, and the stock was +≈6% to $52.85 at 11:40 AM ET (24/7 Wall St). A Fool line citing WTI at $117 conflicts with every other quote; I'm ignoring it.",
+        "Metals: gold is ≈$4,026–4,037 after an intraday low of $3,986.50, its lowest since Jul 20, and is on track for its steepest weekly loss since June (CNBC). Silver is ≈$53.8 (−1.4% to −2.1%) and copper ≈$6.44/lb (+0.7%). High oil is pushing up rate expectations, and that weighs on metals that pay no interest.",
+        "Deals: no new bank M&A or major IPO found today. The morning thesis (bonds pricing growth, not inflation) still looks weaker than it did at 7 AM: the curve is giving back gains even as the Dow falls."
+      ],
+      "simple": "Big industrial and consumer stocks are falling while tech holds steady after yesterday's rout. Government bond yields (the interest Treasuries pay) are a bit higher, not lower, because surveys show the economy and inflation fears are both still running hot. Expensive oil is helping energy companies like SLB, an oilfield-services firm, but it hurts gold: when people expect higher interest rates, a metal that pays no interest becomes less attractive.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (live blog)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+        },
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://fool.com/coverage/stock-market-today/2026/10/23/stock-market-midday-oct-23-energy-surges-on-oil-price-spike-cybersecurity-stocks-gain"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+        },
+        {
+          "name": "CNBC (gold)",
+          "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
+        },
+        {
+          "name": "COMEX Live",
+          "url": "https://comexlive.org/"
+        },
+        {
+          "name": "24/7 Wall St (SLB)",
+          "url": "https://247wallst.com/cards/slb-slb-price-swing-01m5mptr7ag6ce93qpctymba1d"
+        }
+      ]
+    },
+    {
       "at": "2026-10-23T14:22:35Z",
       "label": "Post-open",
       "headline": "The data didn't back up the growth scare: the manufacturing PMI beat and final UMich was revised up to 48.0, so Treasuries are giving back part of Thursday's rally (10Y ≈5.00%) while stocks extend losses with Brent at ≈$114.",
@@ -432,5 +471,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-23T14:22:35Z"
+  "updatedAt": "2026-10-23T17:17:36Z"
 }
