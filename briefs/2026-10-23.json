@@ -1,0 +1,391 @@
+{
+  "date": "2026-10-23",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-23T11:24:23Z",
+  "headline": "Bonds are pricing the AI selloff as a growth scare, not the oil shock as inflation: the 10Y is ≈4.96% after its biggest one-day drop since March 2023 even with Brent ≈$114, and gold (≈$4,021) got no haven bid. Futures are slightly lower into the 8:45 AM CT flash PMIs and next week's FOMC.",
+  "summary": [
+    "Thursday close: Nasdaq Comp −2.6% to 26,008.86 (worst day since June), S&P 500 −1.21% to 7,663.43, Dow +0.02%. The SOX lost 6.7%. Meta fell ≈7–8% after it disclosed $825B of AI lease and non-cancelable commitments (up from $700B in July), raised the low end of 2026 capex to $135–145B, created a non-voting Class C share it can sell to raise capital, and per Reuters posted its first cash outflow in over a decade.",
+    "Rates: in investingLive's late-session marks the 2Y fell 17 bp to ≈4.65%, the 10Y 18.5 bp to ≈4.96% and the 30Y 15 bp to ≈5.29%. CNBC called it the biggest 10Y drop since March 10, 2023, and it is the first close under 5% since Sep 23. 2s10s stayed ≈+31 bp, so this was a parallel haven bid, not a Fed-cut story. The 10Y is steady near 4.96% this morning (Reuters). Correction to last night's Close update: the final drops were ≈5 bp bigger than the 4.99%/4.69% quoted there.",
+    "Oil: Brent settled at $113.17 (+4.0%), its highest close since May 4, and WTI at $99.47 (+2.4%). Brent hit ≈$114 overnight after Houthi strikes on a Saudi oil field and Dammam airport, and after a NYT report that the U.S. and Israel have plans for new Iran strikes after the Nov 3 midterms. Bonds rallied through all of it, which says markets currently read high oil as a tax on growth.",
+    "Fed: the funds rate is 3.75–4.00%. December hike odds slipped to ≈76–90% depending on the source (Reuters cites ≈85%; CME FedWatch ≈89.5%). An October 28 hike is a tail (≈5% per Bloomberg data, ≈16% in an earlier FedWatch snapshot). The blackout runs through Oct 29, so there are no Fed speakers today.",
+    "Today: S&P Global flash PMIs at 8:45 AM CT (mfg cons. 55.3–55.5 vs 55.9; services 57.9–58.1 vs 58.8) and final UMich at 9:00 AM (cons. 46.3; the preliminary 1-yr inflation expectation was 4.7%). Futures as of 6 AM ET: S&P −0.2%, Dow −0.6%, Nasdaq 100 ≈flat. Telecoms are −3%+ premarket on a Bloomberg report that SpaceX is in cell-tower talks; Crown Castle +8.5%.",
+    "Banking: AmEx beat (adj. EPS $4.68 vs $4.14 a year ago, revenue +9% to $20.1B, billed business +8% to $454B) and raised 2026 EPS guidance to $18.30–18.60 from $17.30–17.90, so the affluent consumer is still spending. First Citizens reports before the open. Next week brings 2Y/5Y/7Y supply (Oct 26/27/29) into the FOMC."
+  ],
+  "markets_asof": "Pre-market ≈6:00 AM CT Fri for futures, Brent and gold; Treasuries, silver, copper and DXY are Thu late-session marks",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "—",
+      "change": "−0.2%",
+      "dir": "down",
+      "note": "Thu cash close 7,663.43 (−1.21%)"
+    },
+    {
+      "label": "Nasdaq 100 fut",
+      "value": "—",
+      "change": "≈−0.04%",
+      "dir": "flat",
+      "note": "Comp closed 26,008.86 (−2.6%)"
+    },
+    {
+      "label": "Dow fut",
+      "value": "—",
+      "change": "−0.6%",
+      "dir": "down",
+      "note": "Thu close 52,867.98 (+0.02%)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,784",
+      "change": "+0.11%",
+      "dir": "up",
+      "note": "Thu close (Investrade); small caps held up"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.65%",
+      "change": "≈−17 bp",
+      "dir": "down",
+      "note": "Thu late session"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.96%",
+      "change": "≈−18.5 bp",
+      "dir": "down",
+      "note": "Biggest drop since Mar 2023; flat Fri"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.29%",
+      "change": "≈−15 bp",
+      "dir": "down",
+      "note": "10s30s ≈+33 bp"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈76–90%",
+      "dir": "flat",
+      "note": "FOMC Oct 27–28"
+    },
+    {
+      "label": "Brent (Dec)",
+      "value": "≈$114",
+      "change": "≈+1%",
+      "dir": "up",
+      "note": "Thu settle $113.17 (+4.0%)"
+    },
+    {
+      "label": "WTI (Dec)",
+      "value": "$99.47",
+      "change": "+2.4%",
+      "dir": "up",
+      "note": "Thu settle; ≈$98–100 overnight"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "$4,021",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "−2.9% Thu; Kitco 6:01 AM ET"
+    },
+    {
+      "label": "Silver",
+      "value": "$54.53",
+      "change": "−5.8%",
+      "dir": "down",
+      "note": "Thu 3:52 PM ET; 2026 low"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.40/lb",
+      "change": "≈−2.7%",
+      "dir": "down",
+      "note": "LME low $14,031/t, 5-wk low"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.6",
+      "change": "≈−0.2%",
+      "dir": "down",
+      "note": "USD/JPY ≈156.5–157; VIX 19.03 Thu"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: American Express (out), SLB, First Citizens (FCNCA), Autoliv, Booz Allen",
+      "consensus": "AXP ≈$4.53–4.58; SLB $0.62; FCNCA $47.40",
+      "prior": "AXP printed $4.68 adj.",
+      "why": "AXP is the read on high-end consumer credit, and First Citizens is a large-regional NII and deposit-cost check after the bond rally."
+    },
+    {
+      "time": "8:45 AM",
+      "event": "S&P Global flash Manufacturing PMI (Oct)",
+      "consensus": "55.3–55.5",
+      "prior": "55.9",
+      "why": "A miss would back the growth-scare reading of Thursday's rally. Watch the prices-paid component with Brent at $113."
+    },
+    {
+      "time": "8:45 AM",
+      "event": "S&P Global flash Services PMI (Oct)",
+      "consensus": "57.9–58.1",
+      "prior": "58.8",
+      "why": "Services hold up the economy. A drop toward 57 would push December hike odds lower."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "UMich consumer sentiment, final (Oct)",
+      "consensus": "46.3",
+      "prior": "46.3 prelim (Sep 48.1)",
+      "why": "The preliminary 1-yr inflation expectation was 4.7%. An upward revision would put the inflation narrative back ahead of the growth one."
+    },
+    {
+      "time": "All day",
+      "event": "Fed blackout (through Oct 29)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "No Fed speakers, so data and oil headlines move the front end."
+    },
+    {
+      "time": "Oct 26–29",
+      "event": "Treasury 2Y (Mon), 5Y (Tue), 2Y FRN (Wed), 7Y (Thu) auctions",
+      "consensus": "Sizes per Thu announcement",
+      "prior": "—",
+      "why": "Front-end supply lands right after the biggest rally since 2023 and straddles the FOMC. Watch tails."
+    },
+    {
+      "time": "Oct 27–28",
+      "event": "FOMC decision (Wed, Oct 28)",
+      "consensus": "Hold ≈84–95%",
+      "prior": "Hiked Sep 16 to 3.75–4.00%",
+      "why": "The question is whether Warsh validates a December hike or leans on the growth scare."
+    },
+    {
+      "time": "Oct 29",
+      "event": "Intel Q3 earnings (after close)",
+      "consensus": "EPS ≈$0.37–0.40",
+      "prior": "Q2 $0.217 vs $0.42 est.",
+      "why": "The next test of the AI and semiconductor trade after the SOX's 6.7% drop."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Biggest 10Y rally since March 2023 takes it back under 5%",
+        "body": "The 10Y fell ≈17–19 bp to ≈4.96–4.97% and the 2Y ≈17 bp to ≈4.65%, leaving 2s10s ≈+31 bp. The 10Y was 5.36% on Oct 7, its highest since 2002, so it has now come down ≈40 bp in two weeks. It was steady at ≈4.959% in Asia.",
+        "simple": "A Treasury yield is the interest the government pays to borrow, and yields fall when investors rush to buy bonds. On Thursday money left tech stocks for the safety of Treasuries, which pushed long-term borrowing costs down hard. Lower long yields eventually feed into mortgage and corporate loan rates.",
+        "source": "CNBC / investingLive",
+        "url": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"
+      },
+      {
+        "title": "Fed path: December hike still priced, but less of it",
+        "body": "Reuters says markets 'sharply pared' tightening bets: December hike odds are ≈85% (≈76% on Investing.com's gauge, ≈89.5% on CME FedWatch) from the high-80s/≈90% earlier in the week. Odds of a hike at the Oct 28 meeting are ≈5% per Bloomberg data.",
+        "simple": "Fed funds futures are contracts that let traders bet on where the Fed's policy rate will be. Their prices show traders still expect one more increase in December to fight oil-driven inflation, though they are a little less sure after the stock selloff. A hike would make loans more expensive across the economy.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4967929"
+      },
+      {
+        "title": "Global havens: Bunds and JGBs rally, French spread wide",
+        "body": "The German 10Y eased ≈6 bp to ≈3.36% on safe-haven buying while French OATs lagged, leaving the OAT–Bund spread at ≈157.5 bp. Japan's September CPI rose to 2.1% (core ex-fresh food and energy 2.4% vs 1.9%), yet JGBs and the yen still rallied as haven demand reached Asia.",
+        "simple": "Bunds are German government bonds and JGBs are Japanese ones. Both are treated as safe places to park money. A wider gap between French and German yields means investors want extra pay to lend to France, given its political and budget stress. Bonds rallied together worldwide, so this was a global flight to safety, not a U.S.-only story.",
+        "source": "Trading Economics / FXStreet",
+        "url": "https://tradingeconomics.com/germany/government-bond-yield"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Equity vol wakes up: VIX ≈19 after a 14% jump",
+        "body": "The VIX closed Thursday at ≈19.03, up 2.35 points (≈+14%) from 16.68, as the SOX had its worst day since June 23 (−6.7%). The bond-vol gauge (MOVE) was ≈116 in early October, near its March high. I found no fresh print.",
+        "simple": "The VIX is a measure of how much traders will pay for S&P 500 options, which act as insurance against big moves. It jumping means investors suddenly want more protection. Higher volatility usually lifts trading revenue at exchanges and bank trading desks.",
+        "source": "Yahoo Finance / KBL daily report",
+        "url": "https://kbldestinations.substack.com/p/daily-market-report-10-22-26"
+      },
+      {
+        "title": "CME rates complex: record September and heavy SOFR options build",
+        "body": "CME's October rates recap puts September Treasury futures ADV at 7.7M, a record for September, with futures OI up 1.2M contracts (≈$75M DV01) to 24M. SOFR options traders added 6M+ contracts of new OI in the 15 days after the Sep 26 expiry, the largest three-week inflow since March. CME's Q3 ADV was a record 29.4M.",
+        "simple": "Open interest is the number of futures or options contracts still open, and ADV is average daily volume. Both growing means more firms are hedging or betting on interest rates through CME. SOFR options pay off on moves in the benchmark overnight lending rate, so buyers are protecting against surprises from the Fed.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "FedWatch disagreement is itself the trade",
+        "body": "One CME FedWatch snapshot this week had an 83.9% hold / 16.1% hike for Oct 28, while Bloomberg's futures-implied odds were ≈5% after Thursday's rally. December pricing ranges from ≈76% to ≈90% depending on the tool and timestamp.",
+        "simple": "Different calculators turn the same futures prices into probabilities in slightly different ways, and the odds swing quickly after big moves. A wide range means traders aren't sure, which tends to make options on short-term rates more expensive. That uncertainty is what desks hedge and trade.",
+        "source": "Phemex (CME FedWatch) / Reuters",
+        "url": "https://phemex.com/news/article/fed-rate-hold-probability-hits-839-for-october-meeting-100309"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold gets no haven bid even as yields fall",
+        "body": "Spot gold fell ≈2.9% Thursday to ≈$4,021 and was flat there at 6 AM ET. That is ≈28% below January's ≈$5,600 high. Yields fell ≈18 bp while the yen, the Swiss franc and Treasuries took the haven flows. In Q2, central banks bought ≈289t while ETFs sold ≈45t (WGC data via secondary sources).",
+        "simple": "Gold usually rises when interest rates fall, because it pays no interest. This time investors sold gold anyway, probably to raise cash and because they still expect a Fed hike. Central banks buying steadily give a floor under the price, but for now it is weak.",
+        "source": "Kitco / CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html"
+      },
+      {
+        "title": "Silver hits a 2026 low; PGMs follow",
+        "body": "Silver lost $3.33 to ≈$54.53 (≈−5.8%), a new 2026 low. Platinum fell ≈2.5–2.8% to ≈$1,557–1,591 and palladium ≈3% to ≈$1,040–1,071. The higher-beta metals fell about twice as much as gold.",
+        "simple": "Silver, platinum and palladium are part precious metal, part industrial input (solar panels, car catalysts). When investors fear slower growth and sell risky assets, these fall harder than gold. 'Beta' just means how much something moves relative to the market.",
+        "source": "Kitco / GSC Markets",
+        "url": "https://www.kitco.com/news/article/2026-10-22/precious-metals-tumble-despite-falling-yields-hormuz-tensions-intensify"
+      },
+      {
+        "title": "Copper at a five-week low as LME stocks build",
+        "body": "LME copper hit $14,031/t, the lowest since Sep 15 and ≈5.7% below September's ≈$14,875 record. LME available stocks reached a two-month high of 147,450t and SHFE stocks rose to ≈74,000t from 58,744t. COMEX (≈$6.40/lb, −2.7%) now trades ≈$80/t under LME, versus a ≈$420/t premium in July.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price is a growth signal. Rising warehouse stockpiles mean supply is outrunning demand for now. The New York price falling below London's means traders no longer expect a U.S. tariff to make U.S. copper scarce.",
+        "source": "Reuters via Mining.com / Copper Weekly Brief",
+        "url": "https://www.mining.com/web/copper-price-falls-to-five-week-low-as-lme-inventory-build-continues/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "AmEx beats and lifts its 2026 profit outlook",
+      "body": "Q3 adj. EPS was $4.68 vs $4.14 a year ago and ≈$4.53–4.58 expected. Revenue rose 9% to $20.1B, billed business rose 8% to $454B, and provisions fell to $1.0B from $1.3B. 2026 EPS guidance moved to $18.30–18.60 from $17.30–17.90. Shares were ≈+0.8% premarket.",
+      "simple": "American Express earns money when card members spend and when they pay interest on balances. Spending grew and the money set aside for bad loans fell, so wealthier customers are still spending and paying their bills despite $100 oil. That is good news for consumer lenders.",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920"
+    },
+    {
+      "title": "Huntington: NII +37%, but revenue a touch light",
+      "body": "Huntington's Q3 adj. EPS of $0.38 beat the $0.35 estimate. Revenue was $2.79B vs $2.82B expected. FTE net interest income was $2.09B (+37% y/y) and the NIM was 3.25%. It is targeting 2027 growth of more than 20%.",
+      "simple": "Net interest income (NII) is what a bank earns on loans minus what it pays on deposits, and the net interest margin (NIM) is that spread as a percentage. Huntington's NII jumped, so higher rates and a bigger balance sheet are paying off. Revenue missing slightly shows fee businesses lagged.",
+      "source": "Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/huntington-q3-2026-slides-earnings-beat-2027-growth-target-tops-20-93CH-4926128"
+    },
+    {
+      "title": "KeyCorp hits profitability targets as NIM widens",
+      "body": "Key's EPS was $0.51 (+24% y/y) on record revenue of $2.04B. NII rose ≈10% to ≈$1.3B, the NIM reached 2.95%, and fee income of $744M was ≈36% of revenue.",
+      "simple": "KeyCorp is a Cleveland-based regional bank. Its margin widening means it now earns more on loans than it pays depositors, after years of being hurt by low-yielding bonds bought in 2020–21. That kind of turnaround is the regional-bank story of 2026.",
+      "source": "American Banker / Investing.com",
+      "url": "https://www.americanbanker.com/news/keys-profit-tops-estimates-on-growth-in-deposits-and-fees"
+    },
+    {
+      "title": "Meta's Class C share is a new capital-markets tool for the AI buildout",
+      "body": "Meta will issue one non-voting Class C share per existing share, effective Jan 19, 2027, and expects to sell Class C stock 'from time to time.' Advisers estimated it could raise ≈$700B of equity before Zuckerberg's vote falls below 50%. He would hold ≈60.6% of votes on a 13.4% economic stake.",
+      "simple": "Companies raise money by selling shares, but new voting shares would dilute the founder's control. Non-voting shares let Meta raise huge sums for AI data centers without Zuckerberg losing control. For banks, that points to a large stream of future equity underwriting fees, and to how expensive the AI buildout has become.",
+      "source": "Benzinga / Decrypt",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62516100/meta-non-voting-stock-split-zuckerberg-keeps-control-ai-buildout"
+    },
+    {
+      "title": "SpaceX–Tesla merger talks: ≈$3.5T, but governance is the hurdle",
+      "body": "Both boards have formed special committees and advisers are hired. Structures under discussion include SpaceX buying Tesla or a new holding company, likely all-stock. SpaceX said in an Oct 22 filing that any deal also needs its controlling shareholder's (Musk's) approval. Reuters reports that Musk's public cheerleading could delay talks by weeks.",
+      "simple": "A special committee is a group of independent directors who negotiate when the boss has a conflict of interest, here because Musk controls both companies. Done fairly, a deal this size would be the largest merger ever and a windfall for M&A advisers. Tesla's 2016 SolarCity deal led to years of lawsuits over the same issue.",
+      "source": "Reuters via Investing.com / Axios",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivemusks-public-endorsement-of-spacextesla-deal-may-throw-a-wrench-in-talks-4964606"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "10Y tumbles below 5% to its lowest in nearly a month",
+        "body": "The 10Y slid more than 17 bp to ≈4.972%, its biggest one-day drop since March 10, 2023, and its first time under 5% since Sep 23. CNBC credits the move to the AI-stock rout and to fading expectations for Fed hikes next year.",
+        "simple": "When stocks fall sharply, investors often buy government bonds because they are seen as safe. The buying pushed yields (the interest rate on the bonds) down a lot in one day. Borrowers like home buyers benefit if it lasts.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"
+      },
+      {
+        "title": "Nasdaq's worst session since June; futures stay heavy",
+        "body": "The Nasdaq Comp closed −2.6% at 26,008.86 and the S&P −1.21% at 7,663.43, the S&P's worst day since July. Evening futures had the Dow −316 points (−0.59%) and the S&P −0.28%, and they were still slightly lower by 6 AM ET.",
+        "simple": "Futures let investors trade the stock market before it opens, so they hint at how the day will start. Big tech stocks fell on fears they are spending too much on AI, and they are big enough to drag the whole index down.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+      },
+      {
+        "title": "Brent tops $112 as Houthi attacks hit Saudi Arabia",
+        "body": "Brent settled at $113.17 (+4%) and WTI at $99.47 (+2.4%) after Houthi strikes killed at least three in Saudi Arabia's Eastern Province, Aramco evacuated its Dhahran HQ, and the U.S. ordered some diplomats out. Reports of new U.S.–Israel Iran-strike plans added to the risk premium.",
+        "simple": "Brent and WTI are the two main oil benchmarks. Attacks near Saudi oil facilities make traders worry about supply, so they pay more now, which analysts call a 'risk premium.' Higher oil raises gas and shipping costs for everyone.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/amp/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
+      },
+      {
+        "title": "Safe-haven hunt continues Friday",
+        "body": "The 10Y steadied at ≈4.959% in Asia, and the yen and Swiss franc firmed. Gold failed to attract haven demand and sat flat at ≈$4,022 after a nearly 3% drop. Asia-Pacific ex-Japan shares were headed for a 2.7% weekly loss, their fourth straight down week.",
+        "simple": "'Safe havens' are assets people buy when scared, like Treasuries, the yen or the Swiss franc. Gold usually belongs on that list, but this week it didn't act like one, which tells you investors are raising cash rather than hiding in metals.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Musk's public push could complicate SpaceX–Tesla deal",
+        "body": "WSJ's Oct 22 lineup (via the Reuters press digest) led with Meta and with Musk's endorsement of a SpaceX–Tesla tie-up possibly complicating talks. SpaceX separately said a merger would need Musk's approval as controlling shareholder. Reuters puts the combined value at ≈$3.5T.",
+        "simple": "When one person controls both sides of a merger, independent directors have to prove the price is fair to outside shareholders. Musk talking it up publicly makes that harder and invites lawsuits, which could slow the deal.",
+        "source": "WSJ via MarketScreener press digest",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-22-ce785cd9df80ff2d"
+      },
+      {
+        "title": "SpaceX's push into wireless keeps hitting telecom stocks",
+        "body": "WSJ reported SpaceX is paying Grain Management $8B cash for nationwide low-band spectrum (Oct 8 deal). Today Bloomberg says SpaceX is talking to tower owners, including Crown Castle, about ≈80,000 cell sites. AT&T, Verizon and T-Mobile were −3%+ premarket, Crown Castle +8.5% and American Tower +5.6%.",
+        "simple": "Spectrum is the radio frequency that phones use, and owning it plus cell towers is what a phone carrier needs. If SpaceX becomes a real carrier, it competes with AT&T and Verizon for monthly bills, while tower landlords gain a new tenant.",
+        "source": "WSJ via Forbes; Reuters",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/10/23/att-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile/"
+      },
+      {
+        "title": "Fortescue warns of guidance cut if China talks drag",
+        "body": "Per WSJ headlines compiled by The Wire China, the Australian iron-ore miner warned it may cut output guidance if its talks with China aren't concluded soon. That adds to signs of weak Chinese metals demand alongside the build in LME copper stocks.",
+        "simple": "China buys most of the world's seaborne iron ore to make steel. A big supplier warning it may produce less because of stalled talks with Chinese buyers is a sign of friction in the metals trade with China, which matters for prices of steel inputs.",
+        "source": "WSJ via The Wire China",
+        "url": "https://www.thewirechina.com/2026/10/22/the-daily-roundup-october-22-2026/"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group: Barclays lifts target to $321 after record Q3",
+        "body": "Barclays kept Equal-Weight but raised its CME target to $321 from $281 on Oct 22, after Q3 revenue of ≈$1.7B and record Q3 ADV of 29.4M contracts. Shares were ≈$306. Thursday's vol spike (VIX +14%, the 10Y's biggest move since 2023) supports Q4 volumes.",
+        "simple": "CME, based in Chicago, runs the exchanges where futures on interest rates, oil, metals and stock indexes trade. It earns a fee on each contract, so turbulent markets like this week's usually mean more revenue. A price target is an analyst's estimate of where the stock should trade.",
+        "source": "Yahoo Finance / PR Newswire",
+        "url": "https://finance.yahoo.com/quote/CME/"
+      },
+      {
+        "title": "Wintrust posts a seventh straight record quarter",
+        "body": "The Rosemont-based bank earned $239.1M ($3.37/sh) on $757.9M of net revenue in Q3. Loans grew $1.1B to $56.8B (≈8% annualized), the NIM was 3.51% (−1 bp q/q), and NPLs were 0.31%. Mortgage banking revenue fell to $25.5M.",
+        "simple": "Wintrust is one of the largest Chicago-area banks. Loans growing and few borrowers falling behind (NPLs are loans not being repaid) shows local businesses and households are still borrowing and paying. A flat margin means it isn't earning much more per dollar lent.",
+        "source": "Wintrust 8-K (SEC) / Quiver Quant",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001015328/000101532826000026/earningsrelease2026-q3fi.htm"
+      },
+      {
+        "title": "Illinois bank consolidation: Byline–Illinois State Bancorp pending",
+        "body": "Byline's ≈$87.9M cash-and-stock deal ($261.23/sh) for $617M-asset Illinois State Bancorp, announced Oct 6, would create a ≈$10.5B-asset, 48-branch bank. It is expected to close in Q1 2027.",
+        "simple": "Smaller community banks are being bought by bigger regional ones because size helps spread technology and compliance costs. Crossing $10B in assets brings extra federal oversight, so Byline must think this deal is worth that cost.",
+        "source": "Pulse 2.0 / American Banker",
+        "url": "https://pulse2.com/byline-bancorp-to-acquire-illinois-state-bancorp-for-about-87-9-million/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "U.S. and Israel draw up plans for new Iran strikes after the midterms",
+        "body": "Per the NYT (via Investing.com and Time), planners prepared a short, intensive campaign from early November that could hit energy, nuclear and missile sites, while sparing refineries to protect gasoline prices. Trump hasn't approved it, and Iran warned it could retaliate against Saudi refineries and undersea cables.",
+        "simple": "This is why oil keeps rising: traders fear a new round of fighting could disrupt Gulf supply further. Even if refineries are spared, any retaliation against Saudi Arabia would hit the world's oil supply and push up fuel prices.",
+        "source": "NYT via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/us-israel-prepare-for-renewed-iran-strikes-after-midterm-elections--nyt-4964461"
+      },
+      {
+        "title": "NYT business digest: AI-funding fears spread to Asia",
+        "body": "The Oct 23 NYT business digest ran alongside headlines of Asian stocks near a three-month low on AI-funding worries. KOSPI fell 2.2%, KOSDAQ 3.5% and the Nikkei 1.4%, while the Hang Seng was ≈+0.25%.",
+        "simple": "South Korea and Japan are home to big chipmakers that sell to U.S. AI companies. When investors doubt that AI spending will pay off, those suppliers' stocks fall too, so a U.S. tech worry becomes a global one.",
+        "source": "Reuters NYT press digest via MarketScreener; investingLive",
+        "url": "https://www.marketscreener.com/news/press-digest-new-york-times-business-news-october-23-ce785cded18df027"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "$113 Brent and an 18 bp bond rally on the same day",
+      "point": "In a supply shock, the front end and the long end can tell different stories. December hike odds only slipped to ≈85%, but the 10Y fell 18.5 bp, so the market is pricing a policy mistake: the Fed hikes into an oil-tax slowdown, which flattens the path of real growth. Ask how a rates desk would express that view: receive 5Y–10Y swaps against paying the December SOFR contract, or buy breakevens if you think oil wins."
+    },
+    {
+      "topic": "Meta's Class C stock and who funds the AI buildout",
+      "point": "With $825B of commitments and $135–145B of capex, hyperscalers are shifting from free cash flow to external capital: IG bonds, leases, and now a non-voting equity shelf that could raise ≈$700B. For a capital-markets or commercial-banking seat, that means ECM fees, data-center project finance and concentration risk on bank balance sheets. Thursday's SOX −6.7% showed the market starting to price that funding risk."
+    },
+    {
+      "topic": "Why gold failed as a haven and what would fix it",
+      "point": "Gold fell ≈2.9% on a day the 10Y dropped 18.5 bp, while the yen and franc rallied. That points to liquidation and a still-hawkish Fed, not real yields. Central banks bought ≈289t in Q2 against ETF selling, so the floor is official-sector demand. The catalyst to watch is the Oct 28 FOMC: a Warsh hold that downplays December would cut the opportunity cost of holding gold and could flip it from funding source to haven."
+    }
+  ],
+  "caveats": "Direct page fetches were blocked this run, so everything comes from search-result excerpts. WSJ, NYT and Tribune are paywalled: WSJ and NYT items come from Reuters press digests (MarketScreener) and other outlets' coverage of their reports, and the Tribune bucket uses SEC filings and Chicago-focused outlets because no dated Tribune business stories were found. Only two NYT-linked stories could be verified. Futures values are percentage changes only (no levels). Treasury yields are late-session marks that differ by 1–2 bp across CNBC, Reuters and investingLive. December hike odds range from 76% to 90% by source. Platinum and palladium are intraday ranges. The Russell 2000 close is from a single source (Investrade).",
+  "updates": []
+}
