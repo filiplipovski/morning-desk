@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-25",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-10-25T11:19:03Z",
+  "headline": "The weekend added risk rather than resolving any: on Saturday the Houthis claimed seven strikes on Saudi oil and airport targets, including Yanbu and the Rabigh refinery, and the WSJ says Trump is weighing a return to full-scale war with Iran. Globex reopens tonight with Brent at $116.72, the 10Y at ≈5.00% and gold at ≈$4,000, ahead of a Fed hold that is ≈90% priced and a December hike that is ≈80% priced.",
+  "summary": [
+    "New since Friday's close: on Sat Oct 24 the Houthis claimed seven missile and drone operations on Saudi targets, including Aramco's Yanbu hub, the Rabigh refinery, a Riyadh airport, Dammam, Najran and Khamis Mushait. The coalition says it intercepted two ballistic missiles aimed at Taif and Yanbu, and Saudi Arabia has reported no confirmed damage. Coalition airstrikes hit Sanaa (≥3 killed) and Mocha (≈20 strikes). Yanbu is the Red Sea outlet that lets Saudi crude bypass Hormuz, so a hit there would matter more than the earlier strikes on Shaybah.",
+    "Week recap (Fri Oct 23 close): the S&P 500 fell 0.5% to 7,623.68 and the Nasdaq 0.7% to 25,955.34. The Dow rose 0.4% to 52,215.16 and the Russell 2000 ≈2.0% to 2,775.90. The 10Y fell ≈9–10 bp to ≈5.00% (Thursday −19 bp, the most since Mar 2023), the 2Y ≈5 bp to ≈4.70% and the 30Y ≈11 bp to ≈5.32%: a bull flattener. Brent (Dec) rose 6.2% to $116.72 and WTI to $103.27, while gold fell ≈3.5% to ≈$4,000, silver ≈6–8% to ≈$53.9 and platinum ≈5% to ≈$1,563.",
+    "Geopolitics are now a two-sided risk. The WSJ (via secondhand reports) says Trump has reviewed restarting a large-scale offensive against Iran but leans toward diplomacy for now, and Thursday's NYT report had U.S.–Israel strike planning set for after the Nov 3 midterms. If Brent opens above $120 tonight, December hike odds and the 2Y move up before Monday's $69B 2Y auction. If the weekend proves quiet, some of the oil premium could come out.",
+    "Fed: the FOMC decides Wed Oct 28. CME FedWatch had ≈90% for a hold at 3.75–4.00% (≈10% hike) as of Oct 23, and ≈80–90% for a December hike. In a Reuters poll, 94 of 100 economists expect no change this week and all 100 expect a December hike. There is no SEP and no forward guidance under Warsh, so the statement wording and the presser carry the signal. Q3 GDP (≈3.0%) and core PCE (3.1% y/y) land Thursday morning.",
+    "Credit and funding: CNBC calls this Nvidia's first real stress test as an AI financier. Through backstops, lease guarantees and equity, Nvidia is supporting neoclouds (CoreWeave, Nebius, IREN, each down 30%+ in October) whose borrowing costs are rising. Separately, France's 10Y OAT spread over Bunds is at its widest in about 15 years (estimates ≈137–167 bp) after a second weekend of riots, and the ECB meets Thursday.",
+    "This week: $211B of coupon supply (2Y Mon, 5Y Tue, 2Y FRN Wed, 7Y Thu), the FOMC, BoC, ECB and BoJ, Microsoft and Alphabet (Wed), Amazon, Intel, Mastercard and Mondelez (Thu), Exxon and Chevron (Fri), and Verizon, Boeing and Visa early in the week. Chicago names to watch: Mondelez Thursday, and CME as a volume beneficiary ahead of the Nov 2 CFO handoff."
+  ],
+  "markets_asof": "Fri Oct 23 close (Sunday morning: no live trading; CME Globex reopens 5:00 PM CT). Stocks and oil are official closes and settles. Yields, metals and DXY are late-session marks and approximate. Weekly changes are vs Fri Oct 16.",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,623.68",
+      "change": "−0.52%",
+      "dir": "down",
+      "note": "Week −0.5% (2nd weekly loss)"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "25,955.34",
+      "change": "−0.21%",
+      "dir": "down",
+      "note": "Week −0.7%"
+    },
+    {
+      "label": "Dow",
+      "value": "52,215.16",
+      "change": "−1.23%",
+      "dir": "down",
+      "note": "−652.82 Fri; week +0.4%"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,775.90",
+      "change": "−0.29%",
+      "dir": "down",
+      "note": "Week ≈+2.0% (AP)"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.69–4.70%",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "Week ≈−5 bp"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.99–5.00%",
+      "change": "≈+4 bp",
+      "dir": "up",
+      "note": "Week ≈−9 to −10 bp; Thu −19 bp"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.32%",
+      "change": "≈+3 bp",
+      "dir": "up",
+      "note": "Week ≈−11 bp"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Oct 28 hold ≈88–92%",
+      "dir": "flat",
+      "note": "Dec hike ≈67–90% by source"
+    },
+    {
+      "label": "Brent (Dec)",
+      "value": "$116.72",
+      "change": "+3.1%",
+      "dir": "up",
+      "note": "Week +6.2%; WTI $103.27 (+3.8%)"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$3,993–4,020",
+      "change": "≈−0.8%",
+      "dir": "down",
+      "note": "Week ≈−3.5%; low $3,975.10"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$53.9",
+      "change": "≈−1.0 to −1.3%",
+      "dir": "down",
+      "note": "Week ≈−6 to −8%"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.48/lb",
+      "change": "+1.8%",
+      "dir": "up",
+      "note": "LME ≈$14,160–14,200/t"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.8",
+      "change": "≈+0.2%",
+      "dir": "up",
+      "note": "Week ≈−0.2%"
+    },
+    {
+      "label": "VIX",
+      "value": "≈19.45",
+      "change": "≈+2.2%",
+      "dir": "up",
+      "note": "Near 20; MOVE ≈99"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun 5:00 PM",
+      "event": "CME Globex reopens (crude, Treasuries, equity futures, metals)",
+      "consensus": "—",
+      "prior": "Brent $116.72; 10Y ≈5.00%; gold ≈$4,000",
+      "why": "This is the first chance to price Saturday's Houthi claims on Yanbu and Rabigh. Brent above $120 would likely push December hike odds and the 2Y higher, while a flat open would say the market sees the claims as unconfirmed."
+    },
+    {
+      "time": "Mon 7:30 AM",
+      "event": "Chicago Fed National Activity Index (Sep)",
+      "consensus": "—",
+      "prior": "−0.04 (Aug)",
+      "why": "The Chicago Fed's broad growth gauge. A reading below zero would support the view that the economy is cooling and argue against a December hike."
+    },
+    {
+      "time": "Mon pre-mkt",
+      "event": "Earnings: Verizon",
+      "consensus": "EPS ≈$1.31",
+      "prior": "—",
+      "why": "Carriers fell on SpaceX's cell-tower and spectrum push, so watch guidance and wireless competition."
+    },
+    {
+      "time": "Mon 12:00 PM",
+      "event": "2Y note auction ($69B)",
+      "consensus": "WI ≈4.69–4.70%",
+      "prior": "—",
+      "why": "The first supply after the biggest rally since 2023. A tail (clearing above the when-issued yield) would mean buyers are wary of a December hike."
+    },
+    {
+      "time": "Tue pre-mkt",
+      "event": "Earnings: Boeing; Visa after close",
+      "consensus": "Visa EPS ≈$3.43",
+      "prior": "—",
+      "why": "Boeing reports right after the Max 10 certification. Visa is a consumer-spend read after AmEx raised guidance."
+    },
+    {
+      "time": "Tue 9:00 AM",
+      "event": "Conference Board consumer confidence (Oct)",
+      "consensus": "80.5",
+      "prior": "81.9",
+      "why": "September was the lowest optimism since 2014. Another drop backs the growth-scare view of Thursday's rally."
+    },
+    {
+      "time": "Tue 12:00 PM",
+      "event": "5Y note auction ($70B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 5Y is the belly of the curve that is most sensitive to the Fed path, one day before the decision."
+    },
+    {
+      "time": "Wed 8:45 AM",
+      "event": "Bank of Canada decision",
+      "consensus": "Hold 2.25% (split: some see a cut)",
+      "prior": "2.25%",
+      "why": "Canada lost 68K jobs in September. A cut would show the gap between a hiking Fed and peers easing into the oil shock."
+    },
+    {
+      "time": "Wed 1:00 PM",
+      "event": "FOMC decision (Warsh presser 1:30 PM); $28B 2Y FRN auction",
+      "consensus": "Hold 3.75–4.00% (≈88–92%)",
+      "prior": "Hiked 25 bp on Sep 16",
+      "why": "No new projections. The market wants to know whether Warsh signals a December hike (≈67–90% priced) or leans on the AI and oil growth scare."
+    },
+    {
+      "time": "Wed after close",
+      "event": "Earnings: Microsoft, Alphabet",
+      "consensus": "MSFT ≈$4.71; GOOGL ≈$2.94",
+      "prior": "—",
+      "why": "Cloud growth vs capex. After Meta's $825B commitments, a capex raise without matching revenue would hit the AI trade and IG credit spreads again."
+    },
+    {
+      "time": "Thu 8:15 AM",
+      "event": "ECB decision",
+      "consensus": "Hold 2.50% (70 of 73 economists)",
+      "prior": "2.50%",
+      "why": "French fiscal stress is keeping EGB spreads wide, and the ECB is unlikely to tighten into it."
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Q3 GDP (advance) + Sep PCE / personal income",
+      "consensus": "GDP ≈3.0% SAAR; core PCE 0.3% m/m, 3.1% y/y; headline 3.6% y/y",
+      "prior": "GDP 2.2%; core PCE 3.0%; headline 3.4%",
+      "why": "This lands the morning after the Fed. GDPNow is 3.5%, so a hot GDP print plus 3.1% core PCE would make December a lock. (One calendar lists PCE on Fri Oct 30; BEA-based listings say Thu.)"
+    },
+    {
+      "time": "Thu pre-mkt / after close",
+      "event": "Earnings: Mastercard, Caterpillar (BMO); Amazon, Intel, Mondelez (AMC)",
+      "consensus": "MA ≈$5.16; AMZN ≈$2.01",
+      "prior": "Intel Q2 $0.217 vs $0.42 est.",
+      "why": "Amazon's AWS capex closes out the hyperscaler week. Mondelez (Chicago) is a cocoa and pricing read."
+    },
+    {
+      "time": "Thu 12:00 PM",
+      "event": "7Y note auction ($44B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 7Y has a history of weak auctions, and this one comes hours after GDP/PCE. It is the last big supply test of the week."
+    },
+    {
+      "time": "Thu night / Fri",
+      "event": "BoJ decision + Outlook Report; Exxon and Chevron (Fri BMO)",
+      "consensus": "BoJ hold 1.25%; XOM EPS ≈$3.80",
+      "prior": "BoJ hiked to 1.25% in Sep",
+      "why": "BoJ guidance on a December hike (≈80% priced) moves JGBs and the yen carry trade. The oil majors report with Brent at $116."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Weekend setup: an oil-hike loop vs a growth-scare rally",
+        "body": "The 10Y ended the week at ≈4.99–5.00% (−9 to −10 bp w/w) and the 2Y at ≈4.69–4.70% (−5 bp), with 2s10s ≈+30–31 bp. Friday's ≈4 bp retrace followed a strong flash PMI (56.0) and 5-yr UMich inflation expectations of 3.5%. Saturday's Houthi strikes on Yanbu and Rabigh add oil risk going into Monday's $69B 2Y, which is the auction most sensitive to December pricing.",
+        "simple": "A Treasury yield is the interest rate the government pays to borrow, and it moves opposite to bond prices. Last week bonds rallied (yields fell) because investors fled tech stocks for safety. The new attacks on Saudi oil push the other way, because pricier oil means more inflation and a likelier Fed hike. Monday's 2-year auction will show which force is winning.",
+        "source": "Morning Desk Oct 24; CNBC; France 24",
+        "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      },
+      {
+        "title": "FOMC Wednesday: a hold ≈90% priced, December ≈80–90%",
+        "body": "FedWatch had ≈90% for an Oct 28 hold at 3.75–4.00% and ≈10.5% for a hike as of Oct 23. A Reuters poll (Oct 16–20) had 94 of 100 economists calling a hold and all 100 calling a December hike. In September's dots, 16 of 19 members saw at least one more 2026 hike. There is no SEP this meeting and Warsh has dropped forward guidance, so the statement wording carries the signal.",
+        "simple": "The Fed sets the overnight rate that anchors every other loan rate. It raised that rate in September to fight inflation and is expected to wait this week before raising it again in December. Because Chair Warsh no longer pre-announces moves, small changes in the statement's wording move markets more than usual.",
+        "source": "Mitrade (Reuters poll); Admirals; Yardeni",
+        "url": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
+      },
+      {
+        "title": "France: the OAT–Bund spread is the widest in about 15 years",
+        "body": "After riots that damaged ≈3,000 shops, the 10Y OAT hit its highest yield since 2002 (one WSJ-cited print is 5.142%, other sources ≈4.9%) and the spread over Bunds is ≈137–167 bp depending on source, the widest since Nov 2011. Capital Economics sees 200 bp by end-2027, and Moody's holds Aa3 with a negative outlook. The ECB decides Thursday (hold at 2.50% expected).",
+        "simple": "A spread is the extra yield investors demand to lend to France rather than Germany, and it measures how worried they are about French finances. The riots make it harder for France to pass a budget that cuts spending, so lenders want more pay. The ECB is unlikely to raise rates into that kind of stress, which widens the gap between European and U.S. policy.",
+        "source": "CNBC; Moneywise; Time News",
+        "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Sunday-night crude and Treasury futures are the first read",
+        "body": "Brent (Dec) settled Friday at $116.72 (+6.2% w/w, the highest close since Apr 29) and WTI at $103.27. Saturday's Houthi claims named Yanbu, the Red Sea terminal Saudi Arabia uses to bypass Hormuz. The coalition reported intercepting two missiles and no confirmed damage. Expect wider crude options skews and front-end Treasury futures to react at the 5 PM CT open.",
+        "simple": "Futures are contracts to buy or sell later at a price agreed today, and on CME they trade almost around the clock, so Sunday evening is the first place weekend news gets priced. Yanbu matters because it is Saudi Arabia's backup export route if Iran blocks the Strait of Hormuz. Damage there would mean less oil reaching the market and a higher price.",
+        "source": "Daily Pakistan; Xinhua; CNBC",
+        "url": "https://english.news.cn/20261025/978eecf9b51d437b9cc78509bb6b4ae2/c.html"
+      },
+      {
+        "title": "CME: record Q3, OI past 133M, Q4 ADV tracking +17%",
+        "body": "Q3 revenue was a record $1.737B on 29.4M ADV (+16%). OI rose from 128M to more than 133M after quarter-end, Treasury futures OI is ≈24M, and SOFR options added more than 6M contracts of OI in the 15 days after the Sep expiry. UBS raised its CME target to $310 from $270 (stock $305.98 on Oct 22). A week with the FOMC, four other central banks and $211B of supply should keep rates volume high.",
+        "simple": "Open interest is the number of futures and options contracts still outstanding, a rough gauge of how much risk traders are holding. CME earns a fee on every trade, so busy, nervous markets are good for its revenue. This week's crowded calendar is close to ideal for the exchange.",
+        "source": "CME Group Rates Recap; Yahoo Finance; Google Finance",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "Credit risk around Nvidia's role as AI financier",
+        "body": "Reports say Nvidia's CDS spreads have roughly doubled in recent months even though its rating is still near the top, as it backstops neocloud GPU loans and leases and has sounded out insurers about covering losses (talks are early, with no deals). CoreWeave's interest expense rose to $640M from $267M. CNBC frames this as Nvidia's first real test as an AI financier.",
+        "simple": "A credit default swap (CDS) is insurance against a company failing to pay its debts, and its price rises when investors get more worried. Nvidia is lending to, or guaranteeing loans for, its own customers so they can buy its chips. If those customers stumble, the risk lands back on Nvidia and on the banks that made the loans.",
+        "source": "CNBC; Dealroom (FT summary); Bisnow",
+        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold sits at $4,000 going into the Fed",
+        "body": "Gold ended the week ≈$3,993–4,020 (−3.5% w/w) after a $3,975.10 low, its lowest since early June and ≈29% below January's $5,608 high. A Saturday week-ahead note frames the levels as ≈$3,996 spot, ≈$4,150 resistance and ≈$3,890 support. Gold fell even as the 10Y dropped ≈10 bp, so it is trading off December hike odds and liquidation rather than real yields.",
+        "simple": "Gold pays no interest, so it usually rises when real yields (interest rates after inflation) fall. Last week it fell anyway, because traders expect the Fed to raise rates again and some sold gold to cover losses elsewhere. Whether Warsh sounds hawkish on Wednesday will probably decide whether $4,000 holds.",
+        "source": "Kitco; FinanceFeeds",
+        "url": "https://financefeeds.com/gold-price-today-3996-saturday-week-ahead-fed-28-october-silver-year-low-bull-4150-bear-3890"
+      },
+      {
+        "title": "Silver at a year low; PGMs fell harder than gold",
+        "body": "Silver is ≈$53.9 (≈−6 to −8% w/w), with Thursday's −4.7% settle at $55.01 the worst day. Platinum is ≈$1,563 (≈−5% w/w, ≈−11% m/m) and palladium is ≈$1,035–1,066. These high-beta metals were sold together with equities during Thursday's AI drawdown.",
+        "simple": "Silver and platinum are half precious metal and half industrial input, used in solar panels, electronics and car catalysts. When stocks fall on growth worries, they fall harder than gold. That is why they lost roughly twice as much as gold last week.",
+        "source": "Trading Economics; Edge Consultancy",
+        "url": "https://tradingeconomics.com/commodity/platinum"
+      },
+      {
+        "title": "Copper: LME stocks rise in New Orleans while China draws",
+        "body": "COMEX copper bounced 1.8% Friday to ≈$6.48/lb, and LME was ≈$14,160–14,200/t. LME stocks rose to 273kt from 234kt, mostly in New Orleans, while Chinese SMM stocks fell 21.5kt to ≈90kt. The COMEX–LME spread is a narrow ≈−$167/t, which reduces the incentive to ship metal into the U.S.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a read on global growth. More metal sitting in the London exchange's U.S. warehouses suggests Western demand is soft, while falling Chinese stockpiles suggest China is still buying. The two signals are pulling the price in opposite directions.",
+        "source": "Shanghai Metals Market (SMM)",
+        "url": "https://news.metal.com/newscontent/104176733-us-iran-tensions-flare-up-again-amid-ex-china-inventory-buildup-copper-prices-under-pressure-and-pull-back-smm-macro-weekly-review"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Q3 bank earnings: NII up, credit quiet, buybacks on",
+      "body": "AmEx raised its 2026 EPS guide to $18.30–18.60 (from $17.30–17.90) after $4.68 adj. EPS. First Citizens earned $55.37 adj. vs $45.98 consensus (NIM 3.07%, −3 bp) and authorized a $1.2B buyback. Capital One earned $6.69 adj. (NIM 8.41%), Huntington's NII rose 37% y/y to $2.09B, and Wintrust posted a seventh straight record ($3.37).",
+      "simple": "Net interest income (NII) is what a bank earns on loans minus what it pays depositors, and it is the core of commercial banking profits. Higher rates have kept that margin healthy, and borrowers are still paying on time. That is why banks feel confident enough to buy back shares.",
+      "source": "Investing.com (Reuters); Stock Titan; American Banker",
+      "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920"
+    },
+    {
+      "title": "AI funding moves from equity to credit: neoclouds, Solidigm, Meta's Class C",
+      "body": "CoreWeave, Nebius and IREN are each down 30%+ in October, SK hynix shelved its Solidigm U.S. IPO review, and Meta's non-voting Class C shelf could raise ≈$700B over time, by advisers' estimates. Hyperscaler capex is tracking ≈$800B this year, so this week's MSFT, GOOGL and AMZN guidance sets how much more debt and equity has to be issued.",
+      "simple": "Building AI data centers costs hundreds of billions of dollars, and companies pay for it by selling stock and borrowing. When those stocks fall, raising money gets harder and lenders get nervous. For banks, that means big underwriting fees but also concentrated risk if the projects disappoint.",
+      "source": "CNBC; Blocks & Files; Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html"
+    },
+    {
+      "title": "Bank M&A: a steady stream of small deals",
+      "body": "Pinnacle Bancorp (Nebraska) is buying Southern Bancshares/SouthStar ($1.35B assets, 16 Central Texas branches). Northrim–PBCO received all shareholder approvals Oct 22, and Colony–First Reliance (≈$163M) is set to close in Q4. Byline–Illinois State Bancorp (≈$87.9M) and TowneBank–blueharbor (≈$154M) were announced earlier in October. In Japan, Shiga Bank and Senshu Ikeda are in final-stage merger talks.",
+      "simple": "Small and mid-size banks are merging to spread rising technology and compliance costs over a bigger base. Regulators approve deals faster than they did a few years ago, so more get done. For a commercial banker, each deal means clients changing hands and possible openings to win them.",
+      "source": "Bankers Digest; Gurufocus; Nikkei Asia",
+      "url": "https://bankersdigest.com/southern-bancshares-and-southstar-bank-sign-agreement-to-merge-with-nebraska-based-pinnacle-bancorp/"
+    },
+    {
+      "title": "Private credit and insurers draw more scrutiny",
+      "body": "Crain's reports regulators are looking harder at billionaire-owned life insurers (including Todd Boehly's) that have made riskier, private-credit-heavy investments. A WSJ item says private credit firms are now marketing to retail investors, including at a music festival. Reuters reported mid-October that the deal pipeline is strong but deals are being delayed, not canceled.",
+      "simple": "Private credit is lending by investment funds rather than banks, and it has grown quickly by financing riskier companies. Life insurers that pour policyholder money into it earn more but take on more risk. Regulators worry about what happens if those loans go bad.",
+      "source": "Crain's Chicago Business; Debt Serious (WSJ); U.S. News (Reuters)",
+      "url": "https://www.chicagobusiness.com/banking-finance/ccb-guggenheim-boehly-walter-insurance-bets-20261021/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Nvidia's role as AI financier faces its first big test as neoclouds slide",
+        "body": "CNBC argues that Nvidia's backstops and investments in GPU-cloud customers are being tested as neocloud shares fall and their borrowing costs climb. Neocloud stocks are down 30%+ in October.",
+        "simple": "Nvidia has been helping customers finance chip purchases. If those customers struggle, Nvidia carries part of the loss, which is why credit markets are watching.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+      },
+      {
+        "title": "What's next for France as riots rattle markets",
+        "body": "CNBC sets out three investor questions ahead of more protests: budget passage, how wide the OAT–Bund spread gets (now ≈137–167 bp) and the damage to luxury and insurance stocks. LVMH and Kering fell as the 10Y OAT hit its highest yield since 2002.",
+        "simple": "Unrest makes it harder for France to fix its budget, so investors charge more to lend to it. That spills into European stocks and the euro.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html"
+      },
+      {
+        "title": "The 10Y fell back to ≈5% on the week as investors sought cover from AI worries",
+        "body": "The 10Y fell ≈19 bp Thursday, the most since Mar 2023, then gave back ≈4 bp Friday to end near 5.00%. The 30Y fell ≈11 bp on the week.",
+        "simple": "Investors sold tech stocks and bought safe government bonds, which pushed bond yields down. Lower yields can feed through to cheaper mortgages and business loans.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      },
+      {
+        "title": "Brent tops $116 as Middle East tensions swell",
+        "body": "Brent (Dec) settled at $116.72, up 6.2% on the week and its highest close since Apr 29. WTI settled at $103.27 after Houthi strikes on Saudi assets and Aramco's Dhahran evacuation.",
+        "simple": "Attacks on the world's largest oil exporter raise the risk of lost supply, so traders paid more for oil. That feeds into gasoline prices and inflation.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Trump weighs a return to full-scale war with Iran",
+        "body": "According to secondhand accounts of a WSJ report citing U.S. officials, Trump has reviewed walking away from mediation for a broad assault on Iran but leans toward diplomacy for now, limiting responses to targeted strikes. The report's exact date could not be confirmed.",
+        "simple": "A wider war could threaten Gulf oil shipments, which would lift energy prices and inflation. That is why oil traders follow every report on White House deliberations.",
+        "source": "WSJ via Israel National News / Izvestia (secondhand)",
+        "url": "https://en.iz.ru/en/2190104/2026-10-24/wsj-learned-about-trumps-desire-conduct-new-military-operation-against-iran"
+      },
+      {
+        "title": "Private credit firms pitch retail investors at a music festival",
+        "body": "A WSJ item, cited in a Oct 24 newsletter roundup, describes private credit managers hosting a music festival to market funds to individual investors as they push beyond institutional money.",
+        "simple": "Private lending funds want ordinary investors' savings. Those investors may not fully understand that the loans are hard to sell and can be risky.",
+        "source": "WSJ via Debt Serious newsletter",
+        "url": "https://debtserious.substack.com/p/weekender-24-october-2026"
+      },
+      {
+        "title": "WSJ cites a 5.142% 10Y French yield",
+        "body": "Coverage of the French selloff cites a WSJ print of 5.142% on the 10Y OAT, the highest since 2002. Other sources put the yield closer to 4.9%.",
+        "simple": "France now pays more to borrow than it has in more than 20 years. That raises its debt costs just as it tries to cut its deficit.",
+        "source": "WSJ via Time News / Moneywise",
+        "url": "https://moneywise.com/news/economy/france-riots-luxury-stocks-bonds-european-markets"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME: record Q3, UBS raises its target, CFO handoff Nov 2",
+        "body": "CME posted record Q3 revenue of $1.737B. UBS raised its price target to $310 from $270 (stock $305.98 on Oct 22). Jack Tobin becomes CFO on Nov 2, and Lynne Fitzpatrick is set to succeed Terry Duffy as CEO in March 2027.",
+        "simple": "CME, Chicago's biggest exchange operator, is earning record fees because nervous investors are hedging more. The leadership change is being set up well in advance.",
+        "source": "Yahoo Finance; Pulse 2.0 (Tribune paywalled)",
+        "url": "https://pulse2.com/cme-group-names-jack-tobin-as-cfo-john-marchese-as-general-counsel-and-matthew-render-as-chief-accounting-officer/"
+      },
+      {
+        "title": "Kirkland & Ellis will stop reporting its financials",
+        "body": "The Chicago-founded firm, the first law firm to top $10B in revenue ($10.6B in 2025, ≈$11M profits per equity partner), told The American Lawyer that 2026 is its last year of voluntary disclosure.",
+        "simple": "Kirkland is the biggest law firm in the world and does most of the private-equity deal work. Going quiet makes it harder for clients and rivals to see how much it earns.",
+        "source": "Bloomberg Law; Legal Cheek (Tribune paywalled)",
+        "url": "https://news.bloomberglaw.com/business-and-practice/kirkland-goes-dark-on-reporting-revenue-and-profits-to-media"
+      },
+      {
+        "title": "Regulators look harder at billionaire-owned life insurers",
+        "body": "Crain's reports regulators are scrutinizing life insurers owned by billionaire investors (including Todd Boehly's) for private-credit-heavy portfolios. Chicago's Guggenheim ties are part of the story.",
+        "simple": "Some insurers invest policyholders' money in riskier private loans to earn more. If those loans fail, the money people count on for annuities and life policies is at risk.",
+        "source": "Crain's Chicago Business (Tribune paywalled)",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-guggenheim-boehly-walter-insurance-bets-20261021/"
+      },
+      {
+        "title": "Wintrust and Byline: Chicago banks keep growing",
+        "body": "Rosemont-based Wintrust posted a seventh straight record quarter (EPS $3.37), and Byline Bancorp agreed to buy Illinois State Bancorp for ≈$87.9M.",
+        "simple": "Chicago's mid-size banks are profitable and using that strength to buy smaller local rivals. That consolidates Illinois community banking.",
+        "source": "Wintrust 8-K (SEC); Pulse 2.0",
+        "url": "https://pulse2.com/byline-bancorp-to-acquire-illinois-state-bancorp-for-about-87-9-million/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "U.S. and Israel plan new Iran strikes after the midterms",
+        "body": "Per the NYT report (Oct 22), the U.S. and Israel are preparing renewed strikes on Iran after the Nov 3 midterm elections. The U.S. has pulled non-essential staff from Saudi Arabia.",
+        "simple": "Markets now have a rough date for possible new conflict. That keeps an oil risk premium in prices through early November.",
+        "source": "NYT via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/us-israel-prepare-for-renewed-iran-strikes-after-midterm-elections--nyt-4964461"
+      },
+      {
+        "title": "Trump's approval falls to 36% before the midterms",
+        "body": "A NYT figure cited in weekend coverage puts Trump's approval at 36% heading into Nov 3. Markets are weighing the midterms alongside an AI-stock pullback and ≈5% yields.",
+        "simple": "A weak approval rating raises the odds of a divided Congress. That changes the outlook for tariffs, spending and taxes.",
+        "source": "NYT via Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-peter-schiff-says-stock-133000842.html"
+      },
+      {
+        "title": "The first U.S.-bound Russian diesel cargo is on its way",
+        "body": "Covered by the NYT and confirmed by Reuters, Russia sent its first U.S.-bound diesel cargo under a new deal with the Trump administration, as distillate supply tightens with Brent above $110.",
+        "simple": "The U.S. is buying Russian fuel again to ease tight diesel supply. That is a sign of how much the Middle East conflict has squeezed energy markets.",
+        "source": "NYT via newsletter; Reuters via Baird Maritime",
+        "url": "https://www.bairdmaritime.com/shipping/tankers/russia-sends-first-us-bound-diesel-cargo-following-deal-with-trump"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why Yanbu matters more than Shaybah",
+      "point": "Saturday's claimed target list included Yanbu, the Red Sea terminal Saudi Arabia relies on to export around Hormuz via the East-West pipeline. A confirmed hit would remove the backup route, not just a field, and that is a tail risk the crude curve and options skew price before the front-month price moves. For rates, it is the oil-to-December-hike loop that kept gold falling even as the 10Y rallied. Watch the 5 PM Sunday open and Monday's 2Y auction tail."
+    },
+    {
+      "topic": "Pricing a 'no-guidance' Fed",
+      "point": "With ≈90% for a hold and ≈80–90% for December priced, and no SEP this meeting, the trade is in the statement wording. A desk would express a view through SOFR Dec/Mar spreads or short-dated SOFR options rather than outright, which is why SOFR options OI rose by more than 6M contracts after the September expiry. GDP and PCE land 19 hours after the decision, so whatever Warsh says gets marked to data right away."
+    },
+    {
+      "topic": "AI capex is becoming a credit story",
+      "point": "Nvidia backstopping neocloud debt, CDS reportedly doubling, CoreWeave's interest expense at $640M, Meta's Class C shelf and Solidigm pulling its IPO all point the same way: equity funding is getting harder and the risk is moving to lenders. For a commercial banker, that means concentration limits on data-center project finance. For capital markets, it means fee-rich but harder deals. MSFT, GOOGL and AMZN capex guides this week set how much supply is coming."
+    }
+  ],
+  "caveats": "Direct page fetches failed this run (DNS errors), so all figures come from search excerpts. Market tiles repeat Friday Oct 23 closes and marks from the Oct 24 brief: yields, metals and DXY are approximate late-session marks, and Fed odds vary by snapshot. Saturday's Houthi strike claims are unverified: the coalition reports two intercepts and no confirmed damage. The WSJ Iran item comes from secondhand accounts and its date isn't confirmed. The French OAT level and spread vary by source (≈4.9–5.14%; ≈137–167 bp). Nvidia's CDS move and the insurer talks rest on secondhand FT reporting. The Tribune bucket uses Crain's, Bloomberg Law, SEC filings and Pulse 2.0 because the Tribune is paywalled. NYT items repeat earlier-week stories because no Oct 24–25 NYT business digest was found. Calendar consensus figures carry over from the Oct 24 research.",
+  "updates": []
+}
