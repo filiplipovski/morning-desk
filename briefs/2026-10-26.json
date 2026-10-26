@@ -11,98 +11,105 @@
     "Deals: EQT agreed to buy Range Resources in an all-stock deal (0.987 EQT per Range share) at a pro forma enterprise value above $50B, creating the largest U.S. integrated natural-gas producer, with $325M of synergies rising to more than $600M. Ovintiv is buying Montney producer Logan Energy for ≈C$1.26B in cash. That is fee flow for energy coverage and leveraged finance desks, alongside SpaceX's reported $40B Apollo-led debt package for Nvidia chips.",
     "Metals: gold is stuck at ≈$4,000 (quotes $3,986–4,015) after a ≈4% weekly loss and its first sub-$4,000 print since mid-July. Oil is feeding December hike odds and real yields, which outweighs the haven bid. Silver is ≈$54.0 (down ≈11% over the month). On the LME, copper is down 0.56% at $14,242.50/t as warehouse stocks build, even though China's Yangshan premium sits at multi-year highs."
   ],
-  "markets_asof": "Midday ≈12:20 PM CT. Index levels are 11:30 AM–1 PM ET snapshots (Motley Fool, 24/7 Wall St., Yahoo). Yields are from CNBC and Rallies, and oil is CNBC futures at 12:05 PM ET.",
+  "markets_asof": "Mon close (≈3:15 PM CT). Indices, 2Y/10Y and oil settles are from CNBC. 30Y, silver and copper are midday marks, and gold is approximate.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,690",
-      "change": "≈+0.6–0.9%",
+      "value": "7,676.77",
+      "change": "+0.7%",
       "dir": "up",
-      "note": "Fri close 7,623.68"
+      "note": "Best day in ≈1 month"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈26,270",
-      "change": "≈+0.8–1.2%",
+      "value": "26,169.38",
+      "change": "+0.82%",
       "dir": "up",
-      "note": "Fri 25,955.34; Anthropic S-1"
+      "note": "Anthropic S-1"
     },
     {
       "label": "Dow",
-      "value": "≈52,380",
-      "change": "≈+0.2–0.5%",
+      "value": "52,361.58",
+      "change": "+146 (+0.28%)",
       "dir": "up",
-      "note": "Fri 52,215.16; VZ ≈−3%"
+      "note": "VZ lagged"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,788",
+      "change": "≈+0.4%",
+      "dir": "up",
+      "note": "Yahoo late print"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.70%",
-      "change": "≈+2 bp",
+      "value": "4.709%",
+      "change": "+2 bp",
       "dir": "up",
-      "note": "Auction 4.708%, 0.3 bp tail, 2.59x"
+      "note": "Auction 4.708%, 0.3 bp tail"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.97–4.99%",
-      "change": "≈−2 to +1 bp",
+      "value": "≈4.98%",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "Sources split; Fri ≈5.00%"
+      "note": "CNBC"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.29–5.31%",
-      "change": "≈flat to −3 bp",
-      "dir": "down",
-      "note": "20–30Y buyback today"
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Midday mark; 20–30Y buyback"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hold ≈91%",
+      "change": "Wed hike ≈12.7%",
       "dir": "flat",
-      "note": "Dec hike ≈69–80% (morning est.)"
+      "note": "CME FedWatch via Reuters"
     },
     {
       "label": "Brent",
-      "value": "≈$117.1",
-      "change": "≈+0.3%",
-      "dir": "up",
-      "note": "CNBC 12:05 PM ET; earlier feeds ≈$114"
+      "value": "$115.81",
+      "change": "−$0.91 (−0.8%)",
+      "dir": "down",
+      "note": "Settle; intraday >$117"
     },
     {
       "label": "WTI",
-      "value": "≈$102.8",
-      "change": "≈−0.4%",
+      "value": "$101.76",
+      "change": "−$1.51 (−1.5%)",
       "dir": "down",
-      "note": "CNBC 12:05 PM ET"
+      "note": "Settle"
     },
     {
       "label": "Gold",
-      "value": "≈$4,013",
+      "value": "≈$4,010",
       "change": "≈+0.4%",
       "dir": "up",
-      "note": "Dec futures $4,025.65"
+      "note": "No PM settle found"
     },
     {
       "label": "Silver",
-      "value": "≈$54.0–54.9",
-      "change": "≈+0.2% or more",
-      "dir": "up",
-      "note": "Fri $53.92; quotes vary"
+      "value": "≈$54",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Midday mark"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.45/lb",
       "change": "≈−0.4%",
       "dir": "down",
-      "note": "Trading Economics"
+      "note": "Midday mark"
     },
     {
       "label": "Dollar index",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No reliable midday quote; Fri 101.81"
+      "note": "No reliable close; Fri 101.81"
     }
   ],
   "calendar": [
@@ -410,6 +417,53 @@
   "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Pre-market levels for futures, yields, oil, gold and DXY are early-session snapshots that differ by source (gold $3,986–4,015). Dow and Russell show Friday's cash close because no futures level was found. No WSJ or NYT originals were reachable: WSJ items come from a machine-translated Reuters digest, and the NYT bucket uses secondhand reports (the Oct 22 strike-planning story plus an unverified Oct 26 summary). The Tribune bucket uses CME, SEC, Crain's and The Next Web. BoC odds conflict across sources. The Surgery Partners and SpaceX items come from CNBC's Oct 25 page citing the FT and Musk. The 10Y TIPS level wasn't reliably dated and is omitted.",
   "updates": [
     {
+      "at": "2026-10-26T20:18:43Z",
+      "label": "Close",
+      "headline": "The S&P 500 posted its best day in about a month (+0.7% to 7,676.77) on Anthropic's IPO filing. The 2Y closed ≈4.71% after a soft auction and Brent settled at $115.81 (−91¢) as Saudi-led diplomacy in Tehran capped the oil premium.",
+      "points": [
+        "Close (CNBC): S&P 500 7,676.77 (+0.7%), Nasdaq 26,169.38 (+0.82%), Dow 52,361.58 (+146 pts, +0.28%). Russell 2000 ≈2,788 (+0.4%, Yahoo late print). Reuters called it the biggest S&P/Nasdaq gain in more than a month. Gains faded from the midday highs (S&P had been ≈+0.9%).",
+        "Rates (CNBC): the 2Y rose >2 bp to 4.709%, in line with the 4.708% auction stop (0.3 bp tail, 2.59x cover vs 2.64x avg, indirects 45.7%), and the 10Y was little changed at ≈4.98%, so 2s10s flattened to ≈27 bp. CME FedWatch per Reuters: ≈12.7% chance of a Wednesday hike (≈87% hold). We found no fresh primary-source December figure.",
+        "Oil (CNBC): Brent settled at $115.81 (−$0.91) after briefly topping $117 intraday, and WTI at $101.76 (−$1.51). Saudi Defense Minister Khalid bin Salman met President Pezeshkian in Tehran. Correction to the midday update: the ≈$117 Brent print was an intraday spike, not a reversal. The morning's ≈$114.5 was an intraday low. Settle-to-settle, crude fell less than the morning brief implied (−0.8% Brent, not −1.9%).",
+        "Metals: gold held ≈$4,010 (FinanceFeeds), back above $4,000 after Friday's $3,975 low. We found no PM settlement, and silver (≈$54) and copper (≈$6.45/lb) carry midday marks. Capital markets: Anthropic's S-1 (ticker ANT, Nasdaq) shows H1 revenue of $16.29B, up from $1.16B a year earlier. Shares and price are not yet set, and one report says trading could start as soon as Nov 16.",
+        "Tomorrow (Tue): Boeing Q3 pre-market (call 9:30 AM CT), Conference Board confidence at 9:00 AM CT (cons 80.5, prior 81.9), and the $70B 5Y auction at 12:00 PM CT. After today's weak indirect bid in the 2Y, watch foreign demand in the 5Y. The FOMC decision is Wednesday at 1:00 PM CT."
+      ],
+      "simple": "Stocks rose because investors are excited that Anthropic, a big AI company, plans to sell shares to the public. That lifted tech stocks and promises large fees for the banks running the deal. Short-term Treasury yields (the interest the government pays to borrow) edged up after a so-so bond sale, which shows investors still expect the Fed to keep rates high or even raise them later this year. Oil dipped because talks in Iran's capital raised hopes of avoiding more conflict, but it's still above $100, which keeps gas and shipping costs elevated.",
+      "sources": [
+        {
+          "name": "CNBC (markets close)",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html"
+        },
+        {
+          "name": "CNBC (Oil)",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        },
+        {
+          "name": "investingLive (close)",
+          "url": "https://investinglive.com/stocks/at-the-close-us-stock-markets-climb-monday-as-anthropic-files-for-ipo/"
+        },
+        {
+          "name": "MarketScreener/Reuters",
+          "url": "https://www.marketscreener.com/news/wall-st-eyes-best-day-in-a-month-as-anthropic-s-ipo-filing-propels-ai-stocks-ce785cdcdc8ff722"
+        },
+        {
+          "name": "Yahoo Finance (Russell 2000)",
+          "url": "https://finance.yahoo.com/quote/%5ERUT/"
+        },
+        {
+          "name": "FinanceFeeds (gold)",
+          "url": "https://financefeeds.com/gold-price-today-4010-monday-fed-week-28-october-pce-29-october-bull-4075-bear-3890/"
+        },
+        {
+          "name": "CNN (Anthropic S-1)",
+          "url": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo"
+        }
+      ]
+    },
+    {
       "at": "2026-10-26T17:18:13Z",
       "label": "Midday",
       "headline": "Tech is leading after Anthropic's Nasdaq S-1 and both regional Fed surveys beat. The $69B 2Y auction tailed slightly at 4.708%, and oil's morning slide has reportedly reversed, with CNBC showing Brent ≈$117.",
@@ -504,5 +558,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26T17:18:13Z"
+  "updatedAt": "2026-10-26T20:18:43Z"
 }
