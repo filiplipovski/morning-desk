@@ -11,98 +11,98 @@
     "Deals: EQT agreed to buy Range Resources in an all-stock deal (0.987 EQT per Range share) at a pro forma enterprise value above $50B, creating the largest U.S. integrated natural-gas producer, with $325M of synergies rising to more than $600M. Ovintiv is buying Montney producer Logan Energy for ≈C$1.26B in cash. That is fee flow for energy coverage and leveraged finance desks, alongside SpaceX's reported $40B Apollo-led debt package for Nvidia chips.",
     "Metals: gold is stuck at ≈$4,000 (quotes $3,986–4,015) after a ≈4% weekly loss and its first sub-$4,000 print since mid-July. Oil is feeding December hike odds and real yields, which outweighs the haven bid. Silver is ≈$54.0 (down ≈11% over the month). On the LME, copper is down 0.56% at $14,242.50/t as warehouse stocks build, even though China's Yangshan premium sits at multi-year highs."
   ],
-  "markets_asof": "Post-open ≈9:15 AM CT. Index levels are early-session snapshots (Yahoo Finance and TheStreet), yields come from Trading Economics, and oil and metals are spot or front-month quotes that vary by source.",
+  "markets_asof": "Midday ≈12:20 PM CT. Index levels are 11:30 AM–1 PM ET snapshots (Motley Fool, 24/7 Wall St., Yahoo). Yields are from CNBC and Rallies, and oil is CNBC futures at 12:05 PM ET.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,660",
-      "change": "≈+0.5%",
+      "value": "≈7,690",
+      "change": "≈+0.6–0.9%",
       "dir": "up",
       "note": "Fri close 7,623.68"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "—",
-      "change": "≈+0.2–0.3%",
+      "value": "≈26,270",
+      "change": "≈+0.8–1.2%",
       "dir": "up",
-      "note": "Fri 25,955.34"
+      "note": "Fri 25,955.34; Anthropic S-1"
     },
     {
       "label": "Dow",
-      "value": "≈52,450–52,490",
-      "change": "≈+0.4–0.5%",
+      "value": "≈52,380",
+      "change": "≈+0.2–0.5%",
       "dir": "up",
-      "note": "Fri 52,215.16"
+      "note": "Fri 52,215.16; VZ ≈−3%"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.67%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "$69B auction 12 PM CT; last 4.787%"
+      "value": "≈4.70%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "Auction 4.708%, 0.3 bp tail, 2.59x"
     },
     {
       "label": "UST 10Y",
       "value": "≈4.97–4.99%",
-      "change": "≈−1 to −3 bp",
-      "dir": "down",
-      "note": "Fri close ≈5.00%"
+      "change": "≈−2 to +1 bp",
+      "dir": "flat",
+      "note": "Sources split; Fri ≈5.00%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.30%",
-      "change": "≈−1 bp",
+      "value": "≈5.29–5.31%",
+      "change": "≈flat to −3 bp",
       "dir": "down",
-      "note": "Pre-market mark; 20–30Y buyback today"
+      "note": "20–30Y buyback today"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Oct 28 hike ≈10%",
+      "change": "Oct 28 hold ≈91%",
       "dir": "flat",
-      "note": "Dec hike ≈69–80% depending on source"
+      "note": "Dec hike ≈69–80% (morning est.)"
     },
     {
       "label": "Brent",
-      "value": "≈$114",
-      "change": "≈−2%",
-      "dir": "down",
-      "note": "Fri settle $116.72; one feed shows ≈$110"
+      "value": "≈$117.1",
+      "change": "≈+0.3%",
+      "dir": "up",
+      "note": "CNBC 12:05 PM ET; earlier feeds ≈$114"
     },
     {
       "label": "WTI",
-      "value": "≈$101",
-      "change": "≈−2%",
+      "value": "≈$102.8",
+      "change": "≈−0.4%",
       "dir": "down",
-      "note": "Fri ≈$103.3"
+      "note": "CNBC 12:05 PM ET"
     },
     {
       "label": "Gold",
-      "value": "≈$4,014",
-      "change": "≈+0.5%",
+      "value": "≈$4,013",
+      "change": "≈+0.4%",
       "dir": "up",
-      "note": "Fri low $3,975 (lowest since Jul 20)"
+      "note": "Dec futures $4,025.65"
     },
     {
       "label": "Silver",
-      "value": "≈$54.0",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Fri $53.92"
+      "value": "≈$54.0–54.9",
+      "change": "≈+0.2% or more",
+      "dir": "up",
+      "note": "Fri $53.92; quotes vary"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.49/lb",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "LME 3M $14,242.50/t earlier"
+      "value": "≈$6.45/lb",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Trading Economics"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.6–101.8",
-      "change": "≈flat to −0.2%",
+      "value": "—",
+      "change": "—",
       "dir": "flat",
-      "note": "Fri 101.81"
+      "note": "No reliable midday quote; Fri 101.81"
     }
   ],
   "calendar": [
@@ -410,6 +410,61 @@
   "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Pre-market levels for futures, yields, oil, gold and DXY are early-session snapshots that differ by source (gold $3,986–4,015). Dow and Russell show Friday's cash close because no futures level was found. No WSJ or NYT originals were reachable: WSJ items come from a machine-translated Reuters digest, and the NYT bucket uses secondhand reports (the Oct 22 strike-planning story plus an unverified Oct 26 summary). The Tribune bucket uses CME, SEC, Crain's and The Next Web. BoC odds conflict across sources. The Surgery Partners and SpaceX items come from CNBC's Oct 25 page citing the FT and Musk. The 10Y TIPS level wasn't reliably dated and is omitted.",
   "updates": [
     {
+      "at": "2026-10-26T17:18:13Z",
+      "label": "Midday",
+      "headline": "Tech is leading after Anthropic's Nasdaq S-1 and both regional Fed surveys beat. The $69B 2Y auction tailed slightly at 4.708%, and oil's morning slide has reportedly reversed, with CNBC showing Brent ≈$117.",
+      "points": [
+        "Stocks: as of ≈11:30 AM–12 PM ET, the Nasdaq is ≈+1.1–1.2% (≈26,271), the S&P 500 ≈+0.9% (≈7,693) and the Dow ≈+0.3–0.5% (≈52,380) per Motley Fool and 24/7 Wall St. Yahoo's 1:02 PM ET update shows gains narrowing to S&P +0.6%, Nasdaq +0.8% and Dow +0.2%. Verizon is ≈−3% (CNBC) despite an EPS beat ($1.31 vs $1.28) and a guidance raise, because revenue missed ($34.31B vs ≈$34.78B consensus).",
+        "2Y auction: $69B cleared at 4.708%, a ≈0.3 bp tail. Bid-to-cover was 2.59x (avg 2.64x), indirects took 45.7% (avg 58.3%), directs 41.3% and dealers 13.0% (avg 11.3%). investingLive graded it C−, Helious called it in line, and the yield was ≈8 bp below September's 4.787%. Weak foreign demand is the flag before Tuesday's 5Y.",
+        "Data beat: the Sep CFNAI came in at +0.07 vs ≈−0.10 expected (prior revised to −0.08 from −0.04 in the morning calendar), led by production. The Oct Dallas Fed index was 13.4 vs 7.0 consensus (prior 9.8), but new orders fell to 9.3 from 30.7 and prices paid rose to 55.3 from 52.2, which reads as stagflation in the oil patch.",
+        "Rates: the 2Y is ≈4.70% (+1.5–2 bp) and the 10Y ≈4.97–4.99%. The 30Y is ≈5.29–5.31%, flat to −3 bp with help from Treasury's 20–30Y buyback, so 2s10s has flattened to ≈27 bp (CNBC, Rallies). Rate futures price a ≈91% Wednesday hold. We found no fresh December figure from a primary source, so the morning's ≈79% is unconfirmed.",
+        "Correction to the morning thesis: CNBC had Brent futures at $117.08 (+36¢) and WTI at $102.83 (−44¢) at 12:05 PM ET, which contradicts the ≈$114 (−2%) in this morning's brief and the post-open update. The Saudi defense minister is in Tehran and Iran has reportedly floated a 7-day plan to reopen Hormuz, but the premium is not falling. Gold is ≈$4,013 spot (+0.4%), December futures $4,026, silver ≈$54.0–54.9, copper ≈$6.45/lb (−0.4%). Capital markets: Anthropic filed an S-1 to list as ANT on Nasdaq. The price range is blank, press reports cite a ≈$100B raise at up to ≈$2T, and Goldman and Morgan Stanley reportedly lead. That would be the biggest IPO on record."
+      ],
+      "simple": "A Treasury auction is the government selling new bonds. A 'tail' means it had to offer slightly more interest than traders expected to sell them all, a small sign that buyers, especially foreign ones, were less eager. Two regional Fed surveys showed the economy growing faster than expected, which is good for jobs but makes the Fed less willing to cut rates, and that pushed short-term yields up a bit. Separately, Anthropic's filing to go public is a capital-markets event: the banks that underwrite a deal that size earn very large fees.",
+      "sources": [
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/"
+        },
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/cards/tech-is-doing-the-heavy-lifting-again-with-the-nasdaq-up-1-gspc-market-bell-01m5wf532yk3yqj515acz3p97k"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of-4-708/"
+        },
+        {
+          "name": "Helious",
+          "url": "https://helious.io/news/auc-91282CRU7-2026-10-26/2-year-note-auction-in-line"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/amp/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html"
+        },
+        {
+          "name": "CNBC (Oil)",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        },
+        {
+          "name": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/us-dallas-fed-manufacturing-index-oct-134-prev-98"
+        },
+        {
+          "name": "Breitbart (CFNAI)",
+          "url": "https://www.breitbart.com/economy/2026/10/26/cfnai-sept/"
+        },
+        {
+          "name": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/"
+        },
+        {
+          "name": "Investing.com (Verizon)",
+          "url": "https://www.investing.com/news/earnings/verizon-earnings-beat-by-003-revenue-fell-short-of-estimates-4972139"
+        }
+      ]
+    },
+    {
       "at": "2026-10-26T14:23:10Z",
       "label": "Post-open",
       "headline": "Stocks opened higher and the oil premium kept leaking after Trump said there would be no strike 'today'. Gold is back above $4,000 and the 10Y is holding just under 5% ahead of the noon $69B 2Y auction.",
@@ -449,5 +504,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26T14:23:10Z"
+  "updatedAt": "2026-10-26T17:18:13Z"
 }
