@@ -11,35 +11,41 @@
     "Deals: per the WSJ, BofA, Citi, Morgan Stanley and Blackstone lead a $63B compute financing for Anthropic, with Broadcom's CEO helping close it. Earlier reports sized it at $60B ($42B senior and $18B junior). The WSJ also has DoorDash in advanced talks to buy Instacart for ≈$17B, possibly as soon as Wednesday. SpaceX's $40B AI-chip debt deal drew a $4B Pimco order. All of this is leveraged finance and ECM fee flow before Anthropic's roadshow.",
     "Metals: gold is ≈$4,004 (−0.3%), just above Friday's $3,975 three-month low, because ≈82% December hike odds and a 2.367% 5Y TIPS real yield (highest since Oct 2023) cap it. Silver is down ≈1.5% to $53.18. COMEX copper is ≈$6.54/lb (+27% y/y) and LME ≈$14,338/t, with China's Yangshan premium at $178/t, its highest since 2014."
   ],
-  "markets_asof": "Midday ≈12:15 PM CT. Index levels are 11:41 AM ET marks. The 5Y is the auction result, and other yields are approximate. Commodity quotes are indicative and vary by feed.",
+  "markets_asof": "Tue close (3:00 PM CT). Index closes are from CNBC. Yields are CNBC late-session marks. Commodities are indicative late-session quotes, not official settlements.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,723",
-      "change": "+0.61%",
+      "value": "7,722.60",
+      "change": "+≈0.6%",
       "dir": "up",
-      "note": "11:41 AM ET; Mon 7,676.77"
+      "note": "Mon 7,676.77"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "26,458",
-      "change": "+1.08%",
+      "value": "26,477.81",
+      "change": "+1.18%",
       "dir": "up",
-      "note": "Semis lead"
+      "note": "Chips lead"
     },
     {
       "label": "Dow",
-      "value": "52,447",
-      "change": "+0.16%",
+      "value": "52,377.57",
+      "change": "+0.03%",
+      "dir": "flat",
+      "note": "Boeing −9.55%"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,816",
+      "change": "≈+1.1%",
       "dir": "up",
-      "note": "Boeing −9–10% drags"
+      "note": "Benzinga; 247wallst 2,820.28"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.71%",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh intraday quote"
+      "value": "4.733%",
+      "change": "+≈2 bp",
+      "dir": "up"
     },
     {
       "label": "UST 5Y",
@@ -50,65 +56,63 @@
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.99%",
-      "change": "≈flat",
+      "value": "4.995%",
+      "change": "<+1 bp",
       "dir": "flat"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.30%",
+      "value": "≈5.306%",
       "change": "—",
-      "dir": "flat",
-      "note": "Early mark"
+      "dir": "flat"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Wed hike ≈10%",
+      "change": "Wed hold ≈91%",
       "dir": "flat",
-      "note": "Dec hike ≈79–82%"
+      "note": "Dec hike ≈75–82%"
     },
     {
       "label": "Brent",
-      "value": "≈$113.8",
-      "change": "≈−1.8%",
+      "value": "≈$111",
+      "change": "≈−1%+",
       "dir": "down",
-      "note": "Indicative; Mon $115.81"
+      "note": "Jan contract; Dec rolling"
     },
     {
       "label": "WTI",
-      "value": "≈$100.1",
-      "change": "≈−1.6%",
+      "value": "≈$100.05",
+      "change": "≈−1.7%",
       "dir": "down",
-      "note": "Indicative; Mon $101.76"
+      "note": "FXStreet; Mon $101.76"
     },
     {
       "label": "Gold",
-      "value": "≈$4,000",
-      "change": "≈−0.4%",
-      "dir": "down",
-      "note": "Reuters; one feed ≈$4,061"
+      "value": "≈$4,055",
+      "change": "≈+1%",
+      "dir": "up",
+      "note": "Spot; $4,050–4,060 range"
     },
     {
       "label": "Silver",
-      "value": "≈$54",
+      "value": "≈$54.4",
       "change": "—",
       "dir": "flat",
-      "note": "Range $53.8–54.4 across feeds"
+      "note": "Stockmarketwatch"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.6/lb",
+      "value": "≈$6.59/lb",
       "change": "—",
-      "dir": "flat",
-      "note": "LME $14,327.5/t flat"
+      "dir": "flat"
     },
     {
       "label": "Dollar (DXY)",
-      "value": "—",
-      "change": "≈+0.3%",
+      "value": "≈102.2",
+      "change": "≈+0.2%",
       "dir": "up",
-      "note": "Near 2-week high"
+      "note": "Near 1-week high"
     }
   ],
   "calendar": [
@@ -437,6 +441,45 @@
   "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots that differ by source. Index values are Monday's closes. December hike odds range from 73% to 82% across snapshots of the same CME FedWatch tool. No WSJ or NYT originals were reachable: those items come from Reuters/MarketScreener digest headlines and secondary coverage. The Nvidia–Meta $3B item is a headline only, and the Anthropic financing is $63B per the WSJ vs $60B in earlier reports. Durable goods, new home sales and Richmond Fed consensus figures weren't found, and the 5Y 'consensus' is the secondary yield, not a when-issued quote. The Tribune bucket uses CME, Crain's, WTTW and bank filings because Tribune originals weren't reachable. Boeing, Coca-Cola, UPS and PayPal results were not out at writing.",
   "updates": [
     {
+      "at": "2026-10-27T20:17:42Z",
+      "label": "Close",
+      "headline": "Chips carried the close: the Nasdaq finished +1.18% and the Russell ≈+1.1% while Boeing's ≈−9.5% held the Dow flat, the 2Y edged up ≈2 bp to ≈4.73% after a clean 5Y auction, and gold bounced back above $4,050 as oil slid toward $100 WTI.",
+      "points": [
+        "Close (CNBC): S&P 500 +≈0.6% to 7,722.60, Nasdaq +1.18% to 26,477.81, Dow +0.03% to 52,377.57. The Russell 2000 rose ≈+1.1–1.2% to ≈2,816–2,820 (Benzinga/247wallst differ). Boeing was the worst Russell 1000 stock at $170.32, −9.55% (Benzinga), and accounts for nearly all of the Dow's underperformance.",
+        "Rates (CNBC, late-session): 2Y 4.733% (+≈2 bp), 10Y 4.995% (<+1 bp), 30Y ≈5.306%. That is a mild bear flattening into the FOMC. The 5Y cleared at 4.845% with a 0.4 bp tail and a 2.33 bid-to-cover, which Treasury-watchers called average demand, and the curve did not move on it. Fed odds per CNBC: hold Wednesday ≈91%, December hike ≈75%. That is a touch below the brief's ≈82%, but snapshots vary.",
+        "Metals: gold reversed midday weakness to ≈$4,050–4,060, up ≈1% (Reuters via MarketScreener; FXStreet), as cheaper oil eased the inflation-to-hike channel. That corrects the Midday tile's ≈$4,000. The dollar stayed firm near a one-week high (DXY ≈102.2 on Schwab's table), so the gold bid came despite the dollar, not because of it. Silver is ≈$54 and COMEX copper ≈$6.59/lb (Stockmarketwatch).",
+        "Oil: WTI fell more than 1% to ≈$100.05 (FXStreet) on Middle East peace-talk headlines. Brent's January contract is ≈$111 (Investing.com). The December contract, quoted in the brief at $116.45, is rolling off this week, so tile levels aren't like-for-like.",
+        "After the bell / tomorrow: Visa (call 4:00 PM CT; consensus EPS $3.43, rev ≈$12.1B) and Seagate report tonight. No verified DoorDash–Instacart signing yet. Wednesday: BoC at 8:45 AM CT (hold 2.25%), then FOMC at 1:00 PM CT with Warsh's presser at 1:30 PM. No new SEP. The key read is whether the statement validates December hike pricing."
+      ],
+      "simple": "Bonds pay a 'yield' (the interest rate investors earn), and the 2-year yield tracks where traders think the Fed is taking rates. It rose a little today, meaning markets still expect the Fed to raise rates again by December to fight oil-driven inflation, while a big government bond sale went smoothly, so there's no sign that investors are refusing to lend to Washington. Stocks rose thanks to chipmakers, Boeing fell sharply on a slow production outlook, and gold rose because cheaper oil eases inflation fears. For banks and borrowers, tomorrow's Fed decision sets the tone for loan rates into year-end.",
+      "sources": [
+        {
+          "name": "CNBC (markets live blog)",
+          "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (Treasury yields)",
+          "url": "https://cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62629254/stock-market-today-nasdaq-100-chip-rally-meta-boeing-737-delay"
+        },
+        {
+          "name": "RTTNews (5Y auction)",
+          "url": "https://www.rttnews.com/3703693/five-year-note-auction-attracts-average-demand.aspx"
+        },
+        {
+          "name": "Reuters via MarketScreener",
+          "url": "https://marketscreener.com/news/gold-gains-on-softer-oil-prices-ahead-of-fed-meeting-ce785cdddc8ef121"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/gold-reclaims-4-060-as-oil-retreats-ahead-of-crucial-fed-decision-202610271740"
+        }
+      ]
+    },
+    {
       "at": "2026-10-27T17:18:11Z",
       "label": "Midday",
       "headline": "The $70B 5Y cleared at 4.845% with a 0.4 bp tail, so it went off in line with no sign of a buyers' strike, while chips lift the Nasdaq ≈+1.1% and Boeing sinks ≈9–10% on its 2027–28 cash-flow outlook.",
@@ -535,5 +578,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-27T17:18:11Z"
+  "updatedAt": "2026-10-27T20:17:42Z"
 }
