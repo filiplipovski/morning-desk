@@ -11,49 +11,48 @@
     "Deals: per the WSJ, BofA, Citi, Morgan Stanley and Blackstone lead a $63B compute financing for Anthropic, with Broadcom's CEO helping close it. Earlier reports sized it at $60B ($42B senior and $18B junior). The WSJ also has DoorDash in advanced talks to buy Instacart for ≈$17B, possibly as soon as Wednesday. SpaceX's $40B AI-chip debt deal drew a $4B Pimco order. All of this is leveraged finance and ECM fee flow before Anthropic's roadshow.",
     "Metals: gold is ≈$4,004 (−0.3%), just above Friday's $3,975 three-month low, because ≈82% December hike odds and a 2.367% 5Y TIPS real yield (highest since Oct 2023) cap it. Silver is down ≈1.5% to $53.18. COMEX copper is ≈$6.54/lb (+27% y/y) and LME ≈$14,338/t, with China's Yangshan premium at $178/t, its highest since 2014."
   ],
-  "markets_asof": "Post-open ≈9:40 AM CT. Index changes are early-session % moves on Monday's closes and differ by source. Yields are early-session marks (no post-data quote found). Oil is intraday, gold is Kitco 6:46 AM ET and silver is Kitco Mon evening.",
+  "markets_asof": "Midday ≈12:15 PM CT. Index levels are 11:41 AM ET marks. The 5Y is the auction result, and other yields are approximate. Commodity quotes are indicative and vary by feed.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,690",
-      "change": "+0.1–0.3%",
+      "value": "7,723",
+      "change": "+0.61%",
       "dir": "up",
-      "note": "Mon close 7,676.77"
+      "note": "11:41 AM ET; Mon 7,676.77"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈26,280",
-      "change": "+0.4–0.5%",
+      "value": "26,458",
+      "change": "+1.08%",
       "dir": "up",
-      "note": "Tech rebound; Mon 26,169.38"
+      "note": "Semis lead"
     },
     {
       "label": "Dow",
-      "value": "≈52,300",
-      "change": "≈−0.2% to flat",
-      "dir": "down",
-      "note": "Mon 52,361.58"
+      "value": "52,447",
+      "change": "+0.16%",
+      "dir": "up",
+      "note": "Boeing −9–10% drags"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.71%",
       "change": "—",
       "dir": "flat",
-      "note": "Early mark; post-data quote n/a"
+      "note": "No fresh intraday quote"
     },
     {
       "label": "UST 5Y",
-      "value": "≈4.84%",
-      "change": "—",
+      "value": "4.845%",
+      "change": "Auction high yield",
       "dir": "flat",
-      "note": "$70B auction 12 PM CT"
+      "note": "Tail 0.4 bp; BTC 2.33"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.98%",
-      "change": "—",
-      "dir": "flat",
-      "note": "Early mark"
+      "value": "≈4.99%",
+      "change": "≈flat",
+      "dir": "flat"
     },
     {
       "label": "UST 30Y",
@@ -67,49 +66,49 @@
       "value": "3.75–4.00%",
       "change": "Wed hike ≈10%",
       "dir": "flat",
-      "note": "Dec hike ≈80%"
+      "note": "Dec hike ≈79–82%"
     },
     {
       "label": "Brent",
-      "value": "≈$114.9",
-      "change": "≈−0.8%",
+      "value": "≈$113.8",
+      "change": "≈−1.8%",
       "dir": "down",
-      "note": "Range $114.7–115.2; Mon $115.81"
+      "note": "Indicative; Mon $115.81"
     },
     {
       "label": "WTI",
-      "value": "≈$101.0",
-      "change": "≈−0.7%",
+      "value": "≈$100.1",
+      "change": "≈−1.6%",
       "dir": "down",
-      "note": "Range $100.8–101.3; Mon $101.76"
+      "note": "Indicative; Mon $101.76"
     },
     {
       "label": "Gold",
-      "value": "$4,013",
-      "change": "−$2.80",
+      "value": "≈$4,000",
+      "change": "≈−0.4%",
       "dir": "down",
-      "note": "Kitco 6:46 AM ET"
+      "note": "Reuters; one feed ≈$4,061"
     },
     {
       "label": "Silver",
-      "value": "≈$53.8",
+      "value": "≈$54",
       "change": "—",
       "dir": "flat",
-      "note": "Kitco Mon 9:51 PM ET"
+      "note": "Range $53.8–54.4 across feeds"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.54/lb",
+      "value": "≈$6.6/lb",
       "change": "—",
       "dir": "flat",
-      "note": "No fresh quote"
+      "note": "LME $14,327.5/t flat"
     },
     {
-      "label": "Conf. Board confidence",
-      "value": "91.7",
-      "change": "+7.5",
+      "label": "Dollar (DXY)",
+      "value": "—",
+      "change": "≈+0.3%",
       "dir": "up",
-      "note": "vs ≈80.5 consensus"
+      "note": "Near 2-week high"
     }
   ],
   "calendar": [
@@ -438,6 +437,57 @@
   "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots that differ by source. Index values are Monday's closes. December hike odds range from 73% to 82% across snapshots of the same CME FedWatch tool. No WSJ or NYT originals were reachable: those items come from Reuters/MarketScreener digest headlines and secondary coverage. The Nvidia–Meta $3B item is a headline only, and the Anthropic financing is $63B per the WSJ vs $60B in earlier reports. Durable goods, new home sales and Richmond Fed consensus figures weren't found, and the 5Y 'consensus' is the secondary yield, not a when-issued quote. The Tribune bucket uses CME, Crain's, WTTW and bank filings because Tribune originals weren't reachable. Boeing, Coca-Cola, UPS and PayPal results were not out at writing.",
   "updates": [
     {
+      "at": "2026-10-27T17:18:11Z",
+      "label": "Midday",
+      "headline": "The $70B 5Y cleared at 4.845% with a 0.4 bp tail, so it went off in line with no sign of a buyers' strike, while chips lift the Nasdaq ≈+1.1% and Boeing sinks ≈9–10% on its 2027–28 cash-flow outlook.",
+      "points": [
+        "5Y auction: high yield 4.845%, ≈19 bp below September's 5.033%. It tailed 0.4 bp with bid-to-cover 2.33 (avg 2.31, Sep 2.21). Indirects took 60.0% (avg ≈64%), directs 29.4% and dealers 10.6%. Foreign demand was softer but domestic accounts filled the gap, so it was not a repeat of Monday's weak 2Y. These figures come from one third-party tracker and aren't yet confirmed on TreasuryDirect.",
+        "Rates: the 10Y is ≈4.99%, little changed, and the 2Y ≈4.71%, so the curve hasn't moved on the 91.7 confidence beat. Fed odds are unchanged: Wednesday hike ≈10%, December ≈79–82% (FedWatch snapshots vary). The dollar is ≈+0.3% at a near two-week high (Reuters via CoinTurk).",
+        "Stocks at 11:41 AM ET: S&P 500 +0.61% to 7,723, Nasdaq +1.08% to 26,458, Dow +0.16% to 52,447. Semis and megacap tech lead (Fool/Yahoo). Boeing is −9% to −10%: the 737 rate of 52/month isn't expected until 2H27, ≈500 737 deliveries for 2026 will be missed, and FCF guidance of ≈$3B (2027) and ≈$6B (2028) came in under the LSEG consensus. That reverses the 'roughly flat' read in the Post-open update. Per the Fool, SoFi is ≈+15%.",
+        "Commodities: oil keeps fading on Gulf diplomacy, with Brent ≈$113.8 and WTI ≈$100.1 (indicative, TradingEconomics), down ≈2% from the brief's tiles. Gold is ≈$4,000 (−0.4%, Reuters), still pinned at its July low by the firm dollar and December hike odds; one feed shows ≈$4,061, so treat the level as uncertain. Silver ≈$54, COMEX copper ≈$6.6/lb, and LME settled flat at $14,327.5/t.",
+        "Deals: still no signed DoorDash–Instacart agreement. Reuters says a ≈$17B deal could come as soon as Wednesday and Uber talks are no longer active. Next: Visa and Seagate after the close (Visa call 4:00 PM CT), then the FOMC at 1:00 PM CT Wednesday."
+      ],
+      "simple": "A Treasury auction is the government borrowing money by selling bonds to investors. Today it sold $70 billion of 5-year notes, and buyers demanded only a hair more yield (the interest rate the bond pays) than the market rate just before the sale, a 'tail' of 0.4 basis points (0.004%). That shows normal appetite for U.S. debt even with a possible Fed hike in December, so borrowing costs for mortgages and business loans didn't get pushed higher today. Stocks are up on chipmakers, but Boeing is sharply lower because it told investors it will take longer to build planes faster and make more cash.",
+      "sources": [
+        {
+          "name": "Helious (5Y auction result)",
+          "url": "https://helious.io/news/auc-91282CRT0-2026-10-27/5-year-note-auction-in-line"
+        },
+        {
+          "name": "Newsquawk (auction history)",
+          "url": "https://www.newsquawk.com/headlines/auction-history-us-is-to-sell-usd-70bln-in-5-year-notes-at-1700gmt1300edt"
+        },
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-midday-oct-27-tech-stocks-lead-as-nasdaq-climbs-on-market-momentum/"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
+        },
+        {
+          "name": "Proactive Investors (Boeing)",
+          "url": "https://www.proactiveinvestors.com/companies/news/1100780/boeing-shares-slide-as-investors-focus-on-aircraft-delivery-delays-1100780.html"
+        },
+        {
+          "name": "TradingView/Seeking Alpha (Boeing FCF)",
+          "url": "https://www.tradingview.com/news/seekingalpha:5ab1abab9094b:0-boeing-stock-plunges-to-18-mth-low-on-production-delays-cash-flow-outlook/"
+        },
+        {
+          "name": "CoinTurk (Reuters gold/dollar)",
+          "url": "https://en.coin-turk.com/gold-slips-to-4000-as-us-dollar-rises-traders-eye-fed-rate-decision/"
+        },
+        {
+          "name": "TradingEconomics commodities",
+          "url": "https://tradingeconomics.com/commodities"
+        },
+        {
+          "name": "Fox Business (DoorDash–Instacart)",
+          "url": "https://www.foxbusiness.com/retail/doordash-advanced-talks-acquire-instacart-potential-17b-deal-report"
+        }
+      ]
+    },
+    {
       "at": "2026-10-27T14:38:59Z",
       "label": "Post-open",
       "headline": "Consumer confidence jumped to 91.7 against a ≈80.5 consensus and oil slipped ≈1%, so the flat-to-lower premarket tape has turned into a modest tech-led open with S&P +0.1–0.3%, Nasdaq +0.4–0.5% and the Dow ≈−0.2% to flat.",
@@ -485,5 +535,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-27T14:38:59Z"
+  "updatedAt": "2026-10-27T17:18:11Z"
 }
