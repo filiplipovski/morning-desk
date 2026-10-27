@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-27",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-27T11:23:03Z",
+  "headline": "Fed week is stalling the Anthropic rally. Futures are flat to lower (Nasdaq-100 ≈−0.2%), the 10Y is holding ≈4.98% and Brent is back up ≈0.5% to $116.45. Boeing, Coca-Cola and today's $70B 5Y auction are next, and a December hike is still ≈82% priced.",
+  "summary": [
+    "Stocks: Monday's best day in a month (S&P 500 +0.7% to 7,676.77, Nasdaq +0.82%) has stalled. Before dawn, S&P futures are ≈−0.1%, Nasdaq-100 futures ≈−0.2% to −0.4% and Dow futures ≈flat (CNBC, Yahoo). Bloomberg says the AI enthusiasm from Anthropic's S-1 lost momentum as the FOMC began its two-day meeting. Boeing, Coca-Cola, UPS and PayPal report before the open and Visa reports after the close.",
+    "Rates: the curve is flat going into the decision. CNBC has the 2Y at 4.707%, the 10Y at 4.982% and the 30Y at 5.297%, so 2s10s is ≈27.5 bp. Today's $70B 5Y (12:00 PM CT) comes after Monday's 2Y tailed 0.3 bp with indirects at only 45.7%. The last 5Y cleared at 5.033% in September, and the 5Y now trades ≈4.84%, so this auction should clear ≈19 bp lower.",
+    "Fed: Reuters, citing CME FedWatch, puts a Wednesday hike at ≈11% and a December 9 hike at ≈82%. Other snapshots of the same tool run 73–79%, so read December as ≈3-in-4 or better. The range is 3.75–4.00% after September's 12–0 hike. There is no SEP, so the signal comes from the statement and Warsh's presser (Wed 1:00/1:30 PM CT). Thursday brings GDP and September PCE at 7:30 AM CT, plus the ECB.",
+    "Oil and geopolitics: Brent is +0.52% at $116.45 and WTI +0.62% at $102.39 (CNBC, ≈4 AM ET) after Monday's settles of $115.81 and $101.76. Iran, Saudi Arabia, Turkey and Pakistan agreed to keep talking in Tehran, and Iran has floated reopening Hormuz if the U.S. lifts its port blockade. But Houthi strikes on Riyadh's airport continue, Saudi jets hit Houthi missile sites, and U.S. officials say forces could strike Iran within 96 hours of an order, likely after the Nov 3 midterms.",
+    "Deals: per the WSJ, BofA, Citi, Morgan Stanley and Blackstone lead a $63B compute financing for Anthropic, with Broadcom's CEO helping close it. Earlier reports sized it at $60B ($42B senior and $18B junior). The WSJ also has DoorDash in advanced talks to buy Instacart for ≈$17B, possibly as soon as Wednesday. SpaceX's $40B AI-chip debt deal drew a $4B Pimco order. All of this is leveraged finance and ECM fee flow before Anthropic's roadshow.",
+    "Metals: gold is ≈$4,004 (−0.3%), just above Friday's $3,975 three-month low, because ≈82% December hike odds and a 2.367% 5Y TIPS real yield (highest since Oct 2023) cap it. Silver is down ≈1.5% to $53.18. COMEX copper is ≈$6.54/lb (+27% y/y) and LME ≈$14,338/t, with China's Yangshan premium at $178/t, its highest since 2014."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT. Index values are Monday's closes; the change column shows futures where noted. Yields are CNBC early-session marks, oil is CNBC ≈4 AM ET, and metals and DXY are early-session quotes that differ by source.",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,676.77",
+      "change": "Fut ≈−0.1%",
+      "dir": "down",
+      "note": "Mon close +0.7%"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "26,169.38",
+      "change": "NDX fut ≈−0.2%",
+      "dir": "down",
+      "note": "Some prints −0.4%"
+    },
+    {
+      "label": "Dow",
+      "value": "52,361.58",
+      "change": "Fut ≈flat",
+      "dir": "flat",
+      "note": "Mon +0.28%"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.707%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Mon auction 4.708%"
+    },
+    {
+      "label": "UST 5Y",
+      "value": "≈4.84%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "$70B auction 12 PM CT; prior 5.033%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.982%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.297%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Wed hike ≈11%",
+      "dir": "flat",
+      "note": "Dec 9 hike ≈82% (FedWatch via Reuters)"
+    },
+    {
+      "label": "Brent",
+      "value": "$116.45",
+      "change": "+0.52%",
+      "dir": "up",
+      "note": "Mon settle $115.81"
+    },
+    {
+      "label": "WTI",
+      "value": "$102.39",
+      "change": "+0.62%",
+      "dir": "up",
+      "note": "Mon settle $101.76"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$4,004",
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "Quotes $4,004–4,015; Fri low $3,975"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$53.18",
+      "change": "−1.47%",
+      "dir": "down",
+      "note": "FXStreet; Kitco $53.83"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.54/lb",
+      "change": "—",
+      "dir": "flat",
+      "note": "LME ≈$14,338/t"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.06",
+      "change": "+0.04%",
+      "dir": "up",
+      "note": "USD/JPY ≈157.7"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: Boeing Q3 (call 9:30 AM CT)",
+      "consensus": "EPS ≈−$0.21; rev ≈$23.8–24.5B",
+      "prior": "Q2: −$0.67 GAAP EPS, rev $24.6B",
+      "why": "Deliveries are already out: 161 in Q3, including 124 737s. So the stock trades on free-cash-flow guidance and the 737 MAX 10 certification. Options imply ≈±5% on a $187.78 close."
+    },
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: Coca-Cola, UPS, PayPal, S&P Global, Corning",
+      "consensus": "KO EPS $0.88, rev ≈$12.9B; UPS ≈$1.62; PYPL ≈$1.31",
+      "prior": "KO Q3'25 comparable EPS $0.82",
+      "why": "Coke is a defensive read on consumer pricing power under $100+ oil. UPS reads freight volumes. SPGI's ratings revenue measures how much debt is being issued, which this AI-financing wave is boosting."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Durable goods orders (Sep)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is a capex read just before the decision. Watch core capital-goods orders, which show whether AI capex is spreading beyond the hyperscalers into the wider economy."
+    },
+    {
+      "time": "8:00 AM",
+      "event": "S&P Case-Shiller home prices (Aug)",
+      "consensus": "≈−0.1% m/m (TE)",
+      "prior": "Sources conflict (0.0% / +0.3%)",
+      "why": "With mortgage rates ≈7.3%, flat-to-falling prices show housing absorbing the 10Y near 5%. That matters for bank mortgage and HELOC books."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Conference Board consumer confidence (Oct)",
+      "consensus": "80.5",
+      "prior": "81.9",
+      "why": "Confidence is already at 2014-type lows. A drop below 80 alongside $100+ oil strengthens the stagflation case Warsh has to answer on Wednesday."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "New home sales (Sep); Richmond Fed manufacturing (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Second-tier releases. Watch the Richmond prices-paid index for oil pass-through."
+    },
+    {
+      "time": "All day",
+      "event": "FOMC day 1 (blackout: no Fed speakers)",
+      "consensus": "Hold ≈89%",
+      "prior": "3.75–4.00%",
+      "why": "With no Fed speakers, data and auctions are the only rate catalysts today."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "5Y note auction ($70B)",
+      "consensus": "Secondary ≈4.84%",
+      "prior": "5.033% high yield (Sep)",
+      "why": "The 5Y is the most Fed-sensitive auction. Monday's 2Y tailed 0.3 bp with indirects at 45.7%, so a second weak foreign bid would show real-money buyers want more yield to hold hike risk."
+    },
+    {
+      "time": "After close",
+      "event": "Earnings: Visa (call 4:00 PM CT), Seagate",
+      "consensus": "V EPS $3.44; rev $12.09B",
+      "prior": "—",
+      "why": "Visa's cross-border volumes are the cleanest consumer-spending read before PCE. Seagate is the AI-storage read before MSFT and GOOGL on Wednesday."
+    },
+    {
+      "time": "Wed 8:45 AM",
+      "event": "Bank of Canada decision",
+      "consensus": "Hold 2.25% favored",
+      "prior": "2.25%",
+      "why": "The first of the week's oil-shock vs. weak-labor central-bank decisions."
+    },
+    {
+      "time": "Wed 1:00 PM",
+      "event": "FOMC decision (Warsh presser 1:30 PM)",
+      "consensus": "Hold ≈89%; hike ≈11%",
+      "prior": "3.75–4.00%",
+      "why": "With no SEP, the market will read the statement's 'further firming' language for December, where a hike is ≈82% priced. The next meeting is Dec 9."
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Q3 GDP (advance) and Sep PCE; ECB 8:15 AM CT",
+      "consensus": "ECB hold 2.5% expected",
+      "prior": "—",
+      "why": "PCE is the Fed's preferred inflation gauge and lands the day after the decision. The ECB has a hike priced before year-end. The BoJ follows Friday with a hold expected and a December hike priced."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Curve is pinned before the decision",
+        "body": "CNBC has the 2Y at 4.707%, the 10Y at 4.982% and the 30Y at 5.297%, all little changed, so 2s10s is ≈27.5 bp. The front end rose >2 bp on Monday after the 2Y auction stopped at 4.708%, while the 10Y has held just under 5% since Thursday's 4.93% low.",
+        "simple": "A Treasury yield is the interest the U.S. government pays to borrow. Short-term yields track what the Fed is expected to do, and long-term yields also carry inflation and debt worries. Everything is barely moving because investors are waiting for Wednesday's Fed decision before taking big bets. These rates set the price of mortgages, car loans and corporate debt.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
+      },
+      {
+        "title": "$70B 5Y auction is today's real test",
+        "body": "The 5Y last cleared at 5.033% in September and now trades ≈4.84%, so today's auction should clear ≈19 bp lower. It follows a soft 2Y (0.3 bp tail, 2.59x cover vs 2.64x average, 45.7% indirects) and settles Nov 2.",
+        "simple": "When the government sells new bonds at auction, a 'tail' means it had to pay a bit more interest than the market expected, which signals weak demand. 'Indirect bidders' are mostly foreign central banks and big funds. If they hold back again today, it suggests investors want extra pay to lend while the Fed may still raise rates, and that can push all borrowing costs up.",
+        "source": "Newsquawk; TFTC; CNBC",
+        "url": "https://www.newsquawk.com/headlines/newsquawk-daily-bond-auction-preview---27th-october-2026"
+      },
+      {
+        "title": "December hike is ≈3-in-4 or better, depending on the source",
+        "body": "Reuters, citing CME FedWatch, has a Wednesday hike at ≈11% and a December 9 hike at ≈82%. Kiplinger's read of the same tool is 73% (up from 42% a month ago) and FXStreet's is ≈79%. The Atlanta Fed's SOFR-options tracker fell to 86.9% on Oct 22 from 94.1% on Oct 20.",
+        "simple": "Futures markets let traders bet on where the Fed's rate will be, and tools like FedWatch turn those prices into odds. Traders broadly expect no move this week but another increase in December, because oil above $100 is keeping inflation high. A December hike would make loans and credit cards more expensive, and banks would earn a bit more on their loans.",
+        "source": "Reuters via see.news; Kiplinger; FXStreet; Investing.com",
+        "url": "https://see.news/fed-decision-preview-rates-expected-to-hold-wednesday-as-december-hike-remains-on-table"
+      },
+      {
+        "title": "Global yields: gilts at 5.34%, Bunds ≈3.37%, ECB and BoJ next",
+        "body": "FXStreet has the 10Y Bund at 3.37%, the gilt at 5.34% and the OAT at 4.97%. The 10Y JGB is quoted at 2.78–3.10% depending on the source. The ECB (Thu) is expected to hold at 2.5% with a hike priced before year-end, the BoJ (Fri) is seen holding until December, and USD/JPY is ≈157.7.",
+        "simple": "A Bund is a German government bond, a gilt is British and a JGB is Japanese. U.K. borrowing costs are higher than America's, which shows that inflation pressure from expensive energy is worldwide. When foreign yields rise, global investors can earn more at home, which reduces their demand for U.S. Treasuries.",
+        "source": "FXStreet; Trading Economics",
+        "url": "https://fxstreet.com/analysis/anthropics-public-s-1-could-land-as-soon-as-today-amid-musk-warning-about-neoclouds-202610261001"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME open interest tops 133M contracts",
+        "body": "On its Q3 call, CME said open interest is above 133M contracts in October, up from a record 128M at end-September. Q3 ADV was a record 29.4M (+16% y/y), with international ADV at 9M (+22%). But open interest in interest-rate products grew only 1.2%, so the volume growth came from faster turnover, not new positions.",
+        "simple": "Open interest is the number of futures and options contracts still open, which shows how many positions people are holding. Volume counts how many trade each day. CME makes money on every trade, so record activity during a hike-and-oil-shock year means record revenue. Rising open interest also means more investors are using futures to hedge interest-rate risk.",
+        "source": "CME Q3 call via Yahoo Finance; Newsquawk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-inc-cme-q3-230214897.html"
+      },
+      {
+        "title": "SOFR options lean toward a shallower hiking cycle",
+        "body": "As of late September, open interest in March 2027 SOFR calls was ≈2.7M contracts, ≈1M more than puts. Those positions profit if the Fed stops hiking sooner than futures imply. Meanwhile, the options-based Atlanta Fed tracker has eased from 94.1% to 86.9% for a hike by mid-December.",
+        "simple": "SOFR is the benchmark overnight lending rate that replaced LIBOR, and SOFR futures and options are bets on where it goes. A 'call' here pays off if rates end up lower than expected. Many traders have bought cheap insurance in case the Fed raises rates only once or twice and then stops. Positioning like this can move rates fast if Warsh sounds softer than expected.",
+        "source": "BusinessWorld (Bloomberg); Investing.com",
+        "url": "https://bworldonline.com/banking-finance/2026/09/24/781206/traders-load-up-on-hedges-for-shallower-fed-rate-hike-cycle/"
+      },
+      {
+        "title": "Bond vol is muted into the decision",
+        "body": "CNBC shows the ICE BofA MOVE index at 102.19 as of Oct 26, below the 113.6 intraday high on Oct 6 and the 115.02 52-week high (Mar 27). Event vol is cheap relative to a meeting where the market is pricing ≈11% odds of a surprise hike.",
+        "simple": "The MOVE index measures how much traders expect Treasury yields to swing, like a 'fear gauge' for bonds. It has cooled, so traders aren't paying up for protection before the Fed. If the Fed surprises, that cheap protection can suddenly become expensive, and the swings spill into mortgage rates and bank balance sheets.",
+        "source": "CNBC; Investing.com",
+        "url": "https://www.cnbc.com/quotes/.MOVE"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold is pinned at $4,000 by rates, not war",
+        "body": "Spot gold is ≈$4,004 (−0.3%), with quotes up to $4,015, just above Friday's $3,975 three-month low. FinanceFeeds marks $4,110 as resistance and $3,890 as the bear target. The 5Y TIPS auction on Oct 22 cleared at a 2.367% real yield, the highest since Oct 2023, and ≈82% December hike odds keep the cost of holding gold high.",
+        "simple": "Gold pays no interest, so when safe bonds pay more after inflation (the 'real yield'), holding gold costs more in lost income. Despite the Middle East conflict, the prospect of a higher Fed rate is winning. If Warsh signals the Fed may skip December, gold would likely bounce.",
+        "source": "FinanceFeeds; Kitco; TIPSWatch",
+        "url": "https://financefeeds.com/gold-price-today-4004-tuesday-three-month-low-fomc-day-one-pce-thursday-bull-4110-bear-3890/"
+      },
+      {
+        "title": "Silver falls harder than gold",
+        "body": "FXStreet has silver at $53.18 (−1.47%) vs Monday's $53.97, while Kitco shows $53.83. Indian MCX silver fell ≈Rs 4,000 overnight. Silver is down ≈11% over the past month, more than gold, because it carries both rate risk and industrial-demand risk.",
+        "simple": "Silver is used in jewelry and in factories (solar panels, electronics). It falls when rates rise like gold does, and it also falls when investors worry about slower economic growth. That double exposure is why it swings more than gold.",
+        "source": "FXStreet; Goodreturns",
+        "url": "https://fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610270930"
+      },
+      {
+        "title": "Copper: China is tight even as LME stocks build",
+        "body": "COMEX copper is ≈$6.54/lb (+27% y/y) vs a September record of $6.85, and LME is ≈$14,338/t. China's Yangshan import premium hit $178/t on Monday, the highest since 2014, while Shanghai warehouse stocks fell >25% to 54,356 t.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a read on global building and AI investment. The 'Yangshan premium' is the extra price Chinese buyers pay for imported copper. A record premium means China is short of physical metal even though London warehouses are filling up. That gap usually closes as metal flows to China, which supports prices.",
+        "source": "Discovery Alert; Mining.com.au",
+        "url": "https://discoveryalert.com/news/china-industrial-profits-september-2026"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Anthropic's $63B compute financing: BofA, Citi, MS, Blackstone",
+      "body": "The WSJ reports that Broadcom CEO Hock Tan joined last-minute bank talks to close a $63B package for Anthropic's AI compute. Earlier reports described a $60B structure: a $42B Class A senior tranche and an $18B Class B junior tranche led by Blackstone ($9B of its own money), partly backstopped by Broadcom. The $42B senior piece covers ≈1/3 of Anthropic's $125.2B five-year TPU lease commitment.",
+      "simple": "Anthropic needs huge numbers of computer chips, so banks are lending against its chip leases. The loan is split into layers: the 'senior' layer gets repaid first and is safer, while the 'junior' layer earns more for taking more risk. Broadcom, which makes the chips, is partly guaranteeing it. Banks earn large fees for arranging the deal and then sell pieces to other investors.",
+      "source": "WSJ via MarketScreener; Crypto Briefing",
+      "url": "https://marketscreener.com/news/broadcom-ceo-helped-secure-63-billion-anthropic-ai-financing-deal-ce785cddd88bf023"
+    },
+    {
+      "title": "Anthropic IPO: S-1 is public, roadshow targeted for mid-November",
+      "body": "The S-1 (ticker ANT, Nasdaq) shows H1 revenue of $16.29B vs $1.16B a year earlier. Reports put the raise at up to $100B and the valuation at $1.5–2T, but those figures conflict and Anthropic hasn't confirmed them. Marketing could start the week of Nov 9 for pricing before Thanksgiving, alongside the SpaceX and expected OpenAI listings.",
+      "simple": "An IPO is when a private company first sells shares to the public, and an S-1 is the required filing that discloses its finances. This would be one of the biggest stock sales ever, and the underwriting banks split fees that are usually a percentage of the money raised. A crowded calendar of mega-listings can soak up investor cash that would otherwise go to other stocks.",
+      "source": "Bloomberg Tax; CNN; Investing.com",
+      "url": "https://news.bloombergtax.com/tech-and-telecom-law/anthropics-mega-ipo-plan-looms-over-packed-us-listing-calendar"
+    },
+    {
+      "title": "DoorDash in advanced talks for Instacart at ≈$17B",
+      "body": "Per the WSJ, a deal could come as soon as Wednesday. Instacart was worth ≈$12B before The Information's Oct 23 report, which implies a ≈40% premium, and its parallel talks with Uber reportedly ended. Instacart rose ≈9% on the first report while DoorDash fell ≈4%. Antitrust is the main risk, since talks at a $40–50B valuation died in 2021.",
+      "simple": "DoorDash wants to buy Instacart, the grocery-delivery app. Buyers usually pay a 'premium' above the current share price to win control. Regulators may worry that combining two big delivery apps reduces competition. For banks, a deal this size means advisory fees and possibly acquisition loans.",
+      "source": "WSJ via MarketScreener; 24/7 Wall St.",
+      "url": "https://marketscreener.com/news/doordash-in-advanced-talks-to-acquire-instacart-for-17bn-ce785cdcde8ef523"
+    },
+    {
+      "title": "SpaceX's $40B AI debt deal draws a $4B Pimco order",
+      "body": "Musk says SpaceX closed $40B of debt to fund AI chips (Apollo-led, per earlier reports), and Pimco took a $4B slice. Together with Anthropic's package, more than $100B of AI-compute credit was arranged in a single week.",
+      "simple": "Companies are borrowing enormous sums to buy AI chips, and big bond investors like Pimco are buying pieces of that debt. Lenders are betting that AI demand will be strong enough for the borrowers to pay it back. If AI demand cools, these loans become the risk.",
+      "source": "NYT digest via MarketScreener; Reuters",
+      "url": "https://marketscreener.com/news/pimco-buys-4-billion-slice-of-spacex-ai-debt-package-ce785cdcd18af727"
+    },
+    {
+      "title": "Bank M&A pipeline: Santander–Webster, Columbia–Northfield, TowneBank",
+      "body": "The Fed's Oct 16 H.2A release lists Santander's application to acquire Webster Financial. Columbia Bank–Northfield (≈$597M) creates the third-largest New Jersey-headquartered regional bank at ≈$18B pro forma assets. TowneBank is buying blueharbor for ≈$154M (Q1'27 close), and Bank7–Century Financial closes Nov 1.",
+      "simple": "Banks are merging to get bigger and spread their costs over more customers, and regulators are approving deals faster than a few years ago. A bigger bank can make larger loans and spend more on technology. Commercial bankers and the M&A advisers who run these deals both benefit.",
+      "source": "Federal Reserve; SEC filings; TowneBank",
+      "url": "https://www.federalreserve.gov/apps/h2a/h2a.aspx"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures slip after Monday's Anthropic-led rally",
+        "body": "S&P futures are −0.1%, Nasdaq-100 futures −0.19% and Dow futures ≈flat, after Monday's S&P +0.7% and Nasdaq +0.82%. Traders are positioning before the FOMC and this week's megacap earnings.",
+        "simple": "Futures are contracts that trade before the stock market opens and hint at where it will start. After a strong Monday, investors are taking a breather before the Fed decision and the big tech companies' results later this week.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Treasury yields flat before the Fed",
+        "body": "The 10Y is at 4.982%, the 2Y at 4.707% and the 30Y at 5.297%, with data and the 5Y auction ahead and the decision on Wednesday.",
+        "simple": "Bond investors are waiting for the Fed before changing positions, so the interest rates the government pays are holding steady.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
+      },
+      {
+        "title": "Oil edges up as Tehran talks look fragile",
+        "body": "Brent December is +0.52% at $116.45 and WTI +0.62% at $102.39, after Monday's settles of $115.81 and $101.76. Ongoing Houthi attacks on Saudi Arabia limit how much risk premium the diplomacy can remove.",
+        "simple": "A 'risk premium' is the extra price traders pay because supply could be disrupted. Peace talks are under way, but attacks continue, so oil stays above $100. That keeps gasoline and shipping costs high.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
+      },
+      {
+        "title": "Boeing Q3: cash flow and the MAX 10 are what matter",
+        "body": "The Street expects a ≈$0.21 loss per share on ≈$23.8B in revenue (CNBC estimate). Deliveries are already known at 161 (124 737s, 22 787s), so free-cash-flow guidance is the swing factor. The stock closed at $187.78, 25% below its 52-week high.",
+        "simple": "Boeing has already said how many planes it delivered, so investors will focus on how much cash it is generating and whether its newest 737 version is cleared to fly. Cash flow decides whether it can pay down debt and keep its credit rating.",
+        "source": "CNBC; TipRanks; Kucoin/BA deliveries",
+        "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Broadcom CEO helped close Anthropic's $63B financing",
+        "body": "Hock Tan stepped into last-minute bank negotiations, and BofA, Blackstone, Citi and Morgan Stanley lead the deal for Anthropic's compute capacity. The prospectus flags conflicts from Broadcom's dual role as vendor and lender.",
+        "simple": "Broadcom sells the chips and is also helping finance their purchase. That speeds up the deal but creates a conflict of interest that investors will watch.",
+        "source": "WSJ via Reuters digest/MarketScreener",
+        "url": "https://marketscreener.com/news/broadcom-ceo-helped-secure-63-billion-anthropic-ai-financing-deal-ce785cddd88bf023"
+      },
+      {
+        "title": "DoorDash nears ≈$17B Instacart deal",
+        "body": "The talks are advanced and a deal could come as soon as Wednesday, but the outcome is uncertain. Instacart–Uber talks have reportedly ended.",
+        "simple": "Two big delivery apps may combine, and it would be one of the largest consumer-tech takeovers this year if regulators allow it.",
+        "source": "WSJ via MarketScreener",
+        "url": "https://marketscreener.com/news/doordash-in-advanced-talks-to-acquire-instacart-for-17bn-ce785cdcde8ef523"
+      },
+      {
+        "title": "Nvidia to put $3B into a Meta Muse offering",
+        "body": "The digest feed reports that Nvidia will expand its Meta partnership on Muse AI models and invest $3B in an offering. Meta's guided 2026 capex is $135–145B.",
+        "simple": "Nvidia, the chipmaker, is investing directly in a customer that buys its chips. This kind of circular deal helps fund AI spending but raises questions about how much demand is truly independent.",
+        "source": "WSJ digest feed via MarketScreener",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-27-ce785cdcd08cf221"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group: open interest climbs past 133M",
+        "body": "CME's October open interest exceeds 133M contracts vs the record 128M at end-September, after record Q3 ADV of 29.4M (+16%). UBS kept a Neutral rating and raised its target to $310 from $270. Separately, CME's suit against the CFTC over crypto perpetual futures (filed June) is still pending.",
+        "simple": "Chicago-based CME runs the world's largest futures exchange. Volatile rates and oil this year mean more trading and more fees. The lawsuit is about whether new crypto rivals should face the same rules CME does.",
+        "source": "Yahoo Finance; Newsquawk; Cointelegraph",
+        "url": "https://www.newsquawk.com/headlines/cme-group-cme-says-open-interest-continues-to-grow-in-october-contracts-exceeded-133mln-prev-128mln-in-september-following-record-sept-large-open-interest-holders-in-interest-rates-and-fx"
+      },
+      {
+        "title": "Old National posts a record Q3",
+        "body": "The Chicago-HQ'd regional earned $250.0M for common shareholders ($0.66 diluted EPS), with period-end deposits of $57.6B (+10.6% annualized). TD Cowen still trimmed its target to $29 from $30.",
+        "simple": "Old National is one of the biggest banks based in Chicago. Strong deposit growth means it has cheap money to lend, but analysts worry about how much more profit growth is left.",
+        "source": "GlobeNewswire via Manila Times; TipRanks",
+        "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/old-national-bancorp-reports-record-third-quarter-2026-results/2450655"
+      },
+      {
+        "title": "Wintrust pushes deeper into Northwest Indiana",
+        "body": "Wintrust opened a St. John branch on Oct 8 after a Gary launch in late September, with Valparaiso next. It has more than 200 locations across IL, IN, WI and MI.",
+        "simple": "Wintrust, a Rosemont-based bank, is opening branches across the state line to win deposits and small-business customers in fast-growing suburbs.",
+        "source": "Northwest Indiana Business Magazine",
+        "url": "https://nwindianabusiness.com/industries/banking/wintrust-expands-in-nwi-with-st-john-branch/79349/"
+      },
+      {
+        "title": "State Street retail shows signs of recovery",
+        "body": "Crain's commercial real estate reporter Rachel Herzog says the Loop's State Street retail corridor is showing signs of a turnaround. Separately, Oct 26 was the filing deadline for Chicago's February mayoral ballot (Mendoza, Cardenas and Pappas filed late), per WTTW.",
+        "simple": "Downtown store traffic affects the city's tax base and the value of commercial property loans that Chicago banks hold. The mayoral race will shape city finances and the city's credit rating.",
+        "source": "Crain's Chicago Business; WTTW",
+        "url": "https://www.chicagobusiness.com/gist-podcast/ccb-state-street-retail-reversal-20261026/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "SpaceX's $40B debt deal and Musk's 'neocloud shakeout' warning",
+        "body": "Musk said SpaceX raised $40B in debt for AI chips and predicted a shakeout among 'neoclouds' (GPU-rental firms such as CoreWeave and Nebius). Pimco took a $4B slice.",
+        "simple": "'Neoclouds' are newer companies that rent AI computing power. Musk expects many of them to fail as giants build their own capacity, which is a warning to lenders who have financed them.",
+        "source": "NYT digest via MarketScreener",
+        "url": "https://www.marketscreener.com/news/press-digest-new-york-times-business-news-october-26-ce785cdcd98bf62c"
+      },
+      {
+        "title": "Microsoft offers voluntary separation in four countries",
+        "body": "Microsoft is offering voluntary buyouts to employees in four countries even as it ramps AI capex, ahead of Wednesday's earnings.",
+        "simple": "Big tech companies are cutting staff costs to help pay for AI data centers. It is a sign that AI spending is squeezing budgets elsewhere.",
+        "source": "NYT digest via MarketScreener",
+        "url": "https://www.marketscreener.com/news/press-digest-new-york-times-business-news-october-27-ce785cdcd08af026"
+      },
+      {
+        "title": "Iran calls the U.S. response 'insufficient' as strike prep continues",
+        "body": "Talks remain stalled: Iran wants the U.S. port blockade lifted in exchange for reopening Hormuz. Officials say U.S. forces could strike within 96 hours of an order, with any decision likely after the Nov 3 midterms, which follows the NYT's earlier strike-planning report.",
+        "simple": "The Strait of Hormuz is a narrow sea lane that carries a large share of the world's oil. As long as it's disrupted and war could restart, oil prices and inflation stay high, which is why the Fed may still raise rates.",
+        "source": "CBS News; HNGN (following NYT reporting)",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Two auctions, one question: who buys duration while hikes are priced?",
+      "point": "Monday's 2Y tailed 0.3 bp with indirects at 45.7% and 2.59x cover vs a 2.64x average. Today's $70B 5Y should clear ≈4.84%, ≈19 bp below September's 5.033%. If foreign demand is soft again a day before the Fed, dealers end up holding more supply going into a meeting where December is ≈82% priced. That widens swap spreads and keeps the belly cheap. A strong 5Y says real money thinks the hike cycle is close to done, which matches the March 2027 SOFR call positioning."
+    },
+    {
+      "topic": "How a $63B AI loan is built",
+      "point": "Anthropic's compute deal looks like structured finance: a $42B senior tranche (BofA, Citi, MS commit and sell down) and an $18B junior tranche where Blackstone writes $9B itself, with partial support from Broadcom, the chip vendor. The senior piece covers ≈1/3 of a $125.2B TPU lease commitment. Put it next to SpaceX's $40B (Pimco took $4B) and AI is now a major source of capital-markets and commercial-banking fee flow. The questions to raise are concentration risk and Musk's neocloud shakeout warning."
+    },
+    {
+      "topic": "Gold vs. real yields at 2.37%",
+      "point": "The 5Y TIPS cleared at a 2.367% real yield on Oct 22, the highest since Oct 2023, and gold is sitting at ≈$4,004, just above a $3,975 three-month low, despite a live Middle East war. That shows gold trading as an opportunity-cost asset, not a haven. Copper tells a different story: COMEX is at ≈$6.54 (+27% y/y) and China's Yangshan premium is at $178/t, its highest since 2014, so physical demand is tight even as rates rise. A dovish Warsh would help gold most. A hawkish one tests $3,890."
+    }
+  ],
+  "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots that differ by source. Index values are Monday's closes. December hike odds range from 73% to 82% across snapshots of the same CME FedWatch tool. No WSJ or NYT originals were reachable: those items come from Reuters/MarketScreener digest headlines and secondary coverage. The Nvidia–Meta $3B item is a headline only, and the Anthropic financing is $63B per the WSJ vs $60B in earlier reports. Durable goods, new home sales and Richmond Fed consensus figures weren't found, and the 5Y 'consensus' is the secondary yield, not a when-issued quote. The Tribune bucket uses CME, Crain's, WTTW and bank filings because Tribune originals weren't reachable. Boeing, Coca-Cola, UPS and PayPal results were not out at writing.",
+  "updates": []
+}
