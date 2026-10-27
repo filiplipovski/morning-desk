@@ -11,105 +11,105 @@
     "Deals: per the WSJ, BofA, Citi, Morgan Stanley and Blackstone lead a $63B compute financing for Anthropic, with Broadcom's CEO helping close it. Earlier reports sized it at $60B ($42B senior and $18B junior). The WSJ also has DoorDash in advanced talks to buy Instacart for ≈$17B, possibly as soon as Wednesday. SpaceX's $40B AI-chip debt deal drew a $4B Pimco order. All of this is leveraged finance and ECM fee flow before Anthropic's roadshow.",
     "Metals: gold is ≈$4,004 (−0.3%), just above Friday's $3,975 three-month low, because ≈82% December hike odds and a 2.367% 5Y TIPS real yield (highest since Oct 2023) cap it. Silver is down ≈1.5% to $53.18. COMEX copper is ≈$6.54/lb (+27% y/y) and LME ≈$14,338/t, with China's Yangshan premium at $178/t, its highest since 2014."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT. Index values are Monday's closes; the change column shows futures where noted. Yields are CNBC early-session marks, oil is CNBC ≈4 AM ET, and metals and DXY are early-session quotes that differ by source.",
+  "markets_asof": "Post-open ≈9:40 AM CT. Index changes are early-session % moves on Monday's closes and differ by source. Yields are early-session marks (no post-data quote found). Oil is intraday, gold is Kitco 6:46 AM ET and silver is Kitco Mon evening.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,676.77",
-      "change": "Fut ≈−0.1%",
-      "dir": "down",
-      "note": "Mon close +0.7%"
+      "value": "≈7,690",
+      "change": "+0.1–0.3%",
+      "dir": "up",
+      "note": "Mon close 7,676.77"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "26,169.38",
-      "change": "NDX fut ≈−0.2%",
-      "dir": "down",
-      "note": "Some prints −0.4%"
+      "value": "≈26,280",
+      "change": "+0.4–0.5%",
+      "dir": "up",
+      "note": "Tech rebound; Mon 26,169.38"
     },
     {
       "label": "Dow",
-      "value": "52,361.58",
-      "change": "Fut ≈flat",
-      "dir": "flat",
-      "note": "Mon +0.28%"
+      "value": "≈52,300",
+      "change": "≈−0.2% to flat",
+      "dir": "down",
+      "note": "Mon 52,361.58"
     },
     {
       "label": "UST 2Y",
-      "value": "4.707%",
-      "change": "≈flat",
+      "value": "≈4.71%",
+      "change": "—",
       "dir": "flat",
-      "note": "Mon auction 4.708%"
+      "note": "Early mark; post-data quote n/a"
     },
     {
       "label": "UST 5Y",
       "value": "≈4.84%",
-      "change": "≈flat",
+      "change": "—",
       "dir": "flat",
-      "note": "$70B auction 12 PM CT; prior 5.033%"
+      "note": "$70B auction 12 PM CT"
     },
     {
       "label": "UST 10Y",
-      "value": "4.982%",
-      "change": "≈flat",
+      "value": "≈4.98%",
+      "change": "—",
       "dir": "flat",
-      "note": "CNBC"
+      "note": "Early mark"
     },
     {
       "label": "UST 30Y",
-      "value": "5.297%",
-      "change": "≈flat",
+      "value": "≈5.30%",
+      "change": "—",
       "dir": "flat",
-      "note": "CNBC"
+      "note": "Early mark"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Wed hike ≈11%",
+      "change": "Wed hike ≈10%",
       "dir": "flat",
-      "note": "Dec 9 hike ≈82% (FedWatch via Reuters)"
+      "note": "Dec hike ≈80%"
     },
     {
       "label": "Brent",
-      "value": "$116.45",
-      "change": "+0.52%",
-      "dir": "up",
-      "note": "Mon settle $115.81"
+      "value": "≈$114.9",
+      "change": "≈−0.8%",
+      "dir": "down",
+      "note": "Range $114.7–115.2; Mon $115.81"
     },
     {
       "label": "WTI",
-      "value": "$102.39",
-      "change": "+0.62%",
-      "dir": "up",
-      "note": "Mon settle $101.76"
+      "value": "≈$101.0",
+      "change": "≈−0.7%",
+      "dir": "down",
+      "note": "Range $100.8–101.3; Mon $101.76"
     },
     {
       "label": "Gold",
-      "value": "≈$4,004",
-      "change": "≈−0.3%",
+      "value": "$4,013",
+      "change": "−$2.80",
       "dir": "down",
-      "note": "Quotes $4,004–4,015; Fri low $3,975"
+      "note": "Kitco 6:46 AM ET"
     },
     {
       "label": "Silver",
-      "value": "≈$53.18",
-      "change": "−1.47%",
-      "dir": "down",
-      "note": "FXStreet; Kitco $53.83"
+      "value": "≈$53.8",
+      "change": "—",
+      "dir": "flat",
+      "note": "Kitco Mon 9:51 PM ET"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.54/lb",
       "change": "—",
       "dir": "flat",
-      "note": "LME ≈$14,338/t"
+      "note": "No fresh quote"
     },
     {
-      "label": "Dollar index",
-      "value": "≈102.06",
-      "change": "+0.04%",
+      "label": "Conf. Board confidence",
+      "value": "91.7",
+      "change": "+7.5",
       "dir": "up",
-      "note": "USD/JPY ≈157.7"
+      "note": "vs ≈80.5 consensus"
     }
   ],
   "calendar": [
@@ -436,5 +436,54 @@
     }
   ],
   "caveats": "Direct page fetches failed this run (DNS errors), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots that differ by source. Index values are Monday's closes. December hike odds range from 73% to 82% across snapshots of the same CME FedWatch tool. No WSJ or NYT originals were reachable: those items come from Reuters/MarketScreener digest headlines and secondary coverage. The Nvidia–Meta $3B item is a headline only, and the Anthropic financing is $63B per the WSJ vs $60B in earlier reports. Durable goods, new home sales and Richmond Fed consensus figures weren't found, and the 5Y 'consensus' is the secondary yield, not a when-issued quote. The Tribune bucket uses CME, Crain's, WTTW and bank filings because Tribune originals weren't reachable. Boeing, Coca-Cola, UPS and PayPal results were not out at writing.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-27T14:38:59Z",
+      "label": "Post-open",
+      "headline": "Consumer confidence jumped to 91.7 against a ≈80.5 consensus and oil slipped ≈1%, so the flat-to-lower premarket tape has turned into a modest tech-led open with S&P +0.1–0.3%, Nasdaq +0.4–0.5% and the Dow ≈−0.2% to flat.",
+      "points": [
+        "Conference Board confidence rose 7.5 pts to 91.7. Consensus was ≈80.5–81.5, and September was revised up to 84.2 from 81.9, the 2014-type low cited in the calendar. Present Situation is 120.4 (+8.6) and Expectations 72.6 (+6.9). The Board credits lower gasoline prices. This undercuts the morning's stagflation framing and gives hawks a 'resilient consumer' argument going into Warsh's Wednesday presser.",
+        "Durable goods (Sep): headline +1.8% to $345.4B, a small miss vs ≈2.0%. Core capital goods (nondefense ex-aircraft) +0.5% vs ≈0.7% consensus and a +1.6% prior. Sources conflict, and one calendar shows +0.3%. The AI-capex proxy is still positive but cooling. No Case-Shiller print was found yet.",
+        "Earnings: Boeing's adjusted loss was −$0.34 vs −$0.21 expected, but revenue was $24.19B vs $23.84B and FCF ≈$0.5B vs ≈$0.24B, and the stock is roughly flat. PayPal $1.45 vs $1.31, with FY guide raised to ≈$5.60 from $5.38. Coca-Cola beat and raised but flagged slowing North American demand, and the stock is slightly lower. UPS raised guidance and called holiday demand 'strong'.",
+        "Oil reversed the morning's gain. Brent is ≈$114.7–115.2 (≈−1%) vs the brief's $116.45 tile, and WTI ≈$100.8–101.3, as Saudi/Turkey/Pakistan/Iran diplomacy offsets Houthi strikes. Gold is ≈$4,013 (Kitco 6:46 AM ET, −$2.80). Fed odds are unchanged: hike Wed ≈10%.",
+        "Still ahead: the $70B 5Y auction at 12:00 PM CT. Post-data Treasury marks weren't available, so yield tiles carry the early-session levels. After the beat, watch for a 5Y concession (a cheapening into the auction)."
+      ],
+      "simple": "The Conference Board asks households how they feel about the economy. They felt much better in October than economists expected, mostly because gas got cheaper, and that is good news for stocks. The catch is that a confident, spending consumer gives the Fed less reason to stop raising rates, so this is mildly bad news for bond prices, especially just before a big government bond sale today.",
+      "sources": [
+        {
+          "name": "FXStreet (Conference Board release)",
+          "url": "https://www.fxstreet.com/news/us-cb-consumer-confidence-index-improves-to-917-in-october-202610271412"
+        },
+        {
+          "name": "AP via KSAT",
+          "url": "https://ksat.com/business/2026/10/27/us-consumer-confidence-recovers-in-october-as-gas-prices-eased-a-bit"
+        },
+        {
+          "name": "ZeroHedge (durable goods)",
+          "url": "https://www.zerohedge.com/markets/core-durable-goods-orders-rise-18th-straight-month-ai-spend-proxy-dips"
+        },
+        {
+          "name": "Breitbart (durable goods)",
+          "url": "https://www.breitbart.com/economy/2026/10/27/durable-goods-orders-september/"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
+        },
+        {
+          "name": "Invezz premarket",
+          "url": "https://invezz.com/news/2026/10/27/nasdaq-futures-gain-140-points-5-things-to-know-before-wall-street-opens/"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-U.S.-Strikes-on-Iran.html"
+        },
+        {
+          "name": "Kitco gold quote",
+          "url": "https://www.kitco.com/charts/gold"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-27T14:38:59Z"
 }
