@@ -1,0 +1,431 @@
+{
+  "date": "2026-10-28",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-28T11:34:10Z",
+  "headline": "Fed day sets up a hawkish hold. The 10Y is back above 5% (5.013%), the dollar is at a two-week high and gold is ≈−0.5% at ≈$4,037, while a Houthi strike on Ras Tanura pushes Brent to ≈$114.7. A hold at 1 PM CT is ≈91% priced, so the real trade is December (≈77–84% hike) and Microsoft/Alphabet tonight.",
+  "summary": [
+    "Fed: CME FedWatch puts a hold at 90.6% (CNBC), with the range at 3.75–4.00% after September's hike. Odds of a 25 bp hike at the Dec 8–9 meeting run 76.5% (CNBC) to ≈84% (FXStreet), depending on the snapshot. There is no SEP this time, so the signal is the statement, Warsh's 1:30 PM CT presser and the dissents. Rabobank (via Newsquawk) expects Hammack, Kashkari and Logan to dissent for a hike again, as they did in July. Two or more dissents would make this a tactical pause before December.",
+    "Rates: the 10Y is +2 bp at 5.013% and the 2Y +1 bp at 4.749% (CNBC), so 2s10s is ≈26 bp, down from ≈46 bp two weeks ago. The backdrop is September CPI at 3.7% and only +29k payrolls (Euronews), a stagflation mix. Thursday is heavy: Q3 GDP and September PCE at 7:30 AM CT, the ECB, and the $44B 7Y auction at noon. September's 7Y cleared at 5.085%, the highest since 1993.",
+    "Stocks: futures are mixed. S&P +0.1%, Nasdaq-100 +0.4% and Dow −0.2% (Benzinga/Seeking Alpha). SK Hynix's record quarter is lifting chips: operating profit was ≈₩83.3T vs ≈₩76.7T expected, with an 80% margin, a ≈₩100T shareholder-return plan and the stock +10.9% in Seoul. Visa (EPS $3.48 vs $3.44) and Seagate (EPS $7.68, December-quarter revenue guide $4.8B) both beat and both fell after hours: Visa −1.6% premarket, Seagate −5% to −8%. Microsoft and Alphabet report after the close.",
+    "Oil and geopolitics: Brent is +0.7% at $114.68 and WTI +1.4% at $101.32 (CNBC). Two things are driving it. The Houthis say they hit Saudi Arabia's Ras Tanura refinery with a ballistic missile, and the WSJ reports the U.S. told Gulf states to prepare for a 'short, intense' campaign against Iran after the Nov 3 midterms. The offset is that Hormuz flows recovered to ≈11.7 mb/d in October (OilPrice.com).",
+    "Metals: gold is ≈$4,037 (−0.5%, Reuters-cited) after Tuesday's bounce to ≈$4,065, and the DXY is ≈102.4–102.5. Silver is ≈$54.0 (−0.7%) and platinum ≈$1,519 is −13% in a month. Copper is the strong one: LME three-month is ≈$14,430/t, the Yangshan premium is at a ≈13-year high of $188/t, and cash trades ≈$200/t over three-month. That is physical tightness, not a macro bid.",
+    "Deals: DoorDash and Instacart could sign a ≈$17B deal as early as today (Reuters, after the WSJ). Meta's ≈$35B underwritten equity sale (Morgan Stanley and Goldman leading) plus a ≈$60B 2027 ATM is the biggest equity financing of the AI build-out so far. The Bank of Canada decides at 8:45 AM CT, with previews split between hold, hike and cut."
+  ],
+  "markets_asof": "Pre-market ≈6:30 AM CT. Futures, yields, oil and FX are early-session snapshots. The Russell 2000 is Tuesday's close. Copper and platinum are Tuesday's last quotes.",
+  "markets": [
+    {
+      "label": "S&P 500 futures",
+      "value": "+0.1%",
+      "change": "+0.1%",
+      "dir": "up",
+      "note": "Tue cash close 7,722.60"
+    },
+    {
+      "label": "Nasdaq-100 futures",
+      "value": "+0.4%",
+      "change": "+0.4%",
+      "dir": "up",
+      "note": "SK Hynix lifts chips"
+    },
+    {
+      "label": "Dow futures",
+      "value": "−0.2%",
+      "change": "−0.2%",
+      "dir": "down",
+      "note": "Tue close 52,377.57"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,816",
+      "change": "≈+1.1%",
+      "dir": "up",
+      "note": "Tue close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.749%",
+      "change": "+1 bp",
+      "dir": "up"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.013%",
+      "change": "+2 bp",
+      "dir": "up",
+      "note": "Back above 5%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.31%",
+      "change": "—",
+      "dir": "flat",
+      "note": "Last confirmed mark"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Hold 90.6%",
+      "dir": "flat",
+      "note": "Dec hike 76.5–84%"
+    },
+    {
+      "label": "Brent",
+      "value": "$114.68",
+      "change": "+0.7%",
+      "dir": "up",
+      "note": "Ras Tanura strike"
+    },
+    {
+      "label": "WTI",
+      "value": "$101.32",
+      "change": "+1.42%",
+      "dir": "up"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$4,037",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Spot; Tue high ≈$4,065"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$54.04",
+      "change": "−0.7%",
+      "dir": "down",
+      "note": "FXStreet"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,430/t",
+      "change": "+0.7%",
+      "dir": "up",
+      "note": "Tue; Yangshan premium $188"
+    },
+    {
+      "label": "Dollar (DXY)",
+      "value": "≈102.4–102.5",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Two-week high"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "6:00 AM",
+      "event": "MBA mortgage applications (weekly)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "With the 10Y back above 5%, this is the first read on whether refinancing and purchase demand is giving way again. That matters for bank mortgage pipelines."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Advance goods trade balance and wholesale/retail inventories (Sep)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "These feed directly into Thursday's Q3 GDP print. A big inventory or net-export swing will move GDP tracking before the Fed even speaks."
+    },
+    {
+      "time": "8:45 AM",
+      "event": "Bank of Canada decision and MPR (Macklem presser 9:30 AM)",
+      "consensus": "Split: hold 2.25% vs hike to 2.50%",
+      "prior": "2.25%",
+      "why": "This is the cleanest test of oil-driven inflation (≈3%) against a weak labor market (September job losses). A BoC hike would tell the market central banks are choosing inflation over growth hours before the Fed."
+    },
+    {
+      "time": "9:30 AM",
+      "event": "EIA crude inventories",
+      "consensus": "−0.3M bbl",
+      "prior": "−3.06M bbl",
+      "why": "With Brent ≈$115, a third straight large draw adds to the supply-tightness story. It also feeds breakevens and the hike case."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "2Y FRN auction (reopening)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Floating-rate demand rises when hikes are priced. Watch the discount margin as a read on money-fund appetite."
+    },
+    {
+      "time": "1:00 PM",
+      "event": "FOMC decision (no SEP)",
+      "consensus": "Hold 90.6%; hike ≈9–10%",
+      "prior": "3.75–4.00%",
+      "why": "The vote count matters more than the decision. Repeat hawkish dissents from Hammack, Kashkari and Logan, or tightening-bias language, would validate the ≈77–84% December pricing and flatten 2s10s further."
+    },
+    {
+      "time": "1:30 PM",
+      "event": "Warsh press conference",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Warsh avoids forward guidance, and in July the 10Y rose ≈4 bp within an hour of his presser. Long-end vol is likely as he answers on oil, the midterms and December."
+    },
+    {
+      "time": "After close",
+      "event": "Earnings: Alphabet (call 3:30 PM CT), Microsoft (call 4:30 PM CT)",
+      "consensus": "MSFT EPS ≈$4.71, rev ≈$90.6B; GOOGL EPS ≈$2.94–3.03",
+      "prior": "MSFT Azure +43%; Google Cloud +82%",
+      "why": "Microsoft guided Azure growth to ≈45% and capex above $50B for the quarter, with options implying ≈±4.2%. Google Cloud is expected ≈+92% to ≈$29.2B (Zacks). Another capex raise feeds straight into AI debt and equity supply."
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Q3 GDP (advance) and Sep PCE; ECB decision 8:15 AM CT",
+      "consensus": "ECB: deposit rate seen ≈2.8% by December",
+      "prior": "—",
+      "why": "PCE is the Fed's preferred inflation gauge and lands the morning after Warsh speaks. Bund 2Y is ≈3.08%, with one more ECB hike priced and ≈24% odds of a second."
+    },
+    {
+      "time": "Thu 12:00 PM",
+      "event": "7Y note auction ($44B)",
+      "consensus": "—",
+      "prior": "5.085% high yield (Sep), highest since 1993",
+      "why": "This is the last coupon of the week after a 2Y that tailed 0.3 bp and an average 5Y (4.845%, 0.4 bp tail). The 7Y is where dealers usually get stuck when end-user demand fades."
+    },
+    {
+      "time": "Fri",
+      "event": "Bank of Japan decision",
+      "consensus": "Hold; December hike priced",
+      "prior": "—",
+      "why": "USD/JPY is ≈157.8. A hawkish BoJ is the main risk to the dollar's two-week high and to global term premium."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "10Y back above 5% into the decision",
+        "body": "CNBC has the 10Y +2 bp at 5.013% and the 2Y +1 bp at 4.749% early Wednesday, after the 10Y spent Tuesday just under 5% (4.995%). 2s10s is ≈26 bp, compressed from ≈46 bp two weeks ago as the front end prices a December hike.",
+        "simple": "A Treasury yield is the interest the government pays to borrow; the 10-year sets the tone for mortgages and corporate loans. It has crept back over 5%, a level that makes almost all borrowing more expensive, because investors expect the Fed to keep fighting inflation. The gap between 2-year and 10-year yields (the 'curve') is shrinking, which squeezes banks that borrow short and lend long.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+      },
+      {
+        "title": "Hawkish hold: the vote count is the signal",
+        "body": "A Reuters poll had 94 of 100 economists expecting a hold. Rabobank (via Newsquawk) expects Hammack, Kashkari and Logan to repeat their July hike dissents, and December odds have jumped from 42% a month ago to ≈73% (Kiplinger). There is no SEP, so the statement and Warsh carry the whole message.",
+        "simple": "A 'hawkish hold' means the Fed leaves rates alone but signals it is leaning toward raising them later. 'Dissents' are officials formally voting against the decision. Several voting for a hike would tell markets that December's hike is likely. That would keep loan and credit-card rates rising into 2027.",
+        "source": "Newsquawk",
+        "url": "https://www.newsquawk.com/headlines/preview-federal-reserve-rate-decision-due-wednesday-october-28th-at-1800gmt1400edt"
+      },
+      {
+        "title": "Global tightening: BoC today, ECB Thursday, BoJ Friday",
+        "body": "The Bund 2Y is ≈3.08% and the 10Y ≈3.38% (Investing.com), off the 17-year highs above 3.6% seen weeks ago. Markets see the ECB deposit rate at ≈2.8% by December. The BoC (2.25%) decides today with previews split between hold, hike and cut, and the RBNZ held overnight.",
+        "simple": "Central banks around the world are dealing with the same oil-driven inflation at the same time. If several raise rates together, borrowing gets more expensive globally and U.S. bonds face competition from higher-yielding foreign bonds. That makes it harder for U.S. long-term rates to fall.",
+        "source": "Investing.com",
+        "url": "https://uk.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4936385"
+      },
+      {
+        "title": "Supply test: $44B 7Y on Thursday",
+        "body": "Treasury sells $44B of 7Y notes Thursday at noon CT, the day after the decision and just after GDP/PCE. September's 7Y cleared at 5.085%, the highest since April 1993. This week's 2Y tailed 0.3 bp and the 5Y cleared at 4.845% with a 0.4 bp tail and 2.33 cover.",
+        "simple": "When the government sells new bonds at auction, a 'tail' means it had to pay a bit more interest than the market expected, a sign of weak demand. The first two auctions this week were slightly soft. A third weak result right after the Fed would push yields up and raise borrowing costs across the economy.",
+        "source": "RTTNews",
+        "url": "https://www.rttnews.com/3701932/treasury-reveals-details-of-two-year-five-year-seven-year-note-auctions.aspx"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Fed funds futures: little risk today, a lot priced for December",
+        "body": "CME FedWatch shows 90.6% for a hold today and 76.5% for a hike on Dec 9 (CNBC). FXStreet cites ≈84% for December, and Investing.com's tool has ≈10% for a hike today. The 7–8 point spread across same-day snapshots shows how sensitive December pricing is to every headline.",
+        "simple": "Fed funds futures are contracts on CME, the Chicago exchange, that let traders bet on where the Fed's rate will be. Their prices can be converted into odds. Right now traders see almost no chance of a move today but about a 3-in-4 or better chance of a hike in December. Warsh's words this afternoon can move those odds a lot, and with them every loan priced off short-term rates.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+      },
+      {
+        "title": "CME's record quarter, with Q4 running hotter",
+        "body": "CME posted record Q3 revenue of $1.74B (+13%) and ADV of 29.4M contracts (+16%), with September at 31.8M (+22%) and international ADV a record 9M (+22%). Adjusted EPS was $3.02 vs $2.98. On the call, management said Q4 volume is tracking ≈17% above last year's record (one source).",
+        "simple": "CME makes money every time someone trades or clears a futures contract, so volatile markets are good business for it. 'ADV' is average daily volume, the number of contracts traded per day. Wars, rate hikes and oil shocks have pushed hedging and speculation to records, which is why rates, energy and metals desks are busy.",
+        "source": "StockTitan (CME release)",
+        "url": "https://www.stocktitan.net/news/CME/cme-group-inc-reports-highest-q3-revenue-on-record-for-q3-bdvhv7htd7rx.html"
+      },
+      {
+        "title": "Event vol stacked into 48 hours",
+        "body": "Between 1 PM CT today and Thursday's 7:30 AM PCE, markets absorb the FOMC, Warsh, Microsoft (options imply ≈±4.2%), Alphabet, GDP/PCE and the ECB. In July the 10Y rose ≈4 bp within an hour of Warsh's presser. Seagate's −5% to −8% after hours on a beat shows how hard the bar is for AI names.",
+        "simple": "'Implied volatility' is how big a move options prices expect. Traders pay more for protection when several big events land close together. If the Fed, Big Tech earnings and inflation data all surprise the same way, the moves can stack up quickly, which is why desks cut risk before days like this.",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4658652-sp500-nasdaq-dow-jones-outlook-stock-market"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold slips as the dollar firms",
+        "body": "Spot gold was −0.5% at $4,037.11 at 0743 GMT (Reuters-cited) after touching ≈$4,070 in Asia. The dollar is at a near two-week high, DXY ≈102.4–102.5. Oil is the swing factor: Tuesday's dip in crude lifted gold, and Wednesday's rebound revives the inflation-to-hike channel.",
+        "simple": "Gold pays no interest, so when interest rates and the dollar rise, holding it gets less attractive. That is the story today. Higher oil raises inflation fears, which make a Fed hike more likely, which hurts gold. A dovish surprise from Warsh would likely reverse it quickly.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/gold-drifts-lower-as-usd-hits-two-week-high-ahead-of-fomc-decision-202610280415"
+      },
+      {
+        "title": "Silver near year-to-date lows",
+        "body": "Silver is ≈$54.04 (−0.7% from $54.42 on Tuesday, FXStreet) after bouncing off year-to-date lows earlier this week. Kitco had Tuesday's late quote at $53.98. Industrial-demand worries add to the rate drag that gold faces.",
+        "simple": "Silver is both a precious metal and an industrial input used in solar panels and electronics. It gets hit twice: by higher rates, like gold, and by fears that growth is slowing and factories will need less of it. That is why it is down more than gold.",
+        "source": "FXStreet",
+        "url": "https://fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610280935"
+      },
+      {
+        "title": "Copper: China pulls physical metal",
+        "body": "LME three-month copper is +0.7% at $14,430/t, near its highest since Oct 16. The Yangshan import premium is at a ≈13-year high of $188/t, SHFE stocks fell >25% to 54,356 t, and LME cash trades ≈$199.50 over three-month, the widest since late August.",
+        "simple": "When the price for copper delivered now is well above the price for later delivery ('backwardation'), buyers need the metal immediately. China is paying the highest import premium in about 13 years while its smelters are down for maintenance. Copper is used in wiring, grids and data centers, so tightness here feeds into construction and AI-infrastructure costs.",
+        "source": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40446133/copper-climbs-on-ai-rebound-china-demand-strength"
+      },
+      {
+        "title": "Platinum gives back October's rally",
+        "body": "Platinum fell 1.7% to ≈$1,519 on Tuesday (Trading Economics) and is ≈13% lower in a month, after trading ≈$1,651 on Oct 20 (SMM). Palladium was ≈$1,012 (−1.4%, Kitco).",
+        "simple": "Platinum and palladium are mostly used in car exhaust systems and some industrial processes, so they track the auto cycle and speculative money more than interest rates. A 13% drop in a month means investors who piled in earlier are cashing out. It is a reminder that these markets are small and swing hard.",
+        "source": "Trading Economics",
+        "url": "https://tradingeconomics.com/commodity/platinum"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Meta's $95B equity plan is now the AI capital-markets trade",
+      "body": "Meta is selling ≈$22.5B of Class A stock and ≈$12.5B of mandatory-convertible depositary shares, with Morgan Stanley and Goldman as lead bookrunners and up to $5.25B in greenshoe options. It is also preparing a ≈$60B ATM program for Q1 2027. Nvidia, AMD and Broadcom have signaled non-binding interest in up to $5B.",
+      "simple": "Companies raise money either by borrowing (debt) or by selling new shares (equity). Meta is selling a huge amount of stock to pay for AI data centers, with 2026 capex guided to ≈$130–145B. An 'ATM' program lets it sell shares gradually into the market. For investment banks this is a fee bonanza. For existing shareholders it means their ownership slice gets diluted.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+    },
+    {
+      "title": "DoorDash–Instacart: ≈$17B deal could sign today",
+      "body": "Reuters says the two could finalize as early as Wednesday after the WSJ first reported talks Monday. Instacart was ≈$13B in market value before an 8% jump, and DoorDash fell ≈6%. Uber's talks with Instacart are no longer active, and a 2021 attempt died partly on antitrust concerns.",
+      "simple": "An acquisition means one company buys another. Here the largest food-delivery app would buy the leading grocery-delivery app. The worry is antitrust: regulators may say fewer competitors means higher fees for shoppers and restaurants. Banks advising and financing the deal earn large fees if it closes.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-close-buying-instacart-17-153716298.html"
+    },
+    {
+      "title": "Renasant buys Commercial Holding for ≈$142M",
+      "body": "Renasant will pay 0.8798 shares per Commercial share, plus a ≈$35.7M pre-close special dividend, for the parent of Commercial Bank & Trust (Paris, Tenn.; ≈$1.1B assets). Closing is targeted for Q1 2027.",
+      "simple": "Small and mid-size banks keep merging because size helps spread the cost of technology and regulation. Paying in stock lets the buyer conserve cash. For customers, little changes at first, but over time branches and products are folded into the bigger bank.",
+      "source": "Dealroom",
+      "url": "https://app.dealroom.co/news/note/renasant-to-buy-tennessee-s-commercial-holding-in-142m-all-stock-merger"
+    },
+    {
+      "title": "Visa beats, raises dividend 16%; stock slips",
+      "body": "Fiscal Q4 net revenue was $12.14B (+13%) and EPS $3.48 vs $3.44. Cross-border volume ex-Europe was +14%, U.S. credit +11% and debit +9%. The dividend rises 16% to $0.78 and stablecoin settlement has passed a $25B run rate. Shares were ≈−1.6% premarket.",
+      "simple": "Visa earns a small fee on each card transaction, so its numbers are a real-time read on consumer spending. Spending is still growing about 9–14% depending on the category, which suggests consumers are holding up despite high oil and rates. The stock fell because investors wanted an even bigger beat.",
+      "source": "Quartz",
+      "url": "https://qz.com/visa-quarterly-profit-payment-volumes-transactions-102826"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures mixed ahead of the Fed; SK Hynix lifts chips",
+        "body": "S&P futures +0.1%, Nasdaq-100 +0.4% and Dow −0.2%. SK Hynix posted record Q3 operating profit of ≈₩83.3T (80% margin) and a ≈₩100T return plan, and the stock closed +10.89% in Seoul. Tuesday's close: S&P 7,722.60 (+0.6%), Nasdaq 26,477.81 (+1.18%).",
+        "simple": "Futures let investors trade before the stock market opens, so they hint at how the day will start. A Korean memory-chip maker's huge profit shows AI demand for memory is still booming, which helps U.S. chip stocks. Blue-chip industrials are lagging, partly on Boeing.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+      },
+      {
+        "title": "Oil rises after Houthi strike on Ras Tanura",
+        "body": "Brent is +0.7% at $114.68 and WTI +1.42% at $101.32 after the Houthis said they hit Saudi Arabia's Ras Tanura refinery with a ballistic missile. Trading Economics has Brent touching $115.51 (+1.43%).",
+        "simple": "Ras Tanura is one of Saudi Arabia's biggest oil-processing and export hubs. An attack there raises fears that supply could be cut, so prices rise. Higher oil feeds into gas, shipping and airline costs, and it keeps inflation, and therefore interest rates, higher.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html"
+      },
+      {
+        "title": "Treasury yields tick higher before the decision",
+        "body": "The 10Y is 5.0134% (+2 bp) and the 2Y 4.7494% (+1 bp). FedWatch has 90.6% for a hold and 76.5% for a December 9 hike.",
+        "simple": "Investors are demanding slightly more interest to lend to the government for 10 years because they think the Fed will raise rates again. That lifts mortgage and business loan rates too.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+      },
+      {
+        "title": "Coca-Cola beats and raises its outlook, but North America slows",
+        "body": "Adjusted EPS was $0.91 vs $0.88, net revenue +7% to $13.4B, organic revenue +7% and unit cases +5%. Guidance was raised, but management flagged softer North American demand and shares closed −0.48% at $90.74.",
+        "simple": "Coke can raise prices without losing many customers ('pricing power'), which protects profits when costs rise. The weaker U.S. demand is the warning sign: even cheap treats are seeing some pushback from stretched consumers.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "U.S. tells Gulf allies to prepare for a post-midterm Iran campaign",
+        "body": "The WSJ reports that Washington told several Gulf states to prepare for a 'short, intense' campaign against Iran after the Nov 3 midterms. Trump is reportedly leaning toward a large strike on infrastructure and nuclear sites but hasn't decided. Patriot batteries are moving from Texas to the region.",
+        "simple": "If the U.S. strikes Iran again, Iran could retaliate against Gulf oil facilities and shipping. That threat alone can add a 'risk premium' (extra price for danger) to oil. Higher oil keeps inflation and interest rates higher, and it raises insurance and freight costs worldwide.",
+        "source": "Iran International (citing WSJ)",
+        "url": "https://www.iranintl.com/en/202610282501"
+      },
+      {
+        "title": "DoorDash nears a ≈$17B Instacart purchase",
+        "body": "The WSJ reported Monday that DoorDash could buy Instacart within the week. Instacart jumped ≈8% and DoorDash fell ≈6%, and Reuters says signing could come Wednesday. Terms (cash vs stock, breakup fee) aren't disclosed.",
+        "simple": "DoorDash's stock fell because buyers usually pay a premium, which can dilute their own shareholders. Instacart rose because a buyout price is usually above the current stock price. Watch whether regulators object.",
+        "source": "PYMNTS (citing WSJ)",
+        "url": "https://www.pymnts.com/news/acquiring/2026/doordash-could-finalize-instacart-deal-this-week/"
+      },
+      {
+        "title": "Boeing's production spending weighs on profits",
+        "body": "The WSJ noted that heavy spending on new airplane production is hurting Boeing's profit. Q3 revenue was ≈$24.2B (+4%) with a −$0.34 loss vs −$0.21 expected. The 737 rate of 47/month slips to early 2027, it will miss ≈500 deliveries this year, and shares fell ≈10% to ≈$168–170.",
+        "simple": "Boeing is spending a lot to build planes faster, but its factories still can't hit the targets, so costs are running ahead of sales. The delay pushes cash flow out by about a year. That matters for suppliers, airlines waiting on jets, and the banks that lend to them.",
+        "source": "Schwab (citing WSJ)",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Chicago banks post strong Q3 profits despite rate hikes",
+        "body": "Crain's reports that loan growth at Chicago-area banks stayed strong in Q3 despite rising rates, sticky inflation and the Iran war. Byline posted record Q3 net income and revenue, a wider NIM and higher deposits, and raised its dividend.",
+        "simple": "Banks earn the gap between what they charge on loans and what they pay on deposits, called the net interest margin or NIM. Local banks are still lending more and earning more even as rates rise, which suggests Chicago businesses are still borrowing. A flatter yield curve is the main risk to that margin.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-wintrust-byline-northern-trust-20261022/"
+      },
+      {
+        "title": "Byline's $87.9M Illinois State Bancorp deal",
+        "body": "Byline is paying ≈1.4M shares plus $28.9M cash, about $261.23 per share, for the parent of First Nations Bank and The Bank of Bourbonnais (≈$617M assets). The combined bank will have ≈$10.5B in assets and 48 branches, with closing expected Q1 2027.",
+        "simple": "Chicago's mid-size banks are buying smaller community banks to add deposits and branches in the suburbs and downstate. Crossing $10B in assets brings stricter federal rules, so Byline is betting the extra scale is worth that cost.",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/byline-bancorp-to-acquire-illinois-state-bancorp-for-879-million-93CH-4935196"
+      },
+      {
+        "title": "CME Group: record Q3, buybacks and dividends ≈$1B",
+        "body": "Revenue was $1.74B (+13%), ADV a record 29.4M (+16%) and market-data revenue a record $243M (+20%, the 34th straight year-over-year gain). CME returned ≈$1B ($465M dividends, $524M buybacks). The average rate per contract fell 3.3%.",
+        "simple": "Chicago's exchange is having a record year because rate, oil and metals swings push companies and funds to hedge. The falling 'rate per contract' means it collects slightly less per trade as big customers get volume discounts, but overall trading is up so much that profits still rise.",
+        "source": "Investing.com",
+        "url": "https://ca.investing.com/news/stock-market-news/cme-group-q3-2026-slides-record-revenue-13-earnings-growth-93CH-4893930"
+      },
+      {
+        "title": "FHLBank Chicago Q3 net income falls to $145M",
+        "body": "Net income was $145M vs $185M a year ago, mainly on higher spending for Community Advance subsidies and affordable-housing programs. Total assets rose to $151.6B from $141.2B at year-end 2025.",
+        "simple": "The Federal Home Loan Bank of Chicago lends cheap, reliable funding to member banks in Illinois and Wisconsin. Its balance sheet growing by about $10B shows local banks are leaning on it for cash as deposits get more expensive.",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/real-estate/articles/fhlbank-chicago-announces-q3-2026-182000987.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Meta's equity raise leads the business pages",
+        "body": "The NYT business digest for Oct 27 leads with Meta (MarketScreener's excerpt shows only that item). The company is selling ≈$35B of common and mandatory-convertible stock, plus a planned ≈$60B ATM, to fund 2026 capex of ≈$130–145B.",
+        "simple": "When one of the world's most profitable companies sells stock instead of just using its cash or borrowing, it shows how expensive the AI build-out has become. Investors are watching whether this is a one-off or the start of a wave of tech share sales.",
+        "source": "MarketScreener (NYT digest)",
+        "url": "https://www.marketscreener.com/news/press-digest-new-york-times-business-news-october-27-ce785cdcd08af026"
+      },
+      {
+        "title": "Trump ends the Biden-era methane rule for drillers",
+        "body": "Trump says his administration is 'terminating' the rule meant to cut methane emissions from oil and gas drilling. It lowers compliance costs for producers while Brent sits near $115.",
+        "simple": "Methane is a powerful greenhouse gas that leaks from oil and gas wells. Dropping the rule saves drillers money and may encourage more U.S. production, but it raises environmental and legal pushback that could tie the change up in court.",
+        "source": "NPR",
+        "url": "https://www.npr.org/sections/news/"
+      },
+      {
+        "title": "AI is slowing hiring more than it is causing layoffs",
+        "body": "Goldman Research estimates a ≈10,000-job hiring shortfall in AI-exposed industries. A NY Fed survey found only 4% of service firms and no manufacturers reported AI-driven layoffs. Lawmakers are reportedly weighing support for displaced workers (NYT, Oct 23, via secondary sources).",
+        "simple": "So far AI seems to mean companies hire fewer new people rather than fire existing staff. That is harder to see in layoff headlines but shows up in weak job growth, like September's +29k payrolls. It complicates the Fed's job: inflation is high but hiring is soft.",
+        "source": "Enterprise DNA (citing NY Fed)",
+        "url": "https://enterprisedna.co/resources/news/new-york-fed-ai-augments-workers-not-replaces-enterprise-2026/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "What a 'hawkish hold' does to the curve and to bank NIM",
+      "point": "2s10s has compressed from ≈46 bp to ≈26 bp in two weeks, with the 2Y at 4.749% and the 10Y at 5.013%, while December is 76–84% priced. If Hammack, Kashkari and Logan dissent again, the front end reprices the hike as near-certain and the curve flattens further. That is a headwind for the asset-sensitive regionals that just posted strong Q3 loan growth (Crain's on Chicago banks). In a commercial-banking interview, frame it as deposit beta catching up while asset yields plateau. On a rates desk, the trade is flatteners into the 7Y auction, with the PCE print as the risk."
+    },
+    {
+      "topic": "Meta's $95B equity plan vs. the AI debt wave",
+      "point": "Anthropic ($63B loan, BofA/Citi/MS) and SpaceX ($40B) financed AI compute with debt. Meta is doing ≈$22.5B common, ≈$12.5B mandatory converts and a ≈$60B ATM, with Morgan Stanley and Goldman leading and Nvidia, AMD and Broadcom signaling up to $5B. The mandatory converts are the part to know: they count as equity for the rating agencies but pay a coupon. With the 10Y above 5%, issuing equity protects Meta's credit rating. For an ECM or capital-markets seat, the angle is that AI financing is moving across the capital structure from loans to converts to ATMs."
+    },
+    {
+      "topic": "Copper backwardation vs. gold's rate drag",
+      "point": "Gold is off ≈0.5% to ≈$4,037 as the dollar hits a two-week high, so it is trading on real rates and opportunity cost. Copper is trading on physical supply. LME cash is ≈$200/t over three-month, the Yangshan premium is a ≈13-year high of $188/t and SHFE stocks are −25%. For a metals or derivatives desk, that split argues for calendar spreads in copper (long nearby) over outright direction in gold, where a dovish Warsh surprise is the main upside risk."
+    }
+  ],
+  "caveats": "Direct page fetches were blocked this run (cnbc.com, benzinga.com and investing.com didn't resolve), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots, and December hike odds range from 76.5% to ≈84% across same-day FedWatch snapshots. The 30Y (≈5.31%) is the last confirmed mark, not a fresh quote. Copper and platinum are Tuesday quotes. No consensus was found for today's advance trade/inventories or mortgage applications. Microsoft and Alphabet estimates vary by source. The WSJ items come via secondary outlets citing the paper. No NYT originals or a dated Oct 28 NYT digest were reachable, so the NYT bucket uses the Oct 27 MarketScreener digest headline and other outlets (NPR, the NY Fed survey via Enterprise DNA) for the same themes, and it is a proxy rather than true NYT coverage. The Tribune bucket uses Crain's, CME/FHLBank releases and deal coverage because Tribune pages weren't reachable. The Byline deal (Oct 6) and CME's results (Oct 21) are recent context, not overnight news. The Bank of Canada decision is pending, and previews disagree on its direction.",
+  "updates": []
+}
