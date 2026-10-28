@@ -11,28 +11,28 @@
     "Metals: gold is ≈$4,037 (−0.5%, Reuters-cited) after Tuesday's bounce to ≈$4,065, and the DXY is ≈102.4–102.5. Silver is ≈$54.0 (−0.7%) and platinum ≈$1,519 is −13% in a month. Copper is the strong one: LME three-month is ≈$14,430/t, the Yangshan premium is at a ≈13-year high of $188/t, and cash trades ≈$200/t over three-month. That is physical tightness, not a macro bid.",
     "Deals: DoorDash and Instacart could sign a ≈$17B deal as early as today (Reuters, after the WSJ). Meta's ≈$35B underwritten equity sale (Morgan Stanley and Goldman leading) plus a ≈$60B 2027 ATM is the biggest equity financing of the AI build-out so far. The Bank of Canada decides at 8:45 AM CT, with previews split between hold, hike and cut."
   ],
-  "markets_asof": "≈11:45 AM CT. Index moves are midday estimates. Oil is the 10:42 AM ET print. The Russell 2000 is Tuesday's close, and copper is this morning's mark.",
+  "markets_asof": "Wed close, ≈3:15 PM CT. Yields are post-decision Reuters prints. Silver and copper are late-session estimates. The Russell 2000 is Tuesday's close.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,736",
-      "change": "≈+0.2%",
+      "value": "7,743.98",
+      "change": "+0.28%",
       "dir": "up",
-      "note": "Midday"
+      "note": "Third straight gain"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "—",
-      "change": "≈−0.1%",
-      "dir": "down",
-      "note": "Chip gains faded"
+      "value": "26,549.85",
+      "change": "+0.27%",
+      "dir": "up",
+      "note": "GOOGL ≈−7% after hours"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈+0.2%",
+      "value": "52,475.10",
+      "change": "+0.19%",
       "dir": "up",
-      "note": "Chevron up with oil"
+      "note": "+97.53 pts"
     },
     {
       "label": "Russell 2000",
@@ -43,75 +43,69 @@
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.77%",
-      "change": "≈+3 bp",
+      "value": "≈4.78%",
+      "change": "≈+4 bp",
       "dir": "up",
-      "note": "Leading the selloff"
+      "note": "Post-Fed"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.02–5.03%",
-      "change": "≈+3–4 bp",
+      "value": "≈5.05%",
+      "change": "≈+5 bp",
       "dir": "up",
-      "note": "Holding above 5%"
+      "note": "Post-Fed"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.32%",
-      "change": "≈+1 bp",
+      "value": "≈5.34%",
+      "change": "≈+2 bp",
       "dir": "up"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Hold ≈93%",
+      "change": "Hold 10-2",
       "dir": "flat",
-      "note": "Decision 1 PM CT; Dec hike >75%"
-    },
-    {
-      "label": "BoC policy rate",
-      "value": "2.50%",
-      "change": "+25 bp",
-      "dir": "up",
-      "note": "Hiked this morning"
+      "note": "Cook, Hammack for hike; Dec hike ≈74–85%"
     },
     {
       "label": "Brent",
-      "value": "≈$115.7",
-      "change": "≈+1.6%",
+      "value": "$115.32",
+      "change": "+1.3%",
       "dir": "up",
-      "note": "10:42 AM ET"
+      "note": "Settle"
     },
     {
       "label": "WTI",
-      "value": "≈$102.4",
-      "change": "≈+2.5%",
+      "value": "$102.78",
+      "change": "+2.9%",
       "dir": "up",
-      "note": "EIA crude draw −1.89M bbl"
+      "note": "Settle"
     },
     {
       "label": "Gold",
-      "value": "<$4,050",
-      "change": "≈−0.2%",
+      "value": "≈$4,030",
+      "change": "≈−0.5%",
       "dir": "down",
-      "note": "Range ≈$4,038–4,070 today"
+      "note": "After the Fed"
     },
     {
       "label": "Silver",
-      "value": "≈$53.9",
-      "change": "≈−0.9%",
-      "dir": "down"
+      "value": "≈$54",
+      "change": "≈−0.7%",
+      "dir": "down",
+      "note": "Sources vary"
     },
     {
-      "label": "Copper (COMEX)",
-      "value": "≈$6.65/lb",
-      "change": "—",
-      "dir": "flat",
-      "note": "Morning mark"
+      "label": "Copper (LME)",
+      "value": "≈$14,430/t",
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "Near two-week high"
     },
     {
       "label": "Dollar (DXY)",
-      "value": "≈102.3–102.5",
+      "value": "≈102.4",
       "change": "≈flat",
       "dir": "flat",
       "note": "Near two-week high"
@@ -436,6 +430,57 @@
   "caveats": "Direct page fetches were blocked this run (cnbc.com, benzinga.com and investing.com didn't resolve), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots, and December hike odds range from 76.5% to ≈84% across same-day FedWatch snapshots. The 30Y (≈5.31%) is the last confirmed mark, not a fresh quote. Copper and platinum are Tuesday quotes. No consensus was found for today's advance trade/inventories or mortgage applications. Microsoft and Alphabet estimates vary by source. The WSJ items come via secondary outlets citing the paper. No NYT originals or a dated Oct 28 NYT digest were reachable, so the NYT bucket uses the Oct 27 MarketScreener digest headline and other outlets (NPR, the NY Fed survey via Enterprise DNA) for the same themes, and it is a proxy rather than true NYT coverage. The Tribune bucket uses Crain's, CME/FHLBank releases and deal coverage because Tribune pages weren't reachable. The Byline deal (Oct 6) and CME's results (Oct 21) are recent context, not overnight news. The Bank of Canada decision is pending, and previews disagree on its direction.",
   "updates": [
     {
+      "at": "2026-10-28T20:19:14Z",
+      "label": "Close",
+      "headline": "The Fed held at 3.75–4.00% on a 10-2 vote, with Cook and Hammack dissenting for a hike, and Warsh refused to pre-commit to December. The bear-flattener held: the 10Y closed ≈5.04–5.05%, stocks finished up ≈0.2–0.3%, and Alphabet slid ≈7% after hours.",
+      "points": [
+        "FOMC: hold, 10-2. Governor Lisa Cook (her first dissent) and Cleveland's Hammack wanted +25 bp. It is the first governor-plus-president dissent on the same side since Oct 1992. The statement upgraded activity from 'solid' to 'strong' and dropped the 'more timely return to 2%' line. Correction to the morning brief: Kashkari and Logan did not dissent; Cook was the surprise.",
+        "Warsh presser: tightening is 'starting to work somewhat,' 2% is a hard target, and there is no forward guidance 'absent exigent circumstances.' He also noted that financial and credit conditions have tightened since September. New in 2027: rate decisions are considered at only 7 of 8 meetings (6 of 8 in 2028). Post-decision FedWatch for a December hike is quoted at ≈74–85% depending on timestamp, still the majority call.",
+        "Rates (Reuters, post-decision): 2Y ≈4.78% (+3.9 bp), 10Y ≈5.05% (+5 bp), 30Y ≈5.34%. 2s10s is ≈27 bp, roughly unchanged on the day. Gundlach flagged re-steepening after the presser. I couldn't find the 2Y FRN auction result.",
+        "Close (CNBC): S&P 500 7,743.98 (+0.28%), Nasdaq 26,549.85 (+0.27%), Dow 52,475.10 (+97.53, +0.19%), the third straight gain for the S&P and Dow. Brent settled $115.32 (+1.3%) and WTI $102.78 (+2.9%) on the EIA draw. Gold faded to ≈$4,030 after the decision (Bloomberg) with the DXY ≈102.4. LME copper was ≈$14,430/t (−0.3%).",
+        "After hours: Alphabet revenue was ≈$127.6B vs ≈$128.2B consensus, but Google Cloud hit ≈$30.7B (+103% y/y, ahead of ≈$29–30B); shares ≈−7% (TheStreet; the EPS line was garbled, so wait for the release). Microsoft results and the 4:30 PM CT call were still pending. Nothing signed on DoorDash–Instacart. Tomorrow: Q3 GDP, Sep PCE and claims 7:30 AM CT, ECB 8:15 AM CT, $44B 7Y auction 12 PM CT."
+      ],
+      "simple": "The Fed kept its key interest rate (what banks charge each other overnight) unchanged. But two officials wanted to raise it, and the chair refused to promise anything about December, so traders still expect a hike then. Long-term government borrowing costs stayed above 5%, which keeps mortgages and business loans expensive and widens what banks can earn on new loans. Oil kept climbing on low U.S. stockpiles, which is exactly the inflation pressure that makes a December hike likely.",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/"
+        },
+        {
+          "name": "CNBC (Fed recap)",
+          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/10/62672193/warsh-december-hike-bond-market-tightening-credit-spreads"
+        },
+        {
+          "name": "Investing.com (Reuters)",
+          "url": "https://www.investing.com/news/economy-news/fomc-holds-rates-steady-markets-mostly-follow-suit-4980441"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html"
+        },
+        {
+          "name": "Bloomberg (copper)",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/alphabet-inc-q3-2026-earnings-call-stock-forecast"
+        },
+        {
+          "name": "9to5Google",
+          "url": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-28T17:17:55Z",
       "label": "Midday",
       "headline": "Into the 1 PM CT Fed, the bear-flattener is extending: the 2Y is ≈+3 bp at ≈4.77% and the 10Y holds ≈5.02–5.03%, while a surprise EIA crude draw has WTI back above $102 and stocks are flat.",
@@ -522,5 +567,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-28T17:17:55Z"
+  "updatedAt": "2026-10-28T20:19:14Z"
 }
