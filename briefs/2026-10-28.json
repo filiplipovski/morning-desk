@@ -11,107 +11,107 @@
     "Metals: gold is ≈$4,037 (−0.5%, Reuters-cited) after Tuesday's bounce to ≈$4,065, and the DXY is ≈102.4–102.5. Silver is ≈$54.0 (−0.7%) and platinum ≈$1,519 is −13% in a month. Copper is the strong one: LME three-month is ≈$14,430/t, the Yangshan premium is at a ≈13-year high of $188/t, and cash trades ≈$200/t over three-month. That is physical tightness, not a macro bid.",
     "Deals: DoorDash and Instacart could sign a ≈$17B deal as early as today (Reuters, after the WSJ). Meta's ≈$35B underwritten equity sale (Morgan Stanley and Goldman leading) plus a ≈$60B 2027 ATM is the biggest equity financing of the AI build-out so far. The Bank of Canada decides at 8:45 AM CT, with previews split between hold, hike and cut."
   ],
-  "markets_asof": "≈9:15 AM CT. Index levels are at the opening bell. The Russell 2000 and the 30Y are Tuesday's marks. Oil is the latest confirmed print.",
+  "markets_asof": "≈11:45 AM CT. Index moves are midday estimates. Oil is the 10:42 AM ET print. The Russell 2000 is Tuesday's close, and copper is this morning's mark.",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,735.56",
-      "change": "+0.17%",
+      "value": "≈7,736",
+      "change": "≈+0.2%",
       "dir": "up",
-      "note": "At the open"
+      "note": "Midday"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "26,541.61",
-      "change": "+0.24%",
-      "dir": "up",
-      "note": "Chips lead on SK Hynix"
+      "value": "—",
+      "change": "≈−0.1%",
+      "dir": "down",
+      "note": "Chip gains faded"
     },
     {
       "label": "Dow",
-      "value": "52,335.43",
-      "change": "−0.08%",
-      "dir": "down",
-      "note": "At the open"
+      "value": "—",
+      "change": "≈+0.2%",
+      "dir": "up",
+      "note": "Chevron up with oil"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,816",
-      "change": "≈+1.1%",
+      "value": "≈2,819",
+      "change": "≈+1.2%",
       "dir": "up",
       "note": "Tue close"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.75%",
-      "change": "+1 bp",
-      "dir": "up"
+      "value": "≈4.77%",
+      "change": "≈+3 bp",
+      "dir": "up",
+      "note": "Leading the selloff"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.01–5.03%",
-      "change": "+1–2 bp",
+      "value": "≈5.02–5.03%",
+      "change": "≈+3–4 bp",
       "dir": "up",
       "note": "Holding above 5%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.31%",
-      "change": "—",
-      "dir": "flat",
-      "note": "Tue mark"
+      "value": "≈5.32%",
+      "change": "≈+1 bp",
+      "dir": "up"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Hold ≈91%",
+      "change": "Hold ≈93%",
       "dir": "flat",
-      "note": "Decision 1 PM CT"
+      "note": "Decision 1 PM CT; Dec hike >75%"
     },
     {
       "label": "BoC policy rate",
       "value": "2.50%",
       "change": "+25 bp",
       "dir": "up",
-      "note": "USD/CAD ≈1.4045"
+      "note": "Hiked this morning"
     },
     {
       "label": "Brent",
-      "value": "≈$115.6",
-      "change": "≈+1.5%",
+      "value": "≈$115.7",
+      "change": "≈+1.6%",
       "dir": "up",
-      "note": "Asian-session print; Tue settle $113.88"
+      "note": "10:42 AM ET"
     },
     {
       "label": "WTI",
-      "value": "≈$101.4",
-      "change": "≈+1.5%",
+      "value": "≈$102.4",
+      "change": "≈+2.5%",
       "dir": "up",
-      "note": "Tue settle $99.90"
+      "note": "EIA crude draw −1.89M bbl"
     },
     {
       "label": "Gold",
-      "value": "≈$4,055",
+      "value": "<$4,050",
       "change": "≈−0.2%",
       "dir": "down",
-      "note": "8:11 AM CT; overnight low ≈$4,038"
+      "note": "Range ≈$4,038–4,070 today"
     },
     {
       "label": "Silver",
-      "value": "≈$53.84",
-      "change": "−1.2%",
-      "dir": "down",
-      "note": "Futures; near year lows"
+      "value": "≈$53.9",
+      "change": "≈−0.9%",
+      "dir": "down"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.65/lb",
-      "change": "≈flat",
-      "dir": "flat"
+      "change": "—",
+      "dir": "flat",
+      "note": "Morning mark"
     },
     {
       "label": "Dollar (DXY)",
-      "value": "≈102.4–102.5",
+      "value": "≈102.3–102.5",
       "change": "≈flat",
       "dir": "flat",
       "note": "Near two-week high"
@@ -436,6 +436,49 @@
   "caveats": "Direct page fetches were blocked this run (cnbc.com, benzinga.com and investing.com didn't resolve), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots, and December hike odds range from 76.5% to ≈84% across same-day FedWatch snapshots. The 30Y (≈5.31%) is the last confirmed mark, not a fresh quote. Copper and platinum are Tuesday quotes. No consensus was found for today's advance trade/inventories or mortgage applications. Microsoft and Alphabet estimates vary by source. The WSJ items come via secondary outlets citing the paper. No NYT originals or a dated Oct 28 NYT digest were reachable, so the NYT bucket uses the Oct 27 MarketScreener digest headline and other outlets (NPR, the NY Fed survey via Enterprise DNA) for the same themes, and it is a proxy rather than true NYT coverage. The Tribune bucket uses Crain's, CME/FHLBank releases and deal coverage because Tribune pages weren't reachable. The Byline deal (Oct 6) and CME's results (Oct 21) are recent context, not overnight news. The Bank of Canada decision is pending, and previews disagree on its direction.",
   "updates": [
     {
+      "at": "2026-10-28T17:17:55Z",
+      "label": "Midday",
+      "headline": "Into the 1 PM CT Fed, the bear-flattener is extending: the 2Y is ≈+3 bp at ≈4.77% and the 10Y holds ≈5.02–5.03%, while a surprise EIA crude draw has WTI back above $102 and stocks are flat.",
+      "points": [
+        "Rates: 2Y ≈4.77% (+3 bp, CNBC), 10Y ≈5.02–5.03% (+3 to +4 bp), 30Y ≈5.32% (+1 bp). The front end is leading, so 2s10s is ≈25–26 bp, a touch flatter than the open. CME FedWatch has a hold at ≈93% (up from ≈91% this morning) and a December hike still >75%. Deutsche Bank expects Warsh to say tight financial conditions are no substitute for a higher policy rate.",
+        "EIA (week to Oct 23): crude −1.89M bbl vs a ≈flat consensus (prior −3.06M), the second straight draw; commercial stocks 410.6M bbl. Cushing −0.62M. Gasoline +3.87M vs −0.94M expected, distillates −1.46M vs −0.86M. SPR 282.6M bbl.",
+        "Oil: Brent ≈$115.7 (+1.6%) and WTI ≈$102.4 (+2.5%) at 10:42 AM ET (Reuters-cited). WTI is outrunning Brent on the U.S. draw and Cushing. Saudi Arabia still hasn't confirmed the Ras Tanura strike.",
+        "Stocks: S&P 500 ≈+0.2% near 7,736, Dow ≈+0.2%, Nasdaq ≈−0.1% after giving back the SK Hynix-led chip gains. Chevron is up with crude. Gold is stuck below $4,050 with the DXY near its two-week high, and silver is ≈$53.9 (≈−0.9%).",
+        "Still pending: there is no signed DoorDash–Instacart (≈$17B) deal as of midday, and I couldn't find the 2Y FRN auction result. The morning thesis holds: hold at 1 PM, with dissents and Warsh's 1:30 PM presser deciding December."
+      ],
+      "simple": "Short-term Treasury yields (the interest the government pays to borrow for two years) are rising faster than long-term ones. That 'flattening' means traders are betting the Fed raises rates soon, even though it should hold today. Separately, U.S. oil stockpiles fell when analysts expected them to stay flat, which pushed oil and gasoline-linked prices up. That is the kind of inflation pressure that keeps a December hike in play, and it means higher borrowing costs for households and banks.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+        },
+        {
+          "name": "CNBC (Fed live)",
+          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/commodities/the-weekly-oil-inventory-data-shows-a-drawdown-of-1-892m-vs-expectations-of-a-0-015m-build/"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/crude-oil-gains-more-1-105541915.html"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/gold-drifts-lower-as-usd-hits-two-week-high-ahead-of-fomc-decision-202610280415"
+        },
+        {
+          "name": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
+        },
+        {
+          "name": "PYMNTS",
+          "url": "https://www.pymnts.com/news/acquiring/2026/doordash-could-finalize-instacart-deal-this-week/"
+        }
+      ]
+    },
+    {
       "at": "2026-10-28T14:25:42Z",
       "label": "Post-open",
       "headline": "The Bank of Canada hiked 25 bp to 2.50% and left the door open to more, and the September goods deficit came in wide at $134.9B. Stocks opened flat with chips leading, and the 10Y is holding just above 5% into the 1 PM CT Fed.",
@@ -479,5 +522,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-28T14:25:42Z"
+  "updatedAt": "2026-10-28T17:17:55Z"
 }
