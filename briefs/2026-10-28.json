@@ -11,28 +11,28 @@
     "Metals: gold is ≈$4,037 (−0.5%, Reuters-cited) after Tuesday's bounce to ≈$4,065, and the DXY is ≈102.4–102.5. Silver is ≈$54.0 (−0.7%) and platinum ≈$1,519 is −13% in a month. Copper is the strong one: LME three-month is ≈$14,430/t, the Yangshan premium is at a ≈13-year high of $188/t, and cash trades ≈$200/t over three-month. That is physical tightness, not a macro bid.",
     "Deals: DoorDash and Instacart could sign a ≈$17B deal as early as today (Reuters, after the WSJ). Meta's ≈$35B underwritten equity sale (Morgan Stanley and Goldman leading) plus a ≈$60B 2027 ATM is the biggest equity financing of the AI build-out so far. The Bank of Canada decides at 8:45 AM CT, with previews split between hold, hike and cut."
   ],
-  "markets_asof": "Pre-market ≈6:30 AM CT. Futures, yields, oil and FX are early-session snapshots. The Russell 2000 is Tuesday's close. Copper and platinum are Tuesday's last quotes.",
+  "markets_asof": "≈9:15 AM CT. Index levels are at the opening bell. The Russell 2000 and the 30Y are Tuesday's marks. Oil is the latest confirmed print.",
   "markets": [
     {
-      "label": "S&P 500 futures",
-      "value": "+0.1%",
-      "change": "+0.1%",
+      "label": "S&P 500",
+      "value": "7,735.56",
+      "change": "+0.17%",
       "dir": "up",
-      "note": "Tue cash close 7,722.60"
+      "note": "At the open"
     },
     {
-      "label": "Nasdaq-100 futures",
-      "value": "+0.4%",
-      "change": "+0.4%",
+      "label": "Nasdaq Composite",
+      "value": "26,541.61",
+      "change": "+0.24%",
       "dir": "up",
-      "note": "SK Hynix lifts chips"
+      "note": "Chips lead on SK Hynix"
     },
     {
-      "label": "Dow futures",
-      "value": "−0.2%",
-      "change": "−0.2%",
+      "label": "Dow",
+      "value": "52,335.43",
+      "change": "−0.08%",
       "dir": "down",
-      "note": "Tue close 52,377.57"
+      "note": "At the open"
     },
     {
       "label": "Russell 2000",
@@ -43,71 +43,78 @@
     },
     {
       "label": "UST 2Y",
-      "value": "4.749%",
+      "value": "≈4.75%",
       "change": "+1 bp",
       "dir": "up"
     },
     {
       "label": "UST 10Y",
-      "value": "5.013%",
-      "change": "+2 bp",
+      "value": "≈5.01–5.03%",
+      "change": "+1–2 bp",
       "dir": "up",
-      "note": "Back above 5%"
+      "note": "Holding above 5%"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.31%",
       "change": "—",
       "dir": "flat",
-      "note": "Last confirmed mark"
+      "note": "Tue mark"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Hold 90.6%",
+      "change": "Hold ≈91%",
       "dir": "flat",
-      "note": "Dec hike 76.5–84%"
+      "note": "Decision 1 PM CT"
+    },
+    {
+      "label": "BoC policy rate",
+      "value": "2.50%",
+      "change": "+25 bp",
+      "dir": "up",
+      "note": "USD/CAD ≈1.4045"
     },
     {
       "label": "Brent",
-      "value": "$114.68",
-      "change": "+0.7%",
+      "value": "≈$115.6",
+      "change": "≈+1.5%",
       "dir": "up",
-      "note": "Ras Tanura strike"
+      "note": "Asian-session print; Tue settle $113.88"
     },
     {
       "label": "WTI",
-      "value": "$101.32",
-      "change": "+1.42%",
-      "dir": "up"
+      "value": "≈$101.4",
+      "change": "≈+1.5%",
+      "dir": "up",
+      "note": "Tue settle $99.90"
     },
     {
       "label": "Gold",
-      "value": "≈$4,037",
-      "change": "≈−0.5%",
+      "value": "≈$4,055",
+      "change": "≈−0.2%",
       "dir": "down",
-      "note": "Spot; Tue high ≈$4,065"
+      "note": "8:11 AM CT; overnight low ≈$4,038"
     },
     {
       "label": "Silver",
-      "value": "≈$54.04",
-      "change": "−0.7%",
+      "value": "≈$53.84",
+      "change": "−1.2%",
       "dir": "down",
-      "note": "FXStreet"
+      "note": "Futures; near year lows"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "≈$14,430/t",
-      "change": "+0.7%",
-      "dir": "up",
-      "note": "Tue; Yangshan premium $188"
+      "label": "Copper (COMEX)",
+      "value": "≈$6.65/lb",
+      "change": "≈flat",
+      "dir": "flat"
     },
     {
       "label": "Dollar (DXY)",
       "value": "≈102.4–102.5",
-      "change": "≈+0.1%",
-      "dir": "up",
-      "note": "Two-week high"
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Near two-week high"
     }
   ],
   "calendar": [
@@ -427,5 +434,50 @@
     }
   ],
   "caveats": "Direct page fetches were blocked this run (cnbc.com, benzinga.com and investing.com didn't resolve), so every figure comes from search excerpts. Futures, yields, oil, metals and DXY are early-session snapshots, and December hike odds range from 76.5% to ≈84% across same-day FedWatch snapshots. The 30Y (≈5.31%) is the last confirmed mark, not a fresh quote. Copper and platinum are Tuesday quotes. No consensus was found for today's advance trade/inventories or mortgage applications. Microsoft and Alphabet estimates vary by source. The WSJ items come via secondary outlets citing the paper. No NYT originals or a dated Oct 28 NYT digest were reachable, so the NYT bucket uses the Oct 27 MarketScreener digest headline and other outlets (NPR, the NY Fed survey via Enterprise DNA) for the same themes, and it is a proxy rather than true NYT coverage. The Tribune bucket uses Crain's, CME/FHLBank releases and deal coverage because Tribune pages weren't reachable. The Byline deal (Oct 6) and CME's results (Oct 21) are recent context, not overnight news. The Bank of Canada decision is pending, and previews disagree on its direction.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-28T14:25:42Z",
+      "label": "Post-open",
+      "headline": "The Bank of Canada hiked 25 bp to 2.50% and left the door open to more, and the September goods deficit came in wide at $134.9B. Stocks opened flat with chips leading, and the 10Y is holding just above 5% into the 1 PM CT Fed.",
+      "points": [
+        "BoC: +25 bp to 2.50% (Bank Rate 2.75%, deposit 2.45%), its first hike in about three years. It now projects 2027 inflation at 3%, 1 pp above July, and says more hikes are possible but it will move cautiously. The decision was priced: USD/CAD ≈1.4045, <0.1% lower. Next meeting Dec 9.",
+        "Data: the September advance goods deficit widened $2.8B to $134.9B, against ≈$128.7–130.2B consensus. Imports rose $8.1B to $344.1B and exports $5.3B to $209.2B, with capital-goods imports +7.5% (AI capex). Net trade is a drag on Thursday's Q3 GDP.",
+        "Open: S&P 500 +0.17% at 7,735.56, Nasdaq +0.24% at 26,541.61, Dow −0.08% at 52,335.43. Micron +2–4% on SK Hynix. Robinhood was ≈−8% premarket after a Q3 miss.",
+        "Rates: the 10Y is ≈5.01–5.03% (+1 to +2 bp) and the 2Y ≈4.75% (+1 bp), so 2s10s is still ≈26–28 bp. Fed hold odds are unchanged at ≈91%, and a December hike is still the majority call.",
+        "Commodities: Brent traded ≈$115.6 in Asia (Tuesday settle $113.88) and WTI ≈$101.4. Riyadh has not confirmed the Ras Tanura strike, and the fire is reported contained with no barrels confirmed lost. Gold ≈$4,055 at 8:11 AM CT, recovering from the overnight dip to ≈$4,038. Silver futures ≈$53.84 (−1.2%) are near year lows. COMEX copper ≈$6.65/lb is flat. The DoorDash–Instacart deal is not yet announced."
+      ],
+      "simple": "Canada's central bank raised its interest rate (what banks pay to borrow from it) because oil-driven inflation is staying near 3%. That makes it the second big central bank to choose fighting inflation over protecting growth. Separately, Americans bought far more imported goods than they sold abroad, much of it equipment for AI data centers, which subtracts from measured U.S. growth. Markets are mostly treading water until the Fed decides at 1 PM CT.",
+      "sources": [
+        {
+          "name": "BNN Bloomberg (Canadian Press)",
+          "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/28/bank-of-canada-raises-key-interest-rate-says-another-hike-possible/"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/boc-expected-to-raise-interest-rates-to-250-202610280945"
+        },
+        {
+          "name": "ActionForex",
+          "url": "https://www.actionforex.com/live-comments/659036-us-goods-trade-deficit-widens-to-134-9b-as-capital-goods-imports-surge/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html"
+        },
+        {
+          "name": "FinanceFeeds",
+          "url": "https://financefeeds.com/brent-crude-oil-price-115-59-wednesday-fed-decision-day-ras-tanura-claim-bull-120-bear-108/"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/article/current-price-of-gold-10-28-2026/"
+        },
+        {
+          "name": "Spreadex",
+          "url": "https://www.spreadex.com/financials/news-analysis/financial-trading-blog/28-10-2026"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-28T14:25:42Z"
 }
