@@ -11,104 +11,102 @@
     "Metals: gold is ≈$4,038 (−0.7%) after rejecting $4,074, and silver ≈$53.15 (−1.5%), with the DXY ≈101.97, softer than Wednesday's ≈102.3 high. With 10Y yields above 5% and a hike priced, the cost of holding gold is rising, but the PBoC's 63 t of buying in Q3 is putting a floor under it. LME copper is ≈$14,433/t (−0.3%), just off Wednesday's two-week high of $14,517, on record Chinese physical premiums.",
     "Deals and banks: there's no signed DoorDash–Instacart (≈$17B) deal yet, and it could land this morning. GE Vernova is buying Trench Group for $9B, funded half cash and half debt. Trian bid $1.4B ($7.35/sh, +20%) to take Wendy's private. First Community Bankshares agreed to buy Main Street Financial for ≈$243M. Weil Gotshal, one of the 30 biggest U.S. law firms (≈$2.1B revenue) and a cornerstone of restructuring advisory, is winding down."
   ],
-  "markets_asof": "Post-open ≈8:35–9:15 AM CT (snapshots; '—' = no fresh quote found)",
+  "markets_asof": "Midday ≈11:58 AM–12:15 PM CT (snapshots; oil/copper earlier in session; '—' = no fresh quote)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−0.3%",
+      "value": "7,717.60",
+      "change": "−0.34%",
       "dir": "down",
-      "note": "Wed close 7,743.98"
+      "note": "11:58 AM CT"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "—",
-      "change": "≈−1.2%",
+      "value": "≈26,209",
+      "change": "≈−1.3%",
       "dir": "down",
-      "note": "GOOGL ≈−10%"
+      "note": "GOOGL ≈−12–13%"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈−0.1%",
+      "value": "52,295.14",
+      "change": "−0.34%",
       "dir": "down",
-      "note": "Wed close 52,475.10"
+      "note": "CAT >−10%"
     },
     {
       "label": "Russell 2000",
-      "value": "2,830.51",
-      "change": "+0.41%",
-      "dir": "up",
-      "note": "Wed close; no fresh quote"
-    },
-    {
-      "label": "UST 2Y",
-      "value": "≈4.69%",
-      "change": "—",
-      "dir": "flat",
-      "note": "CNBC, post-data"
-    },
-    {
-      "label": "UST 10Y",
-      "value": "≈5.01%",
-      "change": "≈−3 bp",
-      "dir": "down",
-      "note": "Briefly <5%"
-    },
-    {
-      "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Wed close ≈5.34%"
+      "note": "Wed close 2,830.51"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.69%",
+      "change": "−4.4 bp",
+      "dir": "down"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "5.00%",
+      "change": "−4.2 bp",
+      "dir": "down",
+      "note": "Testing 5% line"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.33%",
+      "change": "−2.9 bp",
+      "dir": "down"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Held 10-2",
       "dir": "flat",
-      "note": "Dec hike still favored"
+      "note": "Dec hike ≈78–87% priced"
     },
     {
       "label": "Brent",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Overnight ≈$114.10"
+      "value": "≈$114.2",
+      "change": "≈−1%",
+      "dir": "down",
+      "note": "Earlier in session"
     },
     {
       "label": "WTI",
-      "value": "≈$102",
-      "change": "≈−1%",
-      "dir": "down"
+      "value": "≈$101.4",
+      "change": "−1.4%",
+      "dir": "down",
+      "note": "Earlier in session"
     },
     {
       "label": "Gold",
-      "value": "$4,022",
-      "change": "−1.1%",
-      "dir": "down",
-      "note": "9:07 AM ET spot"
+      "value": "$4,024",
+      "change": "−1.07%",
+      "dir": "down"
     },
     {
       "label": "Silver",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Pre-mkt ≈$53.15"
+      "value": "$52.41",
+      "change": "−2.91%",
+      "dir": "down",
+      "note": "Au/Ag ratio 76.8"
     },
     {
       "label": "Copper (LME 3M)",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Overnight ≈$14,433/t"
+      "value": "$14,352/t",
+      "change": "−0.9%",
+      "dir": "down",
+      "note": "10:40 GMT"
     },
     {
       "label": "Dollar (DXY)",
-      "value": "≈102.20",
+      "value": "≈102.2",
       "change": "≈flat",
       "dir": "flat",
-      "note": "After GDP"
+      "note": "No fresh midday quote"
     }
   ],
   "calendar": [
@@ -402,6 +400,53 @@
   "caveats": "WSJ, NYT and Tribune were not directly accessible. WSJ items come via a Reuters-style press digest and other outlets' coverage; NYT items via Bloomberg Law and a news roundup; the 'Tribune' bucket uses Chicago-HQ company releases, two of them from Oct 21 rather than the last 24 hours. Direct fetches of CNBC were blocked, so CNBC numbers come from search snippets. Futures levels are % moves only (index levels unavailable), and the 2Y and 30Y are approximate. Oil, gold, silver and copper quotes are early-Asia/European timestamps and will have moved by the open. Mondelez report timing varies by calendar.",
   "updates": [
     {
+      "at": "2026-10-29T17:20:00Z",
+      "label": "Midday",
+      "headline": "Alphabet's slide deepened to ≈−12–13%, its worst day since its 2004 IPO, pinning the Nasdaq ≈−1.3%, while Treasuries held a modest rally (10Y ≈5.00%, −4 bp) and DoorDash made the $17B Instacart deal official; results of the noon 7Y auction weren't posted when this went out.",
+      "points": [
+        "Stocks at ≈11:58 AM CT (Yahoo Finance): S&P 500 7,717.60 (−0.34%), Dow 52,295.14 (−0.34%), Nasdaq ≈26,209 (≈−1.3%). Alphabet is ≈−12–13% (CNBC/Yahoo), well past the −9.77% record the morning brief flagged, so that threshold is already broken. Caterpillar is one of two Dow members down >10%.",
+        "Rates: 10Y 5.003% (−4.2 bp), 2Y 4.691% (−4.4 bp), 30Y 5.332% (−2.9 bp), so 2s10s is ≈31 bp, a slightly flatter curve (rallies.ai). Claims came in at 194k vs 199k consensus (Reuters), with the prior week revised to 195k and continuing claims 1.701M. That fills in the claims number I couldn't confirm in the Post-open update; labor stays tight.",
+        "$44B 7Y: bidding closed at noon CT, but I couldn't find the results yet. The WI was ≈4.905% pre-auction (ZeroHedge), ≈18 bp richer than September's 5.085% stop, which tailed 0.7 bp with a 2.42 bid-to-cover. A tail would test the 10Y's hold under 5%.",
+        "Metals and oil: gold $4,024 (−1.07%) and silver $52.41 (−2.91%), pushing the gold/silver ratio to 76.8 from 75.1 (USAGOLD). LME copper is $14,352/t (−0.9% at 10:40 GMT) on worries about AI-driven demand and high U.S. stocks (Business Recorder). Brent is ≈$114.2 (≈−1%) and WTI ≈$101.4 (−1.4%) as the Vance Iran letter offsets Houthi risk; those quotes are from earlier in the session.",
+        "Deals: DoorDash signed its deal for Instacart (Maplebear) at $65/sh (≈$17B), a 26% premium to the Oct 22 close and ≥75% in cash, with closing expected in late 2027 or 1H28 pending antitrust review (DoorDash IR). This resolves the morning's 'no signed deal yet' line. Fed odds: one FedWatch reading puts at least one hike by December at ≈78%, vs 82–87% in the morning brief. I couldn't confirm a post-data FedWatch number."
+      ],
+      "simple": "Google's parent company had its worst stock-market day in its 22 years as a public company after reporting profits well below forecasts, and that is dragging down tech-heavy indexes. Government bond yields (the interest rate Washington pays to borrow) dipped a little, which helps mortgage and loan rates at the margin, and new unemployment claims stayed near historic lows, a sign that layoffs remain rare. Gold and silver fell because high U.S. interest rates make metals that pay no interest less attractive. Food-delivery company DoorDash formally agreed to buy grocery-delivery rival Instacart, a deal regulators must still approve.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
+        },
+        {
+          "name": "rallies.ai",
+          "url": "https://rallies.ai/news/treasury-yields-extend-decline-after-us-economic-data-50f010f2c9bcbd61"
+        },
+        {
+          "name": "Investing.com (Reuters)",
+          "url": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-hover-near-57year-lows-4983709"
+        },
+        {
+          "name": "ZeroHedge",
+          "url": "https://zerohedge.com/markets/tech-futures-tumble-alphabet-plunges-small-caps-rise-ahead-pce-ecb"
+        },
+        {
+          "name": "USAGOLD",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-october-29-2026/"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://brecorder.com/news/40446509/copper-slips-on-concerns-over-ai-demand-high-us-inventories"
+        },
+        {
+          "name": "DoorDash IR",
+          "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx"
+        },
+        {
+          "name": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/oil-prices-today-october-29-2026-brent-falls-to-114-2-wti-at-101-4-as-us-iran-peace-hopes-counter-supply-risks"
+        }
+      ]
+    },
+    {
       "at": "2026-10-29T14:22:50Z",
       "label": "Post-open",
       "headline": "The 7:30 data came in hot on growth but on consensus for inflation: Q3 GDP printed 3.4% vs ≈3.1–3.2%, core PCE matched at 3.1% y/y, and the 10Y slipped ≈3 bp to ≈5.01% as the December-hike case held without getting stronger.",
@@ -441,5 +486,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-29T14:22:50Z"
+  "updatedAt": "2026-10-29T17:20:00Z"
 }
