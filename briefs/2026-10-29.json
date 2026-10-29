@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-29",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-29T11:28:20Z",
+  "headline": "The AI-capex reckoning collides with the inflation print. Alphabet is ≈−10% premarket and Nasdaq-100 futures ≈−1.2%, while the 10Y sits ≈5.05% into Q3 GDP (≈3.2%) and September core PCE (3.1% y/y) at 7:30 AM CT, the ECB at 8:15 and a $44B 7Y auction at noon, with a December hike ≈82–87% priced.",
+  "summary": [
+    "Fed aftermath: the 10-2 hold, with Governor Cook and Cleveland's Hammack dissenting for a hike, kept the December hike priced at ≈82–87% (Vantage cites 82.6%). Warsh's no-guidance presser steepened the curve: 2s10s widened to as much as ≈34 bp as the long end sold off (gfxfts/Investing.com). The 10Y is ≈5.05% in early trade after ending Wednesday ≈5.02–5.05%, so Thursday's data decides whether December gets locked in.",
+    "7:30 AM CT is the day's pivot. Q3 GDP consensus is ≈3.1–3.2% (prior 2.2%; GDPNow is cited at 3.3–3.5%). September PCE is expected at ≈3.6–3.7% y/y headline (+0.5% m/m) and 3.1% core (+0.3% m/m, prior 3.0%). Claims are expected ≈198–200k against 194k. A hot core print with a 3%+ GDP tells the Fed it isn't restrictive enough. That pushes the December hike toward a lock and tests 5.10%+ on the 10Y ahead of the noon 7Y auction, where September's sale cleared at 5.085% with a weak 2.42 bid-to-cover.",
+    "Big Tech split: Alphabet is ≈−10% premarket after its first top-and-bottom-line miss in nearly four years. EPS was $2.12 vs ≈$3.00 expected, and free cash flow was −$9.1B against −$2.7B expected, even with Cloud +103% to $30.7B (CNBC). A close below −9.77% would be its worst post-earnings day ever. Microsoft is ≈+3.5–4% after Azure grew 48% ($33.2B, first dollar disclosure), EPS $4.89 vs $4.73, and capex of $45.2B came in under the ≈$50.7B estimate. Nasdaq-100 futures are ≈−1.2%, S&P ≈−0.4–0.5% and Dow ≈+0.35% (Reuters, 4:09 AM ET). Amazon reports after the close.",
+    "Oil eases but stays near multi-month highs. Brent is ≈$114.10 (−1.1%) and WTI ≈$101.45 (−1.3%) as of 03:51 GMT. The drivers are a VP Vance effort to revive Iran talks (WSJ) and Saudi Arabia saying it had contained the Ras Tanura fire. Gulf crude exports have fallen four straight weeks, Hormuz transits are ≈60% of normal and October attacks on shipping are a record, so the risk premium hasn't gone.",
+    "Metals: gold is ≈$4,038 (−0.7%) after rejecting $4,074, and silver ≈$53.15 (−1.5%), with the DXY ≈101.97, softer than Wednesday's ≈102.3 high. With 10Y yields above 5% and a hike priced, the cost of holding gold is rising, but the PBoC's 63 t of buying in Q3 is putting a floor under it. LME copper is ≈$14,433/t (−0.3%), just off Wednesday's two-week high of $14,517, on record Chinese physical premiums.",
+    "Deals and banks: there's no signed DoorDash–Instacart (≈$17B) deal yet, and it could land this morning. GE Vernova is buying Trench Group for $9B, funded half cash and half debt. Trian bid $1.4B ($7.35/sh, +20%) to take Wendy's private. First Community Bankshares agreed to buy Main Street Financial for ≈$243M. Weil Gotshal, one of the 30 biggest U.S. law firms (≈$2.1B revenue) and a cornerstone of restructuring advisory, is winding down."
+  ],
+  "markets_asof": "Pre-market ≈6:25 AM CT (futures and overnight quotes; Russell is Wed close)",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "—",
+      "change": "≈−0.4% to −0.5%",
+      "dir": "down",
+      "note": "Cash close 7,743.98 Wed"
+    },
+    {
+      "label": "Nasdaq-100 fut",
+      "value": "—",
+      "change": "≈−1.2% to −1.3%",
+      "dir": "down",
+      "note": "GOOGL ≈−10% premarket"
+    },
+    {
+      "label": "Dow fut",
+      "value": "—",
+      "change": "≈+0.35%",
+      "dir": "up",
+      "note": "Cash close 52,475.10 Wed"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,830.51",
+      "change": "+0.41%",
+      "dir": "up",
+      "note": "Wed close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.71–4.78%",
+      "change": "—",
+      "dir": "flat",
+      "note": "Post-Fed; sources split"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.05%",
+      "change": "≈flat to +3 bp",
+      "dir": "up",
+      "note": "Early Thu; near 2007 highs"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.34%",
+      "change": "—",
+      "dir": "flat",
+      "note": "Wed close"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Held 10-2",
+      "dir": "flat",
+      "note": "Dec 8–9 hike ≈82–87%"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$114.10",
+      "change": "≈−1.1%",
+      "dir": "down",
+      "note": "03:51 GMT"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$101.45",
+      "change": "≈−1.3%",
+      "dir": "down",
+      "note": "03:51 GMT"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$4,038",
+      "change": "≈−0.7%",
+      "dir": "down",
+      "note": "Rejected at $4,074"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$53.15",
+      "change": "≈−1.5%",
+      "dir": "down"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,433/t",
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "Wed high $14,517"
+    },
+    {
+      "label": "Dollar (DXY)",
+      "value": "≈101.97",
+      "change": "≈−0.3% vs Wed high",
+      "dir": "down",
+      "note": "USD/JPY ≈157.8"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-market",
+      "event": "Caterpillar Q3 (out)",
+      "consensus": "EPS ≈$7.03–7.12",
+      "prior": "$4.95 adj. (Q3 2025)",
+      "why": "It reported $7.20 adjusted EPS on ≈$20.7B revenue (+17%), with a 20.4% operating margin and a record ≈$72B backlog. That's a read on capex, data-center power and mining demand, and copper ties straight into the last two."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Q3 GDP (advance)",
+      "consensus": "≈3.1–3.2% SAAR",
+      "prior": "2.2%",
+      "why": "A 3%+ print with inflation at 3.6%+ is the stagflation-lite mix that justifies a December hike. Watch the GDP price index too (≈3.5% cited)."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "September PCE / core PCE",
+      "consensus": "Headline +0.5% m/m, ≈3.6–3.7% y/y; core +0.3% m/m, 3.1% y/y",
+      "prior": "3.4% / 3.0% y/y",
+      "why": "This is the Fed's target gauge. Core at 3.1% and rising would confirm Warsh's 'no soft target' line and pull December toward fully priced, flattening 2s10s back below 30 bp."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial jobless claims",
+      "consensus": "≈198–200k",
+      "prior": "194k",
+      "why": "Claims are still near cycle lows despite weak payrolls. A jump above 215k would be the first sign the 'starting to work' tightening is biting labor."
+    },
+    {
+      "time": "8:15 AM",
+      "event": "ECB decision (Lagarde 8:45 AM)",
+      "consensus": "Hold, deposit rate 2.50%",
+      "prior": "2.50%",
+      "why": "Markets price ≈20 bp more by year-end and three hikes by end-2027. Lagarde's tone on France (OAT ≈4.94%, ≈157 bp over Bunds) feeds global term premium and EUR/USD."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$44B 7Y note auction",
+      "consensus": "WI —",
+      "prior": "5.085% high yield, 2.42 bid-to-cover",
+      "why": "September's 7Y was the highest auction yield since 1993 with soft demand. Another tail right after PCE would show the market demanding more term premium to absorb supply."
+    },
+    {
+      "time": "3:00 PM",
+      "event": "Amazon Q3 (call 4:00 PM CT); Mondelez Q3",
+      "consensus": "AMZN EPS ≈$1.96–2.01, revenue ≈$202.1B, AWS +≈38–41%; MDLZ EPS ≈$0.72, revenue ≈$10B",
+      "prior": "AWS +37% (Q2)",
+      "why": "After Alphabet's cash burn and Microsoft's capex undershoot, Amazon's capex and FCF set the AI-trade tone into November. Mondelez (Chicago HQ) is a read on cocoa cost pass-through. Mondelez timing varies by calendar."
+    },
+    {
+      "time": "Overnight (Fri Tokyo)",
+      "event": "Bank of Japan decision",
+      "consensus": "Hold 1.25%",
+      "prior": "1.25%",
+      "why": "With USD/JPY ≈157.8, a hawkish hold or a December signal could pull Japanese money back home and add pressure to the long end of the Treasury curve."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "+25 bp ≈82–87% (CME FedWatch, per reports)",
+      "prior": "3.75–4.00%",
+      "why": "Warsh gave no guidance, so each data point between now and then reprices this directly. From 2027, rate decisions are considered at only 7 of 8 meetings."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Warsh's no-guidance hold re-steepens the curve",
+        "body": "After the 10-2 hold, 2s10s widened to as much as ≈34.1 bp as the long end sold off on Warsh's refusal to pre-commit, and the 10Y is ≈5.05% in early Thursday trade. Dissents from Cook (her first) and Hammack keep the December hike odds in the ≈82–87% range.",
+        "simple": "A 'steeper curve' means long-term borrowing costs rose more than short-term ones. Investors want extra pay (term premium, the bonus for tying money up for years) when the Fed won't say what comes next. That keeps 30-year mortgages and corporate bonds expensive, even though the Fed didn't move today.",
+        "source": "Investing.com / gfxfts",
+        "url": "https://www.investing.com/news/forex-news/bund-yields-slip-ahead-of-ecb-feds-hold-keeps-us-yields-steepening-4981797"
+      },
+      {
+        "title": "GDP, PCE and a 7Y auction in five hours",
+        "body": "Consensus is Q3 GDP ≈3.2% and September core PCE 3.1% y/y (+0.3% m/m), with headline ≈3.6–3.7%. Then $44B of 7-year notes, closing at noon CT. The last one stopped at 5.085% (highest since 1993) with only a 2.42 bid-to-cover.",
+        "simple": "PCE is the inflation measure the Fed targets. If it comes in hot, traders bet harder on a December hike. An auction is the government selling new debt. A weak one, where buyers demand a higher rate than expected (a 'tail'), pushes all borrowing costs up.",
+        "source": "TreasuryDirect / TokenPost",
+        "url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261022_8.pdf"
+      },
+      {
+        "title": "Europe adds to global term premium",
+        "body": "The French 10Y OAT is ≈4.94% vs Bunds at 3.37%, a 156.6 bp spread as of Oct 28, after breaking 5% around Oct 21 for the first time since 2002. The ECB is expected to hold at 2.50% today, with ≈20 bp more priced by year-end.",
+        "simple": "France is paying far more than Germany to borrow because of budget fights and protests. That 'spread' is the extra interest investors demand for the risk. When big governments abroad pay more, global investors ask more from U.S. Treasuries too, which keeps U.S. rates high.",
+        "source": "Ideal Investisseur / FXStreet",
+        "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME prints a record Q3, Q4 running hotter",
+        "body": "CME's Q3 ADV was 29.4M contracts (+16% y/y, a Q3 record), with revenue $1.74B (+13%) and adjusted EPS $3.02 vs $2.98. Market data revenue hit a record $243M. Management says Q4 volume is tracking +17% over last year's record Q4, and total OI is above 133M contracts.",
+        "simple": "CME runs the exchanges where banks and funds trade futures (contracts to buy or sell later at a price fixed today). Volume jumps when people are hedging against surprises, and a hike-or-hold Fed is a big surprise generator. More hedging means more fee revenue for CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/21/cme_group_inc_reportshighestq3revenueonrecordforq32026.html"
+      },
+      {
+        "title": "Rates futures and SOFR options build as the Fed turns two-way",
+        "body": "Treasury futures had a record September ADV of 7.7M, with OI up 1.2M to 24M contracts. SOFR options added more than 6M contracts of new OI in the 15 days after the Sep 26 expiry, trading 1.6M/day (+41% m/m). From Nov 1, One-Month SOFR and 30-Day Fed Funds futures settle to 1/100 bp.",
+        "simple": "SOFR is the overnight lending rate that replaced LIBOR. Options on SOFR futures let traders bet on, or insure against, Fed moves. New open interest (contracts still outstanding) piling up means big players are positioning for a hike or a policy surprise.",
+        "source": "CME Group Rates Recap",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "Rate vol off the highs, single-stock vol exploding",
+        "body": "The MOVE index (Treasury implied vol) was ≈102 on Oct 26 after ≈106.9 on Oct 22 and 113.6 on Oct 6, near its 52-week high of 115.0. In equities, a GOOGL close below −9.77% would be its worst post-earnings move ever.",
+        "simple": "Implied volatility is the price of insurance against big moves. Bond vol has calmed a bit since early October, but stays high. In stocks, a ≈10% one-day drop in a $3T+ company shows options traders under-priced how much an earnings miss could hurt.",
+        "source": "Investing.com / CNBC",
+        "url": "https://www.investing.com/indices/ice-bofaml-move-historical-data"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold capped by 5% yields, floored by central banks",
+        "body": "Spot gold is ≈$4,038 (−0.7% at 0410 GMT) after rejecting $4,074. The Fed's hawkish hold and a 5%+ 10Y raise the cost of holding a zero-yield asset. A softer DXY (≈101.97) and safe-haven demand around Iran limit the downside.",
+        "simple": "Gold pays no interest, so when bonds pay over 5% the opportunity cost of owning gold rises. That's why hike talk pushes it down. It doesn't collapse because war risk and central-bank buying keep demand alive.",
+        "source": "FX Leaders",
+        "url": "https://fxleaders.com/news/2026/10/29/gold-price-forecast-xau-usd-rejected-at-4074-ahead-of-pce-after-hawkish-fed-hold"
+      },
+      {
+        "title": "PBoC buys 23 t in September, 63 t in Q3",
+        "body": "China's central bank added 23 t in September, its biggest month since October 2023, for 63 t in Q3. U.S. gold ETFs took in $11.7B in Q3 and Chinese ETFs ≈$3.9B.",
+        "simple": "Central banks, China's especially, are swapping dollar reserves for gold to cut their exposure to U.S. sanctions and the dollar. Steady official buying is a big reason gold holds near $4,000 even with high U.S. rates.",
+        "source": "World Gold Council",
+        "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"
+      },
+      {
+        "title": "Silver and PGMs underperform gold",
+        "body": "Silver is ≈$53.15 (−1.5%), platinum ≈$1,515.70 (−1.5%) and palladium ≈$1,004.25 (−0.6%) in early Thursday trade. Platinum is ≈−13% over the past month.",
+        "simple": "Silver and platinum are part precious metal, part industrial input (solar panels, car catalysts). So they fall harder than gold when rates rise and growth worries build. That makes them a higher-beta, more volatile version of the gold trade.",
+        "source": "Reuters via NewsBeep",
+        "url": "https://www.newsbeep.com/us/898435/"
+      },
+      {
+        "title": "Copper holds near two-week high on Chinese tightness",
+        "body": "LME three-month copper is $14,432.50/t (−0.31% at 0330 GMT), just off Wednesday's $14,517 two-week high. Shanghai and Guangdong spot premiums are at records. The all-time high is ≈$14,940 (Sep 9).",
+        "simple": "Copper goes into wiring, power grids and data centers. When Chinese buyers pay record premiums over the exchange price, it means real metal is scarce right now. That supports prices even when the Fed is tightening.",
+        "source": "Business Recorder / SMM",
+        "url": "https://brecorder.com/news/40446474/copper-eases-but-holds-near-two-week-highs-as-tight-china-supply-offers-support"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "First Community Bankshares buys Main Street Financial for ≈$243M",
+      "body": "FCBC will pay 0.6174 shares per MSWV share, ≈$30.14 based on a $48.82 10-day VWAP. That buys a $1.6B-asset Ohio bank and takes FCBC to five states. Closing is targeted for early Q2 2027. D.A. Davidson and Raymond James advised.",
+      "simple": "A mid-size Virginia bank is buying a smaller Ohio bank with its own stock instead of cash. Small-bank deals like this are back because regulators are approving them faster. Getting bigger spreads technology and compliance costs over more customers.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/28/3390151/12226/en/first-community-bankshares-inc-announces-acquisition-of-main-street-financial-services-corp.html"
+    },
+    {
+      "title": "GE Vernova buys Trench Group for $9B",
+      "body": "GE Vernova agreed to buy Trench (≈€8.0B) from Triton, funded roughly half cash and half new debt. It doubled its buyback authorization to $20B. The deal is expected to close in late 2027.",
+      "simple": "GE Vernova makes power equipment, and Trench makes high-voltage grid parts that AI data centers need. Paying half in borrowed money means a new bond deal for banks to underwrite. That's the kind of fee business capital-markets desks live on.",
+      "source": "GE Vernova (SEC 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
+    },
+    {
+      "title": "Trian bids $1.4B to take Wendy's private",
+      "body": "A Peltz-led group (Trian holds 16.3%, with Flynn Group, BlueFive and Sixth Street) offered $7.35/share cash, a ≈20% premium. Wendy's independent committee will review it.",
+      "simple": "A take-private means an investor buys every share and delists the company, usually funded with lots of debt, so it can fix the business away from quarterly scrutiny. Expect a leveraged-loan financing if it proceeds.",
+      "source": "investingLive (WSJ first reported)",
+      "url": "https://investinglive.com/stocks/peltz-led-group-offers-1-4bn-to-take-wendy-s-private-at-7-35-a-share-a-20-premium/"
+    },
+    {
+      "title": "DoorDash–Instacart (≈$17B) still unsigned",
+      "body": "Reports said an announcement could come as early as Thursday morning. Bloomberg says talks could still fall through, and Uber is no longer active. Instacart rose 7.9% and DoorDash fell 6.1% on the reports. Antitrust review is the key risk.",
+      "simple": "A buyer's stock often falls on a big deal because it may overpay, while the target jumps toward the offer price. Regulators may object because the combined company would dominate grocery and restaurant delivery.",
+      "source": "Yahoo Finance (via WSJ/Reuters)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-nears-17-billion-deal-144500715.html"
+    },
+    {
+      "title": "Basel endgame: Bowman targets a final rule by year-end",
+      "body": "Bowman said she expects to finalize the re-proposed Basel III rules before year-end. The re-proposal rescinds the 2023 plan and recalibrates the G-SIB surcharge in 10 bp steps. The eSLR cap of ≤4% total has been in effect since Nov 2025, and Bowman credits it with improving Treasury market function.",
+      "simple": "Capital rules set how much of their own money banks must hold against loans and trades. Lighter rules free up the balance sheet so big banks can hold more Treasuries and lend more. That matters a lot when the government is selling record amounts of debt.",
+      "source": "American Banker",
+      "url": "https://www.americanbanker.com/news/bowman-says-eslr-reform-has-boosted-bond-market-function"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Alphabet ≈−10% premarket, Microsoft ≈+4%",
+        "body": "Alphabet's FCF was −$9.07B vs −$2.7B expected, and a close below −9.77% would be its worst post-earnings day ever. Microsoft's capex of $45.2B (+30% y/y) came in under the $50.67B estimate, and FCF fell 27% to a still-positive $18.63B.",
+        "simple": "Investors punished the company burning cash on AI chips and data centers faster than expected. They rewarded the one spending a bit less than feared while still growing fast. The message is that AI spending now has to show returns.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+      },
+      {
+        "title": "Alphabet's first top-and-bottom-line miss in nearly four years",
+        "body": "Q3 revenue was $127.6B (+25%) and EPS $2.12, against ≈$3.00 expected and $2.87 a year ago. Capex was $51.4B vs $55.1B expected, and 2026 guidance stays $195–205B with a 'significant' increase in 2027. FCF was hit by a TPU inventory build and a $5.2B EC fine.",
+        "simple": "Google grew sales fast, but profit fell because building AI infrastructure costs so much, and it paid a large European fine. Saying spending will rise 'significantly' again next year tells investors the cash drain isn't over.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+      },
+      {
+        "title": "Fed recap: fewer rate-setting meetings ahead",
+        "body": "The FOMC held at 3.75–4.00%, 10-2. From 2027, rate decisions are considered at only 7 of 8 meetings (6 of 8 in 2028). Warsh said there will be no forward guidance 'absent exigent circumstances.'",
+        "simple": "The Fed will make fewer formal rate decisions and won't hint at its next move. Each data release will therefore swing markets more, which tends to raise volatility in bonds and rate futures.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
+      },
+      {
+        "title": "Caterpillar beats with a 20.4% margin",
+        "body": "Q3 adjusted EPS was $7.20 (vs ≈$7.03–7.12 consensus) on ≈$20.7B revenue (+17%), with volume +$2.2B and price +$663M. Caterpillar returned ≈$2.0B to shareholders. Operating margin rose to 20.4% from 17.3%.",
+        "simple": "Caterpillar's machines and engines go into construction, mines and data-center backup power, so strong sales signal heavy real-economy spending. Raising prices without losing volume is a sign of pricing power, which also feeds inflation.",
+        "source": "GuruFocus",
+        "url": "https://www.gurufocus.com/news/9150495/caterpillar-inc-cat-reports-strong-q3-2026-earnings-eps-of-713-beats-estimates-revenue-of-207b-exceeds-expectations"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "GE Vernova's $9B Trench deal leads WSJ business",
+        "body": "Per the WSJ press digest, GE Vernova is buying Trench from Triton for $9B. The digest also says MGM Resorts' talks with Barry Diller's People Inc. have ended.",
+        "simple": "A big grid-equipment purchase shows how much money is chasing the power needs of AI. The MGM talks ending means one fewer large media-and-gaming deal in banks' M&A pipeline.",
+        "source": "WSJ via press digest (rallies.ai)",
+        "url": "https://rallies.ai/news/wall-street-journal-october-29-072549aa3c1b7118"
+      },
+      {
+        "title": "Peltz group offers $1.4B for Wendy's",
+        "body": "The WSJ first reported the $7.35/share take-private, a ≈20% premium, led by Trian. The pitch is that a turnaround works better out of public view.",
+        "simple": "An activist investor that already owns a big stake wants to buy the rest. Taking the company private lets it make painful changes without reporting results every quarter.",
+        "source": "MarketScreener (WSJ report)",
+        "url": "https://www.marketscreener.com/news/trian-fund-management-offers-to-buy-wendy-s-for-1-4-billion-wsj-reports-ce785cd2de8ff52d"
+      },
+      {
+        "title": "Vance pushes to revive Iran talks",
+        "body": "The WSJ digest reports VP Vance working to restart U.S.–Iran negotiations. Earlier WSJ reporting said Gulf states were told to prepare for a U.S. campaign after the Nov 3 midterms. Brent fell ≈1% overnight.",
+        "simple": "Oil markets trade on whether the Iran conflict calms or escalates. Hints of diplomacy knock a few dollars off oil, while strike threats add them back. That flows straight into gasoline prices and inflation expectations.",
+        "source": "WSJ via press digest (rallies.ai)",
+        "url": "https://rallies.ai/news/wall-street-journal-october-29-072549aa3c1b7118"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group (Chicago): record Q3 revenue",
+        "body": "The Chicago exchange posted $1.74B revenue (+13%), 29.4M ADV (+16%) and adjusted EPS $3.02 vs $2.98. International ADV hit a Q3 record of 9M contracts. Reported Oct 21.",
+        "simple": "Chicago's biggest financial company makes money every time someone trades a futures contract. Uncertainty about the Fed, oil and metals has made 2026 a record year for hedging.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/21/cme_group_inc_reportshighestq3revenueonrecordforq32026.html"
+      },
+      {
+        "title": "Northern Trust (Chicago) beats, NII +14%",
+        "body": "Q3 diluted EPS was $3.40 vs $2.87 consensus, with ≈40% y/y EPS growth ex-notables. Net interest income rose 14% and assets under custody/administration reached $19.9T. Northern Trust bought back $352M of stock. Reported Oct 21.",
+        "simple": "Northern Trust holds and services assets for pension funds and the very wealthy. Higher interest rates let it earn more on client cash (net interest income, the gap between what it earns and what it pays). That's why bank profits are rising while the Fed tightens.",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/northern-trust-q3-2026-slides-40-eps-growth-strong-operating-leverage-93CH-4963489"
+      },
+      {
+        "title": "Mondelez (Chicago) reports Q3",
+        "body": "Zacks expects EPS ≈$0.72 on ≈$10B revenue, and its model doesn't predict a clear beat. One calendar lists the report for after today's close.",
+        "simple": "The Oreo and Cadbury maker is a test of whether food companies can keep raising prices to cover expensive cocoa and sugar without losing shoppers.",
+        "source": "Yahoo Finance (Zacks)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mondelez-readies-q3-earnings-key-120800193.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Weil Gotshal plans to dissolve",
+        "body": "The NYT broke the story that Weil, a top-30 U.S. firm with ≈$2.1B revenue that built modern Big Law bankruptcy practice (Lehman, GM, Enron), will wind down. That follows a partner exodus and failed merger talks with Willkie Farr. Partners vote in the coming days.",
+        "simple": "One of Wall Street's best-known law firms is shutting down after senior partners left. Its restructuring and private-equity lawyers will move to rival firms, which shifts who advises on big bankruptcies and buyouts.",
+        "source": "Bloomberg Law (NYT first reported)",
+        "url": "https://news.bloomberglaw.com/business-and-practice/weil-gotshal-to-wind-down-in-stunning-fall-for-heavyweight-firm"
+      },
+      {
+        "title": "NYT/Siena: Senate map tightens five days before midterms",
+        "body": "NYT/Siena polling shows the South Carolina Senate race tied, with Florida and Minnesota leads reported. The Nov 3 vote is also the reported trigger date for U.S. action on Iran.",
+        "simple": "Control of Congress shapes taxes, spending and how much debt the Treasury must sell, so bond traders watch the polls. The election date also matters for oil because of the reported Iran timeline.",
+        "source": "Everything Briefing (NYT poll)",
+        "url": "https://everythingbriefing.substack.com/p/campaign-speeches-alaska-and-todays"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Warsh's no-guidance Fed and the vol premium",
+      "point": "With no forward guidance and decisions at only 7 of 8 meetings from 2027, each print reprices policy directly. That showed up as 2s10s widening to ≈34 bp after the presser, MOVE near 100+, and SOFR options adding more than 6M contracts of OI in 15 days. On a rates desk, that structurally raises demand for options hedging and term premium. Ask how they're positioning around the December 8–9 meeting with a hike ≈82–87% priced."
+    },
+    {
+      "topic": "Gold vs copper: two different stories",
+      "point": "Gold (≈$4,038) is trading the rate path. A 5%+ 10Y caps it, and the PBoC's 63 t Q3 bid floors it. Copper (≈$14,430/t, record Chinese premiums) is trading physical scarcity. Long copper / short gold is effectively a bet that growth holds up through a December hike. Good for a metals-desk conversation at CME or a bank's commodities group."
+    },
+    {
+      "topic": "Hyperscaler cash burn is a capital-markets story",
+      "point": "Alphabet's FCF was −$9.1B with 2027 capex rising 'significantly,' Meta has a ≈$25–35B equity raise, and GE Vernova is funding $9B half with debt. AI infrastructure is moving from internally funded to market-funded. That means more jumbo IG bonds, converts and equity, just as Bowman aims to finalize lighter Basel rules by year-end. That's a fee tailwind for DCM/ECM and balance-sheet capacity for commercial banks."
+    }
+  ],
+  "caveats": "WSJ, NYT and Tribune were not directly accessible. WSJ items come via a Reuters-style press digest and other outlets' coverage; NYT items via Bloomberg Law and a news roundup; the 'Tribune' bucket uses Chicago-HQ company releases, two of them from Oct 21 rather than the last 24 hours. Direct fetches of CNBC were blocked, so CNBC numbers come from search snippets. Futures levels are % moves only (index levels unavailable), and the 2Y and 30Y are approximate. Oil, gold, silver and copper quotes are early-Asia/European timestamps and will have moved by the open. Mondelez report timing varies by calendar.",
+  "updates": []
+}
