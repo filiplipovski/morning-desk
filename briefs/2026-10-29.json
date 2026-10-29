@@ -11,104 +11,104 @@
     "Metals: gold is ≈$4,038 (−0.7%) after rejecting $4,074, and silver ≈$53.15 (−1.5%), with the DXY ≈101.97, softer than Wednesday's ≈102.3 high. With 10Y yields above 5% and a hike priced, the cost of holding gold is rising, but the PBoC's 63 t of buying in Q3 is putting a floor under it. LME copper is ≈$14,433/t (−0.3%), just off Wednesday's two-week high of $14,517, on record Chinese physical premiums.",
     "Deals and banks: there's no signed DoorDash–Instacart (≈$17B) deal yet, and it could land this morning. GE Vernova is buying Trench Group for $9B, funded half cash and half debt. Trian bid $1.4B ($7.35/sh, +20%) to take Wendy's private. First Community Bankshares agreed to buy Main Street Financial for ≈$243M. Weil Gotshal, one of the 30 biggest U.S. law firms (≈$2.1B revenue) and a cornerstone of restructuring advisory, is winding down."
   ],
-  "markets_asof": "Pre-market ≈6:25 AM CT (futures and overnight quotes; Russell is Wed close)",
+  "markets_asof": "Post-open ≈8:35–9:15 AM CT (snapshots; '—' = no fresh quote found)",
   "markets": [
     {
-      "label": "S&P 500 fut",
+      "label": "S&P 500",
       "value": "—",
-      "change": "≈−0.4% to −0.5%",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "Cash close 7,743.98 Wed"
+      "note": "Wed close 7,743.98"
     },
     {
-      "label": "Nasdaq-100 fut",
+      "label": "Nasdaq Comp",
       "value": "—",
-      "change": "≈−1.2% to −1.3%",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "GOOGL ≈−10% premarket"
+      "note": "GOOGL ≈−10%"
     },
     {
-      "label": "Dow fut",
+      "label": "Dow",
       "value": "—",
-      "change": "≈+0.35%",
-      "dir": "up",
-      "note": "Cash close 52,475.10 Wed"
+      "change": "≈−0.1%",
+      "dir": "down",
+      "note": "Wed close 52,475.10"
     },
     {
       "label": "Russell 2000",
       "value": "2,830.51",
       "change": "+0.41%",
       "dir": "up",
-      "note": "Wed close"
+      "note": "Wed close; no fresh quote"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.71–4.78%",
+      "value": "≈4.69%",
       "change": "—",
       "dir": "flat",
-      "note": "Post-Fed; sources split"
+      "note": "CNBC, post-data"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.05%",
-      "change": "≈flat to +3 bp",
-      "dir": "up",
-      "note": "Early Thu; near 2007 highs"
+      "value": "≈5.01%",
+      "change": "≈−3 bp",
+      "dir": "down",
+      "note": "Briefly <5%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.34%",
+      "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Wed close"
+      "note": "Wed close ≈5.34%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Held 10-2",
       "dir": "flat",
-      "note": "Dec 8–9 hike ≈82–87%"
+      "note": "Dec hike still favored"
     },
     {
       "label": "Brent",
-      "value": "≈$114.10",
-      "change": "≈−1.1%",
-      "dir": "down",
-      "note": "03:51 GMT"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Overnight ≈$114.10"
     },
     {
       "label": "WTI",
-      "value": "≈$101.45",
-      "change": "≈−1.3%",
-      "dir": "down",
-      "note": "03:51 GMT"
-    },
-    {
-      "label": "Gold",
-      "value": "≈$4,038",
-      "change": "≈−0.7%",
-      "dir": "down",
-      "note": "Rejected at $4,074"
-    },
-    {
-      "label": "Silver",
-      "value": "≈$53.15",
-      "change": "≈−1.5%",
+      "value": "≈$102",
+      "change": "≈−1%",
       "dir": "down"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "≈$14,433/t",
-      "change": "≈−0.3%",
+      "label": "Gold",
+      "value": "$4,022",
+      "change": "−1.1%",
       "dir": "down",
-      "note": "Wed high $14,517"
+      "note": "9:07 AM ET spot"
+    },
+    {
+      "label": "Silver",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Pre-mkt ≈$53.15"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Overnight ≈$14,433/t"
     },
     {
       "label": "Dollar (DXY)",
-      "value": "≈101.97",
-      "change": "≈−0.3% vs Wed high",
-      "dir": "down",
-      "note": "USD/JPY ≈157.8"
+      "value": "≈102.20",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "After GDP"
     }
   ],
   "calendar": [
@@ -400,5 +400,46 @@
     }
   ],
   "caveats": "WSJ, NYT and Tribune were not directly accessible. WSJ items come via a Reuters-style press digest and other outlets' coverage; NYT items via Bloomberg Law and a news roundup; the 'Tribune' bucket uses Chicago-HQ company releases, two of them from Oct 21 rather than the last 24 hours. Direct fetches of CNBC were blocked, so CNBC numbers come from search snippets. Futures levels are % moves only (index levels unavailable), and the 2Y and 30Y are approximate. Oil, gold, silver and copper quotes are early-Asia/European timestamps and will have moved by the open. Mondelez report timing varies by calendar.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-29T14:22:50Z",
+      "label": "Post-open",
+      "headline": "The 7:30 data came in hot on growth but on consensus for inflation: Q3 GDP printed 3.4% vs ≈3.1–3.2%, core PCE matched at 3.1% y/y, and the 10Y slipped ≈3 bp to ≈5.01% as the December-hike case held without getting stronger.",
+      "points": [
+        "Q3 GDP (advance) was 3.4% SAAR vs ≈3.1–3.2% consensus and 2.2% prior, with real consumer spending +3.8% (Benzinga, Quartz). The quarterly PCE price index cooled to 2.1% (core 2.5%) from 5.0% (3.3%) in Q2, so the 'GDP price index ≈3.5%' line in the morning calendar was too high.",
+        "September PCE: headline +0.5% m/m and 3.6% y/y (a four-month high, a touch under the 3.7% top end of estimates); core +0.3% m/m and 3.1% y/y, exactly in line (CNN, Yahoo Finance). Jobless claims: sources conflict and I couldn't confirm the actual (consensus ≈198–200k, prior 194k).",
+        "Rates: the 10Y is ≈5.01% (−3 bp, CNBC) and has briefly dipped under 5% (Benzinga). The 2Y is ≈4.69%, so 2s10s is ≈32 bp, holding most of Wednesday's post-Warsh steepening. An in-line core print didn't add to December hike odds; still ahead is the $44B 7Y at noon CT (September: 5.085%, 2.42 bid-to-cover).",
+        "Cash open (Yahoo snapshot): Nasdaq ≈−1.2%, S&P ≈−0.3%, Dow ≈−0.1% as Alphabet's ≈10% gap drags tech. Gold is $4,022 (−$44.60, −1.1%) at 9:07 AM ET, near last week's three-month low. DXY is ≈102.20, flat after the data; WTI is ≈$102 (−1%).",
+        "ECB held its deposit rate at 2.50%, as expected, and kept a December hike open, with euro-area September inflation reported at 3.8%. Reports (Manila Times wire) say the decision came hours after Lagarde said she will leave early. The details aren't confirmed yet, but a succession race adds European policy uncertainty and could feed into Bund/OAT spreads."
+      ],
+      "simple": "GDP (the total value of what the U.S. economy produces) grew faster than expected last summer, and the Fed's preferred inflation measure stayed stuck at about 3%, well above the Fed's 2% goal. Because the inflation number matched forecasts rather than beating them, bond yields (the interest rate the government pays to borrow) eased slightly instead of jumping. Markets still expect the Fed to raise rates in December, which keeps mortgage and business loan rates high. In Europe, the central bank left its rates unchanged and its president reportedly said she'll step down early.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/29/treasury-yields-federal-reserve-rates.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/economic-data/26/10/62693319/us-economy-gdp-third-quarter-pce-inflation-september"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://qz.com/us-gdp-growth-accelerates-summer-inflation-elevated-102926"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html"
+        },
+        {
+          "name": "FinanceFeeds",
+          "url": "https://financefeeds.com/gold-price-today-4022-thursday-gdp-3-4-percent-core-pce-3-1-after-fed-hold-two-hike-dissents-bull-4110-bear-3940/"
+        },
+        {
+          "name": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/10/29/world/americas-emea/ecb-holds-rates-steady-after-lagarde-says-to-quit-early/2457506"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-29T14:22:50Z"
 }
