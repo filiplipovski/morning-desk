@@ -11,105 +11,105 @@
     "Metals and oil are moving in opposite directions. Gold is ≈$3,976 (−$44, Kitco 4:13 AM ET), below $4,000 after Thursday's lowest level since July 17, and down ≈3.8% for October. Silver is ≈$50.91 (−2.4%), putting the gold/silver ratio at ≈78. LME copper closed Thursday at $14,352/t (−0.96%) on long liquidation, even though China's Yangshan premium is above $200/t. Brent is ≈$116.1 (+1%) and WTI ≈$103.3 (+1.3%) on Houthi strikes against Saudi energy sites. Both are on track for ≈14–15% monthly gains, which is the inflation impulse the Fed can't ignore.",
     "Crypto has its biggest hack ever. Binance says ≈$6.3B left its wallets (TRM Labs: ≈$6.36B across 10 chains, mostly in ≈20 minutes), and TRM attributes it with high confidence to North Korea's TraderTraitor group. About $3B is frozen, including ≈$971M in USDT and ≈$823M in USDC, and Binance says it will cover all losses. Bitcoin is ≈$77,000 and BNB fell nearly 10% at one point (NBC News/Forbes). It's a live test of offshore venue risk against regulated, centrally cleared venues like CME."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT (stock index tiles are Thursday's close; futures in notes)",
+  "markets_asof": "Post-open ≈8:45–9:15 AM CT",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,720.39",
-      "change": "−0.30%",
+      "value": "7,631.07",
+      "change": "−1.16%",
       "dir": "down",
-      "note": "Thu close; futures ≈−1% pre-market"
+      "note": "At open (Reuters)"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "26,184.72",
-      "change": "−1.38%",
+      "value": "25,592.49",
+      "change": "−2.26%",
       "dir": "down",
-      "note": "NDX futures ≈−2.2% (−640 pts)"
+      "note": "At open; lowest in 2+ months"
     },
     {
       "label": "Dow",
       "value": "52,342.56",
-      "change": "−0.25%",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "Thu close; futures slightly lower"
+      "note": "Thu close; early-trade change per Yahoo"
     },
     {
       "label": "Russell 2000",
       "value": "2,859.22",
-      "change": "+1.01%",
-      "dir": "up",
-      "note": "Thu close; small-cap rotation"
+      "change": "—",
+      "dir": "flat",
+      "note": "Thu close; no reliable intraday quote"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.58%",
-      "change": "≈−8 bp",
+      "value": "4.586%",
+      "change": "−7 bp",
       "dir": "down",
-      "note": "vs 4.66% Thu close"
+      "note": "After ECI (247 Wall St.)"
     },
     {
       "label": "UST 10Y",
       "value": "≈4.92%",
-      "change": "≈−7 bp",
+      "change": "≈−6 bp",
       "dir": "down",
-      "note": "Thu close 4.988%"
+      "note": "4.91–4.93% across sources"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.32%",
-      "change": "≈−4 bp",
-      "dir": "down",
-      "note": "Thu late session; no fresh quote"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh quote found"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike 79.6%",
+      "change": "Dec hike ≈80%?",
       "dir": "flat",
-      "note": "84.2% a day earlier (FedWatch)"
+      "note": "Pre-ECI 79.6%; no post-ECI read yet"
     },
     {
       "label": "Brent",
-      "value": "≈$116.1",
-      "change": "≈+1.0%",
+      "value": "≈$117–118",
+      "change": "up",
       "dir": "up",
-      "note": "≈+14% in October"
+      "note": "Hormuz shipping attack (Kitco/Fortune)"
     },
     {
       "label": "WTI",
-      "value": "≈$103.3",
-      "change": "≈+1.3%",
+      "value": "≈$103.8",
+      "change": "up",
       "dir": "up",
-      "note": "≈+15% in October"
+      "note": "Kitco, early US trade"
     },
     {
       "label": "Gold",
-      "value": "≈$3,976",
-      "change": "≈−1.1% (−$44)",
+      "value": "≈$3,962",
+      "change": "≈−1.4%",
       "dir": "down",
-      "note": "Kitco 4:13 AM ET; below $4,000"
+      "note": "7:15 AM CT (Fortune)"
     },
     {
       "label": "Silver",
-      "value": "≈$50.91",
-      "change": "−2.42%",
+      "value": "≈$50.04",
+      "change": "−$1.95 d/d",
       "dir": "down",
-      "note": "Gold/silver ≈78"
+      "note": "≈−14% in October"
     },
     {
-      "label": "LME copper",
-      "value": "$14,352/t",
-      "change": "−0.96%",
+      "label": "Copper (COMEX)",
+      "value": "≈$6.50/lb",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "Thu close; record $14,875 in Sept"
+      "note": "LME not quoted"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.0",
-      "change": "≈flat",
+      "value": "≈101.7",
+      "change": "—",
       "dir": "flat",
-      "note": "USD/JPY ≈157.32 after BOJ hold"
+      "note": "Unconfirmed timestamp"
     }
   ],
   "calendar": [
@@ -408,5 +408,46 @@
     }
   ],
   "caveats": "WebFetch was blocked in this run, so every figure comes from search-result summaries. WSJ items come from Reuters press digests (MarketScreener/Boursorama). The NYT digest for Oct 30 wasn't readable, so the NYT bucket uses BEA, CNN and Forbes coverage of the same national stories. I found no Tribune coverage, so the Tribune bucket uses company filings, CME and Bloomberg Law for Chicago-HQ firms. Futures, yield and metals tiles are early-morning snapshots (≈4–6 AM ET) and sources differ by 0.1–0.3%. The 30Y tile is Thursday's late-session level, Amazon's Q3 capex is cited at both $75.9B and $77.3B, and Fed-speaker times are converted from an ET listing. Platinum and palladium quotes weren't available.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-10-30T14:21:38Z",
+      "label": "Post-open",
+      "headline": "ECI matched at 0.8% and Chicago PMI missed (55.3), so the bond rally held: the 2Y is ≈4.59% while the Nasdaq opened −2.3% and gold stayed under $4,000.",
+      "points": [
+        "Q3 ECI +0.8% q/q vs 0.8% consensus (Q2 0.9%); 3.4% y/y; wages +0.7% q/q, 3.1% y/y. Private wages ex-incentive at 3.1% y/y are the slowest since Q1 2021. That rules out the 0.9%+ hawkish case flagged this morning.",
+        "Chicago PMI 55.3 vs ≈55.8–56.1 consensus (prior 58.8): still expanding, but the drop is sharp. No component breakdown found yet.",
+        "Rates: 2Y 4.586% (−7 bp), 10Y ≈4.91–4.93% (−3 to −6 bp), so the curve is bull-steepening. No post-ECI FedWatch read found; the morning's 79.6% December-hike figure is unconfirmed now. Daly ≈11:00 AM CT and Musalem ≈11:30 AM CT are next.",
+        "Open: S&P 7,631 (−1.16%), Nasdaq 25,592 (−2.26%, a 2-month low), Dow ≈−0.3%. Intel ≈−25% and Amazon −4% to −6.5% put ≈$300B of combined value at risk (Reuters).",
+        "Metals and oil: gold ≈$3,962 and silver ≈$50.04 (−$1.95 d/d) at 7:15 AM CT, copper ≈$6.50/lb (−1.2%). Kitco reported a new attack on Hormuz shipping, putting Brent ≈$117–118 and WTI ≈$103.8. Silver is down ≈14% in October."
+      ],
+      "simple": "The Employment Cost Index (a quarterly measure of what employers pay in wages and benefits) came in exactly as expected, and the wage part is cooling. That eases fears that pay rises are feeding inflation, so bond prices rose and yields (the interest rate the government pays to borrow) fell, most of all on 2-year notes, which track Fed expectations. Stocks still fell hard because Amazon and Intel are spending heavily on AI with weak payoffs so far, and gold slid even with yields lower, which suggests investors are selling winners to raise cash.",
+      "sources": [
+        {
+          "name": "Seeking Alpha (ECI)",
+          "url": "https://seekingalpha.com/news/4661372-employment-cost-index-growth-decelerates-in-q3-as-expected"
+        },
+        {
+          "name": "247 Wall St. (yields, private wages)",
+          "url": "https://247wallst.com/cards/xpost-01m66eesm18xtn5amk8gaja3r6"
+        },
+        {
+          "name": "Newsquawk (Chicago PMI)",
+          "url": "https://www.newsquawk.com/headlines/us-chicago-pmi-oct-553-vs-exp-561-prev-588"
+        },
+        {
+          "name": "Reuters via Investing.com (open)",
+          "url": "https://www.investing.com/news/stock-market-news/nasdaq-tumbles-at-open-as-amazon-intel-add-to-ai-spending-woes-4988016"
+        },
+        {
+          "name": "Kitco (metals, Hormuz)",
+          "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco"
+        },
+        {
+          "name": "Fortune (silver, oil)",
+          "url": "https://fortune.com/article/current-price-of-silver-10-30-2026/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-30T14:21:38Z"
 }
