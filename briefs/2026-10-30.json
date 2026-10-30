@@ -11,105 +11,105 @@
     "Metals and oil are moving in opposite directions. Gold is ≈$3,976 (−$44, Kitco 4:13 AM ET), below $4,000 after Thursday's lowest level since July 17, and down ≈3.8% for October. Silver is ≈$50.91 (−2.4%), putting the gold/silver ratio at ≈78. LME copper closed Thursday at $14,352/t (−0.96%) on long liquidation, even though China's Yangshan premium is above $200/t. Brent is ≈$116.1 (+1%) and WTI ≈$103.3 (+1.3%) on Houthi strikes against Saudi energy sites. Both are on track for ≈14–15% monthly gains, which is the inflation impulse the Fed can't ignore.",
     "Crypto has its biggest hack ever. Binance says ≈$6.3B left its wallets (TRM Labs: ≈$6.36B across 10 chains, mostly in ≈20 minutes), and TRM attributes it with high confidence to North Korea's TraderTraitor group. About $3B is frozen, including ≈$971M in USDT and ≈$823M in USDC, and Binance says it will cover all losses. Bitcoin is ≈$77,000 and BNB fell nearly 10% at one point (NBC News/Forbes). It's a live test of offshore venue risk against regulated, centrally cleared venues like CME."
   ],
-  "markets_asof": "≈12:15 PM CT",
+  "markets_asof": "Fri close (≈3:15 PM CT)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,596",
-      "change": "−1.6%",
+      "value": "7,559.85",
+      "change": "−2.08%",
       "dir": "down",
-      "note": "Midday (Benzinga)"
+      "note": "Close; worst day since June"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "—",
-      "change": "−2.4% to −3.2%",
+      "value": "25,303.37",
+      "change": "−3.37%",
       "dir": "down",
-      "note": "Sources conflict; NDX −3.2%"
+      "note": "Close"
     },
     {
       "label": "Dow",
-      "value": "51,957",
-      "change": "−0.7%",
+      "value": "≈51,600–51,700",
+      "change": "≈−1.2% to −1.5%",
       "dir": "down",
-      "note": "Midday, −386 pts (Benzinga)"
+      "note": "Close; sources conflict"
     },
     {
       "label": "Russell 2000",
-      "value": "2,859.22",
-      "change": "—",
-      "dir": "flat",
-      "note": "Thu close; no reliable intraday quote"
+      "value": "≈2,811",
+      "change": "≈−1.7%",
+      "dir": "down",
+      "note": "Close (single source)"
     },
     {
       "label": "UST 2Y",
-      "value": "4.604%",
-      "change": "−5 bp",
+      "value": "4.596%",
+      "change": "−6 bp",
       "dir": "down",
-      "note": "CNBC"
+      "note": "CNBC, late session"
     },
     {
       "label": "UST 10Y",
-      "value": "4.933%",
-      "change": "−5 bp",
+      "value": "4.941%",
+      "change": "−4 bp",
       "dir": "down",
-      "note": "CNBC; ≈−40 bp in October"
+      "note": "CNBC, late session"
     },
     {
       "label": "UST 30Y",
-      "value": "5.299%",
-      "change": "−3 bp",
+      "value": "5.315%",
+      "change": "≈−1 to −2 bp",
       "dir": "down",
-      "note": "CNBC"
+      "note": "CNBC, late session"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈76%",
-      "dir": "down",
-      "note": "FedWatch post-Musalem, from 79.6%"
+      "change": "Dec hike ≈76–83%",
+      "dir": "flat",
+      "note": "FedWatch midday vs Trading Economics"
     },
     {
       "label": "Brent",
       "value": "≈$117",
       "change": "up",
       "dir": "up",
-      "note": "Morning Kitco; no midday quote"
+      "note": "Dec contract; ≈+14% in October"
     },
     {
       "label": "WTI",
-      "value": "≈$103.8",
+      "value": "≈$104",
       "change": "up",
       "dir": "up",
-      "note": "Morning Kitco; no midday quote"
+      "note": "≈+15% in October"
     },
     {
       "label": "Gold",
-      "value": "≈$3,900–4,000",
-      "change": "≈−1% to −3%",
+      "value": "≈$3,890–3,920",
+      "change": "−2.5% to −3.4%",
       "dir": "down",
-      "note": "Sources conflict"
+      "note": "Lowest since June; ≈−4.7% in October"
     },
     {
       "label": "Silver",
-      "value": "≈$49.25",
-      "change": "≈−5.5%",
+      "value": "≈$49.00",
+      "change": "≈−5.7%",
       "dir": "down",
-      "note": "Single source (StockMarketWatch)"
+      "note": "First time below $50 since Nov 2025"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.42–6.54/lb",
+      "value": "—",
       "change": "—",
-      "dir": "down",
-      "note": "Sources conflict"
+      "dir": "flat",
+      "note": "No reliable settle found"
     },
     {
       "label": "Intel",
-      "value": "—",
-      "change": "≈−29.6%",
+      "value": "≈$65.92",
+      "change": "≈−28%",
       "dir": "down",
-      "note": "Matches record July 1974 drop"
+      "note": "Worst day since 1974"
     }
   ],
   "calendar": [
@@ -410,6 +410,49 @@
   "caveats": "WebFetch was blocked in this run, so every figure comes from search-result summaries. WSJ items come from Reuters press digests (MarketScreener/Boursorama). The NYT digest for Oct 30 wasn't readable, so the NYT bucket uses BEA, CNN and Forbes coverage of the same national stories. I found no Tribune coverage, so the Tribune bucket uses company filings, CME and Bloomberg Law for Chicago-HQ firms. Futures, yield and metals tiles are early-morning snapshots (≈4–6 AM ET) and sources differ by 0.1–0.3%. The 30Y tile is Thursday's late-session level, Amazon's Q3 capex is cited at both $75.9B and $77.3B, and Fed-speaker times are converted from an ET listing. Platinum and palladium quotes weren't available.",
   "updates": [
     {
+      "at": "2026-10-30T20:18:11Z",
+      "label": "Close",
+      "headline": "October ended in a rout: the S&P fell ≈2.1% to 7,560 and the Nasdaq ≈3.4% to 25,303, both their worst day since June. Treasuries kept the haven bid (10Y ≈4.94%), but gold and silver were sold anyway as Hormuz attacks pushed oil higher.",
+      "points": [
+        "Closes (Crypto Briefing; levels match the prior closes implied by this morning's open): S&P 500 7,559.85 (−2.08%), Nasdaq 25,303.37 (−3.37%). Dow fell ≈1.2–1.5% (Yahoo puts it at −650+ pts, AP at ≈−770, its worst day since July). Russell 2000 ≈2,811 (≈−1.7%). Benzinga says chip stocks lost ≈$1T of value; Intel finished ≈−28% to ≈$65.92, roughly its worst day since 1974.",
+        "Correction to this morning: Amazon closed down only ≈1–2% (AP/CNBC; reports conflict), not the ≈−7% it traded premarket. Intel, Alphabet's Thursday drop and the chip complex drove the selloff, not AMZN.",
+        "Rates (CNBC, late session): 2Y 4.596% (−6 bp), 10Y 4.941% (−4 bp), 30Y 5.315% (≈−1 to −2 bp). The bull-steepener held into month-end extension. December-hike odds conflict: ≈76% on FedWatch at midday (CNBC) vs ≈83% (Trading Economics). Musalem's 'soon' did not reverse the rally.",
+        "Metals and oil: gold ≈$3,890–3,920 (−2.5% to −3.4%), its lowest since June and ≈−4.7% for October. Silver ≈$49 (−5.7%) is below $50 for the first time since Nov 2025. Brent Dec ≈$117 (Jan ≈$113.5) and WTI ≈$104, up ≈14–15% in October on fresh Hormuz shipping attacks (FXStreet). No reliable copper settle or DXY level found.",
+        "Still ahead: China's official PMIs (Sat 8:30 PM CT), Apple earnings (Mon 4 PM CT) and the Nov 3 midterms. No bank M&A or capital-markets deals found today."
+      ],
+      "simple": "Stocks had their worst day in about four months because investors doubt the huge sums tech companies are spending on AI will pay off. Intel's weak forecast was the trigger. Scared money went into government bonds, and their yields (the interest they pay, which moves opposite to price) fell. Gold usually benefits from that kind of fear, but it fell too, a sign that investors were selling whatever they could to raise cash at month-end. Meanwhile, attacks on tankers in the Strait of Hormuz kept oil above $100, which keeps inflation pressure on the Fed even as growth worries rise.",
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/nasdaq-sp-500-lose-3-trillion-ai-selloff/"
+        },
+        {
+          "name": "AP via Local10",
+          "url": "https://www.local10.com/news/2026/10/30/sp-500-drops-18-for-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-worsens/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/amp/2026/10/30/us-treasury-yields-fed-interest-rates.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/10/62749985/chip-stocks-1-trillion-wipeout-intel-nvidia-amd-tsmc-broadcom"
+        },
+        {
+          "name": "Rio Times",
+          "url": "https://www.riotimesonline.com/silver-drops-5-gold-3-as-rout-accelerates/"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/wti-oil-holds-above-10300-near-five-month-highs-amid-new-attacks-in-the-strait-of-hormuz-202610301219"
+        }
+      ]
+    },
+    {
       "at": "2026-10-30T17:19:22Z",
       "label": "Midday",
       "headline": "Musalem said a hike is needed 'soon', but bonds kept rallying anyway: the 10Y is ≈4.93% (−5 bp) and December-hike odds slipped to ≈76% while the Nasdaq slid 2.4–3.2% and Intel ran at its worst day since 1974.",
@@ -488,5 +531,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30T17:19:22Z"
+  "updatedAt": "2026-10-30T20:18:11Z"
 }
