@@ -1,0 +1,412 @@
+{
+  "date": "2026-10-30",
+  "edition": "Morning edition",
+  "generatedAt": "2026-10-30T11:23:17Z",
+  "headline": "The AI-capex scare spreads from Alphabet to Amazon and Intel. Nasdaq-100 futures are ≈−2.2%, Intel ≈−25% and Amazon ≈−7% premarket. Treasuries keep rallying (2Y ≈4.58%, 10Y ≈4.92%) even with a December hike still ≈80% priced, and gold has broken below $4,000 ahead of the 7:30 AM CT Employment Cost Index.",
+  "summary": [
+    "Tech sold off again overnight. Nasdaq-100 E-minis are down ≈640 points (≈−2.2%, Reuters; Bloomberg has −2.4%) and S&P futures are ≈−1%. Intel is ≈−25–26% premarket after guiding Q4 revenue to $15–16B and EPS to $0.25, and warning that the PC slowdown lasts through 1H27 (CNBC). Amazon is ≈−7%: Q3 cash capex was ≈$76–77B, trailing free cash flow −$42.4B, and 2027 spending will be 'meaningfully' higher (CNBC). Thursday's close: S&P 7,720.39 (−0.30%), Nasdaq 26,184.72 (−1.38%), Dow 52,342.56 (−0.25%). The Russell 2000 rose +1.01% to 2,859.22, so the rotation out of megacaps into small caps is still on.",
+    "Treasuries are trading growth risk over inflation risk. The 2Y is ≈4.58% vs a 4.66% Thursday close, and Thursday's drop was ≈8 bp on its own. The 10Y is ≈4.92% vs 4.988%. That's happening despite Q3 GDP at 3.4% (vs 3.2% consensus) and September PCE at 3.6% headline / 3.1% core. FedWatch has the December 9 hike at 79.6%, down from 84.2% a day earlier but up from 73.3% a week ago (Fox Business). Bonds are pricing a growth scare while still pricing a hike.",
+    "7:30 AM CT is the Q3 Employment Cost Index: consensus ≈0.8% q/q, prior 0.9%. A 0.9%+ print brings back the wage-price story and should cap the front-end rally. A 0.7% print feeds the case that the AI-capex scare plus a cooling labor market lets the Fed skip December. Chicago PMI follows at 8:45 AM (≈56.1 expected vs 58.8). Daly speaks at ≈11:00 AM CT and Musalem at ≈11:30 AM CT. It's also month-end, so expect index-extension buying at the long end.",
+    "Central banks abroad: the BOJ held at 1.25% on an 8–1 vote, with one member pushing for 1.5%. Ueda said hikes will continue but gave no timing, and USD/JPY slipped to ≈157.32. The ECB held its deposit rate at 2.5% unanimously while euro-area inflation is ≈3.8%, and Lagarde said she'll leave on Feb 7, 2027, about nine months early. Markets price a December ECB hike at ≈67% (CNBC) to ≈82% (EBC). With the BOJ, ECB and Fed all leaning toward hikes, the dollar index is roughly flat at ≈102.",
+    "Metals and oil are moving in opposite directions. Gold is ≈$3,976 (−$44, Kitco 4:13 AM ET), below $4,000 after Thursday's lowest level since July 17, and down ≈3.8% for October. Silver is ≈$50.91 (−2.4%), putting the gold/silver ratio at ≈78. LME copper closed Thursday at $14,352/t (−0.96%) on long liquidation, even though China's Yangshan premium is above $200/t. Brent is ≈$116.1 (+1%) and WTI ≈$103.3 (+1.3%) on Houthi strikes against Saudi energy sites. Both are on track for ≈14–15% monthly gains, which is the inflation impulse the Fed can't ignore.",
+    "Crypto has its biggest hack ever. Binance says ≈$6.3B left its wallets (TRM Labs: ≈$6.36B across 10 chains, mostly in ≈20 minutes), and TRM attributes it with high confidence to North Korea's TraderTraitor group. About $3B is frozen, including ≈$971M in USDT and ≈$823M in USDC, and Binance says it will cover all losses. Bitcoin is ≈$77,000 and BNB fell nearly 10% at one point (NBC News/Forbes). It's a live test of offshore venue risk against regulated, centrally cleared venues like CME."
+  ],
+  "markets_asof": "Pre-market ≈6:15 AM CT (stock index tiles are Thursday's close; futures in notes)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,720.39",
+      "change": "−0.30%",
+      "dir": "down",
+      "note": "Thu close; futures ≈−1% pre-market"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "26,184.72",
+      "change": "−1.38%",
+      "dir": "down",
+      "note": "NDX futures ≈−2.2% (−640 pts)"
+    },
+    {
+      "label": "Dow",
+      "value": "52,342.56",
+      "change": "−0.25%",
+      "dir": "down",
+      "note": "Thu close; futures slightly lower"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,859.22",
+      "change": "+1.01%",
+      "dir": "up",
+      "note": "Thu close; small-cap rotation"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.58%",
+      "change": "≈−8 bp",
+      "dir": "down",
+      "note": "vs 4.66% Thu close"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.92%",
+      "change": "≈−7 bp",
+      "dir": "down",
+      "note": "Thu close 4.988%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.32%",
+      "change": "≈−4 bp",
+      "dir": "down",
+      "note": "Thu late session; no fresh quote"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike 79.6%",
+      "dir": "flat",
+      "note": "84.2% a day earlier (FedWatch)"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$116.1",
+      "change": "≈+1.0%",
+      "dir": "up",
+      "note": "≈+14% in October"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$103.3",
+      "change": "≈+1.3%",
+      "dir": "up",
+      "note": "≈+15% in October"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$3,976",
+      "change": "≈−1.1% (−$44)",
+      "dir": "down",
+      "note": "Kitco 4:13 AM ET; below $4,000"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$50.91",
+      "change": "−2.42%",
+      "dir": "down",
+      "note": "Gold/silver ≈78"
+    },
+    {
+      "label": "LME copper",
+      "value": "$14,352/t",
+      "change": "−0.96%",
+      "dir": "down",
+      "note": "Thu close; record $14,875 in Sept"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.0",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "USD/JPY ≈157.32 after BOJ hold"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-market",
+      "event": "Amazon (−≈7%) and Intel (−≈25%) trade on Q3 results",
+      "consensus": "AMZN Q4 revenue guide $240–247B; INTC Q4 guide $15–16B, EPS $0.25",
+      "prior": "AMZN closed $243.79 Thu; Thursday's Nasdaq close was −1.38%",
+      "why": "These two set the tone for the AI-capex trade into month-end. A Nasdaq open near −2% keeps the haven bid in Treasuries alive."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Q3 Employment Cost Index",
+      "consensus": "≈0.8% q/q (Trading Economics: 0.7%)",
+      "prior": "0.9%",
+      "why": "This is the Fed's cleanest wage gauge. With core PCE at 3.1%, a 0.9%+ print revives the wage-price risk and supports the December hike; a 0.7% print helps the 2Y rally extend."
+    },
+    {
+      "time": "8:45 AM",
+      "event": "Chicago PMI (October)",
+      "consensus": "≈56.1",
+      "prior": "58.8",
+      "why": "This is the Midwest factory read, closely watched in Chicago. Prices paid will show whether $100+ oil is passing through to inputs."
+    },
+    {
+      "time": "≈11:00 AM",
+      "event": "SF Fed President Daly speaks",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the first read on how a dovish-leaning official sees December after PCE. Any hint of comfort with a hold pushes FedWatch below 80%. The time is converted from Kiplinger's ET listing."
+    },
+    {
+      "time": "≈11:30 AM",
+      "event": "St. Louis Fed President Musalem speaks",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A hawk who will likely lean on 3.6% headline PCE and oil. Watch whether he endorses a December hike outright."
+    },
+    {
+      "time": "3:00 PM",
+      "event": "Month-end / index extension",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Month-end duration buying from index rebalancing usually supports the long end into the close, which could flatter the 10Y and 30Y today."
+    },
+    {
+      "time": "Sat 8:30 PM CT",
+      "event": "China official PMIs (October)",
+      "consensus": "—",
+      "prior": "Sept mfg cited at 49.8–50.1 (sources conflict)",
+      "why": "This is the demand check for copper after Thursday's long liquidation. A sub-50 manufacturing print would hit LME at Monday's open."
+    },
+    {
+      "time": "Mon Nov 2, 4:00 PM",
+      "event": "Apple fiscal Q4 earnings (call 2 PM PT)",
+      "consensus": "Revenue ≈$111.7–113.7B (guided +9–11% y/y), gross margin 47–48%",
+      "prior": "$102.5B (FQ4 2025)",
+      "why": "This is CEO John Ternus's first call. After Alphabet, Amazon and Intel, it's the last megacap test of the AI and hardware story this cycle."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "+25 bp ≈79.6% (CME FedWatch)",
+      "prior": "3.75–4.00%",
+      "why": "The odds have swung 73% → 84% → 80% in one week. ECI, October payrolls and CPI decide it, and the Nov 3 midterms come before all of it."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Front end rallies through hot data",
+        "body": "The 2Y is ≈4.58% vs 4.66% at Thursday's close, after an ≈8 bp drop on Thursday. The 10Y is ≈4.92% vs 4.988%, having been above 5% before the PCE release. Q3 GDP at 3.4% and core PCE at 3.1% didn't stop it, because the AI-capex selloff and month-end flows are dominating. FRED shows 2s10s at 37 bp on Oct 29.",
+        "simple": "A Treasury yield is the interest the U.S. government pays to borrow; when investors rush to buy bonds, yields fall. Normally strong growth and sticky inflation push yields up, but this week fear about big tech stocks outweighed that, and money moved into the safety of government debt. For ordinary people this pulls mortgage and car-loan rates down a little, even though the Fed may still raise its own rate.",
+        "source": "CNBC / Trading Economics / FRED",
+        "url": "https://www.cnbc.com/quotes/US2Y"
+      },
+      {
+        "title": "December hike: 79.6% and wobbling",
+        "body": "FedWatch has a 25 bp December hike at 79.6%, down from 84.2% Wednesday but up from 73.3% a week ago. September PCE rose to 3.6% headline (from 3.4%) and 3.1% core (from 3.0%). Warsh's no-guidance approach means each print reprices the meeting, and today it's the ECI.",
+        "simple": "CME's FedWatch tool turns futures prices into the market's implied odds of a Fed rate change. Traders still think a hike in December is likely because inflation is about 3.6%, well above the Fed's 2% goal. Because the Fed chair isn't signaling his plans in advance, each new piece of data, like today's wage report, moves those odds and the interest rates banks charge.",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation"
+      },
+      {
+        "title": "ECB holds at 2.5%; Lagarde leaves early",
+        "body": "The ECB held its deposit rate at 2.5% unanimously after September's 25 bp hike, with inflation ≈3.8% and French bonds under pressure. Lagarde will step down Feb 7, 2027, about nine months early, and still chairs the December and February meetings. December hike odds are ≈67% (CNBC) to ≈82% (EBC), and Bloomberg Economics expects the cycle to end in December.",
+        "simple": "The European Central Bank sets interest rates for the 20-plus countries using the euro, and it paused after raising rates last month. Its president, Christine Lagarde, said she'll leave early so European leaders can name a successor before France's elections. A steady handover matters to U.S. bond traders too, because European and American yields tend to move together.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
+      },
+      {
+        "title": "BOJ hawkish hold at 1.25%",
+        "body": "The BOJ held 8–1, with one member voting for 1.5%. It said underlying inflation has reached 2%, and Ueda said hikes will continue without giving timing. Reuters-polled economists mostly expect 1.5% in December, and pre-meeting pricing was ≈80%. USD/JPY slipped to ≈157.32, the yen's third straight daily gain.",
+        "simple": "Japan's central bank kept its rate at 1.25% but hinted strongly that it will raise it soon, possibly in December. Higher Japanese rates can draw Japanese investors' money home, and they are among the biggest foreign buyers of U.S. Treasuries. Less Japanese demand could keep long-term U.S. borrowing costs higher over time.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-ueda-remains-vague-about-the-next-rate-hike-202610300723"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "SOFR options and Treasury futures OI keep building",
+        "body": "CME's October rates recap says Treasury futures open interest rose by 1.2M contracts in September to ≈24M, and SOFR options added more than 6M contracts in the 15 days after the September expiry. Reports put the heaviest strikes in the Dec-26 to Jun-27 SOFR options at 95.4375 to 97.00 (sources conflict). Hedgeweek reports funds kept adding Treasury futures shorts.",
+        "simple": "SOFR futures and options are contracts that let traders bet on or hedge where short-term U.S. interest rates will be. Open interest (the number of contracts still outstanding) keeps rising because no one knows how far the Fed will go. When the central bank won't signal its plans, banks and funds buy more of this protection, which brings volume to exchanges like CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "CME: record Q3, Q4 running +17% y/y",
+        "body": "CME reported a record Q3 average daily volume of 29.4M contracts (+16% y/y) and record end-September open interest of 128M. CFO Lynne Fitzpatrick said Q4 volume is running ≈17% above last year's record and October is tracking the best October ever. Brazilian real futures set a daily record of 498,498 contracts on Oct 26 after Brazil's election.",
+        "simple": "CME Group runs the exchanges where futures on interest rates, currencies, metals and energy trade, and it makes money on every contract. Uncertain events like a surprise Fed path, a war-driven oil spike or a foreign election push more businesses and investors to hedge. That's why CME's volumes keep setting records.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/21/cme_group_inc_reportshighestq3revenueonrecordforq32026.html"
+      },
+      {
+        "title": "Binance hack: ≈$6.3B gone, ≈$3B frozen",
+        "body": "Binance confirmed ≈$6.3B left its wallets after an attacker reached a service container through a compromised engineer's laptop. Chainalysis estimates $5.9B and TRM ≈$6.36B. Tether froze ≈$971M and Circle ≈$823M. Deposits and withdrawals are suspended, Binance says it will cover losses from its SAFU fund, bitcoin is ≈$77K and BNB fell nearly 10%.",
+        "simple": "Binance is the world's largest crypto exchange, and hackers linked to North Korea drained about $6 billion from it, the biggest crypto theft ever. Some stolen funds were frozen because stablecoin issuers (companies whose tokens are pegged to the dollar) can block tokens. It shows the risk of offshore exchanges compared with regulated venues like CME, where a central clearinghouse guarantees trades.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/binance-hack-tether-circle-stablecoins-rcna606445"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold breaks $4,000",
+        "body": "Spot gold is ≈$3,976 (−$44.10, Kitco 4:13 AM ET) after Thursday's lowest level since July 17, and it's down ≈3.8% in October, its second straight monthly loss. Traders flag the $3,975 Oct 23 low as key support. The drivers are an oil-fed inflation pickup and ≈80% odds of a Fed hike. UBS still sees $5,000+ next year once the Fed eventually cuts.",
+        "simple": "Gold pays no interest, so when interest rates are expected to rise, holding it costs more in what you give up, and investors sell. Oil above $100 is pushing inflation up, which makes a Fed rate hike more likely, and that is weighing on gold. Some banks expect gold to rebound once rates eventually start falling again.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data.html"
+      },
+      {
+        "title": "Silver underperforms; ratio near 78",
+        "body": "Silver is ≈$50.91 (−2.42% from Thursday's $52.17, FXStreet), and Kitco has $51.09. It's falling faster than gold, so the gold/silver ratio has widened to ≈78 from ≈75 earlier this week. Silver's industrial exposure is hurting it as the AI-capex trade unwinds.",
+        "simple": "Silver is both a precious metal and an industrial input used in electronics and solar panels, so it falls harder than gold when growth worries rise. The gold/silver ratio shows how many ounces of silver one ounce of gold buys, and a rising ratio signals fear about industrial demand. Traders use it to judge whether silver is cheap or expensive relative to gold.",
+        "source": "FXStreet",
+        "url": "https://fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610300933"
+      },
+      {
+        "title": "Copper: futures liquidated, physical still tight",
+        "body": "LME copper closed Thursday at $14,352/t (−0.96%) after a $14,278–14,491 range, and SMM expects further drift lower on U.S. hike risk. China's physical market is still tight: the Yangshan premium spiked above $200/t and Chinese inventories keep falling. China's official PMI comes Saturday. The record is $14,875 from September.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price is a gauge of global building and factory activity. Speculators sold futures on fears of higher U.S. rates, but buyers in China are still paying a large premium to get physical metal. That gap between paper selling and real-world shortage is what metals traders watch.",
+        "source": "SMM (Shanghai Metals Market)",
+        "url": "https://news.metal.com/newscontent/104186849-us-economic-resilience-strengthens-rate-hike-expectations-copper-prices-consolidate-under-pressure-smm-copper-morning-meeting-summary"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "AI capex is now a funding story",
+      "body": "Amazon's trailing free cash flow is −$42.4B (CNBC). Q3 cash capex was ≈$76–77B (sources differ), 2026 is held at ≈$220B and 2027 will be 'meaningfully' higher. Q4 revenue guidance is $240–247B. Add Alphabet's negative FCF and Intel's warning that it will burn cash, and hyperscaler capex is outrunning internal cash.",
+      "simple": "Free cash flow is the cash a company has left after paying for its investments, and Amazon's has turned sharply negative because it's spending so much on AI data centers. When even the biggest companies can't fund that spending from their own cash, they borrow by issuing bonds or raise money from investors. That creates fee business for banks' capital-markets desks, and risk for whoever lends.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+    },
+    {
+      "title": "Intel −25% premarket on weak Q4 guidance",
+      "body": "Q3 non-GAAP EPS was $0.52 vs ≈$0.41 expected, and revenue was $16.51B (+21% y/y), just below $16.54B. But Q4 guidance of $15–16B revenue and $0.25 EPS, plus a PC slowdown expected through 1H27, sank the stock more than 20% after hours. Data-center growth was its strongest in 15 years.",
+      "simple": "Intel beat forecasts for the past quarter, but it told investors the next one will be weaker because people are buying fewer PCs. Stock prices move on expectations for the future, so weak guidance (a company's own forecast) can outweigh good past results. A drop this large in a major chipmaker hits pension and index funds that hold it.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+    },
+    {
+      "title": "IPO window: deals pricing at the low end",
+      "body": "OPay priced 16M ADSs at $19, the bottom of its $19–21 range, for an NYSE debut (≈$304M). Aspen Neuroscience is listed at $15 (bottom of $15–17). Georgia Banking Co. direct-listed on Nasdaq with a $30 reference price. The window is open, but pricing power is fading as tech sells off.",
+      "simple": "An IPO is when a private company sells shares to the public for the first time, and investment banks set the price and earn fees on it. Pricing at the bottom of the expected range means investors demanded a discount, a sign the mood is turning cautious. A weaker IPO market means fewer and smaller underwriting fees for Wall Street banks.",
+      "source": "Securities.io / StockAnalysis",
+      "url": "https://www.securities.io/opay-prices-ipo-of-16-million-adss-at-19-00-ahead-of-nyse-debut/"
+    },
+    {
+      "title": "Wintrust upgraded on loan growth and margin",
+      "body": "Rosemont-based Wintrust rose 2.5% Thursday after UBS upgraded it, citing robust loan growth and room for its net interest margin to expand. Q3 loans and deposits each grew ≈8% annualized. Regional banks have benefited from the small-cap rotation (Russell 2000 +1.01% Thursday).",
+      "simple": "Wintrust is a large Chicago-area commercial bank. Net interest margin is the gap between what a bank earns on loans and what it pays on deposits, its core profit engine. Growing loans and deposits at about 8% a year while that margin widens means more profit, which is why an analyst raised the rating on the stock.",
+      "source": "Investing.com",
+      "url": "https://investing.com/news/stock-market-news/wintrust-financial-shares-gain-25-as-ubs-lifts-rating-on-strong-outlook-4984195"
+    },
+    {
+      "title": "Weil Gotshal moves to dissolve",
+      "body": "Weil's management committee has recommended an orderly wind-down after the Willkie merger talks collapsed and partners left. A partner vote is expected within days, and London staff were told the office winds up Dec 31 with 90-day payouts. Weil is one of the biggest restructuring and M&A advisers, so its clients and deal mandates are now up for grabs.",
+      "simple": "Weil is a major Wall Street law firm that advises on mergers and on bankruptcies (restructurings). After many senior lawyers left and a merger fell through, its leaders recommended shutting the firm down. Rival firms and banks will compete for its clients, which reshuffles who advises on big deals.",
+      "source": "Legal Cheek",
+      "url": "https://www.legalcheek.com/2026/10/weil-reportedly-turns-to-restructuring-lawyers-amid-ongoing-uncertainty/amp/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Amazon slides on cash burn despite AWS +39%",
+        "body": "Revenue was $201.9B vs ≈$202.3B expected, EPS $1.89 vs $1.97, and AWS ≈$46B (+39%) with $17.77B of operating income (+55%). Trailing FCF is −$42.4B. Shares closed −4.25% at $243.79 and are ≈−7% premarket.",
+        "simple": "Amazon's cloud-computing unit grew fast, but the company is spending so much on AI that it's burning cash. Investors worry the payoff from that spending is far off, so the stock fell. Amazon is a top holding in most retirement funds, so its moves reach ordinary savers.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+      },
+      {
+        "title": "Intel plunges on PC-slowdown guidance",
+        "body": "Intel beat on Q3 EPS ($0.52) but guided Q4 to $15–16B revenue and $0.25 EPS. It fell more than 20% after hours and ≈25% premarket, its largest move in years.",
+        "simple": "Intel warned that weak PC sales will keep hurting results into next year. Stock prices are driven by the future, so the warning outweighed the good quarter. It adds to doubts about which chipmakers win from the AI boom.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+      },
+      {
+        "title": "ECB holds at 2.5% as Lagarde exits early",
+        "body": "The ECB held rates for a second straight meeting with inflation near 3.8%. Money markets price ≈67% odds of a December hike after Lagarde's announcement.",
+        "simple": "Europe's central bank paused its rate increases but kept the door open to one more in December. Its leader will leave in February, about nine months early. Investors watch for any change in policy direction under a new president.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
+      },
+      {
+        "title": "Gold hits 3½-month low on Fed hike fears",
+        "body": "Spot gold fell 0.6% to ≈$3,995 Thursday, its lowest since July 17, and is down 3.8% for October. FedWatch put the December hike near 74% at the time.",
+        "simple": "Gold fell as traders priced in a likely Fed rate hike, because higher rates make interest-paying assets more attractive than gold. That's a reversal for a metal that rallied hard earlier this year. Central-bank buying remains a support.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Binance heist leads the Journal",
+        "body": "Friday's WSJ digest leads with the Binance hack, the largest crypto theft on record at ≈$6.3B. Binance has suspended withdrawals and says it will make users whole.",
+        "simple": "The world's biggest crypto exchange lost about $6 billion to hackers. Customers can't withdraw for now, though the exchange says it will cover the losses. Big hacks like this strengthen the case for regulated, supervised trading venues.",
+        "source": "Reuters press digest of WSJ (via MarketScreener)",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-30-ce785fdad08ef423"
+      },
+      {
+        "title": "DoorDash–Instacart faces FTC scrutiny",
+        "body": "The ≈$17B ($65/sh) DoorDash deal for Instacart may draw FTC review over cost-of-living concerns. Closing is targeted for late 2027 or 1H28.",
+        "simple": "When two big competitors merge, the Federal Trade Commission checks whether prices could rise for consumers. Grocery-delivery fees are politically sensitive, so this review could be long. Long reviews tie up the banks' and lawyers' fees, and the deal's financing.",
+        "source": "Reuters press digest of WSJ (via MarketScreener)",
+        "url": "https://www.marketscreener.com/news/press-digest-wall-street-journal-october-30-ce785fdad08ef423"
+      },
+      {
+        "title": "GE Vernova–Trench, Trian–Wendy's, MGM–People talks end",
+        "body": "The Thursday digest: GE Vernova buys Trench Group from Triton for $9B, Peltz's group proposes taking Wendy's private for $1.4B, and talks between MGM Resorts and Barry Diller's People Inc. ended.",
+        "simple": "These are big takeover moves: an energy-equipment maker buying a supplier, an activist investor trying to buy a fast-food chain, and a merger discussion that fell apart. Deal activity like this generates advisory and lending fees for investment banks, so it's a gauge of how busy Wall Street's M&A desks are.",
+        "source": "Reuters press digest of WSJ (via Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-29-octobre-f5368dc4842b00c8f0b86723b6418d22"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Mondelez beats; adjusted EPS +5.5% cc",
+        "body": "Chicago-based Mondelez grew Q3 revenue 2.3% to $10.0B (organic +2.1%, volume/mix +1.8%). Adjusted EPS was $0.78 (+5.5% constant currency) vs ≈$0.71 expected, and YTD free cash flow was $1.7B. It also agreed to buy Undercover Snacks.",
+        "simple": "The maker of Oreos and Cadbury sold more snacks and earned more than analysts expected. 'Constant currency' strips out exchange-rate swings so you see underlying growth. For a company exposed to cocoa and sugar, beating estimates means it's passing cost increases to shoppers successfully.",
+        "source": "Mondelez 8-K (SEC)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001103982/000162828026068233/mdlzearningsreleasecontent.htm"
+      },
+      {
+        "title": "CME on pace for record October",
+        "body": "CME said October is tracking its highest October ADV ever and Q4 is running ≈17% above last year's record, after a record Q3 ADV of 29.4M. BRL futures set a daily record (498,498) after Brazil's election. Shares were ≈$294.",
+        "simple": "Chicago's CME Group earns fees each time a futures contract trades, and turbulence in rates, oil and politics drives more hedging. Record volume means record revenue for one of Chicago's most important employers. It also shows how much businesses are paying to protect themselves from price swings.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/10/27/cme_group_brazilianrealfuturessetnewdailyvolumerecordfollowingel.html"
+      },
+      {
+        "title": "ADM sued over 401(k) forfeitures",
+        "body": "Participants in Archer-Daniels-Midland's 401(k) plans sued in the Northern District of Illinois. They allege the Chicago-based company used forfeited plan assets to cut its own contribution costs.",
+        "simple": "When workers leave before their employer's retirement contributions vest, that money is 'forfeited.' The lawsuit says ADM used it to reduce what the company owed instead of benefiting workers. Similar suits are hitting many big employers, so the outcome matters for retirement plans broadly.",
+        "source": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/us-law-week/archer-daniels-midland-sued-over-retirement-plan-forfeitures"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Q3 GDP grows 3.4%",
+        "body": "The BEA's advance estimate shows real GDP up 3.4% annualized vs 3.2% consensus and 2.2% in Q2. Investment, consumer spending and government drove it, and exports fell. GDPNow was 3.3%.",
+        "simple": "GDP measures everything the economy produces, and growth of 3.4% a year is strong. Strong growth plus high inflation is why the Fed is thinking about raising rates rather than cutting. It also means companies are still investing heavily, especially in AI.",
+        "source": "BEA",
+        "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+      },
+      {
+        "title": "Lagarde resigns early to speak freely",
+        "body": "Lagarde will leave Feb 7, 2027, saying she 'cannot remain neutral' on issues beyond monetary policy. The timing lets EU leaders choose a successor before France's elections. Markets were unfazed.",
+        "simple": "The head of Europe's central bank is stepping down early so she can speak out on broader issues. Leaving now lets current European leaders pick her replacement before a French election that could change the politics. Markets didn't react much because policy isn't expected to change suddenly.",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/29/business/christine-lagarde-ecb-president-resigns-intl"
+      },
+      {
+        "title": "Binance hack traced to North Korea",
+        "body": "TRM Labs has 'high confidence' the attack was by TraderTraitor, North Korea's elite hacking unit, and says ≈$6.36B moved across 10 blockchains in ≈20 minutes. The breach started from a single engineer's laptop.",
+        "simple": "Investigators say North Korean state hackers got into one employee's computer and used it to drain billions from Binance in minutes. North Korea uses stolen crypto to fund its government. The theft will likely bring tougher security and regulatory demands on crypto firms.",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/10/30/binances-63-billion-hack-started-with-one-engineers-laptop/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Bonds rallying on hot data: growth scare vs inflation",
+      "point": "Two days after core PCE hit 3.1% and Q3 GDP printed 3.4%, the 2Y is down ≈15 bp in two sessions to ≈4.58% while a December hike is still ≈80% priced. The market is pricing 'hike, then the AI-capex bust forces cuts', which shows up as a bull-steepening curve and a richer front end. Good question for a rates desk: is this real duration demand, or short-covering plus month-end extension that fades if today's ECI is 0.9%+?"
+    },
+    {
+      "topic": "Hyperscaler cash burn means jumbo bond supply",
+      "point": "Amazon's trailing FCF is −$42.4B with 2027 capex 'meaningfully' above ≈$220B, Alphabet's FCF is negative, and Intel warns of cash burn. AI infrastructure is shifting from internally funded to market-funded. Expect more jumbo IG deals, converts and private credit: fees for DCM and balance-sheet use for commercial banks, but also a reason IG spreads and swap spreads could widen as supply hits."
+    },
+    {
+      "topic": "Binance vs central clearing: the CME pitch",
+      "point": "A ≈$6.3B hack at the largest offshore exchange, with withdrawals suspended and stablecoin issuers freezing ≈$1.8B, is the strongest argument yet for regulated, centrally cleared crypto derivatives. CME already lists bitcoin, ether and newer alt-coin futures, and Q4 volume is running ≈+17% y/y. In a CME or bank conversation, frame it as counterparty risk: institutions pay for clearinghouse guarantees, and events like this move flow onshore."
+    }
+  ],
+  "caveats": "WebFetch was blocked in this run, so every figure comes from search-result summaries. WSJ items come from Reuters press digests (MarketScreener/Boursorama). The NYT digest for Oct 30 wasn't readable, so the NYT bucket uses BEA, CNN and Forbes coverage of the same national stories. I found no Tribune coverage, so the Tribune bucket uses company filings, CME and Bloomberg Law for Chicago-HQ firms. Futures, yield and metals tiles are early-morning snapshots (≈4–6 AM ET) and sources differ by 0.1–0.3%. The 30Y tile is Thursday's late-session level, Amazon's Q3 capex is cited at both $75.9B and $77.3B, and Fed-speaker times are converted from an ET listing. Platinum and palladium quotes weren't available.",
+  "updates": []
+}
