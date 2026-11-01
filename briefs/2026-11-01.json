@@ -1,0 +1,475 @@
+{
+  "date": "2026-11-01",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-11-01T12:21:14Z",
+  "headline": "Sunday reset before the heaviest week of the quarter: OPEC+ reportedly held December output, Brent's new front month sits ≈$113, and with the 10Y ≈4.93% and a December hike still ≈70–80% priced, the sequence of Apple (Mon), midterms (Tue), refunding (Wed), BoE (Thu) and payrolls (Fri, ≈55k) decides whether October's bull-steepener extends.",
+  "summary": [
+    "Where we start (Fri Oct 30 close): S&P 500 7,580.07 (−1.82%), Nasdaq 25,437.00 (−2.86%), Dow 51,770.31 (−1.09%). The 2Y is ≈4.56–4.59% and the 10Y ≈4.93% after a ≈36 bp drop in October, its biggest monthly fall since Dec 2023. The 30Y is ≈5.31%. Fed funds are 3.75–4.00%, and odds of a Dec 9 hike are ≈69% (RateWatch) to ≈76–80% (FedWatch/other trackers).",
+    "The week in rates: the market priced a growth scare on top of a hawkish Fed. The 2Y fell ≈10 bp on the week while the 30Y was flat, a ≈10 bp 2s30s bull-steepener. Payroll forecasts for Friday range from 50k (Barclays) to 65k (Bloomberg survey) vs September's 29k, with unemployment at 4.2%. A print in that range keeps December live. A miss below ≈30k is the scenario that re-prices the front end.",
+    "The week in metals and oil: Dec gold settled ≈$3,885, a one-year low, after a ≈7% October drop (≈−5% to −7% depending on the contract). Silver is ≈$49.12 (≈−15% in October) and platinum and palladium are each down ≈17–18% in a month. Oil went the other way. December Brent expired Friday at $117.64, Brent rose ≈13.6% and WTI ≈15.2% in October, and the new January Brent contract settled ≈$113.43. Over the weekend, seven core OPEC+ members reportedly agreed in principle on Sunday to hold December targets unchanged, so Hormuz headlines remain the oil driver.",
+    "China's official manufacturing PMI fell to 49.3 (consensus ≈50, prior 50.1), back in contraction. LME copper trades it for the first time Monday, with COMEX at ≈$6.49/lb. The Chicago PMI (Oct 30) fell 3.5 pts to 55.3, still expansion but below forecasts.",
+    "Event risk is unusually stacked. Kalshi had ≈63% odds of Democrats taking both chambers in late October, and Man Group estimates S&P options price ≈20% extra vol for Nov 4. Treasury's refunding statement lands that same morning. The focus is whether the 'at least the next several quarters' coupon guidance survives and what happens to the doubled long-end buybacks (≥$4B per operation). Dealers mostly see coupon increases in early-to-mid 2027.",
+    "Banking and deals: DoorDash–Instacart (≈$17B, with an up-to-$13B JPMorgan bridge) is still the week's leveraged-finance story. Trian's $7.35/share (≈$1.4B) all-cash, no-new-debt bid for Wendy's is the take-private to watch. Chicago's Byline Bancorp is buying Illinois State Bancorp for ≈$87.9M (1.07x tangible book), the latest small deal in Illinois' consolidating bank market."
+  ],
+  "markets_asof": "Fri Oct 30 close (markets closed for the weekend; CME Globex reopens Sun 5:00 PM CT)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,580.07",
+      "change": "−1.82%",
+      "dir": "down",
+      "note": "Week ≈−0.6%; Oct ≈−0.9%"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "25,437.00",
+      "change": "−2.86%",
+      "dir": "down",
+      "note": "Oct ≈−5.3% (one source −6.6%)"
+    },
+    {
+      "label": "Dow",
+      "value": "51,770.31",
+      "change": "−1.09%",
+      "dir": "down",
+      "note": "Oct ≈+1.7%"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,811",
+      "change": "≈−1.66%",
+      "dir": "down",
+      "note": "Single source"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.56–4.59%",
+      "change": "≈−10 bp w/w",
+      "dir": "down",
+      "note": "Sources differ on Friday's close"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.93%",
+      "change": "≈−7 bp w/w",
+      "dir": "down",
+      "note": "≈−36 bp in October"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.31%",
+      "change": "≈flat w/w",
+      "dir": "flat",
+      "note": "2s30s ≈+10 bp steeper"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈69–80%",
+      "dir": "flat",
+      "note": "RateWatch 69.4%; FedWatch ≈76%; one source ≈80%"
+    },
+    {
+      "label": "Brent",
+      "value": "$117.64",
+      "change": "+2.4%",
+      "dir": "up",
+      "note": "Dec contract expired at this; new Jan front month ≈$113.43"
+    },
+    {
+      "label": "WTI",
+      "value": "$104.12",
+      "change": "+2.1%",
+      "dir": "up",
+      "note": "Oct ≈+15.2%"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$3,885",
+      "change": "−3.6%",
+      "dir": "down",
+      "note": "Dec futures; one-year low; Oct ≈−7%"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$49.12",
+      "change": "≈−8.9% w/w",
+      "dir": "down",
+      "note": "Below $50; Oct ≈−15%"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$6.49/lb",
+      "change": "≈flat w/w",
+      "dir": "flat",
+      "note": "China PMI 49.3 hits LME Monday"
+    },
+    {
+      "label": "Dollar index",
+      "value": "101.96",
+      "change": "≈+0.1%",
+      "dir": "flat",
+      "note": "EUR/USD ≈1.11"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun 5:00 PM",
+      "event": "CME Globex reopens (first session after DST ends)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the first chance to trade the OPEC+ hold and China's 49.3 PMI. Chicago is now on CST, so ET releases are one hour ahead of CT and London is six hours ahead."
+    },
+    {
+      "time": "Mon 9:00 AM",
+      "event": "ISM Manufacturing (Oct)",
+      "consensus": "≈54.5–54.7",
+      "prior": "54.5 (prices paid 77.9)",
+      "why": "Prices paid is the hike-risk component. A prices print near 80 with $100+ oil supports December even as China's PMI rolls over."
+    },
+    {
+      "time": "Mon (time TBC)",
+      "event": "Chicago Fed's Goolsbee speaks",
+      "consensus": "—",
+      "prior": "—",
+      "why": "He's the first Fed voice after the 10–2 hold. Listen for whether the tech selloff counts as tighter financial conditions."
+    },
+    {
+      "time": "Mon after close",
+      "event": "Apple FQ4 and Palantir earnings; Berkshire Q3 also listed for Nov 2 (unconfirmed)",
+      "consensus": "AAPL rev ≈$113.4B, EPS ≈$1.99; BRK EPS ≈$5.91, rev ≈$97.3B (Zacks)",
+      "prior": "AAPL $102.5B; BRK Q2 operating earnings $12.98B",
+      "why": "Apple at ≈40x earnings is the last megacap test after Friday's AI-capex hit. Berkshire's cash and T-bill pile ($364.7B at June 30) is a read on demand for front-end bills."
+    },
+    {
+      "time": "Mon 9:30 PM",
+      "event": "RBA decision",
+      "consensus": "≈79% priced for +25 bp to 4.85%",
+      "prior": "4.60%",
+      "why": "It would add another hiking G10 central bank and keep global front ends under pressure."
+    },
+    {
+      "time": "Tue all day",
+      "event": "US midterm elections (all 435 House seats, 35 Senate seats)",
+      "consensus": "Kalshi ≈63% Democratic sweep (late Oct)",
+      "prior": "—",
+      "why": "Options price ≈20% extra S&P vol for Wednesday. A split Congress usually means less fiscal expansion, which is good for the long end. A delayed count is the tail risk."
+    },
+    {
+      "time": "Tue 9:00 AM",
+      "event": "JOLTS (Sept) and factory orders",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Openings are the cleanest read on labor demand before Friday's payrolls."
+    },
+    {
+      "time": "Tue after close",
+      "event": "AMD earnings (also Amgen, Pfizer, Arista, Booking)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the chip test after Intel's ≈29% drop on Friday."
+    },
+    {
+      "time": "Wed 4:00 AM",
+      "event": "Eurozone flash CPI (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "It shapes ECB pricing after last week's hawkish hold and feeds global yields."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "Treasury quarterly refunding statement; 10–20Y buyback the same day",
+      "consensus": "Coupon sizes unchanged",
+      "prior": "Aug: 3Y $58B / 10Y $42B / 30Y $25B",
+      "why": "Watch the 'several quarters' language, new long-end buyback sizes (now ≥$4B per operation) and any bill-share shift. The refunding auctions (3Y/10Y/30Y) likely follow the next week (≈Nov 10–12, inferred from past schedules)."
+    },
+    {
+      "time": "Wed 9:00 AM",
+      "event": "ISM Services (Oct)",
+      "consensus": "≈54.7–54.9",
+      "prior": "—",
+      "why": "Services prices are where sticky inflation lives. This plus payrolls decides December."
+    },
+    {
+      "time": "Wed",
+      "event": "McDonald's and Uber (pre-market); Qualcomm and Arm (after close)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "McDonald's (Chicago HQ) is a read on low-income consumers under $100+ oil."
+    },
+    {
+      "time": "Thu 6:00 AM",
+      "event": "Bank of England decision",
+      "consensus": "+25 bp (Newsquawk)",
+      "prior": "—",
+      "why": "A first hike makes the vote split the story. It adds to pressure on global yields."
+    },
+    {
+      "time": "Thu",
+      "event": "Jobless claims (7:30 AM); Fed's Hammack and Barkin; ECB's Lagarde",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Hammack dissented for a hike, so expect her to restate the case two days before payrolls."
+    },
+    {
+      "time": "Fri 7:30 AM",
+      "event": "October payrolls",
+      "consensus": "≈55k (range 50k Barclays – 65k Bloomberg survey); unemployment 4.2%",
+      "prior": "29k",
+      "why": "This is the swing factor for Dec 9. Below ≈30k with unemployment rising could push hike odds well under 70%. A beat with 0.4% wages pushes them toward 85%."
+    },
+    {
+      "time": "Fri",
+      "event": "Fed's Logan, Williams, Musalem and Bowman",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Williams after payrolls is the best read on leadership's December lean."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "+25 bp ≈69–80% priced",
+      "prior": "3.75–4.00%",
+      "why": "Payrolls, ISM prices and November CPI decide it."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Bull-steepener into an event-heavy week",
+        "body": "October's 10Y drop of ≈36 bp to ≈4.93% was the largest since Dec 2023. The 2Y fell ≈10 bp in the final week while the 30Y was flat at ≈5.31%. Payroll forecasts cluster at 50–65k vs 29k prior, and Bloomberg's survey (65k) argues the Fed stays on track for more hikes.",
+        "simple": "Yields (the interest a bond pays) fell in October because investors fled a tech-stock selloff into safe Treasuries. Short-term yields fell more than long-term ones, which 'steepens' the curve (widens the gap between short and long rates). A weak jobs report Friday would push short rates down further because it makes a Fed hike less likely. That would lower rates on car loans and credit cards and bank funding costs.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again"
+      },
+      {
+        "title": "Refunding lands the morning after the midterms",
+        "body": "Treasury's Nov 4 statement will update August's guidance to keep nominal coupon and FRN sizes unchanged 'for at least the next several quarters' and set future long-end buyback sizes. Those buybacks were at least doubled (≥$4B per operation) in August, with a 10–20Y operation scheduled the same day. Dealers broadly expect coupon increases in early-to-mid 2027, concentrated in the front end and belly.",
+        "simple": "Every quarter, the Treasury says how many bonds it will sell to fund the government. Selling more long-term bonds forces investors to hold more 'duration' (sensitivity to rate changes). Investors then demand extra yield, called the term premium. Buybacks, where Treasury repurchases old, less-traded bonds, ease that pressure. Any hint of more long-bond supply could push mortgage rates up.",
+        "source": "U.S. Treasury / TFTC buyback tracker",
+        "url": "https://www.tftc.io/treasury-buybacks"
+      },
+      {
+        "title": "Midterm vol is priced, but not a contested count",
+        "body": "Man Group's analysis (via CNBC) estimates S&P options price ≈20% more volatility than normal for Nov 4, roughly in line with past midterms. Late-October Kalshi odds put a Democratic sweep of both chambers at ≈63%. Polymarket had ≈94% for the House and ≈72% for the Senate.",
+        "simple": "Options are insurance contracts on price moves, and their price shows how big a move traders expect. The market expects a normal election-night jolt, not chaos. A slow or disputed count would be the surprise. Who controls Congress shapes future deficits, which is what drives long-term Treasury yields.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/us-midterms-election-wall-street-options-markets.html"
+      },
+      {
+        "title": "Global hikers: RBA Tuesday, BoE Thursday",
+        "body": "Money markets price ≈79% odds of an RBA hike to 4.85%, and Newsquawk expects the BoE to start a tightening cycle with 25 bp. That follows hawkish ECB and BOJ holds last week. Eurozone flash CPI on Wednesday is the other global input.",
+        "simple": "Central banks in Australia and Britain are expected to raise rates this week to fight inflation, partly driven by $100+ oil. When several big economies tighten together, global borrowing costs rise. That limits how far US yields can fall even if US data softens.",
+        "source": "Newsquawk",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-2nd-6th-november-2026-highlights-include-us-midterm-election-nfp-ism-pmis-rba-boe-and-ez-cpi-"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Fed-odds trackers still disagree on December",
+        "body": "RateWatch closed Friday at 69.4% hike / 30.6% hold for Dec 9, down from 77.3% the day before and ≈83–85% after the Oct 28 decision. FedWatch was ≈76% midday Friday, and other commentary cites ≈80%. A 7–10 point spread between trackers shows how thin conviction is going into payrolls.",
+        "simple": "These trackers turn prices of fed funds futures (bets on the Fed's future rate) into odds of a hike. The odds fell about 15 points in two days as stocks slid. They can swing just as fast after Friday's jobs data, so traders hedge with futures and options before the release.",
+        "source": "RateWatch (fattail.ai)",
+        "url": "https://fattail.ai/ratewatch-december-fed-decision/"
+      },
+      {
+        "title": "SOFR options built the biggest OI inflow since March",
+        "body": "CME's October Rates Recap shows more than 6M contracts of new SOFR options open interest added in the 15 days after the Sept 26 quarterly expiry. Total CME OI stayed above 133M contracts during October. September ADV was a record 31.8M, with Treasury futures and options +42% to 9.5M.",
+        "simple": "SOFR options let traders bet on or protect against moves in short-term interest rates. Open interest (contracts still outstanding) piling up means many investors are paying for protection around a Fed that could hike or reverse. That flow is CME's (Chicago) core business and a big reason its revenue hit records.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      },
+      {
+        "title": "CME sets an FX record and adds a gasoline contract",
+        "body": "Brazilian real futures hit a single-day record of ≈498,498 contracts after Brazil's presidential election. CME is also launching Gasoline Decade futures, short-dated contracts aimed at gasoline price risk, in November. Analysts' targets are split: BofA is at Underperform (low $200s) and Deutsche at Hold ($270), vs a share price near $303–305.",
+        "simple": "When a big election creates currency risk, investors rush to futures to hedge, and Brazil's vote just did that. This week's US midterms could do the same for Treasury and equity futures. New energy contracts give fuel buyers and sellers finer tools to manage price swings while oil is above $100.",
+        "source": "ad-hoc-news (German-language)",
+        "url": "https://ad-hoc-news.de/boerse/news/corporate-news/cme-group-stock-draws-fresh-targets-as-fx-volume-hits-record/70438006"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold heads into the week below $3,900",
+        "body": "Dec gold settled ≈$3,885 Friday (−3.6%), a one-year low, after a ≈7% October slide, its second straight monthly loss. Commentary frames $3,800 as support and $4,000 as resistance, with technical channel support near $3,750–3,800. Catalysts are the midterms (Tue) and payrolls (Fri).",
+        "simple": "Gold usually rises when interest rates fall, because it pays no interest and so looks better when bonds pay less. In October rates fell and gold still dropped. That suggests investors sold gold to cover losses elsewhere and worried about a Fed hike. A weak jobs number that kills the hike could bring buyers back.",
+        "source": "FinanceFeeds",
+        "url": "https://financefeeds.com/gold-price-today-3875-saturday-week-ahead-after-second-monthly-decline-midterms-jobs-report-bull-4000-bear-3800"
+      },
+      {
+        "title": "Silver's $50 test",
+        "body": "Silver fell roughly 15% through Oct 30 and ended the week ≈$49.12, a 2026 low, more than half off January levels. That leaves the gold/silver ratio near ≈79. The first full week of November is framed as the test of whether $50 can be reclaimed.",
+        "simple": "Silver is part precious metal and part industrial metal (used in electronics and solar panels), so it falls harder than gold when growth fears rise. The gold/silver ratio (how many ounces of silver buy one ounce of gold) near 79 means silver is cheap relative to gold by recent standards. That gap tends to close when the economy stabilizes.",
+        "source": "EBC Financial Group",
+        "url": "https://www.ebc.com/forex/silver-price-forecast-november-2026"
+      },
+      {
+        "title": "PGMs down ≈17–18% in a month",
+        "body": "Platinum fell 3.94% Friday to $1,434.50 and palladium 3.68% to $967.50. Each is down ≈17–18% over the past month, matching the liquidation across precious metals.",
+        "simple": "Platinum and palladium (platinum-group metals, or PGMs) are mostly used in car exhaust systems. They have been sold alongside gold and silver as investors cut risk. Cheaper PGMs lower costs for automakers but squeeze miners in South Africa and Russia.",
+        "source": "Trading Economics",
+        "url": "https://tradingeconomics.com/commodity/platinum"
+      },
+      {
+        "title": "Copper faces China's 49.3 PMI on Monday",
+        "body": "China's official manufacturing PMI fell to 49.3 in October (consensus ≈50, prior 50.1), with new orders at 49.4. The NBS blamed demand pulled ahead of the National Day holiday. COMEX copper ended Friday ≈$6.49/lb, and LME trades the data for the first time Monday.",
+        "simple": "A PMI (purchasing managers' index) below 50 means factories are shrinking. China buys about half the world's copper, so weaker Chinese factories mean less demand for the wiring and pipes copper goes into. Expect copper prices to be under pressure early in the week.",
+        "source": "Newsquawk / China Daily",
+        "url": "https://www.newsquawk.com/headlines/chinese-nbs-manufacturing-pmi-oct-493-vs-exp-50-prev-501"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Byline Bancorp buys Illinois State Bancorp for ≈$87.9M",
+      "body": "Chicago-based Byline will pay ≈1.4M shares plus $28.9M cash (≈$261.23/share, using Byline's $37.63 Oct 5 close) for a target with ≈$617M in assets and ≈$511M in deposits. The price is 1.07x tangible book and 13.1x LTM earnings, with closing expected in Q1 2027. American Banker calls Byline 'acquisitive' in a deal-rich Illinois market.",
+      "simple": "A bigger Chicago bank is buying a smaller local one, mostly to gain its deposits (cheap funding) and customers. Paying about 1.07 times tangible book value (roughly the bank's net worth, excluding intangible assets) is a modest price. That shows small bank deals are happening at sensible valuations. For customers it usually means a new name on the branch and a bigger lending limit.",
+      "source": "Pulse 2.0 / American Banker",
+      "url": "https://pulse2.com/byline-bancorp-to-acquire-illinois-state-bancorp-for-about-87-9-million/"
+    },
+    {
+      "title": "Trian-led group bids $1.4B to take Wendy's private",
+      "body": "Nelson Peltz's Trian, with Flynn Group, BlueFive Capital and Sixth Street, offered $7.35/share in cash (≈19–20% premium). The bid is non-binding and needs no new debt, and Trian will roll its ≈16.3% stake into the deal. Wendy's formed an independent committee. The stock rose more than 14% on the news but is −26% YTD.",
+      "simple": "A 'take-private' means investors buy all the public shares so the company leaves the stock market. This one is unusual because it uses no new borrowing, when buyouts typically lean on debt that banks arrange and sell. Fewer leveraged loans means less fee income for bank capital-markets desks, and it hints that private credit firms like Sixth Street are filling that role.",
+      "source": "WSJ report via WSAU / Reuters",
+      "url": "https://wsau.com/2026/10/28/trian-fund-management-offers-to-buy-wendys-for-1-4-billion-wsj-reports/"
+    },
+    {
+      "title": "DoorDash–Instacart's $13B bridge sits on JPMorgan's book",
+      "body": "DoorDash will pay $65/share (≈$17B, a 26% premium), with stock capped at 25% of the consideration. It is backed by an up-to-$13B, 364-day senior unsecured bridge from JPMorgan. Closing is expected late 2027 to 1H28 pending antitrust review, so the take-out bond deal is exposed to spread moves for months.",
+      "simple": "A bridge loan is short-term bank financing that gets replaced later by bonds sold to investors. JPMorgan has promised up to $13B. If credit markets sour before DoorDash can sell those bonds, the bank could be stuck holding a big loan or have to sell it at a loss. That's the core risk of acquisition finance.",
+      "source": "DoorDash 8-K (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm"
+    },
+    {
+      "title": "Big Oil's windfall: Chevron earns $9.9B in Q3",
+      "body": "Chevron reported Q3 net income of $9.9B ($5.06/share) and adjusted earnings of $10.4B ($5.28), with 18% ROCE and record US refinery throughput. NPR framed it as another quarter of very high oil profits driven by the Iran war.",
+      "simple": "With oil above $100 because of the conflict near the Strait of Hormuz (a key shipping lane for Gulf oil), oil companies are making very large profits. That cash flows to dividends and buybacks and supports energy-sector bank lending. Consumers pay for it at the pump, which keeps inflation and the Fed's hike risk alive.",
+      "source": "Chevron 8-K (SEC) / NPR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm"
+    },
+    {
+      "title": "Bank stocks still in correction territory",
+      "body": "As of mid-October the KBW Bank Index was on track for a sixth straight weekly loss, its longest streak since 2008, and ≈13% below its August record despite strong big-bank Q3 profits. The regional KBW index closed 141.57 on Oct 29, −3.86% over three months.",
+      "simple": "Bank shares have fallen even though bank profits are good. Investors worry that higher-for-longer rates and an economic slowdown will cause more loan losses. Cheaper bank stocks also make stock-funded bank mergers harder, which is one reason recent deals are small.",
+      "source": "PR Newswire / Bloomberg",
+      "url": "https://www.prnewswire.com/news-releases/after-a-streak-not-seen-since-2008-bank-stocks-face-a-five-day-test-302912391.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Options price a normal midterm, not a contested one",
+        "body": "Man Group's options analysis estimates ≈20% extra implied vol for Nov 4, in line with past midterms, and warns a delayed count could rattle an already edgy market.",
+        "simple": "Traders are paying a normal amount for election-night protection. The risk the market hasn't priced is a result that takes days to settle.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/us-midterms-election-wall-street-options-markets.html"
+      },
+      {
+        "title": "Prediction markets favor a Democratic Congress",
+        "body": "Late-October Kalshi pricing gave ≈63% odds that Democrats win both the House and Senate.",
+        "simple": "Betting markets think power in Congress will shift. That would make big new spending or tax bills harder to pass, which affects how much the government borrows.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html"
+      },
+      {
+        "title": "Midterms, Apple and payrolls after the tech dump",
+        "body": "CNBC's week-ahead piece frames Apple (Mon), the Nov 3 midterms and Friday's October payrolls as the catalysts after the S&P's worst day since June (−1.82%).",
+        "simple": "After a sharp tech selloff, three events this week will decide whether it continues: Apple's results, the election and the jobs report.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Trian offers $1.4B for Wendy's",
+        "body": "First reported by the WSJ: a Peltz-led group offers $7.35/share in cash for Wendy's with no new debt, rolling Trian's ≈16.3% stake.",
+        "simple": "An activist investor wants to buy the burger chain outright and run it privately. He argues it needs long-term investment that public shareholders won't wait for.",
+        "source": "WSJ report via WSAU / Reuters (WSJ paywalled)",
+        "url": "https://wsau.com/2026/10/28/trian-fund-management-offers-to-buy-wendys-for-1-4-billion-wsj-reports/"
+      },
+      {
+        "title": "Jobs pickup may keep the Fed hiking",
+        "body": "Forecasters see October payrolls more than doubling to ≈65k with unemployment at 4.2%. That would leave the Fed on track for more hikes to fight inflation.",
+        "simple": "Even modest job growth is enough for the Fed to keep raising rates while inflation runs hot. A strong number Friday would make borrowing costlier.",
+        "source": "Bloomberg (WSJ paywalled)",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again"
+      },
+      {
+        "title": "Refunding is the wildcard for the Treasury market",
+        "body": "Wall Street is weighing possible cuts to long-dated auction sizes and a shift toward bills at the Nov 4 refunding. A Morgan Stanley strategist called the expanded buybacks 'a bridge' to that decision.",
+        "simple": "Treasury may lean more on short-term bills to avoid flooding the market with long bonds. That would help hold down long-term rates like mortgages.",
+        "source": "Edgen (WSJ paywalled)",
+        "url": "https://www.edgen.tech/news/post/bessents-treasury-twist-sets-up-wildcard-for-31-trillion-market"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Byline Bancorp strikes again in deal-rich Illinois",
+        "body": "Chicago's Byline agreed to buy Illinois State Bancorp (≈$617M assets) for ≈$87.9M at 1.07x tangible book, closing in Q1 2027.",
+        "simple": "A Chicago bank is buying a smaller Illinois bank for its deposits and customers. It's part of a wave of small local bank mergers.",
+        "source": "American Banker (Tribune not accessible)",
+        "url": "https://americanbanker.com/news/acquisitive-byline-bancorp-strikes-again-in-deal-rich-illinois"
+      },
+      {
+        "title": "Chicago Business Barometer slips to 55.3",
+        "body": "The MNI Chicago PMI fell 3.5 pts to 55.3 in October from 58.8, below forecasts but still above 50.",
+        "simple": "Midwest businesses are still growing, just more slowly. Above 50 means expansion.",
+        "source": "The Rio Times (Tribune not accessible)",
+        "url": "https://www.riotimesonline.com/united-states-chicago-pmi-october-2026"
+      },
+      {
+        "title": "Judge lets McRib lawsuit against McDonald's proceed",
+        "body": "A judge allowed a consumer suit over the meat in the McRib to go forward, a legal setback for the Chicago-HQ chain days before its Wednesday earnings.",
+        "simple": "A court decided the lawsuit isn't frivolous enough to throw out. It's small money for McDonald's but a headline before it reports results.",
+        "source": "Fox 32 Chicago (Tribune not accessible)",
+        "url": "https://www.fox32chicago.com/tag/business"
+      },
+      {
+        "title": "CME's Brazilian real futures set a volume record",
+        "body": "BRL futures hit a single-day record of ≈498,498 contracts after Brazil's presidential election. CME also adds Gasoline Decade futures in November.",
+        "simple": "Big elections send investors to Chicago's exchange to hedge currency risk, which shows how CME profits from uncertainty.",
+        "source": "ad-hoc-news (Tribune not accessible)",
+        "url": "https://ad-hoc-news.de/boerse/news/corporate-news/cme-group-stock-draws-fresh-targets-as-fx-volume-hits-record/70438006"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Oil companies post another quarter of huge profits",
+        "body": "Chevron earned $9.9B in Q3 as the Iran war kept crude above $100. NPR framed it as another windfall quarter for Big Oil.",
+        "simple": "War-driven oil prices are a cost for drivers and a windfall for oil companies.",
+        "source": "NPR (NYT not accessible)",
+        "url": "https://www.npr.org/sections/news/"
+      },
+      {
+        "title": "Carney won't rush a US trade deal before or after the midterms",
+        "body": "Canada's prime minister said he won't sign a deal on bad terms and suggested pressure from Washington may continue after the midterms, while talks on auto tariffs picked up.",
+        "simple": "Canada is betting it can wait for better terms. Tariffs on cars and parts stay in place meanwhile, which matters for Midwest manufacturers.",
+        "source": "Bloomberg (NYT not accessible)",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-31/carney-says-no-hurry-on-trade-deal-if-us-won-t-offer-good-terms"
+      },
+      {
+        "title": "DoorDash to buy Instacart, uniting delivery giants",
+        "body": "The ≈$17B deal combines the two largest US delivery apps and faces likely antitrust scrutiny, with closing not expected before late 2027.",
+        "simple": "Two delivery apps merging could mean higher fees for customers and restaurants, which is why regulators will look hard at it.",
+        "source": "Benton digest of NYT",
+        "url": "https://www.benton.org/newsletter/daily-digest-10302026-patrick-stewart"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Midterms and refunding back-to-back as a term-premium event",
+      "point": "The election results land overnight into Treasury's Nov 4 refunding. A Democratic sweep (Kalshi ≈63%) or a split Congress both lower the odds of a big new fiscal package. If Treasury also keeps coupon sizes flat and maintains the ≥$4B long-end buybacks, the long end has a case to catch up to October's front-end rally. That argues for 5s30s flatteners after the event. The risk is any hint of coupon increases in 2027 (which dealers expect) or a contested count. I'd frame it as a supply-and-fiscal trade rather than a Fed trade."
+    },
+    {
+      "topic": "Payrolls asymmetry in SOFR",
+      "point": "Consensus for Friday is ≈55k (range 50–65k) vs 29k prior, with December hike odds at ≈69–80% depending on the tracker. A strong print only pushes odds toward ≈85%, while a miss below ≈30k could take them under 50%. So the payoff skews toward a front-end rally. That's why long SOFR Z6/H7 calls or call spreads have been a popular hedge, and why CME saw 6M+ contracts of new SOFR options OI after the September expiry."
+    },
+    {
+      "topic": "Illinois bank consolidation at ≈1x tangible book",
+      "point": "Byline paying 1.07x TBV and 13.1x earnings for Illinois State Bancorp (≈$617M assets) shows where small-bank M&A clears while the KBW index sits ≈13% off its August high. Depressed acquirer stock makes all-stock deals expensive, so buyers mix in cash (here $28.9M). For a commercial banking role, the point is that deposit franchises, not loan growth, are what buyers are paying for when funding costs stay high with fed funds at 3.75–4.00%."
+    }
+  ],
+  "caveats": "WebFetch was blocked this run, so figures come from search snippets, not full articles. WSJ, NYT and Tribune were not accessible, and the outlet actually used is named on each story. The OPEC+ December hold comes from commentary sites citing Reuters sources and is not confirmed by a wire I could read. Market tiles are Friday Oct 30 closes. The 2Y close and Fed-odds readings differ by source. Berkshire's Q3 date (listed Nov 2) is unconfirmed. Refunding-auction dates are inferred from past schedules. Calendar times are converted to CT (DST ended today).",
+  "updates": []
+}
