@@ -11,105 +11,105 @@
     "Metals are bouncing off forced selling. Spot gold is ≈$3,900–3,910 (+0.7–0.9%) after Friday's one-year low, which reporting tied to margin calls during the tech selloff. Silver is ≈$50.26, back above $50. Platinum is ≈$1,431 and palladium ≈$956–966. LME copper is ≈+0.7% at ≈$14,251/t on a softer dollar and a cut to Chile's output outlook, even with China's official PMI at 49.3 and LME stocks at their highest since mid-July.",
     "The RBA decides tonight at 9:30 PM CT. All four big Australian banks expect +25 bp to 4.85%, which would be its fifth hike of 2026. That plus the BoE on Thursday keeps the global front end leaning hawkish heading into Friday's payrolls (≈55k consensus)."
   ],
-  "markets_asof": "≈12:15 PM CT (midday snapshots)",
+  "markets_asof": "≈3:15 PM CT (cash close; some commodity prints earlier)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,626",
-      "change": "+0.6% (+46)",
-      "dir": "up",
-      "note": "Benzinga midday snapshot; faded from ≈+1%"
+      "value": "7,541.40",
+      "change": "−0.51%",
+      "dir": "down",
+      "note": "Close (CNBC); reversed from ≈+1% intraday"
     },
     {
-      "label": "Nasdaq 100",
-      "value": "—",
-      "change": "≈+0.5%",
-      "dir": "up",
-      "note": "Benzinga"
+      "label": "Nasdaq Comp",
+      "value": "25,164.32",
+      "change": "−1.07%",
+      "dir": "down",
+      "note": "Close (CNBC); AI/tech selling"
     },
     {
       "label": "Dow",
-      "value": "≈52,308",
-      "change": "+538 pts (≈+1.0%)",
+      "value": "51,983.98",
+      "change": "+213.67 (+0.41%)",
       "dir": "up",
-      "note": "Benzinga"
+      "note": "Close (CNBC)"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "≈+1%",
-      "dir": "up",
-      "note": "Benzinga; Fri ≈2,811"
+      "change": "—",
+      "dir": "flat",
+      "note": "Conflicting closing prints"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.585%",
-      "change": "<+1 bp",
+      "value": "≈4.58%",
+      "change": "flat to −2 bp",
       "dir": "flat",
-      "note": "CNBC"
+      "note": "CNBC/Benzinga"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.88%",
-      "change": "≈−4 to −5 bp",
+      "value": "≈4.89%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "CNBC; bull flattening"
+      "note": "Bull flattening; 2s10s ≈31 bp"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.25%",
-      "change": "≈−5 bp",
+      "value": "≈5.27%",
+      "change": "≈−4 bp",
       "dir": "down",
       "note": "CNBC"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike odds —",
+      "change": "Dec hike ≈75%",
       "dir": "flat",
-      "note": "No post-ISM FedWatch print found (pre-ISM 76.6%)"
+      "note": "FXStreet (FedWatch); ≈80% a week ago"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$104.82",
-      "change": "−7.6%",
+      "value": "≈$104.9",
+      "change": "−7.5%",
       "dir": "down",
-      "note": "Benzinga; Fri $113.43"
+      "note": "AP via search"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$96.72",
-      "change": "−7.1%",
+      "value": "≈$96.7",
+      "change": "≈−7%",
       "dir": "down",
-      "note": "Steepest drop since late July"
+      "note": "Midday print; no confirmed settle"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,954",
-      "change": "+1.85%",
+      "value": "≈$3,967",
+      "change": "+2.4%",
       "dir": "up",
-      "note": "USAGOLD"
+      "note": "Kitco, afternoon"
     },
     {
       "label": "Silver",
-      "value": "≈$51.6",
-      "change": "+3.6%",
+      "value": "≈$50.9",
+      "change": "+3.8%",
       "dir": "up",
-      "note": "USAGOLD"
+      "note": "Kitco"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote; AM ≈$14,251/t"
+      "label": "Copper (COMEX)",
+      "value": "≈$6.60/lb",
+      "change": "+1.2%",
+      "dir": "up",
+      "note": "Kitco"
     },
     {
       "label": "Dollar index",
       "value": "≈101.6–102",
       "change": "softer",
       "dir": "down",
-      "note": "FXStreet; Fri 101.96"
+      "note": "No fresh close found"
     }
   ],
   "calendar": [
@@ -431,6 +431,53 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo and others unreachable), so figures come from search snippets of time-stamped early-morning reports, and ranges reflect different snapshot times. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. The ISM prices-paid consensus and the Russell 2000 level are single-source. No Dow futures level or COMEX copper quote was found. Treasury's borrowing-estimate time is the usual slot, not confirmed. The OPEC+ hold comes from outlets citing Reuters sources. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-02T21:17:16Z",
+      "label": "Close",
+      "headline": "Oil's ≈7.5% collapse wasn't enough: an afternoon AI/tech selloff flipped the S&P 500 to −0.5% and the Nasdaq to −1.1%, while the Dow held +0.4%. Bonds kept their bull-flattening (10Y ≈4.89%, 2Y ≈4.58%) and Dec-hike odds eased only to ≈75%.",
+      "points": [
+        "Close: S&P 500 −0.51% to 7,541.40 (it was +0.6% at midday and ≈+1% after the open), Nasdaq Composite −1.07% to 25,164.32, Dow +213.67 (+0.41%) to 51,983.98 (CNBC via search). The morning's 'futures rebound' thesis held only for the Dow. Coverage blamed renewed AI-capex/financing worries, including another hyperscaler debt raise. Russell 2000 prints conflict (≈+0.5% vs ≈−1.7%).",
+        "Rates: 10Y ≈4.89–4.90% (−4 to −5 bp), 30Y ≈5.27% (−4 bp), 2Y ≈4.58% (flat to −2 bp). 2s10s ≈31 bp. FedWatch Dec 9 hike odds are ≈75%, down from ≈80% a week ago (FXStreet), with other prints 71–77%. Today's 10:25 'odds up to 76.6%' was effectively a round trip.",
+        "Treasury cut its Oct–Dec borrowing estimate to ≈$618B from $628B (single source: TheStreet). The cut came entirely from a higher starting cash balance (≈$984B); ex-cash, borrowing is ≈$24B above August's estimate. Jan–Mar is ≈$800B, including a cash build to ≈$1T. That's a heavy Q1 bill-supply signal before Wednesday's 7:30 AM CT refunding statement.",
+        "Commodities: Brent ≈$104.9 (−7.5%, AP via search) and WTI ≈$96–97 (−7%). Kitco had spot gold ≈$3,967 (+2.4%), silver ≈$50.9 (+3.8%) and COMEX copper ≈$6.60/lb (+1.2%). The Fed's October SLOOS page shows C&I standards unchanged for large firms but tighter for small firms, and C&I demand weaker across sizes (unverified secondary read).",
+        "Tomorrow (Tue, Election Day): JOLTS Sept 9:00 AM CT (≈7.06–7.11M vs 7.079M) and factory orders Sept 9:00 AM CT (+1.2% vs +0.1%). Apple and Palantir report tonight, and the RBA decides at 9:30 PM CT (+25 bp to 4.85% expected). Midterm results will drive the overnight fiscal and term-premium trade at the long end."
+      ],
+      "simple": "The stock market split today. Cheaper oil helped old-economy companies in the Dow, but investors kept selling big tech and AI stocks over worries about how much they're spending and borrowing to build AI, so the broader S&P 500 ended lower. In bonds, long-term interest rates fell because cheaper oil means less future inflation, but short-term rates, which track the Fed's next move, barely changed. Traders still think a December rate hike is more likely than not, which keeps borrowing costs for businesses and banks' short-term funding high.",
+      "sources": [
+        {
+          "name": "CNBC (live updates)",
+          "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+        },
+        {
+          "name": "investingLive (Americas wrap)",
+          "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/"
+        },
+        {
+          "name": "TheStreet (borrowing estimate)",
+          "url": "https://pro.thestreet.com/stock-market-today/2026-11-02"
+        },
+        {
+          "name": "FXStreet (gold/Fed odds)",
+          "url": "https://fxstreet.com/news/gold-rebounds-toward-4-000-as-iran-peace-hopes-sink-oil-us-dollar-202611021838"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/price"
+        },
+        {
+          "name": "Federal Reserve (SLOOS)",
+          "url": "https://www.federalreserve.gov/data/sloos/sloos-202610.htm"
+        },
+        {
+          "name": "Trading Economics (calendar)",
+          "url": "https://tradingeconomics.com/united-states/calendar"
+        }
+      ]
+    },
+    {
       "at": "2026-11-02T18:17:31Z",
       "label": "Midday",
       "headline": "Oil's slide deepened to ≈−7% (WTI ≈$96.7) and is pulling the long end down (10Y ≈4.88%, 30Y ≈5.25%), but the 2Y is pinned at ≈4.585%: the curve is bull-flattening, so oil is easing long-run inflation worries without yet talking the market out of a December hike.",
@@ -509,5 +556,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-02T18:17:31Z"
+  "updatedAt": "2026-11-02T21:17:16Z"
 }
