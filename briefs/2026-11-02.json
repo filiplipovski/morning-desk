@@ -1,0 +1,433 @@
+{
+  "date": "2026-11-02",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-02T12:31:13Z",
+  "headline": "Oil is doing the Fed's work this morning: WTI is down ≈3% toward $100 on Iran–Qatar talks, gold has bounced back above $3,900, and futures are higher. But the 2Y is still ≈4.59% with a December hike ≈71% priced, so the front end won't move until ISM prices paid (9:00 AM CT), Treasury's borrowing estimate and the midterms.",
+  "summary": [
+    "Futures are rebounding after Friday's AI rout. S&P futures are ≈+0.4–0.5% (≈7,614), Nasdaq-100 futures ≈+0.75–0.9% and Dow futures ≈+0.3–0.5%. Yahoo Finance estimates the big AI and chip stocks have lost ≈$5T of market value since Oct 6, and the Nasdaq fell ≈5–7% in October depending on the source. Apple (consensus EPS ≈$1.99 on ≈$113.4B revenue) and Palantir report after the close.",
+    "Oil is the big mover. WTI is ≈−2% to −3.5% ($100.5–102.6) and January Brent is ≈$110–112 (≈−2–3%). The drivers are a third day of Iran–Qatar talks in Doha, an Iranian plan to reopen Hormuz within ≈48 hours, and Rubio saying Trump prefers a diplomatic end to the war. Seven OPEC+ members held December targets (30.9M b/d) for a third straight month, which matters little since output is ≈4.2M b/d below target. Lower oil takes some pressure off headline inflation and the hike case.",
+    "Rates are mixed in a bear-flattening way. The 2Y is ≈4.589% (+1 bp), the 10Y ≈4.91–4.94% and the 30Y ≈5.284% (−2 bp). FedWatch shows a Dec 9 hike at ≈71% (Motley Fool cites 70.9%, with 79% by January). The 2Y won't rally while two FOMC members (Cook, Hammack) are already voting to hike. The long end is trading oil and fiscal risk.",
+    "Today's calendar has three hike-relevant events. ISM manufacturing is at 9:00 AM CT (consensus ≈54.7, prior 54.5; prices paid ≈77.5 vs 77.9, single source). Goolsbee moderates a discussion at 10:15 AM CT. Then come the Fed's Senior Loan Officer Survey (1:00 PM CT) and Treasury's Q4 borrowing estimate this afternoon, against August's $628B projection. The estimate sets up Wednesday's refunding, the morning after the midterms.",
+    "Metals are bouncing off forced selling. Spot gold is ≈$3,900–3,910 (+0.7–0.9%) after Friday's one-year low, which reporting tied to margin calls during the tech selloff. Silver is ≈$50.26, back above $50. Platinum is ≈$1,431 and palladium ≈$956–966. LME copper is ≈+0.7% at ≈$14,251/t on a softer dollar and a cut to Chile's output outlook, even with China's official PMI at 49.3 and LME stocks at their highest since mid-July.",
+    "The RBA decides tonight at 9:30 PM CT. All four big Australian banks expect +25 bp to 4.85%, which would be its fifth hike of 2026. That plus the BoE on Thursday keeps the global front end leaning hawkish heading into Friday's payrolls (≈55k consensus)."
+  ],
+  "markets_asof": "Pre-market ≈6:30 AM CT (sources are time-stamped early-morning snapshots)",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "≈7,614",
+      "change": "≈+0.4–0.5%",
+      "dir": "up",
+      "note": "Cash closed 7,580.07 Fri"
+    },
+    {
+      "label": "Nasdaq-100 fut",
+      "value": "≈28,753",
+      "change": "≈+0.75–0.9%",
+      "dir": "up",
+      "note": "Nasdaq Comp ≈−5–7% in Oct"
+    },
+    {
+      "label": "Dow fut",
+      "value": "—",
+      "change": "≈+0.3–0.5%",
+      "dir": "up",
+      "note": "Cash closed 51,770.31 Fri"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,811",
+      "change": "≈−1.66%",
+      "dir": "down",
+      "note": "Fri close; no futures quote found"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.589%",
+      "change": "+1 bp",
+      "dir": "up",
+      "note": "CNBC, early trade"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.91–4.94%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Four straight weekly declines"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.284%",
+      "change": "−2 bp",
+      "dir": "down",
+      "note": "2s30s ≈70 bp, flatter"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈71%",
+      "dir": "flat",
+      "note": "FedWatch 70.9%; Jan ≈79%; trackers range 71–75%"
+    },
+    {
+      "label": "Brent (Jan)",
+      "value": "≈$110–112",
+      "change": "≈−2% to −3%",
+      "dir": "down",
+      "note": "Fri settle $113.43"
+    },
+    {
+      "label": "WTI (Dec)",
+      "value": "≈$100.5–102.6",
+      "change": "≈−1.5% to −3.5%",
+      "dir": "down",
+      "note": "$98 is the cited support"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,900–3,910",
+      "change": "≈+0.7–0.9%",
+      "dir": "up",
+      "note": "Off Friday's one-year low"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$50.26",
+      "change": "≈+1.5%",
+      "dir": "up",
+      "note": "Fortune, 6:30 AM ET; Comex ≈$50.05"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,251/t",
+      "change": "≈+0.7%",
+      "dir": "up",
+      "note": "LME stocks at a high since mid-July"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.3–101.8",
+      "change": "softer",
+      "dir": "down",
+      "note": "Fri 101.96"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "8:45 AM",
+      "event": "S&P Global US Manufacturing PMI (Oct final)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is a second read on factories ahead of ISM. It is usually a small mover."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "ISM Manufacturing (Oct)",
+      "consensus": "≈54.7 (prices paid ≈77.5, single source)",
+      "prior": "54.5 (prices paid 77.9)",
+      "why": "Prices paid is the hike-risk component. A print near 80 offsets today's oil drop and keeps December ≈70%+. A sub-75 print plus cheaper oil would help the 2Y."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Construction spending (Sept)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is secondary data and feeds Q4 GDP tracking."
+    },
+    {
+      "time": "10:15 AM",
+      "event": "Chicago Fed's Goolsbee moderates a discussion",
+      "consensus": "—",
+      "prior": "—",
+      "why": "He's the first Fed voice since the 10–2 hold. Listen for whether the ≈$5T tech drawdown counts as tighter financial conditions, and whether $100 oil is a supply shock to look through."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "13- and 26-week bill auctions",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Bill demand matters this week because Treasury's TGA was projected to peak near $1.05T in late October."
+    },
+    {
+      "time": "1:00 PM",
+      "event": "Fed Senior Loan Officer Opinion Survey (Q3)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "It shows whether banks tightened C&I and CRE standards. That's directly relevant to commercial banking, and to the credit worries that pushed the KBW index into a six-week losing streak."
+    },
+    {
+      "time": "≈2:00 PM (typical)",
+      "event": "Treasury Q4 marketable borrowing estimate",
+      "consensus": "—",
+      "prior": "Aug estimate for Oct–Dec: $628B (end-Dec cash $850B)",
+      "why": "A higher number raises the odds that Wednesday's refunding hints at 2027 coupon increases. That's the main long-end supply risk."
+    },
+    {
+      "time": "After close",
+      "event": "Apple FQ4 and Palantir earnings",
+      "consensus": "AAPL EPS ≈$1.99, rev ≈$113.4B",
+      "prior": "AAPL rev $102.5B (yr-ago)",
+      "why": "Apple is the last megacap test after the AI-capex rout. BofA cut it from its US1 best-ideas list."
+    },
+    {
+      "time": "9:30 PM",
+      "event": "RBA decision",
+      "consensus": "+25 bp to 4.85% (all four majors)",
+      "prior": "4.60%",
+      "why": "It would be the fifth hike of 2026 and adds to the global hiking backdrop going into the BoE on Thursday."
+    },
+    {
+      "time": "Tue all day",
+      "event": "US midterm elections",
+      "consensus": "Democrats widely expected to take the House; Senate less certain",
+      "prior": "—",
+      "why": "A divided government lowers the odds of a new fiscal package, which helps the long end. A contested count is the vol tail."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "Treasury quarterly refunding statement",
+      "consensus": "Coupons unchanged",
+      "prior": "3Y $58B / 10Y $42B / 30Y $25B",
+      "why": "Watch the 'several quarters' language and the new long-end buyback sizes (≥$4B per operation)."
+    },
+    {
+      "time": "Wed Dec 9",
+      "event": "Next FOMC decision (Dec 8–9 meeting)",
+      "consensus": "≈71% odds of +25 bp (FedWatch)",
+      "prior": "Held 3.75–4.00% Oct 28 (10–2)",
+      "why": "Friday's payrolls (≈55k consensus vs 29k prior) is the swing input."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Front end holds while the long end trades oil",
+        "body": "The 2Y is ≈4.589% (+1 bp) and the 30Y ≈5.284% (−2 bp) in early trade as WTI falls ≈3%. The 10Y is ≈4.91–4.94% after four straight weekly declines. The curve is bear-flattening at the margin because a December hike is still ≈71% priced.",
+        "simple": "A Treasury yield is the interest the government pays to borrow, and the 2-year tracks where traders think the Fed will set rates. Cheaper oil lowers expected inflation, which pulls down long-term yields. Short-term yields stay put because the Fed still looks likely to hike in December. For borrowers, that means mortgage-type long rates can ease even while short-term loan rates stay high.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+      },
+      {
+        "title": "Treasury's borrowing number lands before the refunding",
+        "body": "Treasury publishes its Oct–Dec borrowing estimate today, after projecting $628B in August with an $850B year-end cash balance. Wednesday's refunding then decides whether the 'at least the next several quarters' coupon guidance holds and how big the long-end buybacks get (now up to $4B per operation).",
+        "simple": "Treasury funds the deficit by selling bills (under a year) and coupons (longer bonds). If it needs to borrow more, investors worry it will sell more long bonds, which pushes long rates up through a higher 'term premium' (extra yield for locking money up longer). Buybacks, where Treasury repurchases old bonds, help keep that market liquid.",
+        "source": "Treasury.gov; marketsandnews.com preview",
+        "url": "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/most-recent-quarterly-refunding-documents"
+      },
+      {
+        "title": "RBA set for a fifth hike tonight",
+        "body": "All four major Australian banks expect +25 bp to 4.85% at 2:30 PM AEDT (9:30 PM CT), the fifth hike of 2026 and the highest cash rate since 2008. Some banks also flag risk of another move in February.",
+        "simple": "Australia's central bank is raising rates because inflation keeps surprising on the upside. When several big central banks hike at once, borrowing costs rise worldwide. That makes it harder for US yields to fall far even if the US economy cools.",
+        "source": "investingLive",
+        "url": "https://investinglive.com/central-banks/rba-set-for-fifth-2026-hike-to-4-85-as-banks-flag-risk-of-another-move-in-february/"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Fed-odds trackers converge near 71% for December",
+        "body": "FedWatch shows ≈70.9% for a Dec 9 hike and ≈79% by January. Other same-day reports cite 71–75%, and Kalshi is ≈71%. That's down from ≈75% on Oct 30 as oil fell.",
+        "simple": "Fed funds futures are contracts that pay off based on where the Fed's rate ends up, so their prices imply the market's odds of a hike. CME's FedWatch tool turns those prices into percentages. Lower odds mean traders think cheaper oil gives the Fed a little more room to wait.",
+        "source": "Motley Fool; Tradingpedia; TradingView",
+        "url": "https://fool.com/investing/2026/11/02/kevin-warsh-offered-a-warning-on-inflation-here-s-what-history-says-is-coming-next"
+      },
+      {
+        "title": "CME tracking its highest October volume on record",
+        "body": "CME said October ADV was tracking at a record for the month and guided Q4 volume ≈17% above last year's record fourth quarter. Open interest was above 133M contracts at the time of the Q3 call. The official October figures are due early this month.",
+        "simple": "ADV (average daily volume) counts how many futures and options contracts trade per day. Open interest counts how many stay open overnight. Record numbers mean investors are hedging heavily, and with rate hikes, $100 oil and an election all in play, that is CME's revenue engine.",
+        "source": "Markets Media",
+        "url": "https://www.marketsmedia.com/cme-on-track-for-record-year/"
+      },
+      {
+        "title": "Election and refunding vol is the week's options story",
+        "body": "CME's Oct 30 market commentary framed this week as election vol plus refunding supply. SOFR options added 6M+ contracts of new OI in the 15 days after the Sept 26 expiry, the biggest three-week inflow since March, with volume ≈1.6M/day (+41% vs the prior month).",
+        "simple": "Options let traders pay a premium to protect against a big move, like insurance. A surge in SOFR options (bets on short-term interest rates) shows investors want protection in case Friday's jobs data or the election swings Fed expectations sharply.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-10-rates-recap.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold rebounds from a one-year low on cheaper oil",
+        "body": "Spot gold is ≈+0.7–0.9% at ≈$3,900–3,910 after Friday's ≈3.7% drop, which reporting tied to margin-call selling during the tech rout. ANZ says the usual inverse link between gold and yields has weakened, and it expects high yields and a firm dollar to cap gains.",
+        "simple": "Gold pays no interest, so it gets less attractive when interest rates are high or expected to rise. Friday's drop was partly forced selling: investors losing money on tech stocks sold gold to raise cash. Today's cheaper oil lowers inflation fears and lifts gold a bit.",
+        "source": "CNBC; Investing.com",
+        "url": "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+      },
+      {
+        "title": "Silver back above $50, PGMs steady after a brutal October",
+        "body": "Silver is ≈$50.26 (Fortune, 6:30 AM ET; Comex ≈$50.05, +$0.78) after an ≈15–18% October slide. Platinum is ≈$1,431 and palladium ≈$956–966 (Kitco/Fortune), with palladium ≈−$5.",
+        "simple": "Silver and platinum-group metals (PGMs: platinum, palladium) are part precious metal, part industrial input for solar panels and car catalysts. They swing harder than gold. Holding $50 matters to traders as a round-number line where buying or selling often clusters.",
+        "source": "Fortune; Kitco",
+        "url": "https://fortune.com/article/current-price-of-silver-11-2-2026"
+      },
+      {
+        "title": "Copper up despite China's 49.3 PMI",
+        "body": "LME 3M copper is ≈+0.7% to ≈$14,251/t on a softer dollar, cheaper oil and a cut to Chile's production outlook. China's official manufacturing PMI fell to 49.3 (est ≈49.9, prior 50.1) while the private RatingDog PMI was 52.0. Yangshan import premiums topped $200/t, a record, even as LME stocks hit their highest since mid-July.",
+        "simple": "A PMI below 50 means factory activity shrank, which usually hurts copper because China buys about half the world's supply. Copper is rising anyway because mine supply from Chile is weaker and Chinese buyers are paying record premiums to import metal right now. That suggests physical demand is still firm.",
+        "source": "Business Recorder; FourWeekMBA",
+        "url": "https://brecorder.com/news/40447047/copper-rises-on-weaker-dollar-and-downgrade-to-chile-production-outlook"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Fed loan-officer survey today is a credit check on banks",
+      "body": "The Fed's Senior Loan Officer Survey is out at 1:00 PM CT. Late last month the KBW Nasdaq Bank Index logged six straight weekly losses, its longest losing streak since 2008, on credit worries. One composite of default expectations fell from −37.1 in Q2 to −62.5.",
+      "simple": "Every quarter the Fed asks bank loan officers whether they're making it harder to borrow and whether demand for loans is changing. If banks are tightening, businesses get less credit and growth slows. Bank stocks have been falling on fears that more loans will go bad.",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262237725-why-us-bank-stocks-continuing-slide-kbw-bank-index-credit-risk-tradingkey"
+    },
+    {
+      "title": "Thrive Holdings buys ADT for $15.3B with Apollo financing",
+      "body": "The OpenAI-backed Thrive is buying ADT at a $7.6B equity value ($15.3B including debt). Apollo is financing the deal, the go-shop runs to Nov 28, and closing is targeted for Q1 2027.",
+      "simple": "A leveraged buyout uses mostly borrowed money to buy a company. Private credit firms like Apollo are increasingly lending for these deals instead of banks. A 'go-shop' lets the target look for a better offer for a few weeks.",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/thrive-holdings-agrees-to-buy-adt-for-153-billion-with-openai-backing/"
+    },
+    {
+      "title": "Marvell–Lumentum talks: an ≈$83–85B stock deal could land this week",
+      "body": "Bloomberg reported on Oct 28 that Marvell is in advanced talks to buy AI-optics maker Lumentum (≈$83–85B market value). It would likely pay in stock since it has ≈$3.9B of cash. Marvell fell ≈12–13% on the report.",
+      "simple": "When a buyer pays in its own shares, the target's owners become part-owners of the combined company. Investors often sell the buyer's stock if they think it's overpaying. A deal this size would be one of the year's biggest tech mergers.",
+      "source": "TNW citing Bloomberg",
+      "url": "https://thenextweb.com/news/marvell-lumentum-deal-talks-bloomberg"
+    },
+    {
+      "title": "Affle agrees to buy Perion for ≈$420M in cash",
+      "body": "Affle is paying $11.70/share, a 34.5% premium, financed with Citibank debt and no financing condition. The go-shop runs to Dec 11, and closing is expected in early 2027.",
+      "simple": "This is a mid-size cross-border deal where a bank (Citi) lends the buyer the cash. 'No financing condition' means the buyer must close even if markets turn. That makes the bid more credible to the target's shareholders.",
+      "source": "PPC Land",
+      "url": "https://ppc.land/affle-agrees-to-buy-perion-for-420-million-at-a-34-5-premium/"
+    },
+    {
+      "title": "Blackstone group buys 49.9% of LNG Canada's liquefaction business for $3.1B",
+      "body": "A Blackstone-led group is buying a near-half stake in the liquefaction assets from a Mitsubishi subsidiary for $3.1B.",
+      "simple": "Infrastructure funds buy stakes in assets with steady cash flows, like gas export plants. The seller (Mitsubishi) frees up capital while keeping control, a common 'sell-down' structure that banks arrange and finance.",
+      "source": "TokenPost",
+      "url": "https://www.tokenpost.com/news/business/46184"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Treasury yields mixed as oil tumbles before the midterms",
+        "body": "The 30Y fell ≈2 bp to 5.284% and the 2Y rose ≈1 bp to 4.589% after Rubio said Trump wants to resolve the Iran war diplomatically.",
+        "simple": "Long-term rates fell because cheaper oil means less inflation ahead. Short-term rates didn't, because they follow the Fed, which is still expected to hike.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+      },
+      {
+        "title": "Gold rebounds from a one-year low as oil slides",
+        "body": "Spot gold rose ≈0.7–0.9% to ≈$3,900 after Iranian negotiators held a third day of talks in Doha with Qatari mediators.",
+        "simple": "Lower oil eases inflation fears, which makes non-interest-paying gold a little more attractive again after a sharp selloff.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+      },
+      {
+        "title": "Midterms, Apple and payrolls: a big week just as investors dump tech",
+        "body": "The week stacks Apple (Mon), the midterms (Tue), ISM services and refunding (Wed), BoE (Thu) and payrolls (Fri, ≈55k consensus) on top of the October tech selloff.",
+        "simple": "So many big events in five days means stocks and bonds could swing hard. Investors are bracing with hedges rather than making big bets.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+      },
+      {
+        "title": "Futures recover from a bruising sell-off",
+        "body": "S&P futures are ≈+0.4–0.5% and Nasdaq-100 futures ≈+0.75–0.9% after the Nasdaq's worst month since March 2025. Palantir is ≈+1.3% premarket.",
+        "simple": "After big drops, buyers often step in to grab 'cheaper' stocks. Whether it lasts depends on Apple's earnings tonight and the week's data.",
+        "source": "Yahoo Finance (CNBC live blog not accessible)",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Binance hack (≈$6.3B) is the largest crypto theft on record",
+        "body": "Binance estimated the Oct 29–30 breach at ≈$6.3B, with ≈$3B frozen on-chain. Tether froze ≈$1.57B and Circle ≈$800M, and bitcoin hit a six-week low of ≈$76,368. Binance says it will cover losses.",
+        "simple": "Hackers, reportedly linked to North Korea, stole digital coins from the world's biggest crypto exchange. Stablecoin issuers can freeze tokens, which limits the damage. The episode will feed calls for tighter crypto regulation and custody rules at banks.",
+        "source": "NPR Illinois (WSJ not accessible)",
+        "url": "https://www.nprillinois.org/2026-10-30/hackers-stole-6-billion-in-digital-coins-from-binance"
+      },
+      {
+        "title": "Judge tosses Trump's defamation suit against the Journal",
+        "body": "A federal judge in Miami dismissed the suit against Murdoch and the WSJ with prejudice, calling the paper's reporting a thoughtful and detailed investigation (per CNBC, Oct 31).",
+        "simple": "'With prejudice' means the case can't be refiled. It's a media-law story more than a markets one, but it matters for News Corp's legal costs.",
+        "source": "White Rabbit newsletter citing CNBC",
+        "url": "https://thewhiterabbitreport.substack.com/p/the-white-rabbit-digest-7"
+      },
+      {
+        "title": "OPEC+ holds December output for a third month",
+        "body": "Seven core members kept combined targets at 30.9M b/d. Group output sits ≈4.2M b/d below its 34.45M b/d target, so the pause has little practical bite while Hormuz is disrupted.",
+        "simple": "OPEC+ sets how much oil its members try to pump. Right now the war, not quotas, is what limits supply. That's why oil prices react to Iran peace-talk headlines far more than to OPEC decisions.",
+        "source": "Discovery Alert / House of Saud (citing Reuters sources)",
+        "url": "https://houseofsaud.com/opec-plus-december-output-unchanged-hormuz/"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Goolsbee speaks at 10:15 AM CT",
+        "body": "The Chicago Fed president (non-voter in 2026) moderates a discussion today. It's his first scheduled appearance since the Oct 28 10–2 hold, when Cook and Hammack dissented for a hike.",
+        "simple": "Fed officials' speeches move markets because they hint at future rate decisions. Goolsbee has said inflation is too high, so traders will listen for whether cheaper oil or the tech selloff changes his view.",
+        "source": "TheStreet Pro calendar",
+        "url": "https://pro.thestreet.com/stock-market-today/2026-11-02"
+      },
+      {
+        "title": "McDonald's can't escape McRib class action",
+        "body": "A federal judge let some consumer-fraud claims proceed over McRib marketing that allegedly implies rib meat, while dismissing others. McDonald's says the claims lack merit. Its Q3 earnings are due Wednesday.",
+        "simple": "This is a small legal story for the Chicago-based chain, but it lands the same week investors check whether low-income customers are cutting back with gas prices high.",
+        "source": "Newsquawk (citing Reuters)",
+        "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---okta-to-join-spx-replacing-kvue-openai-cuts-fundraising-target-kxiay-falls-on-slower-profit-growth-fms-secures-options-for-37-wuxi-biosimilars-meta-develops-humanoid-robot-prototype-deepseek-launches-new-coding-tool"
+      },
+      {
+        "title": "Abbott's coronary IVL device meets its trial goals",
+        "body": "Abbott (Abbott Park, IL) said its Tectonic CAD IVL IDE study of the investigational SonicForce coronary IVL system met its primary safety and effectiveness endpoints.",
+        "simple": "IVL uses sound waves to crack calcium in clogged heart arteries so a stent can be placed. Hitting trial goals is a step toward FDA approval and a new revenue line in a fast-growing device market.",
+        "source": "Newsquawk",
+        "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---okta-to-join-spx-replacing-kvue-openai-cuts-fundraising-target-kxiay-falls-on-slower-profit-growth-fms-secures-options-for-37-wuxi-biosimilars-meta-develops-humanoid-robot-prototype-deepseek-launches-new-coding-tool"
+      },
+      {
+        "title": "CME heads toward a record October",
+        "body": "CME said October ADV was tracking at its highest on record for the month, with Q4 guided ≈17% above last year's record. The official monthly volumes are due early this month.",
+        "simple": "CME, Chicago's exchange giant, earns fees on every contract traded. Turbulent markets with rate-hike fears, an oil shock and an election are good for its business.",
+        "source": "Markets Media",
+        "url": "https://www.marketsmedia.com/cme-on-track-for-record-year/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Voters head to the polls in a sour economic mood",
+        "body": "Reuters polling finds prices are the top concern, with many voters blaming tariffs and the Iran war for inflation. Democrats are widely expected to win the House, and the Senate is less certain.",
+        "simple": "Elections decide who controls spending and taxes. A split Congress usually means fewer big new spending bills. That tends to calm the bond market because the government needs to borrow less.",
+        "source": "Reuters via Investing.com (NYT not accessible)",
+        "url": "https://www.investing.com/news/economy-news/us-voters-in-a-sour-economic-mood-heading-into-midterm-elections-4990812"
+      },
+      {
+        "title": "Iran–Qatar talks push oil down ≈3%",
+        "body": "Iranian negotiators held a third day of talks in Doha. Iran floated reopening Hormuz within ≈48 hours if conditions are met, while separate reports say two tankers hit mines in the Strait on Sunday.",
+        "simple": "About a fifth of the world's oil normally passes through the Strait of Hormuz. Any sign it will reopen pulls prices down fast. Mine strikes show how fragile that hope is.",
+        "source": "Oilprice.com; ATFX",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-3-as-Hopes-for-Iran-Peace-Deal-Grow.html"
+      },
+      {
+        "title": "Midterms meet earnings: limited market impact expected",
+        "body": "Reuters notes Q3 GDP grew at its fastest pace in a year and the Fed upgraded its economic view to 'strong'. Analysts see limited market impact from the vote beyond more AI scrutiny under a Democratic House.",
+        "simple": "A strong economy is why the Fed is thinking about raising rates rather than cutting. The election matters less to markets than inflation and jobs data.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/economy-news/take-five-midterms-meet-earnings-4990197"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Oil vs the 2Y: why the front end isn't following crude",
+      "point": "WTI is down ≈3% toward $100 on Iran talks, yet the 2Y is up ≈1 bp at ≈4.59% and December hike odds are only ≈4 pts lower (≈75% → ≈71%). The FOMC is reacting to core inflation and a 'strong' economy, with two dissents already for a hike, not to headline energy. So the oil drop shows up in the long end (30Y −2 bp) and breakevens. A clean way to express it is a 2s30s flattener into the refunding, with ISM prices paid (≈77.5 expected) as today's check."
+    },
+    {
+      "topic": "Treasury supply as the term-premium driver this week",
+      "point": "Today's borrowing estimate (vs $628B in August) and Wednesday's refunding come right after the midterms. If a divided Congress lowers fiscal-expansion odds, and Treasury keeps coupons flat while expanding ≥$4B long-end buybacks, the 30Y at ≈5.28% has room to compress. A bigger borrowing number or a softening of the 'several quarters' language would do the opposite. I'd watch the 10Y–30Y spread more than the 2Y."
+    },
+    {
+      "topic": "Credit is the bank-stock story, not rates",
+      "point": "The KBW bank index just had its longest weekly losing streak since 2008 even with a steep curve that normally helps net interest margins. Today's SLOOS will show whether loan officers are tightening C&I and CRE standards. For a commercial banking seat, the key point is that buyers like Apollo (financing ADT's $15.3B buyout) are taking leveraged lending share while banks get pickier. Banks are still winning financing mandates like Citi's on Affle–Perion."
+    }
+  ],
+  "caveats": "WebFetch was blocked this run (CNBC, Yahoo and others unreachable), so figures come from search snippets of time-stamped early-morning reports, and ranges reflect different snapshot times. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. The ISM prices-paid consensus and the Russell 2000 level are single-source. No Dow futures level or COMEX copper quote was found. Treasury's borrowing-estimate time is the usual slot, not confirmed. The OPEC+ hold comes from outlets citing Reuters sources. Times are CT.",
+  "updates": []
+}
