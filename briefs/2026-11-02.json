@@ -11,91 +11,91 @@
     "Metals are bouncing off forced selling. Spot gold is ≈$3,900–3,910 (+0.7–0.9%) after Friday's one-year low, which reporting tied to margin calls during the tech selloff. Silver is ≈$50.26, back above $50. Platinum is ≈$1,431 and palladium ≈$956–966. LME copper is ≈+0.7% at ≈$14,251/t on a softer dollar and a cut to Chile's output outlook, even with China's official PMI at 49.3 and LME stocks at their highest since mid-July.",
     "The RBA decides tonight at 9:30 PM CT. All four big Australian banks expect +25 bp to 4.85%, which would be its fifth hike of 2026. That plus the BoE on Thursday keeps the global front end leaning hawkish heading into Friday's payrolls (≈55k consensus)."
   ],
-  "markets_asof": "≈10:25 AM CT (first-hour snapshots; some tiles pre-ISM)",
+  "markets_asof": "≈12:15 PM CT (midday snapshots)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,655",
-      "change": "≈+1.0%",
+      "value": "≈7,626",
+      "change": "+0.6% (+46)",
       "dir": "up",
-      "note": "Cash; level derived from Fri 7,580.07 close"
+      "note": "Benzinga midday snapshot; faded from ≈+1%"
     },
     {
-      "label": "Nasdaq Comp",
+      "label": "Nasdaq 100",
       "value": "—",
-      "change": "≈+1.3%",
+      "change": "≈+0.5%",
       "dir": "up",
-      "note": "CNBC, first hour"
+      "note": "Benzinga"
     },
     {
       "label": "Dow",
-      "value": "≈52,344",
-      "change": "+574 pts (≈+1.1%)",
+      "value": "≈52,308",
+      "change": "+538 pts (≈+1.0%)",
       "dir": "up",
-      "note": "CNBC"
+      "note": "Benzinga"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote found; Fri ≈2,811"
+      "change": "≈+1%",
+      "dir": "up",
+      "note": "Benzinga; Fri ≈2,811"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.59%",
-      "change": "≈flat",
+      "value": "≈4.585%",
+      "change": "<+1 bp",
       "dir": "flat",
-      "note": "Pre-ISM; no post-release print found"
+      "note": "CNBC"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.92–4.94%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Seven-week low (FXStreet), pre-ISM"
+      "value": "≈4.88%",
+      "change": "≈−4 to −5 bp",
+      "dir": "down",
+      "note": "CNBC; bull flattening"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "AM ≈5.284%; no fresh quote"
+      "value": "≈5.25%",
+      "change": "≈−5 bp",
+      "dir": "down",
+      "note": "CNBC"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈76.6%",
-      "dir": "up",
-      "note": "FedWatch pre-ISM, up from 70.7% Fri (ActionForex)"
+      "change": "Dec hike odds —",
+      "dir": "flat",
+      "note": "No post-ISM FedWatch print found (pre-ISM 76.6%)"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$106.5–111.8",
-      "change": "≈−3% or more",
+      "value": "≈$104.82",
+      "change": "−7.6%",
       "dir": "down",
-      "note": "Snapshots vary; Fri $113.43"
+      "note": "Benzinga; Fri $113.43"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$97.6–100.6",
-      "change": "≈−3.4% to −6.2%",
+      "value": "≈$96.72",
+      "change": "−7.1%",
       "dir": "down",
-      "note": "Broke below $100"
+      "note": "Steepest drop since late July"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,900–3,960",
-      "change": "≈+0.7% to +2%",
+      "value": "≈$3,954",
+      "change": "+1.85%",
       "dir": "up",
-      "note": "Off Fri one-year low"
+      "note": "USAGOLD"
     },
     {
       "label": "Silver",
-      "value": "≈$50.35",
-      "change": "≈+2.5%",
+      "value": "≈$51.6",
+      "change": "+3.6%",
       "dir": "up",
-      "note": "Back above $50"
+      "note": "USAGOLD"
     },
     {
       "label": "Copper (LME 3M)",
@@ -106,10 +106,10 @@
     },
     {
       "label": "Dollar index",
-      "value": "—",
+      "value": "≈101.6–102",
       "change": "softer",
       "dir": "down",
-      "note": "Fri 101.96"
+      "note": "FXStreet; Fri 101.96"
     }
   ],
   "calendar": [
@@ -431,6 +431,41 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo and others unreachable), so figures come from search snippets of time-stamped early-morning reports, and ranges reflect different snapshot times. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. The ISM prices-paid consensus and the Russell 2000 level are single-source. No Dow futures level or COMEX copper quote was found. Treasury's borrowing-estimate time is the usual slot, not confirmed. The OPEC+ hold comes from outlets citing Reuters sources. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-02T18:17:31Z",
+      "label": "Midday",
+      "headline": "Oil's slide deepened to ≈−7% (WTI ≈$96.7) and is pulling the long end down (10Y ≈4.88%, 30Y ≈5.25%), but the 2Y is pinned at ≈4.585%: the curve is bull-flattening, so oil is easing long-run inflation worries without yet talking the market out of a December hike.",
+      "points": [
+        "Curve: 10Y −4 to −5 bp to ≈4.88%, 30Y −5 bp to ≈5.25%, 2Y up <1 bp to ≈4.585% (CNBC). 2s10s narrows ≈4–5 bp. The morning call that soft ISM prices paid (75.2) would 'help the 2Y' has NOT played out; the front end is holding for payrolls and the midterms.",
+        "Oil: WTI −7.1% to ≈$96.72, Brent −7.6% to ≈$104.82 (Benzinga), the steepest one-day drop since late July. Driver: Iran's president said the Supreme Leader gave the government authority for peace talks, and Rubio said the administration wants a diplomatic end to the war.",
+        "Stocks have faded from the first hour: Dow +538 (≈+1%) to ≈52,308, S&P 500 +0.6% to ≈7,626, Nasdaq 100 +0.5%, Russell 2000 +1% (Benzinga snapshot). The S&P was ≈+1% at 10:25.",
+        "Metals: spot gold ≈$3,954 (+1.85%), silver +3.6% to ≈$51.6 (USAGOLD); DXY ≈101.6–102, softer (FXStreet). No fresh copper or FedWatch print found; the 76.6% Dec-hike figure from the 10:25 update is unconfirmed since ISM.",
+        "No coverage found of Goolsbee's 10:15 remarks or the 13/26-week bill results. Banking: TexasBank (≈$2.5B assets) agreed to buy Haskell National Bank in West Texas (no price disclosed). Still ahead: SLOOS 1:00 PM, Treasury Q4 borrowing estimate ≈2:00 PM, Apple/Palantir after the close."
+      ],
+      "simple": "A bond's yield is the interest rate it pays; when yields fall, bond prices rise. Cheaper oil makes investors less worried about inflation years from now, so long-term yields fell. But the 2-year yield, which tracks what the Fed is expected to do over the next few months, barely moved, so the market still expects a possible December rate hike. That keeps loan rates tied to the short end, such as many business loans, from getting cheaper for now.",
+      "sources": [
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62788338/stock-market-today-dow-oil-iran-peace-hopes-amazon-idexx"
+        },
+        {
+          "name": "USAGOLD",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-2-2026/"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652"
+        },
+        {
+          "name": "The Paypers (TexasBank–Haskell)",
+          "url": "https://thepaypers.com/mergers-aquisitions-and-investments/news/texasbank-parent-agrees-to-acquire-haskell-national-bank"
+        }
+      ]
+    },
+    {
       "at": "2026-11-02T16:27:11Z",
       "label": "Post-open",
       "headline": "ISM beat on activity (55.5 vs ≈54.5–54.7) but prices paid cooled to 75.2, and with WTI breaking below $100 stocks are up ≈1% and the morning's 'oil does the Fed's work' thesis is holding.",
@@ -474,5 +509,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-02T16:27:11Z"
+  "updatedAt": "2026-11-02T18:17:31Z"
 }
