@@ -11,105 +11,105 @@
     "Metals are back under pressure. Spot gold is ≈$3,900 (−1.1%) after failing near $3,970. Silver is ≈$49.8–50.2, and platinum (−2.1%) and palladium (−2.9%) are also down. The World Gold Council halved its 2026 investment-demand growth forecast to 200t as Q3 bar/coin demand fell 19%, even as central-bank buying jumped 42% to 321t. LME copper rose 1.4% Monday to ≈$14,349/t on Chile supply cuts, despite LME stocks at a 3½-month high.",
     "Capital markets: Anthropic's amended S-1 shows ≈$17B Q3 revenue (≈+1,127% y/y) and a $23.3B net loss, mostly non-cash. Investor valuation talk has slipped to ≈$1.5T from ≈$2T, with Goldman and Morgan Stanley leading 22 banks. Tonight's midterm result (FXStreet cites ≈71% odds of a Democratic Senate) is the overnight fiscal and term-premium catalyst before Treasury's refunding statement at 7:30 AM CT Wednesday."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (index/Treasury levels are Monday closes; futures, oil, gold, DXY are early-Tuesday snapshots)",
+  "markets_asof": "≈9:15 AM CT (early-session ranges; some tiles carry pre-open levels where noted)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,541.40",
-      "change": "futures ≈−0.05% to −0.2%",
-      "dir": "down",
-      "note": "Mon close (CNBC); futures per Yahoo/TipRanks"
+      "value": "≈+0.2% to +0.3%",
+      "change": "early session",
+      "dir": "up",
+      "note": "Mon close 7,541.40; TheStreet/Yahoo open readings"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "25,164.32",
-      "change": "NQ futures ≈+0.1% to +0.4%",
+      "value": "≈+0.5% to +0.8%",
+      "change": "early session",
       "dir": "up",
-      "note": "Mon close; Apple −4.5% pre-mkt offsets chip bid"
+      "note": "Chips lead; Apple ≈−4%"
     },
     {
       "label": "Dow",
-      "value": "51,983.98",
-      "change": "futures ≈−0.5%",
+      "value": "≈−0.3% to −0.5%",
+      "change": "early session",
       "dir": "down",
-      "note": "Mon close +0.41%"
+      "note": "Mon close 51,983.98; Apple drag"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,805.88",
-      "change": "−0.21% (Mon)",
-      "dir": "down",
-      "note": "Yahoo; iShares IWM NAV −0.22% agrees; Investing.com shows +0.98%"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh quote found; Mon ≈2,805.88"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.56–4.60%",
-      "change": "≈flat to −5 bp (Mon)",
+      "value": "≈4.59%",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "Saxo 4.60%, 24/7 Wall St 4.56%"
+      "note": "Pre-JOLTS; no clean post-print quote yet"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.89–4.91%",
-      "change": "≈−3 to −5 bp (Mon)",
-      "dir": "down",
-      "note": "Intraday low ≈4.865%; 2s10s ≈31–32 bp"
+      "value": "≈4.93%",
+      "change": "≈+2 to +3.5 bp",
+      "dir": "up",
+      "note": "Trading Economics/investingLive, pre-JOLTS"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.26–5.29%",
-      "change": "≈−4 to −5 bp (Mon)",
-      "dir": "down",
-      "note": "Lowest since September"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh quote; Mon ≈5.26–5.29%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈72–77%",
+      "change": "Dec hike ≈75% (pre-JOLTS)",
       "dir": "flat",
-      "note": "FedWatch via CNBC/FXStreet; ≈85% after Oct 28 FOMC"
+      "note": "FedWatch; hot JOLTS likely nudges higher"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$105–107",
-      "change": "≈+1% to +2%",
+      "value": "≈$106.7–107.0",
+      "change": "≈+2%",
       "dir": "up",
-      "note": "Rebound after −7.6% Monday; Qeshm strike"
+      "note": "Mon settle $104.77 (Investing.com/Trading Economics)"
     },
     {
       "label": "WTI (Dec)",
       "value": "≈$97–98",
-      "change": "≈+0.5% to +1.5%",
+      "change": "≈+1%",
       "dir": "up",
-      "note": "Mon settle ≈$96–97"
+      "note": "Morning snapshot; no fresh quote"
     },
     {
-      "label": "Gold (spot)",
-      "value": "≈$3,900",
-      "change": "≈−1.1%",
+      "label": "Gold",
+      "value": "≈$3,898–3,921",
+      "change": "≈−1.2%",
       "dir": "down",
-      "note": "Kitco $3,900.30 at 7:10 AM ET (−$45.40)"
+      "note": "Spot ≈$3,898 (Trading Economics); futures ≈$3,921 (Investing.com)"
     },
     {
       "label": "Silver",
-      "value": "≈$49.8–50.2",
-      "change": "lower",
+      "value": "≈$48.7–49.1",
+      "change": "≈−3.6%",
       "dir": "down",
-      "note": "Kitco $50.15 (Mon eve); Saxo futures $49.78; one report −3.4%"
+      "note": "Below $50"
     },
     {
       "label": "Copper (LME 3M)",
-      "value": "≈$14,349/t",
-      "change": "+1.4% (Mon)",
-      "dir": "up",
-      "note": "Mining.com.au; trading below ≈$14,300 early Tue (Newsquawk)"
+      "value": "≈$14,300",
+      "change": "—",
+      "dir": "flat",
+      "note": "Early-Tue level (Newsquawk); no fresh quote"
     },
     {
       "label": "Dollar index",
       "value": "≈101.8",
-      "change": "+0.05%",
+      "change": "—",
       "dir": "flat",
-      "note": "Trading Economics/FXStreet; narrow pre-vote range"
+      "note": "Early-Tue level; no fresh quote"
     }
   ],
   "calendar": [
@@ -401,5 +401,46 @@
     }
   ],
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, Saxo and others unreachable), so all figures come from search snippets of early-morning reports, and ranges reflect different snapshot times. Index and Treasury levels are Monday closes; Treasury closes differ by 1–4 bp across sources. The Russell 2000 close conflicts across sources. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. Only two WSJ-attributable stories could be confirmed, and no Tribune-originated Chicago business story was found, so that bucket uses other outlets' Chicago coverage. The Pfizer beat, CME's Treasury-link spread plan and the Democratic-Senate odds are single-source. Times are CT.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-03T15:16:48Z",
+      "label": "Post-open",
+      "headline": "September JOLTS came in hot at ≈7.52M openings vs ≈7.10–7.13M expected (August revised up to ≈7.19M), adding to the morning's yield back-up (10Y ≈4.93%) while the Nasdaq opened higher despite Apple.",
+      "points": [
+        "JOLTS (Sept): openings ≈7.52M vs ≈7.10–7.13M consensus, +≈333k m/m; August revised to ≈7.19M from 7.08M. Openings rate ≈4.5%; private ≈6.64M, government ≈0.88M; professional/business services led. Only two non-independent sources so far, so treat the figures as provisional until BLS confirms. Quits — not yet found.",
+        "Rates: the 10Y was already ≈4.93% (+2 to +3.5 bp) before the 9 AM CT print, giving back part of Monday's rally as oil rebounded. 2Y ≈4.59%. No clean post-JOLTS quote yet, but a beat this size goes against the morning thesis that weak labor data would help the front end. December hike odds were last ≈75%; expect them to edge up, not down.",
+        "Stocks at the open: S&P ≈+0.2% to +0.3%, Nasdaq ≈+0.5% to +0.8%, Dow ≈−0.3% to −0.5%. Chips are lifting the Nasdaq even with Apple ≈−4% on its margin guide. Apple's weight in the price-weighted Dow is what's pulling that index down.",
+        "Commodities: Brent ≈$106.7–107.0 (+≈2%, Mon settle $104.77). Gold futures ≈$3,921 (−≈1.2%), spot ≈$3,898. Silver ≈$48.7–49.1 (−≈3.6%), now below $50. Copper and DXY: no fresh quotes found.",
+        "Factory orders (Sept, consensus ≈+1.1%) also came out at 9 AM CT, but no result was found yet. Next up: AMD after the close (options imply ≈±11%), then the midterm results tonight."
+      ],
+      "simple": "JOLTS is a government survey that counts how many jobs employers are trying to fill. September showed about 400,000 more openings than forecasters expected, which means the job market is tighter than thought. A tight job market can keep pushing wages and prices up, so the Fed is more likely to raise interest rates in December. That pushes up Treasury yields (the interest the government pays to borrow) and, in turn, rates on mortgages and business loans.",
+      "sources": [
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/jolts-job-openings-7-523m-vs-7-100m-estimate/"
+        },
+        {
+          "name": "Helious",
+          "url": "https://helious.io/news/rel-ev-1a7b104f233025a0/jolts-job-openings-7-52m"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/commodities/real-time-futures"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-03T15:16:48Z"
 }
