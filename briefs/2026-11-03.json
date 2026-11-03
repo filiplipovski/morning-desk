@@ -11,49 +11,49 @@
     "Metals are back under pressure. Spot gold is ≈$3,900 (−1.1%) after failing near $3,970. Silver is ≈$49.8–50.2, and platinum (−2.1%) and palladium (−2.9%) are also down. The World Gold Council halved its 2026 investment-demand growth forecast to 200t as Q3 bar/coin demand fell 19%, even as central-bank buying jumped 42% to 321t. LME copper rose 1.4% Monday to ≈$14,349/t on Chile supply cuts, despite LME stocks at a 3½-month high.",
     "Capital markets: Anthropic's amended S-1 shows ≈$17B Q3 revenue (≈+1,127% y/y) and a $23.3B net loss, mostly non-cash. Investor valuation talk has slipped to ≈$1.5T from ≈$2T, with Goldman and Morgan Stanley leading 22 banks. Tonight's midterm result (FXStreet cites ≈71% odds of a Democratic Senate) is the overnight fiscal and term-premium catalyst before Treasury's refunding statement at 7:30 AM CT Wednesday."
   ],
-  "markets_asof": "≈9:15 AM CT (early-session ranges; some tiles carry pre-open levels where noted)",
+  "markets_asof": "≈12:15 PM CT (midday; some tiles carry earlier-session levels where noted)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈+0.2% to +0.3%",
-      "change": "early session",
+      "value": "≈higher",
+      "change": "—",
       "dir": "up",
-      "note": "Mon close 7,541.40; TheStreet/Yahoo open readings"
+      "note": "No clean midday level; Mon close 7,541.40"
     },
     {
-      "label": "Nasdaq Comp",
-      "value": "≈+0.5% to +0.8%",
-      "change": "early session",
+      "label": "Nasdaq 100",
+      "value": "≈28,184",
+      "change": "≈+0.7%",
       "dir": "up",
-      "note": "Chips lead; Apple ≈−4%"
+      "note": "Benzinga midday; Nvidia passes Apple"
     },
     {
       "label": "Dow",
-      "value": "≈−0.3% to −0.5%",
-      "change": "early session",
+      "value": "lower",
+      "change": "—",
       "dir": "down",
-      "note": "Mon close 51,983.98; Apple drag"
+      "note": "Apple drag; Mon close 51,983.98"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote found; Mon ≈2,805.88"
+      "change": "positive midmorning",
+      "dir": "up",
+      "note": "No point level found; Mon ≈2,805.88"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.59%",
-      "change": "≈flat",
+      "value": "—",
+      "change": "—",
       "dir": "flat",
-      "note": "Pre-JOLTS; no clean post-print quote yet"
+      "note": "No clean post-JOLTS quote; ≈4.59% pre-print"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.93%",
-      "change": "≈+2 to +3.5 bp",
+      "value": "≈4.95%",
+      "change": "≈+4 bp",
       "dir": "up",
-      "note": "Trading Economics/investingLive, pre-JOLTS"
+      "note": "Benzinga; 4.958% at 9:26 AM CT"
     },
     {
       "label": "UST 30Y",
@@ -65,16 +65,16 @@
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈75% (pre-JOLTS)",
+      "change": "Dec hike ≈75–77%",
       "dir": "flat",
-      "note": "FedWatch; hot JOLTS likely nudges higher"
+      "note": "FedWatch via FXStreet/Schwab"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$106.7–107.0",
-      "change": "≈+2%",
+      "value": "≈$106.6",
+      "change": "≈+1.8%",
       "dir": "up",
-      "note": "Mon settle $104.77 (Investing.com/Trading Economics)"
+      "note": "Mon settle $104.77"
     },
     {
       "label": "WTI (Dec)",
@@ -85,17 +85,17 @@
     },
     {
       "label": "Gold",
-      "value": "≈$3,898–3,921",
-      "change": "≈−1.2%",
+      "value": "≈$3,940",
+      "change": "≈−0.2%",
       "dir": "down",
-      "note": "Spot ≈$3,898 (Trading Economics); futures ≈$3,921 (Investing.com)"
+      "note": "Kitco 9:04 AM CT; pared from ≈$3,900 lows"
     },
     {
       "label": "Silver",
-      "value": "≈$48.7–49.1",
-      "change": "≈−3.6%",
+      "value": "≈$48.8",
+      "change": "≈−3.4%",
       "dir": "down",
-      "note": "Below $50"
+      "note": "FXStreet; Au/Ag ratio ≈80"
     },
     {
       "label": "Copper (LME 3M)",
@@ -403,6 +403,49 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, Saxo and others unreachable), so all figures come from search snippets of early-morning reports, and ranges reflect different snapshot times. Index and Treasury levels are Monday closes; Treasury closes differ by 1–4 bp across sources. The Russell 2000 close conflicts across sources. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. Only two WSJ-attributable stories could be confirmed, and no Tribune-originated Chicago business story was found, so that bucket uses other outlets' Chicago coverage. The Pfizer beat, CME's Treasury-link spread plan and the Democratic-Senate odds are single-source. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-03T18:17:54Z",
+      "label": "Midday",
+      "headline": "Chips beat Apple at midday: Nvidia passes Apple as the most valuable company and the Nasdaq 100 is up ≈0.7%, while the 10Y climbs ≈4 bp to ≈4.95% after the hot JOLTS print, with December hike odds still in the mid-to-high 70s.",
+      "points": [
+        "Rates: the 10Y is ≈4.95–4.96%, up ≈4 bp (Benzinga midday; Equity Insider had 4.958% at 9:26 AM CT). That is a couple of bp above the post-open read. The JOLTS beat (7.52M vs 7.13M; FXStreet confirms the 7.523M print and the Aug revision to 7.19M) is pushing yields up, alongside Brent. I found no clean post-JOLTS 2Y or 30Y quote.",
+        "Fed odds: December hike ≈75–77% (FXStreet 75%, Schwab 77%) vs ≈75–76% before the print. That is only a small move: the market is waiting for Friday's payrolls (≈55k) and tonight's midterms before adding more.",
+        "Equities: Nasdaq 100 +≈0.7% to ≈28,184. Nvidia ≈$5.01T passes Apple ≈$4.83T as Apple falls ≈4–4.5% on its 45–46% gross-margin guide. AMD +≈5% ahead of tonight's print, Broadcom +≈3%, Micron +≈2.6%. The Dow is still lower on Apple's price weight. Clean S&P/Dow point levels weren't available.",
+        "Commodities: Brent ≈$106.6 (+≈1.8%) as the Qeshm strike risk premium holds; that report still rests on unnamed U.S. officials. Gold has pared losses, from ≈$3,898–3,909 early to ≈$3,940 (Kitco, 9:04 AM CT, −$6). Silver ≈$48.8 (−≈3.4%) is lagging, and the gold/silver ratio is ≈80 vs ≈78 Monday.",
+        "Thesis check: the morning view that soft labor data would help the front end is wrong for today. September factory orders (consensus ≈+1.1%): still no result found. No new bank M&A today; Monday's TexasBank–Haskell deal and Bank7's Century close (Nov 1, ≈$3.3B combined assets) are the latest."
+      ],
+      "simple": "Investors are selling Treasury bonds after the job-openings report, which pushes their yields (the interest rate the government pays to borrow) higher; the 10-year rate drives mortgage pricing. Higher yields usually hurt stocks, but the market's focus today is on chipmakers ahead of AMD's results, and Nvidia is now worth more than Apple. Gold has recovered most of its early drop because the Iran strike makes investors want safe assets. Silver hasn't recovered as much because it trades partly as an industrial metal.",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62832505/stock-market-today-nvidia-overtakes-apple-chip-rally-nasdaq-jolts-yields"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://fxstreet.com/news/gold-struggles-near-3-900-as-traders-assess-middle-east-developments-us-election-risks-202611031112"
+        },
+        {
+          "name": "FXStreet (silver)",
+          "url": "https://fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202611030930"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "FinanceFeeds",
+          "url": "https://financefeeds.com/brent-crude-oil-price-106-tuesday-after-7-6-percent-plunge-qeshm-strike-report-midterms-bull-113-bear-100/"
+        },
+        {
+          "name": "Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "name": "Journal-News (AP)",
+          "url": "https://www.journal-news.com/nation-world/nvidia-and-other-big-tech-stocks-lift-wall-street-and-make-up-for-a-drop/article_c74fdbca-b187-5734-9e8e-36082421de78.html"
+        }
+      ]
+    },
+    {
       "at": "2026-11-03T15:16:48Z",
       "label": "Post-open",
       "headline": "September JOLTS came in hot at ≈7.52M openings vs ≈7.10–7.13M expected (August revised up to ≈7.19M), adding to the morning's yield back-up (10Y ≈4.93%) while the Nasdaq opened higher despite Apple.",
@@ -442,5 +485,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03T15:16:48Z"
+  "updatedAt": "2026-11-03T18:17:54Z"
 }
