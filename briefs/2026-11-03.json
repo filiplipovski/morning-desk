@@ -11,105 +11,105 @@
     "Metals are back under pressure. Spot gold is ≈$3,900 (−1.1%) after failing near $3,970. Silver is ≈$49.8–50.2, and platinum (−2.1%) and palladium (−2.9%) are also down. The World Gold Council halved its 2026 investment-demand growth forecast to 200t as Q3 bar/coin demand fell 19%, even as central-bank buying jumped 42% to 321t. LME copper rose 1.4% Monday to ≈$14,349/t on Chile supply cuts, despite LME stocks at a 3½-month high.",
     "Capital markets: Anthropic's amended S-1 shows ≈$17B Q3 revenue (≈+1,127% y/y) and a $23.3B net loss, mostly non-cash. Investor valuation talk has slipped to ≈$1.5T from ≈$2T, with Goldman and Morgan Stanley leading 22 banks. Tonight's midterm result (FXStreet cites ≈71% odds of a Democratic Senate) is the overnight fiscal and term-premium catalyst before Treasury's refunding statement at 7:30 AM CT Wednesday."
   ],
-  "markets_asof": "≈12:15 PM CT (midday; some tiles carry earlier-session levels where noted)",
+  "markets_asof": "Tue close (3:15 PM CT; stocks/oil final, yields late-session)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈higher",
-      "change": "—",
+      "value": "7,568.92",
+      "change": "+0.36%",
       "dir": "up",
-      "note": "No clean midday level; Mon close 7,541.40"
+      "note": "Close (CNBC); snaps 3-day slide"
     },
     {
-      "label": "Nasdaq 100",
-      "value": "≈28,184",
-      "change": "≈+0.7%",
+      "label": "Nasdaq Comp.",
+      "value": "25,372.01",
+      "change": "+0.83%",
       "dir": "up",
-      "note": "Benzinga midday; Nvidia passes Apple"
+      "note": "Close; chips led, Nvidia > Apple"
     },
     {
       "label": "Dow",
-      "value": "lower",
-      "change": "—",
+      "value": "51,786.72",
+      "change": "−197.26 (−0.38%)",
       "dir": "down",
-      "note": "Apple drag; Mon close 51,983.98"
+      "note": "Close; Apple drag"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "positive midmorning",
-      "dir": "up",
-      "note": "No point level found; Mon ≈2,805.88"
+      "change": "≈−0.2%",
+      "dir": "down",
+      "note": "Provisional; Mon 2,805.88"
     },
     {
       "label": "UST 2Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No clean post-JOLTS quote; ≈4.59% pre-print"
+      "value": "≈4.61%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "CNBC late session"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.95%",
-      "change": "≈+4 bp",
+      "value": "≈4.94%",
+      "change": "≈+2–3 bp",
       "dir": "up",
-      "note": "Benzinga; 4.958% at 9:26 AM CT"
+      "note": "CNBC late session; Mon ≈4.91%"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
+      "value": "≈5.31%",
       "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote; Mon ≈5.26–5.29%"
+      "dir": "up",
+      "note": "CNBC late session"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈75–77%",
       "dir": "flat",
-      "note": "FedWatch via FXStreet/Schwab"
+      "note": "Last read midday; no fresh FedWatch"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$106.6",
-      "change": "≈+1.8%",
-      "dir": "up",
-      "note": "Mon settle $104.77"
+      "value": "$103.60",
+      "change": "−$1.17 (−1.1%)",
+      "dir": "down",
+      "note": "Settle; reversed Qeshm pop"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$97–98",
-      "change": "≈+1%",
-      "dir": "up",
-      "note": "Morning snapshot; no fresh quote"
+      "value": "$96.09",
+      "change": "−$0.37 (−0.4%)",
+      "dir": "down",
+      "note": "Settle"
     },
     {
       "label": "Gold",
-      "value": "≈$3,940",
-      "change": "≈−0.2%",
-      "dir": "down",
-      "note": "Kitco 9:04 AM CT; pared from ≈$3,900 lows"
+      "value": "≈$3,966",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Afternoon (GoldSilver.com); recovered from ≈$3,900"
     },
     {
       "label": "Silver",
       "value": "≈$48.8",
       "change": "≈−3.4%",
       "dir": "down",
-      "note": "FXStreet; Au/Ag ratio ≈80"
+      "note": "Last clean quote (FXStreet, midday)"
     },
     {
       "label": "Copper (LME 3M)",
-      "value": "≈$14,300",
-      "change": "—",
-      "dir": "flat",
-      "note": "Early-Tue level (Newsquawk); no fresh quote"
+      "value": "$14,325.5",
+      "change": "+1.38%",
+      "dir": "up",
+      "note": "Mon close (SMM); no Tue close found"
     },
     {
       "label": "Dollar index",
       "value": "≈101.8",
       "change": "—",
       "dir": "flat",
-      "note": "Early-Tue level; no fresh quote"
+      "note": "Business Standard; no fresh close"
     }
   ],
   "calendar": [
@@ -403,6 +403,53 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, Saxo and others unreachable), so all figures come from search snippets of early-morning reports, and ranges reflect different snapshot times. Index and Treasury levels are Monday closes; Treasury closes differ by 1–4 bp across sources. The Russell 2000 close conflicts across sources. The WSJ, NYT and Tribune buckets use other outlets' coverage, and the outlet actually used is named on each story. Only two WSJ-attributable stories could be confirmed, and no Tribune-originated Chicago business story was found, so that bucket uses other outlets' Chicago coverage. The Pfizer beat, CME's Treasury-link spread plan and the Democratic-Senate odds are single-source. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-03T21:17:34Z",
+      "label": "Close",
+      "headline": "Chips beat Apple into the close: the S&P 500 +0.36% to 7,568.92 ends a three-day slide, but Brent reversed to settle $103.60 (−$1.17) on diplomacy hopes while yields still held ≈2–3 bp higher (10Y ≈4.94%) on the hot JOLTS and a factory-orders beat.",
+      "points": [
+        "Stocks (CNBC close): S&P 500 7,568.92 (+0.36%), Nasdaq Composite 25,372.01 (+0.83%), Dow 51,786.72 (−197.26, −0.38%) as Apple's margin guide dragged the price-weighted Dow. AMD (+≈4–5.5% intraday) then beat after the bell: Q3 revenue $13.4B vs ≈$13.09B consensus, above the top of its $13.0B ±$0.3B guide, +45% y/y; GAAP EPS $1.46, GAAP gross margin 54%. No verified after-hours move yet.",
+        "Rates (CNBC, late session): 2Y ≈4.61%, 10Y ≈4.94%, 30Y ≈5.31%, roughly +2 to +3 bp on the day vs Monday's ≈4.91% 10Y close. Yields rose on the 7.52M JOLTS print and September factory orders of +1.8% vs ≈+1.1–1.2% expected (Aug revised to +0.3%; civilian aircraft +28.3%, machinery +1.5%, per Reuters). That's a second data beat today, so the morning's hope that soft data would help the front end is wrong. No fresh December FedWatch read found; it was last ≈75–77%.",
+        "Oil: the morning's Qeshm rebound reversed. Brent settled $103.60 (−$1.17, ≈−1.1%) and WTI $96.09 (−$0.37), a second straight decline, as traders bet on a diplomatic resolution (CNBC). The morning headline's 'Brent ≈$105–107' is now stale. That makes yields' rise today a data story, not an oil story.",
+        "Metals: gold recovered to ≈$3,966 in the afternoon (GoldSilver.com) from ≈$3,900 lows, close to flat vs Monday's ≈$3,970 Comex close. Silver ≈$48.8 at last clean quote (−≈3.4%). LME copper: Monday closed $14,325.5 (+1.38%, SMM), no fresh Tuesday close. DXY ≈101.8. No bank M&A announced today.",
+        "Tonight/tomorrow: midterm results overnight (watch 30Y futures and the dollar); Wed 7:30 AM CT quarterly refunding statement (coupons expected unchanged; long-end 2027 guidance is the swing factor); Fed/ECB/NY Fed research forum day 2; Fri payrolls ≈55k."
+      ],
+      "simple": "Stocks closed mixed: chipmakers rose because investors expect the AI spending boom to continue, and AMD's results after the close beat forecasts, while Apple's warning about costs pulled the Dow down. Two economic reports (job openings and factory orders) came in stronger than expected, so traders think the Fed is more likely to raise interest rates, which pushed Treasury yields (the interest the government pays to borrow) up a little. Oil fell instead of rising on the Iran news, because traders now hope for a negotiated end to the conflict, which would mean cheaper gasoline.",
+      "sources": [
+        {
+          "name": "CNBC (stocks)",
+          "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+        },
+        {
+          "name": "Reuters via Investing.com (factory orders)",
+          "url": "https://www.investing.com/news/economy-news/us-factory-orders-beat-expectations-in-september-amid-broad-strength-4995810"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/us-september-factory-orders-1-8-vs-1-2-expected/"
+        },
+        {
+          "name": "AMD release (FinancialContent)",
+          "url": "https://www.financialcontent.com/article/gnwcq-2026-11-3-amd-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "name": "GoldSilver.com",
+          "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-silver-price-today-midterm-election-fed-hike-bets/"
+        },
+        {
+          "name": "SMM (copper)",
+          "url": "https://news.metal.com/newscontent/104200348-crude-oil-prices-pulled-back-significantly-while-copper-futures-rebounded-and-closed-higher-both-domestically-and-internationally-smm-copper-morning-comment"
+        }
+      ]
+    },
+    {
       "at": "2026-11-03T18:17:54Z",
       "label": "Midday",
       "headline": "Chips beat Apple at midday: Nvidia passes Apple as the most valuable company and the Nasdaq 100 is up ≈0.7%, while the 10Y climbs ≈4 bp to ≈4.95% after the hot JOLTS print, with December hike odds still in the mid-to-high 70s.",
@@ -485,5 +532,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03T18:17:54Z"
+  "updatedAt": "2026-11-03T21:17:34Z"
 }
