@@ -11,105 +11,105 @@
     "Oil keeps bleeding. Brent was ≈$101.85 and WTI ≈$94.91 at 4:34 AM CT, after Trump told the FT there are no immediate plans to strike Iran, while Iran says a deal is 'far' off. API showed a 5.27M bbl crude draw (vs +0.88M expected). Cheaper oil caps breakevens, which is the long end's best friend this week.",
     "Banking: a Democratic Congress means years of oversight, a return of CEO hearings and real risk of a credit-card rate cap, which hits COF, SYF, AXP, C, BAC and JPM; Visa and Mastercard face swipe-fee risk. Stress-test changes look unlikely, per Barclays. Capital markets hinge on Anthropic: WSJ-reported valuation talk is $1.5–1.6T (from ≈$2T), the roadshow could start next week and pricing is targeted for the week before Thanksgiving. Evercore calls it the Q4 'swing vote' for bank stocks."
   ],
-  "markets_asof": "≈11:00–11:50 AM CT (mixed midday snapshots)",
+  "markets_asof": "Close (3:00 PM CT); some figures afternoon snapshots",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,701",
-      "change": "≈+1.7–1.8%",
+      "value": "7,688.62",
+      "change": "+1.58%",
       "dir": "up",
-      "note": "Benzinga ≈11:00 CT; CNBC +1.7%"
+      "note": "Close; best day since Aug"
     },
     {
       "label": "Dow",
-      "value": "≈53,302",
-      "change": "+1,515 (+2.9%)",
+      "value": "53,356.12",
+      "change": "+1,569.40 (+3.03%)",
       "dir": "up",
-      "note": "Benzinga; best day since Apr 2025"
+      "note": "Close; best day since Apr 2025"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "—",
-      "change": "≈+1.9%",
+      "value": "25,736.51",
+      "change": "+1.44%",
       "dir": "up",
-      "note": "CNBC via StockTitan"
+      "note": "Close"
     },
     {
       "label": "Russell 2000",
-      "value": "—",
-      "change": "—",
+      "value": "≈2,853",
+      "change": "≈+1.4%",
       "dir": "up",
-      "note": "No fresh print; ≈+2% at open (Bloomberg)"
+      "note": "Midday (Yahoo); close unconfirmed"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.60%",
-      "change": "≈−3 bp",
+      "value": "≈4.55%",
+      "change": "≈−4 bp",
       "dir": "down",
-      "note": "ActionForex"
+      "note": "CNBC afternoon"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.90–4.92%",
-      "change": "≈−5 to −6 bp",
+      "value": "≈4.90%",
+      "change": "≈−5 bp",
       "dir": "down",
-      "note": "ActionForex 4.917%; TE 4.92%"
+      "note": "CNBC afternoon"
     },
     {
       "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "down",
-      "note": "No confirmed print; ≈5.31% pre-refunding"
+      "note": "No confirmed print"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈79%",
       "dir": "flat",
-      "note": "FedWatch via ActionForex; FOMC Dec 8–9"
+      "note": "Midday FedWatch; FOMC Dec 8–9"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$95.87",
-      "change": "≈−7.4%",
+      "value": "$94.62",
+      "change": "−8.7%",
       "dir": "down",
-      "note": "10:40 CT; first sub-$100 since Oct 7"
+      "note": "Settle (CNBC)"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$90.22",
-      "change": "≈−6.0%",
+      "value": "≈$88",
+      "change": "≈−8%",
       "dir": "down",
-      "note": "10:40 CT; EIA crude −0.865M bbl"
+      "note": "Late trade (Oilprice); settle unconfirmed"
     },
     {
-      "label": "Gold (spot)",
-      "value": "≈$4,068",
-      "change": "≈+3.5%",
+      "label": "Gold (fut.)",
+      "value": "≈$4,073",
+      "change": "≈+3.4%",
       "dir": "up",
-      "note": "Kitco 11:48 CT"
+      "note": "Settle (CNBC)"
     },
     {
-      "label": "Silver (spot)",
-      "value": "≈$52.29",
-      "change": "≈+5.3%",
+      "label": "Silver (fut.)",
+      "value": "≈$52.28",
+      "change": "≈+5.1%",
       "dir": "up",
-      "note": "Kitco 11:48 CT; G/S ratio 77.8"
+      "note": "Settle (CNBC)"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.38–6.46/lb",
+      "value": "≈$6.43–6.47/lb",
       "change": "—",
       "dir": "flat",
-      "note": "Kitco vs Trading Economics differ"
+      "note": "Intraday; settle unconfirmed"
     },
     {
       "label": "Dollar index",
       "value": "—",
-      "change": "lower",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "Weaker on election; level unconfirmed"
+      "note": "CNBC; level unconfirmed"
     }
   ],
   "calendar": [
@@ -424,6 +424,53 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, FXStreet, investingLive, CME and others), so every figure comes from search-result snippets at different overnight timestamps. Treat them as approximate and confirm at the open. No futures index levels were found, only % changes. The 30Y has no overnight read. The Russell 2000 close conflicts (2,812 vs 2,818). Silver snapshots conflict (≈$52 Reuters vs 'near $49' FXStreet). FedWatch odds are cited secondhand. No Reuters PRESS DIGEST for Nov 4 was retrievable, so the WSJ and NYT buckets use other outlets' coverage, and the NYT items come from aggregators citing Nov 3 coverage. The Tribune bucket uses other outlets' Chicago coverage. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-04T21:17:30Z",
+      "label": "Close",
+      "headline": "Final tally: the Dow closed +1,569 (+3.03%) at 53,356, its best day since April 2025. Brent settled −8.7% at $94.62 and gold futures settled ≈+3.4% near $4,073. The 10Y finished ≈4.90% (≈−5 bp), but December-hike pricing barely moved, so the relief went to long-dated bonds, not the Fed path.",
+      "points": [
+        "Equities closed (CNBC data): Dow 53,356.12 (+1,569.40, +3.03%), S&P 500 7,688.62 (+1.58%, best day since August), Nasdaq Comp 25,736.51 (+1.44%). Tech faded into the close; the Nasdaq was ≈+1.9% at midday. I couldn't find a Russell 2000 close. It was ≈2,853 (+≈1.4%) at midday, per Yahoo.",
+        "Oil settled at the lows: Brent −8.7% to $94.62 (CNBC, Dow Jones data), down from ≈$118 last Friday, which puts it on track for its biggest weekly % drop since April 2020 (Archyde). WTI traded ≈$88.08 late (Oilprice) and fell >8%; I couldn't confirm its settle. The catalyst was Vance posting that 'the war' cost the GOP the election (Axios citing Raymond James).",
+        "Rates: CNBC had the 10Y ≈4.90% (≈−5 bp) and the 2Y ≈4.55% in the afternoon, a bull move across the curve led by the long end. I found no fresh FedWatch print after midday's ≈79% for a Dec 8–9 hike. The morning's thesis holds: the move came from fiscal policy, oil and term premium, not a dovish Fed repricing.",
+        "Metals (CNBC): gold futures settled ≈+3.4% at ≈$4,073 and silver ≈+5.1% at ≈$52.28. DXY was ≈−0.3%. Both are still down YTD (gold >6%, silver ≈26%). I couldn't find a COMEX copper settle; intraday it was ≈$6.43–6.47/lb.",
+        "Tomorrow (Thu): BoE at 6:00 AM CT (+25 bp to 4.00% expected) and Norges Bank, plus jobless claims. After the close tonight: Qualcomm, MetLife and McKesson results. Fri: payrolls (≈59k consensus). The 3Y/10Y/30Y auctions on Nov 9/10/12 will test whether the long-end rally holds up against supply."
+      ],
+      "simple": "Markets closed with one of their biggest up days in a year and a half. Investors think a Democratic Congress makes it more likely that the war with Iran ends. That sent oil prices sharply lower, and cheaper oil means less inflation (the general rise in prices). Lower inflation risk pulled down long-term bond yields (the interest those bonds pay), which helps borrowers like homebuyers. It also lifted stocks. Traders still expect the Fed (the U.S. central bank) to raise short-term rates in December, so the relief is mainly in long-term borrowing costs.",
+      "sources": [
+        {
+          "name": "CNBC live updates",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+        },
+        {
+          "name": "CNBC (gold/silver/dollar)",
+          "url": "https://cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html"
+        },
+        {
+          "name": "Oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran"
+        },
+        {
+          "name": "Archyde (Dow Jones data)",
+          "url": "https://www.archyde.com/oil-prices-plunge-as-democratic-sweep-rewrites-iran-war-playbook/"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+        },
+        {
+          "name": "Yahoo Finance (midday Russell)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-145445827.html"
+        }
+      ]
+    },
+    {
       "at": "2026-11-04T18:17:21Z",
       "label": "Midday",
       "headline": "Oil has become the second leg of the rally. Brent is down ≈7% to below $96 and WTI ≈−6% to ≈$90, which helped push the Dow up ≈1,500 points (+2.9%), its biggest one-day gain since April 2025. Gold extended to ≈$4,068 (+3.5%), but December-hike odds are still ≈79%.",
@@ -530,5 +577,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-04T18:17:21Z"
+  "updatedAt": "2026-11-04T21:17:30Z"
 }
