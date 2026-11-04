@@ -11,105 +11,105 @@
     "Oil keeps bleeding. Brent was ≈$101.85 and WTI ≈$94.91 at 4:34 AM CT, after Trump told the FT there are no immediate plans to strike Iran, while Iran says a deal is 'far' off. API showed a 5.27M bbl crude draw (vs +0.88M expected). Cheaper oil caps breakevens, which is the long end's best friend this week.",
     "Banking: a Democratic Congress means years of oversight, a return of CEO hearings and real risk of a credit-card rate cap, which hits COF, SYF, AXP, C, BAC and JPM; Visa and Mastercard face swipe-fee risk. Stress-test changes look unlikely, per Barclays. Capital markets hinge on Anthropic: WSJ-reported valuation talk is $1.5–1.6T (from ≈$2T), the roadshow could start next week and pricing is targeted for the week before Thanksgiving. Evercore calls it the Q4 'swing vote' for bank stocks."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (futures/yields/FX/metals overnight snapshots; Russell 2000 and copper are Tue closes)",
+  "markets_asof": "≈9:15 AM CT (post-open; oil/copper not refreshed)",
   "markets": [
     {
-      "label": "S&P 500 fut.",
-      "value": "—",
-      "change": "≈+0.9%",
+      "label": "S&P 500",
+      "value": "7,705.93",
+      "change": "+137.01 (+1.81%)",
       "dir": "up",
-      "note": "CNBC latest; was −1.4% at overnight low; cash Tue 7,568.92"
+      "note": "Yahoo 9:16 CT"
     },
     {
-      "label": "Dow fut.",
+      "label": "Dow",
       "value": "—",
-      "change": "≈+803 (+1.5%)",
+      "change": "≈+1,000 (≈+2%)",
       "dir": "up",
-      "note": "CNBC; cash Tue 51,786.72"
+      "note": "Yahoo/Bloomberg; prior close 51,786.72"
     },
     {
-      "label": "Nasdaq-100 fut.",
+      "label": "Nasdaq Comp.",
       "value": "—",
-      "change": "≈+0.5%",
+      "change": "≈+1%",
       "dir": "up",
-      "note": "Was −2.4% at low; AI-regulation fears"
+      "note": "Yahoo; AI names lag"
     },
     {
       "label": "Russell 2000",
-      "value": "2,812.45",
-      "change": "+0.23%",
+      "value": "—",
+      "change": "≈+2%",
       "dir": "up",
-      "note": "Tue close (MarketScreener); Investing.com shows 2,817.52"
+      "note": "Bloomberg; Tue close 2,812.45"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.56%",
-      "change": "≈−6 bp",
+      "value": "≈4.56–4.61%",
+      "change": "≈−3 to −6 bp",
       "dir": "down",
-      "note": "Overnight (CNBC)"
+      "note": "Trading Economics / CNBC overnight differ"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.90%",
-      "change": "≈−5 bp",
+      "value": "≈4.90–4.95%",
+      "change": "≈−3 to −7 bp",
       "dir": "down",
-      "note": "CNBC 4.902%; Reuters ≈4.92%"
+      "note": "Emirates NBD 4.90%; TipRanks 4.92%; TE 4.95%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.28%",
+      "value": "≈5.31%",
       "change": "—",
       "dir": "flat",
-      "note": "Tue close (Trading Economics); no overnight read"
+      "note": "Pre-refunding level; post-statement read unconfirmed"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈78–82%",
+      "change": "Dec hike ≈80%",
       "dir": "flat",
-      "note": "FedWatch as cited Nov 4; FOMC Dec 8–9"
+      "note": "FOMC Dec 8–9; ADP beat/ISM miss roughly offset"
     },
     {
       "label": "Brent (Jan)",
-      "value": "≈$101.85",
-      "change": "≈−1.7%",
-      "dir": "down",
-      "note": "4:34 AM CT; settle Tue $103.60"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print; ≈$101.85 at 4:34 AM CT"
     },
     {
       "label": "WTI (Dec)",
-      "value": "≈$94.91",
-      "change": "≈−1.2%",
-      "dir": "down",
-      "note": "4:34 AM CT; settle Tue $96.09"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print; ≈$94.91 at 4:34 AM CT; EIA 9:30"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,047",
-      "change": "≈+3%",
+      "value": "≈$4,035",
+      "change": "≈+2.8%",
       "dir": "up",
-      "note": "Reuters 09:28 GMT; back above $4,000"
+      "note": "Kitco ≈9:06 CT; CNBC $4,039.59 at 6:56 CT"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$52.0",
-      "change": "≈+4.4%",
+      "value": "≈$51.98",
+      "change": "≈+4.3%",
       "dir": "up",
-      "note": "Reuters/CNBC overnight"
+      "note": "Kitco; CNBC +4.32%"
     },
     {
       "label": "Copper (LME 3M)",
-      "value": "≈$14,034/t",
-      "change": "−2.1%",
-      "dir": "down",
-      "note": "Tue (Mining.com); low $13,883"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print; Tue ≈$14,034/t"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.34",
-      "change": "−0.37%",
+      "value": "—",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "One-month low 101.41/≈101.2 overnight"
+      "note": "CNBC; one-month low overnight ≈101.2"
     }
   ],
   "calendar": [
@@ -422,5 +422,62 @@
     }
   ],
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, FXStreet, investingLive, CME and others), so every figure comes from search-result snippets at different overnight timestamps. Treat them as approximate and confirm at the open. No futures index levels were found, only % changes. The 30Y has no overnight read. The Russell 2000 close conflicts (2,812 vs 2,818). Silver snapshots conflict (≈$52 Reuters vs 'near $49' FXStreet). FedWatch odds are cited secondhand. No Reuters PRESS DIGEST for Nov 4 was retrievable, so the WSJ and NYT buckets use other outlets' coverage, and the NYT items come from aggregators citing Nov 3 coverage. The Tribune bucket uses other outlets' Chicago coverage. Times are CT.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-04T15:18:27Z",
+      "label": "Post-open",
+      "headline": "The open confirmed the overnight reversal: ADP beat (86k vs 75k), the S&P is up ≈1.8% near 7,706 and the Dow ≈+1,000, while Treasury kept auction sizes but dropped 'at least' from its coupon guidance. That opens the door to long-end cuts in 2027.",
+      "points": [
+        "ADP Oct +86k vs 75k Dow Jones consensus (Reuters poll 69k); Sept revised down to 86k (from 90k). Trade/transport/utilities +39k, professional/business services −27k. Job-changer pay growth was the fastest since Mar 2024. BLS payrolls Fri: consensus ≈59k.",
+        "ISM services Oct 54.5 vs 54.8 consensus and 54.9 prior. A small miss, but the 28th straight month of expansion, with prices paid rising for a 113th month. That is not enough to dent the ≈80% December-hike pricing.",
+        "Refunding: $58B 3Y / $42B 10Y / $25B 30Y ($125B, raising ≈$28B new cash) as expected. The surprise is wording: Treasury dropped 'at least' from the 'next several quarters' guidance. That leans toward Citi's call (long-end cuts possible in 2027) over UBS's wording-only view. Auctions run Nov 9/10/12.",
+        "Cash equities: per Yahoo at 9:16 CT, the S&P 500 was 7,705.93 (+137, +1.81%), the Dow up >1,000 and the Nasdaq Comp ≈+1%. Bloomberg has small caps ≈+2%, with the S&P on track for its best day in three months. Yields: 10Y ≈4.90–4.95%, 2Y ≈4.56–4.61% (sources differ), both lower on the day.",
+        "Metals are holding the overnight gains. Kitco at ≈9:06 CT had gold ≈$4,035 and silver ≈$51.98 (gold/silver ratio 78). CNBC had DXY ≈−0.3%. I couldn't confirm a fresh oil or copper print, so those tiles show '—'. The morning thesis stands."
+      ],
+      "simple": "Two reports came out this morning. A private payroll survey (ADP, a payroll processor) showed companies hired a bit more than expected. A survey of service businesses (ISM, where above 50 means growth) came in just under forecasts. Together they say the economy isn't cracking, so traders still expect the Fed to raise rates in December. Separately, the Treasury signaled it may sell fewer long-term bonds in 2027. Less supply tends to keep long-term borrowing costs, like mortgage rates, from rising as much.",
+      "sources": [
+        {
+          "name": "Investing.com (ADP)",
+          "url": "https://uk.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4956630"
+        },
+        {
+          "name": "Seoul Economic Daily (citing CNBC/Dow Jones)",
+          "url": "https://en.sedaily.com/international/2026/11/04/us-private-payrolls-rise-86000-in-october-topping-forecasts"
+        },
+        {
+          "name": "ISM via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
+        },
+        {
+          "name": "U.S. Treasury refunding statement",
+          "url": "https://home.treasury.gov/news/press-releases/sb0678"
+        },
+        {
+          "name": "ZeroHedge (refunding guidance)",
+          "url": "https://www.zerohedge.com/markets/treasury-drops-least-coupon-guidance-opening-door-long-end-auction-changes-2027"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/price/precious-metals"
+        },
+        {
+          "name": "CNBC (metals/dollar)",
+          "url": "https://cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html"
+        },
+        {
+          "name": "Emirates NBD Research",
+          "url": "https://www.emiratesnbdresearch.com/en/articles/daily-outlook-4-november-2026"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-04T15:18:27Z"
 }
