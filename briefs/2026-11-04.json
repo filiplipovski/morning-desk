@@ -11,105 +11,105 @@
     "Oil keeps bleeding. Brent was ≈$101.85 and WTI ≈$94.91 at 4:34 AM CT, after Trump told the FT there are no immediate plans to strike Iran, while Iran says a deal is 'far' off. API showed a 5.27M bbl crude draw (vs +0.88M expected). Cheaper oil caps breakevens, which is the long end's best friend this week.",
     "Banking: a Democratic Congress means years of oversight, a return of CEO hearings and real risk of a credit-card rate cap, which hits COF, SYF, AXP, C, BAC and JPM; Visa and Mastercard face swipe-fee risk. Stress-test changes look unlikely, per Barclays. Capital markets hinge on Anthropic: WSJ-reported valuation talk is $1.5–1.6T (from ≈$2T), the roadshow could start next week and pricing is targeted for the week before Thanksgiving. Evercore calls it the Q4 'swing vote' for bank stocks."
   ],
-  "markets_asof": "≈9:15 AM CT (post-open; oil/copper not refreshed)",
+  "markets_asof": "≈11:00–11:50 AM CT (mixed midday snapshots)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,705.93",
-      "change": "+137.01 (+1.81%)",
+      "value": "≈7,701",
+      "change": "≈+1.7–1.8%",
       "dir": "up",
-      "note": "Yahoo 9:16 CT"
+      "note": "Benzinga ≈11:00 CT; CNBC +1.7%"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈+1,000 (≈+2%)",
+      "value": "≈53,302",
+      "change": "+1,515 (+2.9%)",
       "dir": "up",
-      "note": "Yahoo/Bloomberg; prior close 51,786.72"
+      "note": "Benzinga; best day since Apr 2025"
     },
     {
       "label": "Nasdaq Comp.",
       "value": "—",
-      "change": "≈+1%",
+      "change": "≈+1.9%",
       "dir": "up",
-      "note": "Yahoo; AI names lag"
+      "note": "CNBC via StockTitan"
     },
     {
       "label": "Russell 2000",
       "value": "—",
-      "change": "≈+2%",
+      "change": "—",
       "dir": "up",
-      "note": "Bloomberg; Tue close 2,812.45"
+      "note": "No fresh print; ≈+2% at open (Bloomberg)"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.56–4.61%",
-      "change": "≈−3 to −6 bp",
+      "value": "≈4.60%",
+      "change": "≈−3 bp",
       "dir": "down",
-      "note": "Trading Economics / CNBC overnight differ"
+      "note": "ActionForex"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.90–4.95%",
-      "change": "≈−3 to −7 bp",
+      "value": "≈4.90–4.92%",
+      "change": "≈−5 to −6 bp",
       "dir": "down",
-      "note": "Emirates NBD 4.90%; TipRanks 4.92%; TE 4.95%"
+      "note": "ActionForex 4.917%; TE 4.92%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.31%",
+      "value": "—",
       "change": "—",
-      "dir": "flat",
-      "note": "Pre-refunding level; post-statement read unconfirmed"
+      "dir": "down",
+      "note": "No confirmed print; ≈5.31% pre-refunding"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈80%",
+      "change": "Dec hike ≈79%",
       "dir": "flat",
-      "note": "FOMC Dec 8–9; ADP beat/ISM miss roughly offset"
+      "note": "FedWatch via ActionForex; FOMC Dec 8–9"
     },
     {
       "label": "Brent (Jan)",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh print; ≈$101.85 at 4:34 AM CT"
+      "value": "≈$95.87",
+      "change": "≈−7.4%",
+      "dir": "down",
+      "note": "10:40 CT; first sub-$100 since Oct 7"
     },
     {
       "label": "WTI (Dec)",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh print; ≈$94.91 at 4:34 AM CT; EIA 9:30"
+      "value": "≈$90.22",
+      "change": "≈−6.0%",
+      "dir": "down",
+      "note": "10:40 CT; EIA crude −0.865M bbl"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,035",
-      "change": "≈+2.8%",
+      "value": "≈$4,068",
+      "change": "≈+3.5%",
       "dir": "up",
-      "note": "Kitco ≈9:06 CT; CNBC $4,039.59 at 6:56 CT"
+      "note": "Kitco 11:48 CT"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$51.98",
-      "change": "≈+4.3%",
+      "value": "≈$52.29",
+      "change": "≈+5.3%",
       "dir": "up",
-      "note": "Kitco; CNBC +4.32%"
+      "note": "Kitco 11:48 CT; G/S ratio 77.8"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "—",
+      "label": "Copper (COMEX)",
+      "value": "≈$6.38–6.46/lb",
       "change": "—",
       "dir": "flat",
-      "note": "No fresh print; Tue ≈$14,034/t"
+      "note": "Kitco vs Trading Economics differ"
     },
     {
       "label": "Dollar index",
       "value": "—",
-      "change": "≈−0.3%",
+      "change": "lower",
       "dir": "down",
-      "note": "CNBC; one-month low overnight ≈101.2"
+      "note": "Weaker on election; level unconfirmed"
     }
   ],
   "calendar": [
@@ -424,6 +424,57 @@
   "caveats": "WebFetch was blocked this run (CNBC, Yahoo, FXStreet, investingLive, CME and others), so every figure comes from search-result snippets at different overnight timestamps. Treat them as approximate and confirm at the open. No futures index levels were found, only % changes. The 30Y has no overnight read. The Russell 2000 close conflicts (2,812 vs 2,818). Silver snapshots conflict (≈$52 Reuters vs 'near $49' FXStreet). FedWatch odds are cited secondhand. No Reuters PRESS DIGEST for Nov 4 was retrievable, so the WSJ and NYT buckets use other outlets' coverage, and the NYT items come from aggregators citing Nov 3 coverage. The Tribune bucket uses other outlets' Chicago coverage. Times are CT.",
   "updates": [
     {
+      "at": "2026-11-04T18:17:21Z",
+      "label": "Midday",
+      "headline": "Oil has become the second leg of the rally. Brent is down ≈7% to below $96 and WTI ≈−6% to ≈$90, which helped push the Dow up ≈1,500 points (+2.9%), its biggest one-day gain since April 2025. Gold extended to ≈$4,068 (+3.5%), but December-hike odds are still ≈79%.",
+      "points": [
+        "Equities ≈11:00 CT: Dow +1,515 (+2.9%) to ≈53,302 per Benzinga, the biggest point and percentage gain since Apr 9, 2025. S&P 500 +1.7–1.8% (≈7,701) and Nasdaq Comp ≈+1.9% per CNBC, so tech has caught up from the ≈+1% it had at the open. BofA is +2.5% (CNBC), and Stoxx 600 Banks rose as much as 4.5% (Bloomberg).",
+        "Oil: at 11:40 ET (10:40 CT), WTI Dec was ≈$90.22 (−6.0%) and Brent Jan ≈$95.87 (−7.4%) per Breaking The News. That puts Brent below $100 for the first time since Oct 7 and ≈−14% on the week. The Private Banker ties the drop to Vance blaming the Iran war for the midterm loss (single source, unverified). EIA at 9:30: crude −0.865M bbl vs +0.877M expected, gasoline −0.22M, distillates −3.6M, refinery utilization 94.5%. Bullish inventories, but the market ignored them.",
+        "Rates: the 10Y is ≈4.90–4.92% (≈−5 bp) and the 2Y ≈4.60% (≈−3 bp), so this is a bull steepener led by the long end. FedWatch for a Dec 8–9 hike is ≈79% (vs 77.4% Tue settle, per ActionForex). The morning thesis holds: the move is fiscal, oil and term premium, not a dovish Fed repricing. A $90 WTI does cap breakevens.",
+        "Metals at 11:48 CT (Kitco): gold ≈$4,068 (+3.5%, day range $3,919–4,071), silver ≈$52.29 (+5.3%), gold/silver ratio 77.8, copper ≈$6.38–6.46/lb (sources differ). DXY level unconfirmed; the dollar is still weaker on the day.",
+        "Still ahead: Treasury buyback this afternoon (10–20Y). After the close: Qualcomm, MetLife, McKesson. Thu: BoE (6:00 AM CT, +25 bp expected). Fri: payrolls (≈59k consensus)."
+      ],
+      "simple": "Oil prices fell sharply today. Traders think the new Congress makes it more likely the U.S.–Iran conflict cools down, which would mean more oil getting through. Cheap oil eases inflation (the general rise in prices), so investors bought stocks and long-term government bonds, and bond yields (the interest those bonds pay) fell. Traders still expect the Fed (the U.S. central bank) to raise its rate in December, because the job market looks solid. So the relief shows up in long-term borrowing costs, not short-term ones. Gold and silver kept rising as the dollar weakened, since a cheaper dollar makes metals cheaper for foreign buyers.",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62877866/stock-market-today-dow-rallies-oil-sinks-midterms-democrats-sweep-congress"
+        },
+        {
+          "name": "CNBC live updates",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+        },
+        {
+          "name": "Breaking The News (oil)",
+          "url": "https://breakingthenews.net/Article/Oil-extends-losses-Brent-tumbles-6/67484293"
+        },
+        {
+          "name": "The Private Banker (Brent < $100)",
+          "url": "https://leprivatebanker.com/2026/11/04/brent-falls-below-100-for-first-time-since-oct-7-down-14-on-the-week-as-vance-blames-iran-war-for-midterm-rout/"
+        },
+        {
+          "name": "BOE Report / Reuters (EIA)",
+          "url": "https://boereport.com/2026/11/04/us-crude-stocks-gasoline-and-distillate-inventories-fall-eia-2/"
+        },
+        {
+          "name": "ActionForex (FedWatch, yields)",
+          "url": "https://www.actionforex.com/action-insight/market-overview/659840-democrats-sweep-congress-stocks-rebound-and-dollar-sinks-whats-really-being-repriced/"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/price"
+        },
+        {
+          "name": "Bloomberg (European banks)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty"
+        }
+      ]
+    },
+    {
       "at": "2026-11-04T15:18:27Z",
       "label": "Post-open",
       "headline": "The open confirmed the overnight reversal: ADP beat (86k vs 75k), the S&P is up ≈1.8% near 7,706 and the Dow ≈+1,000, while Treasury kept auction sizes but dropped 'at least' from its coupon guidance. That opens the door to long-end cuts in 2027.",
@@ -479,5 +530,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-04T15:18:27Z"
+  "updatedAt": "2026-11-04T18:17:21Z"
 }
