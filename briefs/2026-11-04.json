@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-04",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-04T12:21:13Z",
+  "headline": "Democrats swept Congress (House called, ≈54 Senate seats projected), and the market's answer was a weaker dollar (DXY ≈101.3, one-month low), gold back above $4,000 (≈$4,047, +3%) and a bull move in Treasuries (10Y ≈4.90%, 2Y ≈4.56%). Dow futures went from deep red to ≈+800, but the test comes at 7:15 ADP, 7:30 refunding and 9:00 ISM with a December hike still ≈80% priced.",
+  "summary": [
+    "Election: the AP called the House for Democrats (≈228 seats projected), and networks project ≈54 Senate seats after ≈7 flips, including Maine (Collins lost), Ohio, North Carolina and Texas. Trump accepted the results and has promised vetoes. With no veto-proof or filibuster-proof majority, Capital Economics sees little near-term change in policy. The trade is about gridlock plus oversight, not new laws.",
+    "Futures whipsawed. At the overnight lows, Nasdaq-100 futures were −2.4% and S&P futures −1.4% on fears of AI and data-center regulation. They then reversed: by CNBC's latest read, Dow futures were up ≈803 points (+1.5%), S&P +0.9% and NDX +0.5%. AMD is ≈+7% pre-market ($518) after a $13.4B revenue beat, a $17.0B Q4 guide against $16.3B consensus and a call for 80%+ growth in 2027. AI and data-center names are still lagging.",
+    "Rates: overnight the 10Y fell ≈5–6 bp to ≈4.90% and the 2Y ≈6 bp to ≈4.56%. That partly unwinds Tuesday's JOLTS and factory-orders selloff. FedWatch puts a Dec 8–9 hike at ≈78–82% (vs ≈72–73% Monday), so the front-end rally is about the dollar and fiscal flows, not a dovish repricing. At 7:30 AM the refunding is expected to keep $58B/$42B/$25B (3Y/10Y/30Y, $125B total). The swing factor is whether the 'at least next several quarters' guidance survives: Citi sees long-end cuts starting, UBS only a change in wording.",
+    "Metals ripped on the dollar. Spot gold was ≈$4,047 (+≈3%) at 09:28 GMT per Reuters, silver ≈$52.0 (+4.4%), platinum ≈$1,462 (+3.2%) and palladium ≈$986 (+5.6%). Gold is still down >7% YTD and silver ≈28%. Copper is the laggard: LME 3M fell 2.1% Tuesday to ≈$14,034/t (low $13,883, weakest since Aug 19) as LME stocks hit a four-month high of 309,650t.",
+    "Oil keeps bleeding. Brent was ≈$101.85 and WTI ≈$94.91 at 4:34 AM CT, after Trump told the FT there are no immediate plans to strike Iran, while Iran says a deal is 'far' off. API showed a 5.27M bbl crude draw (vs +0.88M expected). Cheaper oil caps breakevens, which is the long end's best friend this week.",
+    "Banking: a Democratic Congress means years of oversight, a return of CEO hearings and real risk of a credit-card rate cap, which hits COF, SYF, AXP, C, BAC and JPM; Visa and Mastercard face swipe-fee risk. Stress-test changes look unlikely, per Barclays. Capital markets hinge on Anthropic: WSJ-reported valuation talk is $1.5–1.6T (from ≈$2T), the roadshow could start next week and pricing is targeted for the week before Thanksgiving. Evercore calls it the Q4 'swing vote' for bank stocks."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (futures/yields/FX/metals overnight snapshots; Russell 2000 and copper are Tue closes)",
+  "markets": [
+    {
+      "label": "S&P 500 fut.",
+      "value": "—",
+      "change": "≈+0.9%",
+      "dir": "up",
+      "note": "CNBC latest; was −1.4% at overnight low; cash Tue 7,568.92"
+    },
+    {
+      "label": "Dow fut.",
+      "value": "—",
+      "change": "≈+803 (+1.5%)",
+      "dir": "up",
+      "note": "CNBC; cash Tue 51,786.72"
+    },
+    {
+      "label": "Nasdaq-100 fut.",
+      "value": "—",
+      "change": "≈+0.5%",
+      "dir": "up",
+      "note": "Was −2.4% at low; AI-regulation fears"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,812.45",
+      "change": "+0.23%",
+      "dir": "up",
+      "note": "Tue close (MarketScreener); Investing.com shows 2,817.52"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.56%",
+      "change": "≈−6 bp",
+      "dir": "down",
+      "note": "Overnight (CNBC)"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.90%",
+      "change": "≈−5 bp",
+      "dir": "down",
+      "note": "CNBC 4.902%; Reuters ≈4.92%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.28%",
+      "change": "—",
+      "dir": "flat",
+      "note": "Tue close (Trading Economics); no overnight read"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈78–82%",
+      "dir": "flat",
+      "note": "FedWatch as cited Nov 4; FOMC Dec 8–9"
+    },
+    {
+      "label": "Brent (Jan)",
+      "value": "≈$101.85",
+      "change": "≈−1.7%",
+      "dir": "down",
+      "note": "4:34 AM CT; settle Tue $103.60"
+    },
+    {
+      "label": "WTI (Dec)",
+      "value": "≈$94.91",
+      "change": "≈−1.2%",
+      "dir": "down",
+      "note": "4:34 AM CT; settle Tue $96.09"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,047",
+      "change": "≈+3%",
+      "dir": "up",
+      "note": "Reuters 09:28 GMT; back above $4,000"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$52.0",
+      "change": "≈+4.4%",
+      "dir": "up",
+      "note": "Reuters/CNBC overnight"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,034/t",
+      "change": "−2.1%",
+      "dir": "down",
+      "note": "Tue (Mining.com); low $13,883"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.34",
+      "change": "−0.37%",
+      "dir": "down",
+      "note": "One-month low 101.41/≈101.2 overnight"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-open",
+      "event": "Earnings: Uber, McDonald's, CVS, Cencora, New York Times Co.",
+      "consensus": "UBER ≈$0.90–0.98 EPS / ≈$14.7–15.0B; MCD ≈$3.38–3.42 / $7.28B; CVS ≈$1.67; COR ≈$4.63; NYT ≈$0.65 / ≈$763.5M",
+      "prior": "—",
+      "why": "McDonald's is a read on the low-income consumer, the same borrower a card-rate cap would target. Uber is a read on the consumer and ride-hailing demand."
+    },
+    {
+      "time": "7:15 AM",
+      "event": "ADP employment (Oct)",
+      "consensus": "≈67k (previews range 67–80k)",
+      "prior": "90k",
+      "why": "This is the last private jobs read before Friday's ≈55k payrolls. A beat after Tuesday's hot JOLTS would push December hike odds toward 90% and reverse the overnight 2Y rally."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Treasury quarterly refunding statement",
+      "consensus": "$58B 3Y / $42B 10Y / $25B 30Y ($125B), sizes unchanged",
+      "prior": "$125B",
+      "why": "Watch the 'at least next several quarters' wording and buyback sizes. A hint of smaller 20Y/30Y auctions in 2027 would bull-flatten the curve and compress term premium."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "ISM services PMI (Oct)",
+      "consensus": "54.8",
+      "prior": "54.9",
+      "why": "Watch the prices-paid component. With oil at $100+, a hot services prices print is the hawks' best argument for a December hike."
+    },
+    {
+      "time": "9:30 AM",
+      "event": "EIA crude inventories",
+      "consensus": "—",
+      "prior": "−1.892M bbl",
+      "why": "API showed a 5.27M draw. A confirmed big draw would cushion oil's slide."
+    },
+    {
+      "time": "Afternoon",
+      "event": "Treasury buyback (10–20Y sector)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Buybacks support liquidity in off-the-run long bonds. Read the size against today's refunding guidance."
+    },
+    {
+      "time": "All day",
+      "event": "Fed speakers: none scheduled; next FOMC Dec 8–9",
+      "consensus": "Dec hike ≈78–82% (FedWatch)",
+      "prior": "Oct 28 hold 10–2 (Cook, Hammack for hike)",
+      "why": "With the Fed silent, data and the election-driven dollar set the front end."
+    },
+    {
+      "time": "After close",
+      "event": "Earnings: Qualcomm, MetLife, McKesson",
+      "consensus": "QCOM ≈$2.16 / $10.15B; MET ≈$2.80; MCK ≈$10.81",
+      "prior": "—",
+      "why": "MetLife is a read on how life insurers' investment income benefits from 4.9% long yields. Qualcomm is the next AI and handset read after AMD."
+    },
+    {
+      "time": "Thu",
+      "event": "BoE decision (6:00 AM CT); Norges Bank",
+      "consensus": "BoE +25 bp to 4.00% (54 of 63 in Reuters poll; ≈93–95% priced)",
+      "prior": "3.75%",
+      "why": "A hike would keep global front ends hawkish while the Fed debates its own December hike. Gilts are the long-end stress gauge."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Blue sweep, bull steep-ish: the front end leads the rally",
+        "body": "Overnight the 2Y fell ≈6 bp to ≈4.56% and the 10Y ≈5–6 bp to ≈4.90% (CNBC), retracing Tuesday's ≈+2–3 bp JOLTS and factory-orders selloff. The 10Y is ≈15 bp below its Oct 28 close of 5.05%, and 2s10s was 34 bp on Nov 3 (FRED). The 30Y has no clean overnight print, last ≈5.28%.",
+        "simple": "A yield is the interest a bond pays, and a basis point (bp) is 0.01%. Yields fell because a divided government makes big new tax cuts or spending programs less likely, which means less government borrowing, and because global money moved out of the dollar into bonds. Lower yields eventually mean slightly cheaper mortgages and business loans.",
+        "source": "CNBC; Reuters via Rio Times; FRED",
+        "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Refunding at 7:30 AM: sizes flat, wording is the trade",
+        "body": "The base case is an unchanged $125B ($58B 3Y, $42B 10Y, $25B 30Y). Dealers are split on whether the 'at least next several quarters' guidance survives: Citi sees 20Y/30Y cuts beginning, UBS only a softening in wording. Buyback-size details are also due, ahead of this afternoon's 10–20Y buyback.",
+        "simple": "Each quarter the Treasury says how much debt it will sell, and at what maturities. If it signals fewer long-term bonds, investors need less extra pay for holding them (the 'term premium', the extra yield for locking money up for decades), so long-term rates can fall. That flows into 30-year mortgages and corporate borrowing costs.",
+        "source": "IndexBox; BigGo Finance",
+        "url": "https://www.indexbox.io/blog/us-treasury-expected-to-hold-coupon-auction-sizes-steady-with-possible-2027-adjustments/"
+      },
+      {
+        "title": "December hike still ≈80% despite the rally",
+        "body": "FedWatch odds of a Dec 8–9 hike from 3.75–4.00% rose to ≈78–82% from ≈72–73% Monday, after Tuesday's hot JOLTS and factory orders. ADP (≈67k vs 90k prior) and ISM services (54.8) today, then Friday's ≈55k payrolls, decide it.",
+        "simple": "The fed funds rate is the overnight rate banks charge each other, and the Fed sets it to cool or heat the economy. Traders still think the Fed will raise it in December because job openings and factory orders came in strong, even though the election pushed longer-term rates down. A hike makes credit cards, car loans and floating-rate business loans more expensive.",
+        "source": "Vantage Markets; FXStreet",
+        "url": "https://www.vantagemarkets.com/market-analysis/why-gold-stalled-fed-hike-bets-xauusd-analysis-november-4-2026/"
+      },
+      {
+        "title": "Global: BoE set to hike Thursday; Bund and JGB steady",
+        "body": "Bank Rate is 3.75%, and 54 of 63 economists in a Reuters poll see a hike to 4.00% (≈93–95% priced). The 10Y Bund is ≈3.33% and the 10Y JGB ≈2.80%. Gilt levels vary by source (≈5.22% per Trading Economics).",
+        "simple": "Central banks in Britain and Australia are still raising rates to fight inflation, which keeps a floor under bond yields everywhere, because investors can move money to wherever pays best. If British yields rise, U.S. Treasuries look relatively less attractive.",
+        "source": "TIOmarkets; Investing.com",
+        "url": "https://tiomarkets.com/article/boe-interest-rate-decision-november-2026-preview"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME posts record October ADV of 30.0M, rates lead",
+        "body": "October ADV rose 15% y/y to a record 30.0M (prior record 26.3M). Interest-rate ADV was 14.8M (+28%), Treasury futures and options 9.2M (+48%, $120B notional) and SOFR futures and options 4.9M (+5%). Metals ADV was 805K, down ≈53% y/y, with Micro contracts 51% of it.",
+        "simple": "ADV is average daily volume, the number of futures and options contracts traded per day. Traders used Treasury futures heavily because rates jumped around a lot in October (the 10Y hit ≈5.36%), and futures are the cheapest way to hedge or bet on that. Busy rates trading earns CME more fees, while thinner metals volume shows big players stepped back after gold's crash.",
+        "source": "PR Newswire (CME Group)",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-october-adv-of-30-million-contracts-up-15-year-over-year-302927436.html"
+      },
+      {
+        "title": "CFTC approves single-stock perpetual futures",
+        "body": "The CFTC approved U.S. single-stock perpetual futures under joint SEC oversight for the first time. Kalshi went live the same day, and an industry group has sued. CME is reportedly suing the CFTC over the approvals, and Terry Duffy has not said whether CME will list them.",
+        "simple": "A perpetual future is a bet on a stock's price that never expires; a periodic 'funding' payment keeps it close to the real stock price. These have been huge in crypto, and bringing them to U.S. stocks pulls trading away from traditional exchanges and options. That's why CME is fighting it.",
+        "source": "The Block",
+        "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
+      },
+      {
+        "title": "Gold positioning was light going into the rally",
+        "body": "In the CFTC COT as of Oct 27, Comex gold managed money was net long 105,562 contracts (+1,356 w/w; open interest 396,810). Silver managed money was barely net long at 3,321. Separately, the CFTC aims to publish the COT twice weekly by year-end.",
+        "simple": "The Commitments of Traders (COT) report shows how hedge funds and others are positioned in futures. Funds had modest bets on gold and almost none on silver, so when the dollar fell overnight there was room for them to buy, which helps explain silver's 4%+ jump.",
+        "source": "IndexBox; Bloomberg",
+        "url": "https://www.indexbox.io/blog/cftc-commitments-of-traders-report-october-27-2026-positioning-across-grains-softs-energy-and-metals/"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold back above $4,000 as the dollar slides",
+        "body": "Reuters had spot gold at ≈$4,047 (+≈3%) at 09:28 GMT, from ≈$3,931 before results, as DXY fell to a one-month low (≈101.2–101.4) on fiscal and policy uncertainty. It is still >7% down YTD, and 10Y TIPS was 2.62% on Nov 2 (H.15).",
+        "simple": "Gold is priced in dollars, so when the dollar weakens it takes more dollars to buy an ounce. Gold also tends to rise when investors are less sure about government policy. The headwind is high real yields (the interest after inflation, ≈2.6%), which make gold, which pays no interest, less attractive.",
+        "source": "CNBC (Reuters); FRED",
+        "url": "https://www.cnbc.com/2026/11/04/gold-rises-as-dollar-weakens-ahead-of-us-midterm-election-results.html"
+      },
+      {
+        "title": "Silver and PGMs outrun gold",
+        "body": "Silver rose ≈4.4% to ≈$52.0 (still ≈28% down YTD), platinum ≈3.2% to ≈$1,462 and palladium ≈5.6% to ≈$986. One FXStreet note still showed silver near $49, so the size of the pop depends on the snapshot.",
+        "simple": "Silver, platinum and palladium are smaller markets than gold, so the same buying moves them more. They are also industrial metals, used in solar panels and car catalysts, so they swing harder in both directions.",
+        "source": "CNBC (Reuters); Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4664535-gold-tops-4k-silver-jumps-as-democrats-take-control-of-congress"
+      },
+      {
+        "title": "Copper slips to a 2½-month low despite Chile cuts",
+        "body": "LME 3M fell 2.1% Tuesday to ≈$14,034/t (low $13,883, weakest since Aug 19) as LME stocks rose to a four-month high of 309,650t. That came despite Chile's September output falling 15.1% y/y to 387,870t and Codelco abandoning its 1.34Mt target.",
+        "simple": "Copper is used in wiring, construction and data centers, so its price tracks expectations for global growth. Even though Chile, the biggest producer, is mining less, more copper is sitting in exchange warehouses, which tells traders that demand isn't keeping up right now.",
+        "source": "Mining.com; Rio Times",
+        "url": "https://www.mining.com/web/copper-holds-above-14000-after-hitting-2-1-2-month-low/"
+      },
+      {
+        "title": "Central banks keep buying; China at a 21-month streak",
+        "body": "The PBOC added 23t in September, its most since October 2023, taking holdings to 2,410t. Central banks have bought 675t YTD per the WGC, and global ETF holdings hit a record 4,256t after 211t of Q3 inflows. US-led ETF outflows of ≈$1.21B in the week to Oct 23 ended a 13-week inflow streak.",
+        "simple": "Central banks such as China's are buying gold to rely less on the U.S. dollar in their reserves. That steady buying sets a floor under prices even when individual investors sell.",
+        "source": "World Gold Council",
+        "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Democratic Congress: oversight, card-rate cap risk, little deregulation",
+      "body": "American Banker expects years of oversight, CEO hearings and crypto at the top of the agenda. Card-heavy lenders (COF, SYF, AXP, BFH, C, BAC, JPM) are most exposed to a rate-cap push, and Visa and Mastercard to swipe-fee bills. Barclays' Jason Goldberg sees stress-test reform as unlikely to be reversed.",
+      "simple": "The new Congress can't easily pass laws over a presidential veto, but it can investigate banks and pressure them in public hearings. The biggest risk is a cap on credit-card interest rates, which would cut a major profit source for card lenders but could make borrowing cheaper for consumers.",
+      "source": "American Banker; Seeking Alpha",
+      "url": "https://www.americanbanker.com/news/democrats-sweep-congress-setting-up-years-of-oversight-for-banks"
+    },
+    {
+      "title": "Anthropic IPO: $1.5–1.6T talk, roadshow as soon as next week",
+      "body": "Per a WSJ report, investors are anchoring on a $1.5–1.6T valuation (vs ≈$2T earlier). The roadshow could start next week, with a debut targeted the week before Thanksgiving on Nasdaq under 'ANT'. Goldman and Morgan Stanley lead a 22-bank syndicate.",
+      "simple": "An IPO is when a private company first sells shares to the public, and the banks that run it earn fees as a percentage of the money raised. A deal this size would generate some of the biggest underwriting fees ever, which is why analysts say it could make or break Wall Street's fourth quarter.",
+      "source": "Seeking Alpha (WSJ); Yahoo Finance (Evercore)",
+      "url": "https://seekingalpha.com/news/4663125-anthropic-investors-urge-caution-on-ipo-pricing-target-15t-16t-valuation---wsj"
+    },
+    {
+      "title": "CVR Energy buys two Marathon refineries for ≈$4.2B",
+      "body": "CVR will pay $3.45B to MPC and $750M to MPLX for the St. Paul Park (MN) and Mandan (ND) refineries plus marketing assets, lifting throughput to ≈384k b/d with ≈$70M of synergies. Funding is $2.5B of committed debt, $800M of Trafigura equity and $500M from CVR's controlling holder. Closing is targeted by year-end.",
+      "simple": "A refinery turns crude oil into gasoline and diesel. Buying these two lets CVR roughly double its size, paid for mostly with borrowed money from banks. That kind of 'committed financing' is bread-and-butter leveraged finance work for capital-markets desks.",
+      "source": "Oil & Gas Journal",
+      "url": "https://www.ogj.com/general-interest/companies/news/55416182/cvr-energy-to-acquire-midcontinent-refineries-from-marathon-petroleum-in-42-billion-deal"
+    },
+    {
+      "title": "Bank stocks stalled in October as deals and trading slowed",
+      "body": "From Oct 1 to Nov 2, JPMorgan rose ≈3%, Goldman was flat and Morgan Stanley fell ≈1.2%. Evercore says the Anthropic IPO 'could be the swing vote' for Q4 investment-banking results.",
+      "simple": "Investment-bank profits depend on companies issuing stock, merging and trading. When that activity slows, bank shares stall, and one giant deal can change a whole quarter's numbers.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/why-the-anthropic-ipo-could-be-the-swing-vote-for-wall-street-bank-stocks-172030065.html"
+    },
+    {
+      "title": "Community bank M&A: Colony closes First Reliance",
+      "body": "Colony Bankcorp closed its acquisition of First Reliance Bancshares on Nov 1, creating a ≈$5B-asset Southeastern bank. No new bank deal was announced in the past 24 hours.",
+      "simple": "Small banks merge to spread compliance and technology costs over a bigger customer base. Deals closing quickly is a sign regulators have been approving mergers faster.",
+      "source": "GuruFocus",
+      "url": "https://gurufocus.com/news/9162317/colony-bankcorp-cban-completes-merger-with-first-reliance-bancshares-expanding-southeastern-banking-presence"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures flip from a 2.4% Nasdaq drop to a Dow rally",
+        "body": "After Democrats won both chambers, Nasdaq-100 futures fell as much as 2.4% and S&P futures 1.4% on fears of AI and data-center regulation. They recovered once Trump accepted the results, with Dow futures ≈+803 (+1.5%) at the latest read.",
+        "simple": "Investors first feared a Democratic Congress would crack down on tech and AI companies. They calmed down after the president accepted the results and it became clear neither side can pass major laws alone, so gridlock tends to mean policy stability.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "AMD beats and guides Q4 to ≈$17B",
+        "body": "Q3 revenue was $13.38B (+45%) vs $13.06B expected and adjusted EPS $2.09 vs $1.94. Data center revenue nearly doubled to a record $8.55B while gaming fell 40%. AMD guided Q4 to ≈$17B vs $16.23B consensus, and the stock rose ≈7–8% after hours.",
+        "simple": "AMD sells chips that power AI data centers, and demand there is exploding. Beating forecasts and promising even faster growth suggests the AI spending boom isn't slowing, which supports the whole chip sector.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+      },
+      {
+        "title": "Apple's margin guide is the memory-cost warning shot",
+        "body": "In John Ternus's first quarter as CEO, Apple posted revenue of $114.5B and EPS of $2.10, both beats. It guided December-quarter gross margin to 45–46%, against 47.9% last quarter and a ≈46.3% estimate, citing memory costs, and shares fell ≈2–4% Tuesday.",
+        "simple": "Gross margin is the share of each sales dollar left after the cost of making the product. AI data centers are buying up memory chips, which makes them pricier for phone makers. That squeezes Apple's profit even while sales grow.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
+      },
+      {
+        "title": "Gold jumps as the dollar weakens on election results",
+        "body": "Spot gold rose ≈3% to ≈$4,047 and silver ≈4.4% to ≈$52 as the dollar dropped to a one-month low.",
+        "simple": "When investors are less confident in the dollar's outlook, they buy gold as a store of value. A weaker dollar also makes gold cheaper for buyers using other currencies.",
+        "source": "CNBC (Reuters)",
+        "url": "https://www.cnbc.com/2026/11/04/gold-rises-as-dollar-weakens-ahead-of-us-midterm-election-results.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Anthropic investors push for a $1.5–1.6T IPO price",
+        "body": "The WSJ reports investors want a valuation around $1.5–1.6T, below the ≈$2T floated earlier, with the roadshow possibly next week and a debut targeted before Thanksgiving.",
+        "simple": "Big investors are pushing back on how much they'll pay for shares in the IPO. A lower price makes it more likely the stock rises after it lists, but the company raises less money.",
+        "source": "Seeking Alpha (citing WSJ)",
+        "url": "https://seekingalpha.com/news/4663125-anthropic-investors-urge-caution-on-ipo-pricing-target-15t-16t-valuation---wsj"
+      },
+      {
+        "title": "WSJ scoop confirmed: CVR's ≈$4B Marathon refinery deal",
+        "body": "The WSJ reported Nov 2 that CVR was near a ≈$4B deal for Marathon refineries. The companies announced it Nov 3 at ≈$4.2B including MPLX assets.",
+        "simple": "Newspapers often learn about deals before they're announced. Here the report proved right a day later, a reminder of how M&A news moves stocks before the official release.",
+        "source": "Investing.com (citing WSJ)",
+        "url": "https://www.investing.com/news/stock-market-news/cvr-energy-nears-4-bln-deal-for-marathon-refineries-wsj-4993499"
+      },
+      {
+        "title": "WSJ editorial board calls for a GOP reckoning",
+        "body": "After the losses, the Journal's editorial board urged Republicans to rethink their direction, an influential signal from the center-right business establishment.",
+        "simple": "The WSJ opinion page speaks for many business-friendly conservatives. Its criticism signals pressure on the president's party to shift policy, for example on tariffs or the Iran war, before 2028.",
+        "source": "HuffPost (citing WSJ)",
+        "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-2026-midterms_n_6aead77de4b0f78622d789bc"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "ADM beats and raises FY guide for the third time",
+        "body": "The Chicago-based grain trader posted adjusted EPS of $1.77 vs ≈$1.57–1.63 expected and net earnings of $821M (vs $108M a year ago). Revenue of $22.34B missed $22.67B. ADM lifted its FY26 EPS outlook to $5.50–5.80.",
+        "simple": "ADM buys, processes and sells crops like corn and soybeans. It earned much more than expected because its processing margins improved, even though total sales were a bit lower. That shows profit can rise when costs and prices move in a company's favor.",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/earnings/archerdanielsmidland-earnings-beat-by-020-revenue-fell-short-of-estimates-4994410"
+      },
+      {
+        "title": "CME vs. CFTC over stock perpetual futures",
+        "body": "The CFTC approved single-stock perpetual futures, and Kalshi began listing them the same day. CME is reportedly suing the CFTC over the approvals, and Terry Duffy hasn't said whether CME will list them.",
+        "simple": "Chicago's biggest exchange is fighting a regulator's decision that lets newer rivals offer never-expiring stock bets. It is a fight over who gets to run the next big trading product and collect its fees.",
+        "source": "The Block",
+        "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
+      },
+      {
+        "title": "McDonald's reports before the open",
+        "body": "The Chicago-HQ chain reports Q3 with consensus around $3.38–3.42 EPS on $7.28B revenue, after shares fell 1.1% Tuesday.",
+        "simple": "McDonald's results show whether lower-income customers are still spending. That matters for banks, because those same households carry credit-card debt.",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/price-mcdonalds-nyse-mcd-shares-down-11-heres-what-happened-2026-11-03/"
+      },
+      {
+        "title": "University of Illinois endowment trails benchmark by $771M",
+        "body": "Crain's reports the U of I endowment would be worth ≈$4.1B had it matched its benchmark, a $771M shortfall.",
+        "simple": "An endowment is a university's investment fund. Underperforming its benchmark means the school has less money for scholarships and research than it could have had, and it puts pressure on the people managing the fund.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/education/ccb-university-of-illinois-endowment-investment-performance-20261103/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Anthropic's S-1 numbers: ≈$17B quarter, ≈$23B loss",
+        "body": "The NYT business digest highlighted ≈$17B of Q3 revenue, up roughly twelvefold y/y, alongside a net loss of ≈$23B that is largely non-cash.",
+        "simple": "Anthropic is growing incredibly fast but spending even faster on computing power. Much of the loss is accounting charges rather than cash out the door. Investors have to decide what that growth is worth.",
+        "source": "rallies.ai (NYT digest)",
+        "url": "https://rallies.ai/news/new-york-times-business-news-november-3-ea0b5d649e352d63"
+      },
+      {
+        "title": "Data centers turn retired jet engines into power plants",
+        "body": "The NYT reports that data-center operators are converting old jet engines into on-site gas-turbine generators to get around grid connection delays.",
+        "simple": "AI data centers need huge amounts of electricity faster than utilities can deliver it. So operators are building their own small power plants, which raises demand for natural gas and equipment financing.",
+        "source": "AI Weekly (citing NYT)",
+        "url": "https://aiweekly.co/ai-news-today"
+      },
+      {
+        "title": "New York Times Co. reports Q3 today",
+        "body": "Consensus is ≈$763.5M of revenue (+8.9%) and ≈$0.65 EPS, a test of whether digital-subscription growth is holding up.",
+        "simple": "The Times makes most of its money from digital subscriptions now, not print ads. Results show whether people keep paying for news, which affects how investors value media companies.",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/earnings/new-york-times-earnings-in-focus-as-subscription-growth-faces-test-93CH-4995935"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Refunding, term premium and the election",
+      "point": "Ask how a divided Congress changes the deficit path, and whether Treasury's guidance on 20Y/30Y sizes for 2027 matters more for term premium than the Fed. The 10Y is ≈4.90%, ≈46 bp off its early-October 24-year high, even with a December hike ≈80% priced. That says supply and fiscal risk, not the Fed, set the long end."
+    },
+    {
+      "topic": "Dollar down, gold up: who's on the other side?",
+      "point": "Gold's ≈3% pop came with Comex managed money only ≈105k net long and silver funds near flat (Oct 27 COT), while central banks have bought 675t YTD and the PBOC is on a 21-month streak. A good question for a metals desk: how much of the rally is short-covering versus real-money flows, and does it hold if real yields stay ≈2.6%?"
+    },
+    {
+      "topic": "CME's record rates volume and the perps fight",
+      "point": "CME's October ADV hit a record 30.0M, with Treasury futures and options +48% (9.2M), while metals ADV fell ≈53%. Meanwhile the CFTC approved single-stock perpetuals and CME is reportedly suing. That's a sharp way to ask a Fellow mentor about where exchange growth comes from: rate-vol hedging versus new retail products."
+    }
+  ],
+  "caveats": "WebFetch was blocked this run (CNBC, Yahoo, FXStreet, investingLive, CME and others), so every figure comes from search-result snippets at different overnight timestamps. Treat them as approximate and confirm at the open. No futures index levels were found, only % changes. The 30Y has no overnight read. The Russell 2000 close conflicts (2,812 vs 2,818). Silver snapshots conflict (≈$52 Reuters vs 'near $49' FXStreet). FedWatch odds are cited secondhand. No Reuters PRESS DIGEST for Nov 4 was retrievable, so the WSJ and NYT buckets use other outlets' coverage, and the NYT items come from aggregators citing Nov 3 coverage. The Tribune bucket uses other outlets' Chicago coverage. Times are CT.",
+  "updates": []
+}
