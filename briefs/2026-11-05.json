@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-05",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-05T12:21:32Z",
+  "headline": "Day two of the blue-wave trade is splitting. Dow futures are ≈+0.5%, but Nasdaq-100 futures are −0.5% to −1.3% on chip and AI-rule worries plus Qualcomm's soft guide. The bond rally keeps going (10Y ≈4.865%, its lowest since early September) and gold is ≈$4,130 (+1.8%), even as the BoE hiked to 4.00% and a December Fed hike stays ≈81% priced. That makes 7:30 AM claims and productivity a warm-up for Friday's payrolls.",
+  "summary": [
+    "Equities are rotating, not extending. Wednesday closed with the Dow +3.03% at 53,356, its best day since April 2025, the S&P +1.58% and the Russell 2000 +1.58% at 2,856.95. Overnight, Dow futures are ≈+0.4–0.6%, the S&P is ≈flat and Nasdaq-100 futures are −0.5% to −1.3%. NDX futures bounced ≈280 points off a 28,167.75 low. Qualcomm is ≈−6–8% after hours: it beat on Q4 revenue (≈$10.4B, EPS $2.17), but its EPS guide of $2.25 came in below $2.27 consensus, chip-segment margin guidance is 20–22% vs 24%, and handset revenue fell 26%.",
+    "Rates: the 10Y was 4.865% at 4:11 AM ET (≈−3 bp), with one print at 4.845%, the lowest since early September. The 30Y closed Wednesday ≈5.28%. Front-end pricing hasn't moved: FedWatch has a Dec 8–9 hike at ≈80.7% (77.4% the prior session), and futures imply fed funds near ≈4.1% by February and ≈4.5% by November 2027 (EFFR 3.88% today). The long end is rallying on oil, fiscal gridlock and term premium. The Fed path is not driving it.",
+    "Wednesday's refunding kept $58B/$42B/$25B (3Y/10Y/30Y) but dropped the words 'at least' from 'at least the next several quarters,' a signal that coupon sizes can change sooner. TBAC sees increases as likely appropriate in 2H FY2027. Buybacks run up to $70B off-the-run plus $25B for cash management through January, and 7Y notes go quarterly from March 2027. Bloomberg reports dealers read it as larger short-dated sales and possibly smaller long-end auctions, which helps explain why the long end is leading.",
+    "Data scorecard: ADP was 86k vs ≈67k expected, ISM services 54.5 vs 54.8, and ISM services prices 73.0 (from 74.0), above 70 for the 7th time in 8 months, with firms saying fuel and tariff pass-through is still coming. Today at 7:30 AM CT: jobless claims (≈197k vs 194k prior; continuing ≈1,710k) and Q3 productivity/ULCs (Q2 rev: +1.4%/+1.2%). Friday's payrolls consensus is ≈55–65k (prior 29k), with unemployment at 4.2%.",
+    "Metals and oil: spot gold is ≈$4,128–4,140 (+≈1.8%, range $4,057–4,148) after Wednesday's ≈+3.4%, and silver settled ≈$52.28 (+5.1%) Wednesday. LME copper is ≈$14,044/t (+0.2%) and still near August lows. Brent is bouncing ≈+1.5% to ≈$96 after Wednesday's 8.7% drop to $94.62. ING warns it's too early to call the war over, and Rystad doesn't expect Gulf flows to normalize fast.",
+    "Banking: Reuters reports banks bracing for a Democratic Congress (CEO hearings, Warren the frontrunner for Banking chair). TD Cowen says the run of bank-friendly legislation is likely over. Card lenders SYF, COF and BFH fell 3.5–4.3%, and Seiberg thinks any rate cap lands closer to 36% than Trump's 10%. Capital markets: CME posted a record October ADV of 30M (+15% YoY), CVS will split in two, and Kraft Heinz is selling its coffee unit at a $650M EV."
+  ],
+  "markets_asof": "Pre-market ≈6:15 AM CT (indices, curve and metals from Wed close where noted)",
+  "markets": [
+    {
+      "label": "S&P 500 fut.",
+      "value": "—",
+      "change": "≈flat to +0.2%",
+      "dir": "flat",
+      "note": "Cash closed 7,688.62 (+1.58%) Wed"
+    },
+    {
+      "label": "Dow fut.",
+      "value": "—",
+      "change": "≈+0.4% to +0.6%",
+      "dir": "up",
+      "note": "Cash closed 53,356.12 (+3.03%) Wed"
+    },
+    {
+      "label": "Nasdaq-100 fut.",
+      "value": "≈28,450",
+      "change": "≈−0.5% to −1.3%",
+      "dir": "down",
+      "note": "Overnight low 28,167.75, +≈280 off it; chips lead lower"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,856.95",
+      "change": "+44.50 (+1.58%)",
+      "dir": "up",
+      "note": "Wed close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.55–4.58%",
+      "change": "≈−3 to −6 bp",
+      "dir": "down",
+      "note": "Wed close; sources differ"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.865%",
+      "change": "≈−3 bp",
+      "dir": "down",
+      "note": "4:11 AM ET (CNBC); low ≈4.845%, lowest since early Sep"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.28%",
+      "change": "≈−4 bp",
+      "dir": "down",
+      "note": "Wed close"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈81%",
+      "dir": "flat",
+      "note": "EFFR 3.88%; FOMC Dec 8–9"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$88.5",
+      "change": "≈+0.5%",
+      "dir": "up",
+      "note": "≈5 AM CT; Wed ≈$88.0"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$96.1",
+      "change": "≈+1.5%",
+      "dir": "up",
+      "note": "≈5 AM CT; Wed settle $94.62 (−8.7%)"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,130",
+      "change": "≈+1.8%",
+      "dir": "up",
+      "note": "Kitco/TE; range $4,057–4,148"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$52.28",
+      "change": "+5.1% Wed",
+      "dir": "up",
+      "note": "Wed futures settle; no confirmed spot this AM"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,044/t",
+      "change": "≈+0.2%",
+      "dir": "up",
+      "note": "Asia session; COMEX ≈$6.39/lb"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈101.0",
+      "change": "near one-month low",
+      "dir": "down",
+      "note": "Pared losses into Europe"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "6:00 AM",
+      "event": "BoE decision (done): +25 bp to 4.00%",
+      "consensus": "+25 bp, ≈24 bp priced",
+      "prior": "3.75%",
+      "why": "This is the first BoE tightening since 2023, and it ends six straight holds. The vote split was reported as 8–1 against a 7–2 consensus, so check the official release. With the BoE, the Fed (≈81% priced) and others leaning hawkish, global front ends stay heavy even as long ends rally."
+    },
+    {
+      "time": "6:30 AM",
+      "event": "Challenger job cuts (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "It's an early read on layoffs ahead of Friday. A spike would cut against Wednesday's 86k ADP beat."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial / continuing jobless claims",
+      "consensus": "≈196–197k / ≈1,710k",
+      "prior": "194k / 1,701k",
+      "why": "Claims under 200k describe a labor market that doesn't need saving. That keeps a December hike near 80% and limits how far the 2Y can rally."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Q3 productivity & unit labor costs (prelim)",
+      "consensus": "—",
+      "prior": "Q2 rev: +1.4% / +1.2%",
+      "why": "Strong productivity is how the economy can grow without wage inflation. A hot ULC print gives the hawks another argument next to ISM prices at 73."
+    },
+    {
+      "time": "8:10 AM",
+      "event": "Fed: Barkin (Richmond); Logan (Dallas) in the evening; Hammack also listed",
+      "consensus": "Schedules conflict across calendars",
+      "prior": "Oct 28 hold, 10–2 (Cook, Hammack dissent for hike)",
+      "why": "Hammack already voted for a hike. Listen for whether Barkin or Logan endorse December now that oil is ≈$95 and long yields are falling."
+    },
+    {
+      "time": "Pre-open",
+      "event": "Earnings: Cigna, ConocoPhillips, Cardinal Health, US Foods, Arrow",
+      "consensus": "CI ≈$7.73; COP ≈$2.99",
+      "prior": "—",
+      "why": "COP is the first big E&P to report since Brent fell from ≈$118 to ≈$95 in a week. Listen for how it frames 2027 capex at lower prices."
+    },
+    {
+      "time": "All day",
+      "event": "MetLife call (Q3: adj. EPS $2.85 ex-notables, +22%)",
+      "consensus": "≈$2.80",
+      "prior": "—",
+      "why": "It's a read on how life insurers earn on 5%+ long yields, and on pension-risk-transfer demand."
+    },
+    {
+      "time": "Fri 7:30 AM",
+      "event": "October payrolls / unemployment",
+      "consensus": "≈55–65k / 4.2%",
+      "prior": "29k / —",
+      "why": "This is the event that can actually move December odds. A miss under ≈30k would be the first real test of the 80% hike pricing."
+    },
+    {
+      "time": "Next week",
+      "event": "Refunding auctions: 3Y $58B (Mon 11/9), 10Y $42B (Tue 11/10), 30Y $25B (Thu 11/12)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This tests whether the long-end rally holds against supply, especially the 30Y at ≈5.3%."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Bull move extends at the long end",
+        "body": "The 10Y traded 4.865% at 4:11 AM ET (≈−3 bp) and touched ≈4.845%, the lowest since early September, after closing Wednesday ≈4.89%. The 30Y finished ≈5.28% (−≈4 bp) and the 2Y ≈4.55–4.58%. Lower oil (Brent −8.7% Wed), gridlock-limited fiscal expansion and a dovish-leaning refunding are doing the work.",
+        "simple": "A Treasury yield is the interest the government pays to borrow. It falls when investors pile into bonds. Yields are dropping fastest on long-term bonds, because cheaper oil and a split government both point to less inflation and less new borrowing. That matters for mortgages and corporate loans, which are priced off the 10-year.",
+        "source": "CNBC; CappNotes; Investrade",
+        "url": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html"
+      },
+      {
+        "title": "Refunding drops 'at least': coupon changes come sooner",
+        "body": "Sizes held at $58B/$42B/$25B ($125B), but Treasury now expects steady sizes for 'the next several quarters' without the 'at least.' TBAC flagged increases as likely appropriate in 2H FY2027. Buybacks run up to $70B off-the-run plus $25B for cash management, and 7Y notes move to quarterly issuance from March 2027.",
+        "simple": "Every three months the Treasury says how much debt it will sell and in what maturities. Deleting two words told dealers that auction sizes could change soon. Bloomberg reports dealers expect more short-term debt and possibly less long-term debt, which would push down long-term yields relative to short ones.",
+        "source": "U.S. Treasury; Bloomberg",
+        "url": "https://home.treasury.gov/news/press-releases/sb0678/"
+      },
+      {
+        "title": "Fed path unmoved: Dec hike ≈81%",
+        "body": "FedWatch has a Dec 8–9 hike at ≈80.7%, up from 77.4% the prior session, despite the bond rally. EFFR is 3.88%, and futures price ≈4.1% by February and ≈4.5% by November 2027. ADP (86k) and ISM services prices (73.0) gave doves nothing.",
+        "simple": "Futures let traders bet on where the Fed (the U.S. central bank) will set short-term rates. They still give roughly 4-in-5 odds of a hike next month. The bond rally is therefore a bet on less long-run inflation and fewer bonds, not on the Fed backing off. It shows up as a 'flatter curve' (long and short yields closer together).",
+        "source": "Finimize (CME FedWatch); StreetStats",
+        "url": "https://finimize.com/content/dollar-slips-after-democrats-sweep-us-midterms"
+      },
+      {
+        "title": "BoE joins the hiking club: Bank Rate 4.00%",
+        "body": "The BoE raised 25 bp to 4.00%, its first tightening since 2023, ending six straight holds (vote reported 8–1). UK inflation is ≈1.5 pp above target, and the MPC flagged 2027 wage settlements. ING said ≈24 bp was priced and expected hawkish guidance. The 10Y gilt was last seen ≈5.09% and the Bund ≈3.3%.",
+        "simple": "Britain's central bank raised its main interest rate to fight inflation that is running well above its 2% goal. A hike was fully expected, so the market reaction depends on hints about more hikes. With the UK and the U.S. both leaning toward higher rates, short-term borrowing costs worldwide stay elevated.",
+        "source": "Mortgage Professional (MPA) live blog; FXStreet/ING",
+        "url": "https://www.mpamag.com/uk/mortgage-industry/market-trends/live-blog-boe-to-reveal-latest-rate-decision/596302"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME: record October ADV of 30M, rates lead",
+        "body": "CME averaged 30M contracts a day in October (+15% YoY). 2Y note futures were +51% and Treasury bond futures +52%, and BrokerTec cash notional rose 18%. Brazilian real futures set a daily record around Brazil's election. JPMorgan upgraded CME to Overweight with a $367 PT, UBS's PT is $310 and shares are ≈$305.",
+        "simple": "CME Group runs the exchanges where futures (contracts to buy or sell later at a price fixed today) trade. Volume is surging in Treasury futures because investors are hedging a possible Fed hike, an oil shock and an election all at once. More hedging means more fees for CME, which is why analysts are turning bullish.",
+        "source": "PR Newswire (CME)",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-october-adv-of-30-million-contracts-up-15-year-over-year-302927436.html"
+      },
+      {
+        "title": "SOFR options: hawkish center, dovish tails",
+        "body": "Dec-26 SOFR options (SQZ26) show ≈17.6% implied vol, a 1.43 put/call premium ratio and a 0.66 put/call OI ratio (undated Barchart snapshot). Earlier reporting had March-2027 call OI at 2.7M, with the 97.00 strike the largest OI across Z6/H7/M7, so funds are hedging a shallower hiking path even as futures price a hike.",
+        "simple": "SOFR is the benchmark overnight lending rate, and options on SOFR futures let traders bet on or insure against rate moves. Puts cost more, meaning people pay up to protect against hikes. But more contracts sit in calls, which pay off if rates end up lower. In plain terms, the market expects a hike but is buying insurance in case the Fed stops early.",
+        "source": "Barchart; BigGo Finance",
+        "url": "https://www.barchart.com/futures/quotes/SQ*0/options"
+      },
+      {
+        "title": "Nasdaq futures: 280-point rebound, chip drag",
+        "body": "NDX futures hit 28,167.75 overnight before bouncing ≈280 points, and they're still ≈−0.5% to −1.3% vs Dow futures at ≈+0.5%. Chip and data-center names are leading lower on expected AI rules under a Democratic Congress, plus Qualcomm's −6–8% after hours.",
+        "simple": "Index futures trade almost around the clock, so they show how stocks will likely open. Investors are buying old-economy blue chips and selling AI chip stocks, because a Democratic Congress could regulate AI and data centers. It's a rotation (money moving between sectors) rather than a broad selloff.",
+        "source": "investingLive; Yahoo Finance; TipRanks",
+        "url": "https://investinglive.com/technical-analysis/nasdaq-futures-rebound-nearly-280-points-but-buyers-now-face-a-crucial-test/"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold ≈$4,130: dollar and yields do the lifting",
+        "body": "Spot gold is ≈$4,128–4,140 (+≈1.8%; range $4,057–4,148) after futures settled ≈+3.4% near $4,073 Wednesday. The DXY slid to ≈101, a one-month low, and the 10Y is ≈4.865%. Gold is still down ≈6% YTD.",
+        "simple": "Gold pays no interest, so it gets more attractive when bond yields fall. It's priced in dollars, so it gets cheaper for foreign buyers when the dollar weakens. Both happened after the election, and that's why gold is back above $4,000 even though it's still below where it started the year.",
+        "source": "Kitco; Trading Economics; JM Bullion",
+        "url": "https://www.kitco.com/charts/gold"
+      },
+      {
+        "title": "PBoC: 23 t in September, 23-month streak",
+        "body": "China's central bank added 23 t in September, its biggest month since October 2023, for 63 t in Q3 and ≈103 t YTD. Chinese gold ETFs drew ≈RMB 27B (≈27 t) in Q3. October reserve data is due ≈Nov 7. Goldman thinks true Chinese official buying is higher than reported.",
+        "simple": "Central banks buy gold to hold less of their reserves in U.S. dollars. China's steady buying gives the gold market a reliable floor, a buyer who shows up on price dips. This week's dollar drop strengthens that motive.",
+        "source": "World Gold Council; BusinessToday; Mining.com",
+        "url": "https://www.gold.org/goldhub/gold-focus/2026/10/china-gold-market-update-q3-ends-strong-official-gold-buying"
+      },
+      {
+        "title": "Silver/PGMs rip, copper stalls near Aug lows",
+        "body": "Silver settled ≈$52.28 (+5.1%) Wednesday and is still ≈−26% YTD. Platinum was ≈$1,457–1,503 (sources conflict). LME copper closed Wednesday at $14,015.5/t (−0.14%; range $13,929–14,115.5) and is ≈$14,044 (+0.2%) in Asia, with COMEX ≈$6.39/lb. LME stocks are at a four-month high (309,650 t).",
+        "simple": "Silver and platinum are precious metals but are also used in industry, so they move like gold, only harder. Copper is mainly an industrial metal tied to construction and China's economy. Rising warehouse stockpiles signal soft demand, so a weaker dollar alone isn't lifting it.",
+        "source": "Shanghai Metals Market; Fortune; MetalCharts",
+        "url": "https://news.metal.com/newscontent/104205256-peru-copper-gold-project-secures-strategic-financing-accelerating-exploration-and-development-smm-copper-morning-meeting-summary"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Banks brace for Democratic oversight",
+      "body": "Reuters reports Wall Street is preparing for CEO testimony and investigations, with Elizabeth Warren the frontrunner to chair Senate Banking in January. TD Cowen says the run of bank-friendly legislation has likely closed. Barclays had already flagged stress-test changes as unlikely.",
+      "simple": "When one party controls Congress, its committees decide which hearings and investigations happen. Democrats are expected to call bank CEOs in and push tougher rules, which raises compliance costs and headline risk. Deregulation that was helping bank profits is likely to stall.",
+      "source": "Reuters via SRN News",
+      "url": "https://srnnews.com/banks-brace-for-tighter-oversight-from-us-congress-after-democrats-sweep/"
+    },
+    {
+      "title": "Card lenders hit on rate-cap risk",
+      "body": "Synchrony, Capital One and Bread Financial fell 3.5–4.3% after the sweep. TD Cowen's Jaret Seiberg says any cap would more likely be near 36% than Trump's 10%. Cards were ≈74% of Capital One's revenue in an earlier quarter, and a Risk.net analysis found a hard cap would cut NII by more than 40% at top lenders.",
+      "simple": "Credit cards charge some of the highest interest rates in lending, often above 20%. A legal cap would shrink the profit banks make on card balances. NII (net interest income, the gap between interest earned and interest paid) is the main earnings line for card-heavy banks, so a cap hits them hardest.",
+      "source": "Rallies.ai; Risk.net; CNBC",
+      "url": "https://rallies.ai/news/credit-card-firms-fall-as-democrats-sweep-congress-e0017f1ab1f70628"
+    },
+    {
+      "title": "Anthropic: $63B chip financing, IPO valuation reset",
+      "body": "Blackstone, Morgan Stanley, Citi and BofA are providing $63B to fund Broadcom AI chips and networking for Anthropic. One report says the S-1 was filed Oct 26 for a Nasdaq listing (ticker ANT) with a 22-bank syndicate led by GS and MS (unconfirmed). Valuation talk has slipped to ≈$1.5T from ≈$2T, against a $965B Series H in May.",
+      "simple": "This is the biggest capital-markets event of the year. Banks earn underwriting fees for selling the shares and interest for lending against the chips. A lower valuation shows investors pushing back on AI spending after the election, and that affects how much fee revenue Wall Street books this quarter.",
+      "source": "Business Chief; Shattered.io",
+      "url": "https://businesschief.com/news/blackstone-and-wall-street-banks-back-us-63bn-ai-chip-deal"
+    },
+    {
+      "title": "CVS to split in two",
+      "body": "CVS will separate into a healthcare-solutions company (Aetna, Caremark, Specialty, Oak Street, Signify; keeps the CVS Health name for now) and CVS Pharmacy (stores, mail pharmacy, MinuteClinic). The separation is intended to be tax-free. CNBC reported shares fell ≈10%.",
+      "simple": "A spin-off splits one company into two separately traded ones. It generates advisory, debt-raising and equity fees for banks. Investors sold the stock because the split costs money and takes time, while the insurance side keeps struggling.",
+      "source": "SEC 8-K; CNBC",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000064803/000119312526446150/d148827dex991.htm"
+    },
+    {
+      "title": "Bank M&A: steady small-bank consolidation",
+      "body": "Colony Bankcorp closed First Reliance (≈$5B combined across GA/SC/FL), Bank7 closed Century Financial and Isabella closed Grand River this week. That's 162 banks acquired or merged in 2026 through Nov 2. A Democratic Senate could slow approvals for large deals.",
+      "simple": "Small banks keep merging to share technology and compliance costs and to compete with giants. Regulators approved deals quickly this year. A more skeptical Senate could make that harder for big mergers in 2027, which matters for commercial banking and M&A advisory pipelines.",
+      "source": "BankRegReports; PR Newswire",
+      "url": "https://www.bankregreports.com/events/mergers/2026/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Qualcomm slides after hours despite beat",
+        "body": "Q4 revenue was ≈$10.4B and EPS $2.17, but the EPS guide of $2.25 missed $2.27 consensus, chip-segment margin guidance is 20–22% vs 24% and handset revenue fell 26% to $5.137B. Autos +89% to $1.99B and the revenue guide (≈$10.8B midpoint vs $10.48B) weren't enough. CNBC flagged an ≈8% drop.",
+        "simple": "Qualcomm makes the chips inside most Android phones. Its phone business is shrinking fast, and rising chip costs are squeezing its profit margins (the share of each dollar of sales kept as profit). Growth in car chips is real but not yet big enough to offset that.",
+        "source": "CNBC headline; TradingKey",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262276372-qualcomm-earnings-report-q4-handset-decline-automotive-growth-data-center-outlook-tradingkey"
+      },
+      {
+        "title": "ADP: private payrolls +86k in October",
+        "body": "Private employers added 86k against ≈67k expected, and pay growth for job-changers was the fastest since 2024. This came a day after JOLTS ran hot.",
+        "simple": "ADP's count of private-sector hiring comes out two days before the government's jobs report. Hiring came in better than expected, and faster raises for job-switchers point to wage pressure. Both strengthen the case for the Fed to raise rates.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/economy/"
+      },
+      {
+        "title": "Treasury yields keep falling after midterms",
+        "body": "CNBC had the 10Y ≈3 bp lower at 4.865% early Thursday, with yields lower across the curve, and traders focused on Friday's jobs report.",
+        "simple": "Bond prices rise and yields fall when investors expect less inflation. The election cut expectations for big new spending, and oil's drop cut inflation fears. Friday's jobs number is the next test.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html"
+      },
+      {
+        "title": "AppLovin +≈17% on beat",
+        "body": "AppLovin surged ≈17% after results beat estimates. It's one of the few AI-adjacent winners on a day when chip names are lagging.",
+        "simple": "AppLovin sells software that targets mobile ads using AI. It's an example of investors rewarding companies that earn money from AI right now, rather than those spending heavily to build it.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/latest/"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "'The Election Day Revolt That Threatens America's AI Boom'",
+        "body": "The WSJ argues the Democratic sweep puts data-center permitting, power pricing and AI rules at risk. That's the same theme hitting NDX futures (−0.5% to −1.3%) and chip stocks this morning.",
+        "simple": "Building AI needs huge data centers that use a lot of electricity. Voters angry about power bills and AI job fears backed candidates who want limits. That makes the AI building boom more uncertain.",
+        "source": "Benton Institute digest (citing WSJ)",
+        "url": "https://www.benton.org/newsletter/daily-digest-1152026-simon-winchester"
+      },
+      {
+        "title": "Democrats' agenda: Trump probes and policy fights",
+        "body": "The WSJ lays out the incoming majority's plans: investigations of the administration, oversight of tariffs and the Iran war, and policy fights that, without veto-proof margins, mostly mean gridlock rather than new laws.",
+        "simple": "Controlling Congress lets a party investigate and block, but not pass much over a presidential veto. Markets often like gridlock, because it means fewer surprise policy changes.",
+        "source": "Benton Institute digest (citing WSJ)",
+        "url": "https://www.benton.org/newsletter/daily-digest-1152026-simon-winchester"
+      },
+      {
+        "title": "WSJ editorial board: a 'crushing verdict' for the GOP",
+        "body": "The editorial board blamed Trump for much of the rout and called for a Republican reckoning. It's notable because the page is usually friendly to the administration's economic agenda.",
+        "simple": "When a conservative newspaper criticizes a Republican president this sharply, it signals that business-friendly voices want a change in course, for example on tariffs or the war.",
+        "source": "HuffPost (citing WSJ)",
+        "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-2026-midterms_n_6aead77de4b0f78622d789bc"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group's record October",
+        "body": "Chicago-based CME averaged 30M contracts a day in October (+15% YoY), led by rates: 2Y futures +51% and bond futures +52%. Q3 revenue was a record $1.74B, with record market data revenue of $243.1M.",
+        "simple": "When markets are nervous, traders hedge more, and CME collects a fee on every trade. October's mix of oil swings, a possible Fed hike and the election was a fee bonanza for the LaSalle Street exchange.",
+        "source": "PR Newswire; Motley Fool",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-october-adv-of-30-million-contracts-up-15-year-over-year-302927436.html"
+      },
+      {
+        "title": "McDonald's beats and the stock jumps ≈5%",
+        "body": "Chicago-HQ McDonald's earned $2.49B in Q3, $3.57 adjusted EPS vs ≈$3.38–3.42 expected, though sales rose only ≈1% YoY. Shares rose ≈5%.",
+        "simple": "McDonald's is a read on lower-income consumers. It's holding up by leaning on value deals, which keeps customers coming but limits how fast sales grow.",
+        "source": "AP via Clinton Herald; TipRanks",
+        "url": "https://www.tipranks.com/news/mcdonalds-stock-mcd-jumps-5-after-earnings"
+      },
+      {
+        "title": "Kraft Heinz sells coffee unit at $650M EV",
+        "body": "Kraft Heinz (co-HQ Chicago) is selling Maxwell House and Gevalia's North American coffee business to One Rock Capital, keeping 30%. Expected after-tax proceeds of ≈$500M go to debt, and closing is mid-2027. Q3 adjusted EPS was $0.53 vs $0.42 consensus, FY guide raised to $2.07–2.13, and shares +≈5.7% to $25.92.",
+        "simple": "Selling a slow-growing brand to private equity raises cash to pay down debt. It's a common corporate-finance move when borrowing is expensive. Investors liked both the deal and the earnings beat.",
+        "source": "CNBC; Investing.com",
+        "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
+      },
+      {
+        "title": "Goolsbee's calendar: Nov 9 and Nov 12",
+        "body": "The Chicago Fed president speaks at Leadership Greater Chicago on Nov 9 and at Yahoo Finance Invest on Nov 12 (10:30 AM CT). Before the October FOMC he called September inflation 'discouraging' and flagged AI-driven demand overheating.",
+        "simple": "Goolsbee was once seen as a dove (someone who prefers lower rates). His worry about inflation from AI data-center spending is a big reason markets expect a December hike.",
+        "source": "Federal Reserve Bank of Chicago; Newsquawk",
+        "url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "NYT Co. Q3: +420k digital subs",
+        "body": "Revenue rose ≈10% to $769M. The company added 420k net digital subscribers (13.8M total), digital subscription revenue grew 14.6% to $421M and digital ads rose 12%, slightly below guidance. Management says AI search isn't hurting the business.",
+        "simple": "The Times has become a subscription business, like a streaming service for news. Steady subscriber growth gives it predictable revenue even as Google and AI tools send less traffic to news sites.",
+        "source": "Benzinga call transcript; Digiday",
+        "url": "https://www.benzinga.com/news/26/11/62863586/new-york-times-q3-2026-earnings-call-transcript"
+      },
+      {
+        "title": "DealBook: business fallout from the blue wave",
+        "body": "DealBook's post-election coverage looks at which sectors win and lose. Alcohol stocks gained (Constellation up as much as 7.4%) on tariff and immigration hopes. Trump Media hit a record low (−17%), and energy and AI data-center names sold off.",
+        "simple": "Elections move stocks based on which industries the winners will help or hurt. Companies hurt by tariffs or immigration limits rallied, and those tied to the administration or to fossil fuels fell.",
+        "source": "DealBook on X; Bloomberg",
+        "url": "https://x.com/dealbook"
+      },
+      {
+        "title": "Newspapers sue Brave over AI scraping",
+        "body": "The Times and several other publishers have sued browser maker Brave, alleging it illegally scraped their content for AI products. It's part of the industry's push to license content to AI firms rather than give it away.",
+        "simple": "AI companies train and answer questions using text from the web. Publishers want to be paid for their articles, and lawsuits are how they force licensing deals.",
+        "source": "Digiday",
+        "url": "https://digiday.com/media/media-briefing-publishers-revenue-growth-defies-traffic-declines-but-tougher-comparisons-loom"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Bull flattener with a hawkish front end",
+      "point": "The 10Y is down to ≈4.865% while a December hike is still ≈81% priced, so the curve is flattening from the long end. The drivers are oil (Brent −8.7% Wednesday), gridlock that caps deficits, and a refunding that dropped 'at least' and hints at more bills. That isn't a dovish Fed. A good question for a rates desk: are clients buying 10s/30s outright, or putting on 2s10s flatteners into Friday's payrolls?"
+    },
+    {
+      "topic": "Why CME volume is a macro indicator",
+      "point": "October ADV hit a record 30M (+15% YoY), with 2Y futures +51% and bond futures +52%. When the Fed path, an oil war and an election are all live at once, hedging demand shows up first in Treasury futures. Ask how that's affecting basis-trade financing and SOFR-futures open interest into the Dec 8–9 meeting."
+    },
+    {
+      "topic": "Gold vs copper divergence",
+      "point": "Gold is ≈$4,130 (+1.8% today, ≈+3.4% Wednesday) on a weaker dollar (DXY ≈101), lower real yields and steady PBoC buying (23 t in September, a 23-month streak). LME copper is stuck near $14,000 with LME stocks at a four-month high. That's a monetary-metal bid without an industrial-cycle bid, a useful framing for a metals desk."
+    }
+  ],
+  "caveats": "I couldn't open CNBC, Yahoo, WSJ, NYT, Tribune, MarketScreener or FXStreet directly from this session, so everything comes from search snippets and secondary coverage (named per story). Pre-market futures levels vary by snapshot. The 2Y and 30Y are Wednesday closes, and silver is Wednesday's settle. Today's productivity/ULC consensus and Challenger prior weren't found. Fed-speaker times conflict across calendars. The BoE vote split (8–1) comes from one live blog. Anthropic S-1 details come from a single source.",
+  "updates": []
+}
