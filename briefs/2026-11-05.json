@@ -11,105 +11,112 @@
     "Metals and oil: spot gold is ≈$4,128–4,140 (+≈1.8%, range $4,057–4,148) after Wednesday's ≈+3.4%, and silver settled ≈$52.28 (+5.1%) Wednesday. LME copper is ≈$14,044/t (+0.2%) and still near August lows. Brent is bouncing ≈+1.5% to ≈$96 after Wednesday's 8.7% drop to $94.62. ING warns it's too early to call the war over, and Rystad doesn't expect Gulf flows to normalize fast.",
     "Banking: Reuters reports banks bracing for a Democratic Congress (CEO hearings, Warren the frontrunner for Banking chair). TD Cowen says the run of bank-friendly legislation is likely over. Card lenders SYF, COF and BFH fell 3.5–4.3%, and Seiberg thinks any rate cap lands closer to 36% than Trump's 10%. Capital markets: CME posted a record October ADV of 30M (+15% YoY), CVS will split in two, and Kraft Heinz is selling its coffee unit at a $650M EV."
   ],
-  "markets_asof": "≈12:00 PM CT (midday snapshots, times vary)",
+  "markets_asof": "≈3:15 PM CT (cash close; some late intraday)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−3.3 to −3.6%",
+      "value": "7,353.73",
+      "change": "−4.36%",
       "dir": "down",
-      "note": "Midday snapshots (Al Jazeera, Yahoo)"
+      "note": "Worst day since Apr 2025"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈−2.2 to −2.8%",
+      "value": "51,523.06",
+      "change": "−1,833.06 (−3.44%)",
       "dir": "down",
-      "note": "Opened +0.6% at 53,687; Wed close 53,356.12"
+      "note": "Opened +0.6% at 53,687"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "—",
-      "change": "≈−4.8 to −5%",
+      "value": "24,315.00",
+      "change": "−5.52%",
       "dir": "down",
-      "note": "On track to confirm a correction vs Oct 6 record"
+      "note": "Correction confirmed: >10% off Oct 6 record"
     },
     {
       "label": "Russell 2000",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No confirmed intraday print; Wed close 2,856.95"
+      "value": "≈2,730–2,760",
+      "change": "≈−3.4 to −4.4%",
+      "dir": "down",
+      "note": "Late intraday; no confirmed close"
     },
     {
       "label": "PHLX Semis (SOX)",
       "value": "—",
       "change": "≈−10 to −11%",
       "dir": "down",
-      "note": "MU ≈−14%, AMD ≈−13%, NVDA ≈−7 to −9%"
+      "note": "NVDA −7.5%; QCOM ≈−11.5%"
+    },
+    {
+      "label": "VIX",
+      "value": "—",
+      "change": "≈+39%",
+      "dir": "up",
+      "note": "Biggest jump since Apr 2025"
     },
     {
       "label": "UST 2Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No confirmed midday print; ≈4.58% post-open"
+      "value": "≈4.47%",
+      "change": "≈−11 bp",
+      "dir": "down",
+      "note": "Front end leads; Dec hike repriced"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.84%",
-      "change": "≈−6 bp",
+      "value": "≈4.83%",
+      "change": "≈−6 to −7 bp",
       "dir": "down",
-      "note": "Lowest since Sep 10; flight to safety"
+      "note": "Lowest since early Sep"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No confirmed intraday print; Wed ≈5.28–5.30%"
+      "value": "≈5.26%",
+      "change": "lower",
+      "dir": "down",
+      "note": "Wed ≈5.28–5.30%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈74.5–83%",
-      "dir": "flat",
-      "note": "FedWatch reads differ by timestamp; FOMC Dec 8–9"
+      "change": "Dec hike ≈66–69%",
+      "dir": "down",
+      "note": "From ≈82% Wed (CME FedWatch); FOMC Dec 8–9"
     },
     {
       "label": "Brent",
       "value": "≈$96",
       "change": "≈+1.5%",
       "dir": "up",
-      "note": "Wed settle $94.62; snapshots vary"
+      "note": "Intraday; Wed settle $94.62; no confirmed settle"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,125",
-      "change": "≈+1.6%",
+      "value": "≈$4,084",
+      "change": "off highs",
       "dir": "up",
-      "note": "High $4,146.63, highest since Oct 20"
+      "note": "Kitco 3:10 PM CT; day range $4,058–4,147"
     },
     {
       "label": "Silver",
-      "value": "≈$53",
-      "change": "≈+1%",
+      "value": "≈$52.85",
+      "change": "≈+1.2%",
       "dir": "up",
-      "note": "Morning snapshot; no fresh midday print"
+      "note": "FXStreet data; no late print"
     },
     {
-      "label": "Copper (COMEX)",
-      "value": "≈$6.40/lb",
-      "change": "—",
+      "label": "Copper (LME 3M)",
+      "value": "≈$14,006/t",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "Single source"
+      "note": "Near 3-month low; COMEX ≈$6.40/lb"
     },
     {
       "label": "Dollar index",
-      "value": "—",
-      "change": "lower",
-      "dir": "down",
-      "note": "Near one-month low; ≈101.6 earlier"
+      "value": "≈101.46",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Day low 101.19"
     }
   ],
   "calendar": [
@@ -417,6 +424,61 @@
   "caveats": "I couldn't open CNBC, Yahoo, WSJ, NYT, Tribune, MarketScreener or FXStreet directly from this session, so everything comes from search snippets and secondary coverage (named per story). Pre-market futures levels vary by snapshot. The 2Y and 30Y are Wednesday closes, and silver is Wednesday's settle. Today's productivity/ULC consensus and Challenger prior weren't found. Fed-speaker times conflict across calendars. The BoE vote split (8–1) comes from one live blog. Anthropic S-1 details come from a single source.",
   "updates": [
     {
+      "at": "2026-11-05T21:17:49Z",
+      "label": "Close",
+      "headline": "The AI rout ended as the worst day since April 2025. The S&P fell 4.36%, the Dow lost 1,833 points and the Nasdaq dropped 5.52%, confirming a correction. The 2Y fell ≈11 bp to ≈4.47%, and December hike odds were cut from ≈82% to ≈66–69% ahead of Friday's payrolls.",
+      "points": [
+        "Close: the S&P 500 finished at 7,353.73 (−4.36%), the Dow at 51,523.06 (−1,833.06, −3.44%) and the Nasdaq Comp. at 24,315.00 (−5.52%), now more than 10% below its Oct 6 record. That was the worst day for all three since Apr 2025. The SOX was ≈−10 to −11% and NVDA −7.5%. The VIX jumped ≈39%, its biggest jump since 'Liberation Day'. The Russell 2000 was ≈−3.4 to −4.4% late, with no confirmed close.",
+        "Rates: the front end led a bull steepener (short yields falling faster than long ones). The 2Y ended ≈4.47% (−11 bp), the 10Y ≈4.83% (≈−6 to −7 bp, lowest since early Sep) and the 30Y ≈5.26%, so 2s10s steepened to ≈+36 bp. CME FedWatch December hike odds fell to ≈66–69% from ≈82% Wed. Correction to the midday update: the odds were repriced lower after all, not 'roughly unchanged'.",
+        "Fed-speak was hawkish in tone but got ignored. Hammack (in Zurich) said policy must become restrictive and favored gradual hikes. Barkin told CNBC that policy is near neutral, inflation is the top risk and only the pace of hikes is open. Markets traded the equity shock, not the speeches. Logan speaks this evening.",
+        "Cross-asset: gold faded from its $4,146.9 high. Kitco had spot at $4,083.70 at 3:10 PM CT (range $4,058–4,147). DXY was ≈101.46, about flat after a 101.19 low. Silver was ≈$52.85 and LME copper ≈$14,006/t, near three-month lows on data-center demand fears. Brent was ≈$96 intraday, with no confirmed settle found.",
+        "Tomorrow (Fri 7:30 AM CT): October payrolls, consensus ≈59k (Dow Jones) vs 29k prior, unemployment ≈4.2%. With hike odds already down ≈15 pts, a hot print could re-steepen the hike pricing fast. Next week brings the refunding auctions: 3Y $58B Mon, 10Y $42B Tue, 30Y $25B Thu. No bank M&A or major deal news surfaced this session."
+      ],
+      "simple": "Stocks had their worst day in 19 months. Investors fear a Democratic Congress will slow the AI and data-center boom that chip makers depend on. Scared money moved into government bonds, pushing their yields (the interest they pay) down most for two-year notes, because traders now think the Fed is less likely to raise rates in December. Two Fed officials still said hikes are coming. So Friday's jobs report decides who's right: a strong number puts the hike back on the table, and a weak one takes it further off.",
+      "sources": [
+        {
+          "name": "CNBC live blog (closing levels)",
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "AP via Local10",
+          "url": "https://www.local10.com/news/2026/11/05/a-sell-off-for-ai-stocks-sends-the-sp-500-down-more-than-4-to-its-worst-day-since-trumps-tariff-announcements-in-2025/"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/05/treasury-yields-bonds-interest-rates.html"
+        },
+        {
+          "name": "FXStreet (gold, FedWatch)",
+          "url": "https://www.fxstreet.com/news/gold-rallies-above-4-100-as-nasdaq-100-crashes-december-hike-bets-fade-202611052023"
+        },
+        {
+          "name": "CoinDesk (FedWatch)",
+          "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep"
+        },
+        {
+          "name": "CNBC (Barkin)",
+          "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html"
+        },
+        {
+          "name": "FXStreet (Hammack)",
+          "url": "https://www.fxstreet.com/news/feds-hammack-gradual-rate-hike-path-best-way-forward-for-policy-202611051359"
+        },
+        {
+          "name": "Benzinga (VIX)",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62939997/stock-market-today-vix-spikes-ai-tech-rout-wipes-out-2-trillion-nvidia-amd"
+        },
+        {
+          "name": "Kitco (gold)",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "Traders Union (copper)",
+          "url": "https://tradersunion.com/news/commodities/show/4107704-copper-moves-down-0-07percent-to/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-05T18:17:11Z",
       "label": "Midday",
       "headline": "The chip rout is now a market-wide washout. Midday the Nasdaq is ≈−4.5 to −5% (on track to confirm a correction), the S&P ≈−3.3 to −3.6% and the Dow ≈−2.2 to −2.8%. Bonds and gold are the havens: the 10Y is ≈4.84% and gold touched $4,146.",
@@ -507,5 +569,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-05T18:17:11Z"
+  "updatedAt": "2026-11-05T21:17:49Z"
 }
