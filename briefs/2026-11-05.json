@@ -11,28 +11,28 @@
     "Metals and oil: spot gold is ≈$4,128–4,140 (+≈1.8%, range $4,057–4,148) after Wednesday's ≈+3.4%, and silver settled ≈$52.28 (+5.1%) Wednesday. LME copper is ≈$14,044/t (+0.2%) and still near August lows. Brent is bouncing ≈+1.5% to ≈$96 after Wednesday's 8.7% drop to $94.62. ING warns it's too early to call the war over, and Rystad doesn't expect Gulf flows to normalize fast.",
     "Banking: Reuters reports banks bracing for a Democratic Congress (CEO hearings, Warren the frontrunner for Banking chair). TD Cowen says the run of bank-friendly legislation is likely over. Card lenders SYF, COF and BFH fell 3.5–4.3%, and Seiberg thinks any rate cap lands closer to 36% than Trump's 10%. Capital markets: CME posted a record October ADV of 30M (+15% YoY), CVS will split in two, and Kraft Heinz is selling its coffee unit at a $650M EV."
   ],
-  "markets_asof": "≈9:15 AM CT (intraday snapshots, times vary)",
+  "markets_asof": "≈12:00 PM CT (midday snapshots, times vary)",
   "markets": [
     {
       "label": "S&P 500",
       "value": "—",
-      "change": "≈−2%",
+      "change": "≈−3.3 to −3.6%",
       "dir": "down",
-      "note": "Yahoo live blog ≈10:14 AM ET; single source"
+      "note": "Midday snapshots (Al Jazeera, Yahoo)"
     },
     {
       "label": "Dow",
       "value": "—",
-      "change": "≈−0.8% (≈−390 pts)",
+      "change": "≈−2.2 to −2.8%",
       "dir": "down",
-      "note": "Flipped from ≈+0.5% futures; Wed close 53,356.12"
+      "note": "Opened +0.6% at 53,687; Wed close 53,356.12"
     },
     {
       "label": "Nasdaq Comp.",
       "value": "—",
-      "change": "≈−3% to −3.6%",
+      "change": "≈−4.8 to −5%",
       "dir": "down",
-      "note": "Chips lead; SOX ≈−5% to −7%"
+      "note": "On track to confirm a correction vs Oct 6 record"
     },
     {
       "label": "Russell 2000",
@@ -42,74 +42,74 @@
       "note": "No confirmed intraday print; Wed close 2,856.95"
     },
     {
-      "label": "UST 2Y",
-      "value": "≈4.58%",
-      "change": "≈−5 bp",
+      "label": "PHLX Semis (SOX)",
+      "value": "—",
+      "change": "≈−10 to −11%",
       "dir": "down",
-      "note": "Sources differ (one pre-data print 4.61%)"
+      "note": "MU ≈−14%, AMD ≈−13%, NVDA ≈−7 to −9%"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No confirmed midday print; ≈4.58% post-open"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.89–4.90%",
-      "change": "≈−7 bp",
+      "value": "≈4.84%",
+      "change": "≈−6 bp",
       "dir": "down",
-      "note": "Near eight-week lows after claims"
+      "note": "Lowest since Sep 10; flight to safety"
     },
     {
       "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No confirmed intraday print; Wed ≈5.28%"
+      "note": "No confirmed intraday print; Wed ≈5.28–5.30%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈81–82%",
+      "change": "Dec hike ≈74.5–83%",
       "dir": "flat",
-      "note": "Pre-data FedWatch; FOMC Dec 8–9"
-    },
-    {
-      "label": "WTI",
-      "value": "≈$88.7–89.4",
-      "change": "≈+1.4%",
-      "dir": "up",
-      "note": "Snapshots vary"
+      "note": "FedWatch reads differ by timestamp; FOMC Dec 8–9"
     },
     {
       "label": "Brent",
-      "value": "≈$96.1–96.8",
-      "change": "≈+1.5–2.3%",
+      "value": "≈$96",
+      "change": "≈+1.5%",
       "dir": "up",
-      "note": "Wed settle $94.62"
+      "note": "Wed settle $94.62; snapshots vary"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,122",
-      "change": "≈+1.5%",
+      "value": "≈$4,125",
+      "change": "≈+1.6%",
       "dir": "up",
-      "note": "Fortune 9:10 AM ET"
+      "note": "High $4,146.63, highest since Oct 20"
     },
     {
       "label": "Silver",
-      "value": "≈$52.8",
+      "value": "≈$53",
       "change": "≈+1%",
       "dir": "up",
-      "note": "USAGold; gold/silver ratio ≈78"
+      "note": "Morning snapshot; no fresh midday print"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.41/lb",
+      "value": "≈$6.40/lb",
       "change": "—",
       "dir": "flat",
-      "note": "Intraday low $6.27; single source"
+      "note": "Single source"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.6",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Near one-month low"
+      "value": "—",
+      "change": "lower",
+      "dir": "down",
+      "note": "Near one-month low; ≈101.6 earlier"
     }
   ],
   "calendar": [
@@ -417,6 +417,49 @@
   "caveats": "I couldn't open CNBC, Yahoo, WSJ, NYT, Tribune, MarketScreener or FXStreet directly from this session, so everything comes from search snippets and secondary coverage (named per story). Pre-market futures levels vary by snapshot. The 2Y and 30Y are Wednesday closes, and silver is Wednesday's settle. Today's productivity/ULC consensus and Challenger prior weren't found. Fed-speaker times conflict across calendars. The BoE vote split (8–1) comes from one live blog. Anthropic S-1 details come from a single source.",
   "updates": [
     {
+      "at": "2026-11-05T18:17:11Z",
+      "label": "Midday",
+      "headline": "The chip rout is now a market-wide washout. Midday the Nasdaq is ≈−4.5 to −5% (on track to confirm a correction), the S&P ≈−3.3 to −3.6% and the Dow ≈−2.2 to −2.8%. Bonds and gold are the havens: the 10Y is ≈4.84% and gold touched $4,146.",
+      "points": [
+        "Equities: Al Jazeera's midday read has the Nasdaq −4.8%, S&P −3.6% and Dow −2.8%. A later Yahoo snapshot shows the Dow −2.2% (>1,200 pts per its headline), the S&P −3.3% and the Nasdaq −5%. The SOX is ≈−10 to −11%. MU ≈−14%, AMD ≈−13%, NVDA ≈−7 to −9%, INTC ≈−7 to −8%. Reuters says the Nasdaq is on track to close 10%+ below its Oct 6 record.",
+        "Correction to the morning thesis: there's no 'split' anymore, because the Dow went from ≈+0.6% at the open (53,687) to a deep loss. Post-open called it de-risking. It is now on pace for one of the worst S&P sessions since 2025.",
+        "Rates: the 10Y is ≈4.84% (≈−6 bp vs Wed late, lowest since Sep 10), as the flight to safety outweighs the 189k claims print. I don't have a confirmed intraday 2Y or 30Y. December hike odds are reported anywhere from ≈74.5% to ≈83% (FedWatch reads differ by timestamp), so treat ≈80% as roughly unchanged, not repriced lower.",
+        "Metals/energy: spot gold is ≈$4,125 (+≈1.6%), with a high of $4,146.63, the highest since Oct 20. Silver is ≈$53. Brent is ≈$96 and the dollar is near a one-month low. The safe havens are working together: Treasuries up, gold up, dollar down.",
+        "Fed speakers: I found no reporting of Barkin's comments moving markets. Logan speaks this evening. No bank M&A or major deal news surfaced this session."
+      ],
+      "simple": "This morning's tech selling has spread to the whole stock market. Investors fear a Democratic Congress will regulate AI and slow the building of data centers, which is what chip makers' profits depend on. A 'correction' (a 10% fall from a recent peak) is now likely for the Nasdaq. When stocks drop this fast, money runs to safer assets, so investors are buying Treasury bonds (pushing their yields, or interest rates, down) and gold. That is also why mortgage rates are easing.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+        },
+        {
+          "name": "Reuters via Investing.com (open)",
+          "url": "https://www.investing.com/news/stock-market-news/nasdaq-falls-at-open-after-midtermsfueled-surge-as-chip-data-center-stocks-fall-5004890"
+        },
+        {
+          "name": "24/7 Wall St. (chip moves)",
+          "url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/"
+        },
+        {
+          "name": "FXStreet (gold, 10Y)",
+          "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-extends-rally-as-democrats-victory-weakens-us-yields-202611050349"
+        },
+        {
+          "name": "Finimize (Fed odds)",
+          "url": "https://finimize.com/content/dollar-edges-up-as-oil-rebounds-and-fed-bets-hold"
+        },
+        {
+          "name": "TradingView/Seeking Alpha (claims, FedWatch)",
+          "url": "https://www.tradingview.com/news/seekingalpha:f8661769e094b:0-initial-jobless-claims-decline-slightly-in-past-week/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-05T15:17:50Z",
       "label": "Post-open",
       "headline": "The split open turned into a broad tech rout. The Nasdaq is ≈−3% with the SOX ≈−5 to −7%, and even the Dow has flipped ≈−0.8%. Meanwhile, hot labor data (claims 189k, a 57-year low) and soft unit labor costs (−0.7%) leave the 10Y near 4.89–4.90%.",
@@ -464,5 +507,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-05T15:17:50Z"
+  "updatedAt": "2026-11-05T18:17:11Z"
 }
