@@ -11,60 +11,63 @@
     "Cross-asset: Brent settled Thursday at $98.29 (+$3.67) and touched ≈$99.95 overnight on Middle East tanker attacks (still ≈−15% on the week), with WTI ≈$90.7. Gold is ≈$4,072 (−0.4%) after a ≈$250 week. LME copper is $13,738/t (−0.8%), headed for its worst week since March (−2.9%) on the data-center selloff, even as SHFE stocks fell 24% to a near-3-year low. DXY is ≈101.6–101.9.",
     "Capital markets: the AI backlash is hitting the IPO calendar. Reuters says Anthropic's roadshow, planned for next week, is in doubt, and WSJ reports anchor investors pushing the $1.5T target toward ≈$1T. IG credit is still open: Apple priced $7.5B in seven tranches on ≈$31B of orders. Banks face years of oversight, with Warren expected to chair Senate Banking from January. JPM fell 4.1% Thursday."
   ],
-  "markets_asof": "≈11:50 AM CT (indices); yields/FX/metals ≈midday CT",
+  "markets_asof": "≈2:10–2:40 PM CT late session (final closes not yet confirmed)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,390",
-      "change": "≈+0.5%",
+      "value": "≈7,405",
+      "change": "≈+0.7%",
       "dir": "up",
-      "note": "11:50 AM CT; hit ≈7,433 mid-morning"
+      "note": "Late session; AP had +0.9%; Thu close 7,353.73"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "≈24,560",
-      "change": "≈+1.0%",
+      "value": "≈24,665",
+      "change": "≈+1.4–1.6%",
       "dir": "up",
-      "note": "SOX ≈+4%, AMD ≈+8%"
+      "note": "SOX ≈+4.6%; 4th straight weekly loss"
     },
     {
       "label": "Dow",
-      "value": "≈51,420",
-      "change": "≈−0.2%",
-      "dir": "down"
+      "value": "≈51,500",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "AP: −3 pts late; Thu close 51,523.06"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "≈+1.3%",
       "dir": "up",
-      "note": "Morning snapshot"
+      "note": "Morning snapshot; no late print found"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.52%",
-      "change": "≈+5 bp",
+      "change": "≈+6 bp",
       "dir": "up",
-      "note": "Post-NFP"
+      "note": "vs Thu 4.46%"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.87%",
-      "change": "≈+4 bp",
-      "dir": "up"
+      "value": "≈4.86%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "vs Thu 4.84%"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.27%",
       "change": "≈+2 bp",
-      "dir": "up"
+      "dir": "up",
+      "note": "30Y auction Thu $25B"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈77–78%",
+      "change": "Dec hike ≈77%",
       "dir": "up",
-      "note": "≈68–70% pre-NFP (FedWatch)"
+      "note": "82% Wed; ≈68% pre-NFP (FedWatch)"
     },
     {
       "label": "Dollar index",
@@ -74,36 +77,36 @@
     },
     {
       "label": "Gold (spot)",
-      "value": "$4,049.69",
-      "change": "−0.94%",
+      "value": "≈$4,050",
+      "change": "≈−1%",
       "dir": "down",
-      "note": "≈+4.5% on the week"
+      "note": "≈+4.5–5% on the week"
     },
     {
       "label": "Silver",
-      "value": "≈$51.7–52",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Holding up better than gold"
+      "value": "≈$52",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "PGMs also lower"
     },
     {
       "label": "Copper (LME)",
       "value": "≈$13,775/t",
       "change": "≈−0.5%",
       "dir": "down",
-      "note": "≈−2.6% on the week"
+      "note": "≈−2.6% on the week; COMEX ≈$6.23/lb"
     },
     {
       "label": "Brent",
-      "value": "≈$99–100",
-      "change": "≈+1%",
+      "value": "≈$98–100",
+      "change": "≈+0.5–1%",
       "dir": "up",
-      "note": "≈−15% on the week; earlier quote"
+      "note": "≈−15% on the week"
     },
     {
       "label": "WTI",
-      "value": "≈$91",
-      "change": "≈+0.8%",
+      "value": "≈$90–91",
+      "change": "≈flat to +0.8%",
       "dir": "up",
       "note": "≈−12% on the week"
     }
@@ -434,6 +437,45 @@
   "caveats": "WSJ, NYT and the Tribune are paywalled or unreachable, and this session could not open CNBC, Kitco, Yahoo or FXStreet pages directly, so figures come from search-result summaries and syndicated or secondary coverage (outlets named per story). Futures percentages conflict across sources (Dow −0.6% to −0.9%; Nasdaq-100 +0.8% to +1.8%). The VIX's Thursday % gain is reported as both ≈+39% and ≈+70%. Thursday's brief listed Brent ≈$96 and silver ≈$52.85; settles were Brent $98.29 and silver ≈$51.65 late. PBOC September gold buying differs between WGC (23t) and Kitco (21t). KBW bank index and COMEX copper levels were not found. Williams' and Logan's latest remarks were not found. Tribune-bucket stories come from Crain's, CME and SEC filings, and some are 2–9 days old.",
   "updates": [
     {
+      "at": "2026-11-06T21:17:18Z",
+      "label": "Close",
+      "headline": "Tech's relief bounce held into the last hour (Nasdaq ≈+1.5%, S&P ≈+0.7–0.9%, Dow ≈flat) but didn't rescue the week, and payrolls left the rates market where it was at midday: 2Y ≈4.52%, December hike ≈77%.",
+      "points": [
+        "Late session (final prints not yet confirmed): S&P 500 ≈7,405 (≈+0.7%; AP had +0.9%), Nasdaq Comp. ≈24,665 (≈+1.4–1.6%), Dow ≈flat (AP: −3 pts; MSN ≈−0.2%). The SOX was ≈+4.6% and Nvidia ≈+5.6%, recovering about a third of Thursday's 12% chip drop. The Nasdaq is still headed for a 4th straight weekly loss, and the indexes for their worst week since June.",
+        "Rates: no new afternoon driver. The 2Y ≈4.52%, 10Y ≈4.85–4.87% and 30Y ≈5.27% are holding the post-NFP levels, so the 2Y finishes ≈+6 bp vs Thursday's 4.46% and has fully undone the flight-to-quality rally at the front end. Dec hike odds ≈77% (FedWatch) vs 82% Wednesday and ≈66–69% at the morning brief.",
+        "Fed: no coverage found of Bowman's 11:15 AM CT supervision remarks, so treat them as a non-event. Musalem's hawkish 'regressive tax' line is the day's Fed takeaway. The morning summary's '2Y pinned at 4.47%' is stale.",
+        "Metals/oil: gold ≈$4,050 (≈−1%) on the firmer dollar (DXY ≈102.2) but ≈+4.5–5% on the week. Palladium and platinum also fell on rate fears. Copper ≈$6.23/lb COMEX, WTI ≈$90–91 and Brent ≈$98–100, with oil still ≈12–15% lower on the week. No new bank M&A headlines found this afternoon.",
+        "Next week: the refunding is the main event, with 3Y $58B Mon, 10Y $42B Tue and 30Y $25B Thu. After a 165k print and a 5.27% long bond, watch the 10Y/30Y tails (a stop above the when-issued yield = weak demand) and whether 2s10s (≈+35 bp) steepens again. Anthropic's IPO is reportedly aimed at the week of Nov 16."
+      ],
+      "simple": "Tech stocks won back some of Thursday's crash, but the week was still bad. Bonds didn't recover. Friday's strong jobs report pushed up the yield (the interest rate) on the 2-year Treasury, because traders now think it's more likely the Fed raises rates in December to cool inflation. That means borrowing stays more expensive for longer. Next week the Treasury sells about $125 billion of new debt. If buyers ask for higher rates than expected (a \"tail\"), mortgage and corporate loan rates could rise too.",
+      "sources": [
+        {
+          "name": "AP via WHEC",
+          "url": "https://www.whec.com/ap-top-news/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week/"
+        },
+        {
+          "name": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/nasdaq-rebounds-but-remains-on-track-for-fourth-straight-weekly-decline-ce785fd2dd81f327"
+        },
+        {
+          "name": "GV Wire",
+          "url": "https://gvwire.com/2026/11/06/nasdaq-rebounds-as-chips-stocks-recover-from-steep-losses/"
+        },
+        {
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+        },
+        {
+          "name": "The Private Banker",
+          "url": "https://leprivatebanker.com/2026/11/06/treasuries-slip-as-payrolls-beat-lifts-fed-december-hike-bets-near-70-unwinding-part-of-thursdays-haven-rally/"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/copper"
+        }
+      ]
+    },
+    {
       "at": "2026-11-06T18:17:35Z",
       "label": "Midday",
       "headline": "The tech bounce is holding but narrowing. By midday the Nasdaq is ≈+1% and the S&P ≈+0.5% while the Dow is ≈−0.2%; the post-payrolls rates reset has stuck (2Y ≈4.52%, 30Y ≈5.27%, December hike ≈77–78%), and the dollar's ≈+0.7% jump is weighing on gold.",
@@ -524,5 +566,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-06T18:17:35Z"
+  "updatedAt": "2026-11-06T21:17:18Z"
 }
