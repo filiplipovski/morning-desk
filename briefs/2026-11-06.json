@@ -11,115 +11,100 @@
     "Cross-asset: Brent settled Thursday at $98.29 (+$3.67) and touched ≈$99.95 overnight on Middle East tanker attacks (still ≈−15% on the week), with WTI ≈$90.7. Gold is ≈$4,072 (−0.4%) after a ≈$250 week. LME copper is $13,738/t (−0.8%), headed for its worst week since March (−2.9%) on the data-center selloff, even as SHFE stocks fell 24% to a near-3-year low. DXY is ≈101.6–101.9.",
     "Capital markets: the AI backlash is hitting the IPO calendar. Reuters says Anthropic's roadshow, planned for next week, is in doubt, and WSJ reports anchor investors pushing the $1.5T target toward ≈$1T. IG credit is still open: Apple priced $7.5B in seven tranches on ≈$31B of orders. Banks face years of oversight, with Warren expected to chair Senate Banking from January. JPM fell 4.1% Thursday."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (futures/yields/commodities); index levels are Thu close",
+  "markets_asof": "Indices at open ≈8:35 AM CT; yields/commodities ≈9:15 AM CT",
   "markets": [
     {
-      "label": "S&P 500 fut",
-      "value": "≈+0.4%",
-      "change": "vs fair value",
+      "label": "S&P 500",
+      "value": "7,373.17",
+      "change": "+0.26%",
       "dir": "up",
-      "note": "Cash closed Thu 7,353.73 (−4.36%)"
+      "note": "At open; later ≈+0.7%"
     },
     {
-      "label": "Nasdaq-100 fut",
-      "value": "≈+1.7%",
-      "change": "rebound",
+      "label": "Nasdaq Comp.",
+      "value": "24,614.53",
+      "change": "+1.23%",
       "dir": "up",
-      "note": "Comp. closed Thu 24,315.00 (−5.52%), in correction"
+      "note": "At open; Nvidia ≈+6%"
     },
     {
-      "label": "Dow fut",
-      "value": "≈−0.9%",
-      "change": "rotation reverses",
+      "label": "Dow",
+      "value": "51,036.69",
+      "change": "−0.94%",
       "dir": "down",
-      "note": "Cash closed Thu 51,523.06 (−1,833)"
-    },
-    {
-      "label": "Russell 2000",
-      "value": "2,729.89",
-      "change": "−4.45%",
-      "dir": "down",
-      "note": "Thu close"
-    },
-    {
-      "label": "PHLX Semis (SOX)",
-      "value": "≈9,011",
-      "change": "≈−12.2%",
-      "dir": "down",
-      "note": "Thu close; worst day since Apr 2025"
-    },
-    {
-      "label": "VIX",
-      "value": "≈28",
-      "change": "spiked Thu",
-      "dir": "up",
-      "note": "Reported % gain conflicts (+39% vs ≈+70%)"
+      "note": "At open; later ≈−0.4%"
     },
     {
       "label": "UST 2Y",
-      "value": "4.474%",
-      "change": "≈0 bp",
-      "dir": "flat"
+      "value": "≈4.52%",
+      "change": "≈+5 bp",
+      "dir": "up",
+      "note": "Post-NFP"
     },
     {
       "label": "UST 10Y",
-      "value": "4.83%",
-      "change": "<−1 bp",
-      "dir": "down",
-      "note": "Lowest since early Sep"
+      "value": "≈4.87%",
+      "change": "≈+3–5 bp",
+      "dir": "up"
     },
     {
       "label": "UST 30Y",
-      "value": "5.249%",
-      "change": "≈0 bp",
-      "dir": "flat"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh quote; 5.249% pre-market"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈66–69%",
-      "dir": "flat",
-      "note": "Was ≈82% Wed"
+      "change": "Dec hike ≈77%",
+      "dir": "up",
+      "note": "≈68% pre-NFP (FedWatch)"
     },
     {
       "label": "Brent",
-      "value": "≈$98.4",
-      "change": "Thu settle $98.29 (+$3.67)",
-      "dir": "up",
-      "note": "Touched ≈$99.95 overnight"
+      "value": "≈$97.9",
+      "change": "≈−0.4%",
+      "dir": "down"
     },
     {
       "label": "WTI",
-      "value": "≈$90.7",
-      "change": "Thu settle $90.52",
-      "dir": "up"
+      "value": "≈$90.3",
+      "change": "≈−0.2%",
+      "dir": "down"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,072",
-      "change": "−0.4%",
+      "value": "≈$4,050",
+      "change": "≈−1%",
       "dir": "down",
-      "note": "≈+$250 on the week"
+      "note": "Quotes range $4,046–4,075"
     },
     {
       "label": "Silver",
-      "value": "≈$51.65",
-      "change": "−0.8% Thu",
-      "dir": "down",
-      "note": "Thu late quote"
+      "value": "≈$51.8–52.1",
+      "change": "≈flat",
+      "dir": "flat"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "$13,738/t",
-      "change": "−0.8%",
-      "dir": "down",
-      "note": "−2.9% w/w, worst since March"
+      "label": "Copper (COMEX)",
+      "value": "≈$6.25/lb",
+      "change": "≈flat",
+      "dir": "flat"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.6–101.9",
-      "change": "flat to +0.3%",
-      "dir": "up"
+      "value": "—",
+      "change": "firmer post-NFP",
+      "dir": "up",
+      "note": "No level found; was ≈101.6–101.9"
+    },
+    {
+      "label": "UMich sentiment",
+      "value": "51.0",
+      "change": "vs 48.0 exp.",
+      "dir": "up",
+      "note": "1Y infl. exp. 4.3% (from 4.7%)"
     }
   ],
   "calendar": [
@@ -446,5 +431,50 @@
     }
   ],
   "caveats": "WSJ, NYT and the Tribune are paywalled or unreachable, and this session could not open CNBC, Kitco, Yahoo or FXStreet pages directly, so figures come from search-result summaries and syndicated or secondary coverage (outlets named per story). Futures percentages conflict across sources (Dow −0.6% to −0.9%; Nasdaq-100 +0.8% to +1.8%). The VIX's Thursday % gain is reported as both ≈+39% and ≈+70%. Thursday's brief listed Brent ≈$96 and silver ≈$52.85; settles were Brent $98.29 and silver ≈$51.65 late. PBOC September gold buying differs between WGC (23t) and Kitco (21t). KBW bank index and COMEX copper levels were not found. Williams' and Logan's latest remarks were not found. Tribune-bucket stories come from Crain's, CME and SEC filings, and some are 2–9 days old.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-06T15:17:59Z",
+      "label": "Post-open",
+      "headline": "Payrolls blew out at +165k (vs ≈59–65k) with 4.1% unemployment and 0.4% wages, so December hike odds snapped back to ≈77% and the 2Y rose ≈5 bp to 4.52%. The tech bounce held at the open, but the Dow is still lower.",
+      "points": [
+        "October NFP +165k vs 59k (DJ) / 65k (Bbg); Sep revised 29k→60k, Aug +53k to 186k. Unemployment 4.1% (exp. 4.2%), AHE +0.4% m/m (exp. ≈0.3%), +3.1% y/y. Prof./business services +70k, health care +42k. U-6 up 0.3 pp to 7.9%, the one soft spot.",
+        "Rates: the 2Y rose ≈5 bp to ≈4.52% and the 10Y ≈3–5 bp to ≈4.87%, so the morning's bull steepener partly reversed into a bear flattener. CME FedWatch December hike odds are ≈77% vs ≈68% before the release, nearly back to Wednesday's 82%. The morning playbook ('beat + firm wages → back toward 80%') is playing out.",
+        "UMich Nov prelim 51.0 vs 48.0 expected. 1Y inflation expectations fell to 4.3% from 4.7% and 5Y to 3.4% from 3.5%, a dovish offset that the morning brief flagged as the key line. No Musalem or Williams headlines found yet.",
+        "Open (≈8:35 AM CT): Nasdaq Comp. +1.23% to 24,614.53 with Nvidia ≈+6%; S&P +0.26% to 7,373.17; Dow −0.94% to 51,036.69. A later snapshot has the S&P ≈+0.7% and the Dow ≈−0.4%.",
+        "Gold is ≈$4,050 (≈−1%) on higher yields and a firmer dollar. Silver ≈$51.8–52.1, COMEX copper ≈$6.24–6.26/lb, WTI ≈$90.3, Brent ≈$97.9. Anthropic IPO: reports say the company is now aiming for the week of Nov 16, with buyers pushing toward ≈$1T vs a $1.5T target. GS/MS lead."
+      ],
+      "simple": "Employers added far more jobs last month than economists expected, and pay rose faster too. When the job market is that strong, the Federal Reserve (the central bank that sets short-term interest rates) has more reason to raise rates in December to cool inflation, so traders now see roughly a 3-in-4 chance of a hike. That pushed up the yield (the interest rate) on short-term government bonds and made gold, which pays no interest, a little less attractive, while tech stocks kept bouncing back from Thursday's crash.",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/us-adds-165000-jobs-in-october-unemployment-rate-dips-to-41-5008176"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://www.morningstar.com/economy/october-us-jobs-report-165000-rise-payrolls-beating-expectations"
+        },
+        {
+          "name": "Briefs.co",
+          "url": "https://www.briefs.co/news/treasury-yields-climb-as-a-hotter-jobs-report-resets-rate-hi/"
+        },
+        {
+          "name": "The Globe and Mail (Reuters)",
+          "url": "https://theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/gold"
+        },
+        {
+          "name": "CTV News (Reuters)",
+          "url": "https://www.ctvnews.ca/business/article/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-06T15:17:59Z"
 }
