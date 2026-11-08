@@ -1,0 +1,433 @@
+{
+  "date": "2026-11-08",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-11-08T12:18:46Z",
+  "headline": "The weekend added policy risk rather than data: with December hike odds ≈73–77% after the 165k payrolls beat, Tuesday's October CPI and $125B of refunding now land alongside a China rare-earth deadline (Nov 10) and a Democratic Congress vowing to roll back tariffs.",
+  "summary": [
+    "Week recap, rates: the 2Y finished ≈4.52% and the 10Y ≈4.86% (≈−6 bp and ≈−3 bp on the week). Thursday's AI-rout haven bid was mostly undone by Friday's +165k payrolls, 4.1% unemployment and +0.4% wages. 2s10s ≈+34 bp, 30Y ≈5.26%. FedWatch December-hike odds sit ≈73–77% depending on the snapshot, vs ≈66–69% pre-data.",
+    "Week recap, equities: S&P 500 7,376.86 (≈−2.7% wk), Nasdaq 24,579.42 (≈−3.4%, 4th straight weekly loss), Dow 51,285.73 (≈−0.9%). The damage came from Thursday's post-midterm AI selloff (SOX −12.2%); Friday's chip bounce recovered only part of it.",
+    "Week recap, metals and oil: gold rose ≈4.9% to ≈$4,063 (high $4,146.63 Thu) and silver ≈5.8% to ≈$51.8. Copper had its worst week since March (LME ≈−2.6%) despite SHFE stocks falling 24% to 33,848 t. Brent ($98.32) and WTI ($90.83) fell ≈13–16% on Iran-war-end hopes.",
+    "New this weekend, trade policy: incoming Democratic leaders (Jeffries, Wyden as Senate Finance chair) say they will claw back tariff authority, while Navarro says the White House will 'quadruple down' and may add overcapacity duties before January. The US–China truce pauses expire Mon (US Affiliates Rule) and Tue (China's rare-earth control expansion) unless extended. That is binary risk for copper, PGMs and the dollar.",
+    "Week ahead: Tue 7:30 AM CT October CPI (m/m only; consensus +0.3% / core +0.2%, Cleveland nowcast 0.24% / 0.21%), with the 3Y $58B Mon, 10Y $42B Tue and 30Y $25B Thu. Bond market closed Wed (Veterans Day), PPI Fri. Hammack (Nov 5) wants 'smaller, more frequent' hikes; she and Cook dissented for a hike on Oct 28.",
+    "Banking & deals: 162 bank mergers have been completed in 2026 through Nov 2 (BankRegReports). This week's announced deals price from ≈110% (First Mid–Evergreen, $70.7M) to ≈190% of tangible book (First Community–Main Street, $243M). Anthropic's IPO roadshow can begin Nov 10 at the earliest; valuation talk spans ≈$1.0–1.6T depending on the outlet."
+  ],
+  "markets_asof": "Fri Nov 6 close (weekend; futures reopen 5 PM CT Sunday; some figures approximate)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,376.86",
+      "change": "+0.31%",
+      "dir": "up",
+      "note": "Week ≈−2.7% (AP)"
+    },
+    {
+      "label": "Nasdaq Comp.",
+      "value": "24,579.42",
+      "change": "+1.1%",
+      "dir": "up",
+      "note": "Week ≈−3.4%; 4th straight weekly loss"
+    },
+    {
+      "label": "Dow",
+      "value": "51,285.73",
+      "change": "−237 (−0.5%)",
+      "dir": "down",
+      "note": "Week ≈−0.9%"
+    },
+    {
+      "label": "SOX (chips)",
+      "value": "—",
+      "change": "≈+4.2%",
+      "dir": "up",
+      "note": "After −12.2% Thu"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.52%",
+      "change": "≈+6 bp",
+      "dir": "up",
+      "note": "Sources 4.51–4.53%; Mon close ≈4.58%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.86%",
+      "change": "≈+2 bp",
+      "dir": "up",
+      "note": "Prior 4.837%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.26%",
+      "change": "≈+1 bp",
+      "dir": "up",
+      "note": "30Y $25B auction Thu"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈73–77%",
+      "dir": "up",
+      "note": "FedWatch per Schwab/TheStreet; ≈66–69% pre-NFP"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.2",
+      "change": "≈+0.7%",
+      "dir": "up",
+      "note": "Late-session print; no confirmed close"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$4,063",
+      "change": "≈−1% Fri",
+      "dir": "down",
+      "note": "Week ≈+4.9%; high $4,146.63 Thu"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$51.8",
+      "change": "≈−0.5% Fri",
+      "dir": "down",
+      "note": "Week ≈+5.8%"
+    },
+    {
+      "label": "Copper",
+      "value": "≈$6.24/lb COMEX",
+      "change": "≈−0.1%",
+      "dir": "down",
+      "note": "LME ≈−2.6% wk, worst since March"
+    },
+    {
+      "label": "Brent",
+      "value": "$98.32",
+      "change": "+$0.03",
+      "dir": "flat",
+      "note": "Week ≈−13–16%"
+    },
+    {
+      "label": "WTI",
+      "value": "$90.83",
+      "change": "+$0.31",
+      "dir": "up",
+      "note": "Week ≈−13%"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun 5:00 PM",
+      "event": "CME Globex reopens (equity, Treasury, metals, energy futures)",
+      "consensus": "—",
+      "prior": "Fri close: 2Y ≈4.52%, 10Y ≈4.86%, gold ≈$4,063",
+      "why": "First read on whether Friday's payrolls-driven selloff in the front end extends before Asia trades the rare-earth and tariff headlines."
+    },
+    {
+      "time": "Mon (all day)",
+      "event": "US 'Affiliates Rule' pause expires (Nov 9) unless extended",
+      "consensus": "—",
+      "prior": "Paused 1 year under the Nov 2025 US–China truce",
+      "why": "Paired with China's rare-earth suspension lapsing Tuesday. If either side lets its pause end, it is a trade-war re-escalation that hits copper and PGMs and lifts gold."
+    },
+    {
+      "time": "Mon 12:00 PM",
+      "event": "3Y note auction, $58B",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This kicks off the refunding. After a ≈6 bp 2Y selloff on payrolls, the 3Y is the cleanest read on whether real money will buy the front end at hike-priced levels."
+    },
+    {
+      "time": "Tue (all day)",
+      "event": "China's suspension of Oct-2025 rare-earth export controls expires (Nov 10)",
+      "consensus": "Extension, partial reinstatement or full reimposition",
+      "prior": "April-2025 licensing on 7 elements still in force",
+      "why": "The clearest metals-specific event risk of the week. Watch MOFCOM for an extension notice over the weekend or Monday."
+    },
+    {
+      "time": "Tue 7:30 AM",
+      "event": "October CPI (m/m only; no y/y published)",
+      "consensus": "Headline +0.3% / core +0.2%; Cleveland Fed nowcast 0.24% / 0.21%",
+      "prior": "+0.6% / +0.3% (Sep)",
+      "why": "This is the last CPI before the Dec 8–9 FOMC. A 0.3% core on top of 165k jobs and 0.4% wages probably locks in a December hike. A 0.2% gives the doves room to argue the equity drawdown is tightening enough."
+    },
+    {
+      "time": "Tue 12:00 PM",
+      "event": "10Y note auction, $42B",
+      "consensus": "—",
+      "prior": "—",
+      "why": "It lands hours after CPI. Watch the tail (clearing above the when-issued yield = weak demand) and the indirect bid with the 10Y ≈4.86%."
+    },
+    {
+      "time": "Tue (after close)",
+      "event": "Earnings: CoreWeave, Rigetti",
+      "consensus": "—",
+      "prior": "—",
+      "why": "CoreWeave is the purest AI-capex credit. Its guidance and debt-funding commentary test whether the post-midterm data-center scare is overdone."
+    },
+    {
+      "time": "Wed",
+      "event": "Veterans Day: bond market closed, stocks open",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A holiday in the middle of the refunding week means thinner liquidity and positioning squeezed into Tue/Thu."
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Initial jobless claims",
+      "consensus": "—",
+      "prior": "—",
+      "why": "After a 165k payrolls print, only a jump in claims would revive the slowdown story."
+    },
+    {
+      "time": "Thu 12:00 PM",
+      "event": "30Y bond auction, $25B",
+      "consensus": "—",
+      "prior": "—",
+      "why": "With the long bond ≈5.26%, this tests term-premium appetite. A weak auction steepens 2s30s even if the Fed hikes."
+    },
+    {
+      "time": "Thu (after close)",
+      "event": "Earnings: Cisco, Applied Materials",
+      "consensus": "—",
+      "prior": "—",
+      "why": "AMAT is a direct read on chip-equipment orders after the SOX's 12% one-day crash."
+    },
+    {
+      "time": "Fri 7:30 AM",
+      "event": "October PPI",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Oil fell ≈13–16% this week, but October's input costs were still elevated, which feeds the PCE translation the Fed targets."
+    },
+    {
+      "time": "All week",
+      "event": "Fed speakers: Jefferson, Waller, Barr, Bowman, Williams, Logan, Hammack, Paulson, Goolsbee",
+      "consensus": "—",
+      "prior": "Hammack Nov 5 (Zurich): policy must turn restrictive via smaller, more frequent hikes; Logan Oct 30: 'at least two more'",
+      "why": "Williams and Waller are the swing signals. Goolsbee (Chicago) said in October that more bad inflation months would be 'unacceptable'."
+    },
+    {
+      "time": "From Tue",
+      "event": "Anthropic IPO roadshow window opens (earliest Nov 10)",
+      "consensus": "Valuation chatter ≈$1.0–1.6T; raise up to ≈$100B reported",
+      "prior": "S-1 Oct 26; price range still blank",
+      "why": "An amended S-1 with a price range is the signal. A cut from the $1.5T+ talk would confirm the AI repricing reached the private/IPO market."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "Hike ≈75–77% (FedWatch)",
+      "prior": "Oct 28: hold at 3.75–4.00%",
+      "why": "CPI on Tuesday is the last major input."
+    },
+    {
+      "time": "Dec 11",
+      "event": "Federal government funding deadline",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Two days after the FOMC. A lame-duck fight adds bill-supply and data-delay risk into year-end."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Week ends with the front end re-pricing a December hike",
+        "body": "The 2Y closed Friday ≈4.52% (+6 bp on payrolls), erasing Thursday's ≈11 bp haven drop but still ≈6 bp lower on the week; the 10Y is ≈4.86% and the 30Y ≈5.26%. December hike odds are ≈73–77% on FedWatch, below Wednesday's 82% peak.",
+        "simple": "Treasury yields (the interest the government pays to borrow) jumped back on Friday because a strong jobs report makes a Fed rate increase more likely. Short-term yields move most with Fed expectations, so the 2-year moved most. Higher expected rates mean costlier mortgages and car loans and more interest income for banks.",
+        "source": "Le Private Banker / Invezz",
+        "url": "https://leprivatebanker.com/2026/11/06/treasuries-slip-as-payrolls-beat-lifts-fed-december-hike-bets-near-70-unwinding-part-of-thursdays-haven-rally/"
+      },
+      {
+        "title": "Hammack: get restrictive gradually",
+        "body": "Cleveland Fed's Hammack said Nov 5 in Zurich that policy needs to move to a restrictive setting, preferring smaller, more frequent steps over one big move. She and Governor Cook dissented for a hike at the Oct 28 hold at 3.75–4.00%; Chair Warsh has declined to give guidance for December.",
+        "simple": "'Restrictive' means rates high enough to actively slow the economy and cool inflation. A Fed official arguing for a steady series of small hikes, rather than one big one, tells markets to expect several increases over coming meetings. Bond traders use comments like this to price the path of future rates.",
+        "source": "Reuters via Freedom 96.9",
+        "url": "https://www.freedom969.com/business/feds-hammack-favors-gradual-rate-hike-path-to-lower-inflation"
+      },
+      {
+        "title": "CPI without a y/y, plus $125B of coupon supply",
+        "body": "October CPI (Tue) will be published as monthly changes only because there is no October 2025 base. Consensus is +0.3% headline / +0.2% core vs Sept's +0.6% / +0.3%. The 3Y/10Y/30Y auctions ($58B/$42B/$25B) straddle the release, with Wednesday's bond-market holiday compressing the week.",
+        "simple": "CPI (the consumer price index) is the main inflation gauge. This month it comes without the usual year-over-year number because the 2025 government shutdown left a gap in the data, so markets will focus on the one-month change. The Treasury is also selling $125 billion of new debt the same week, so a hot inflation number could meet weak auction demand and push yields higher.",
+        "source": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/october-2026-cpi-preview-no-yearly-rate"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Record Treasury futures volume, record asset-manager long",
+        "body": "CME's October ADV hit a record 30M contracts (+15% y/y), with Treasury futures & options at 9.2M/day (+48%) and SOFR F&O at 4.9M (+5%). Asset managers hold a record ≈3M-contract net long in 10Y note futures.",
+        "simple": "Futures are contracts to buy or sell something later at a price fixed today. Big funds are heavily positioned to profit if 10-year bond prices rise (yields fall). If inflation surprises high, those funds may sell at once, which can make yields jump faster than the data alone justifies.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/11/03/cme_group_reportsrecordoctoberadvof30millioncontractsup15yearove.html"
+      },
+      {
+        "title": "Sunday reopen sets up a CPI/auction squeeze test",
+        "body": "Globex reopens 5 PM CT with SOFR futures pricing ≈3-in-4 odds of a December 25 bp hike. With the crowded 10Y long, a hot core print plus a tailed 10Y auction on Tuesday is the main squeeze scenario; a 0.2% core would favor the longs.",
+        "simple": "SOFR futures let traders bet on where short-term interest rates will be, and their prices imply the odds of a Fed move. A 'tail' is when an auction sells at a higher yield than expected, which signals weak demand. Tuesday packs both risks into one day, so options and futures volume is likely to spike.",
+        "source": "CME Group Rates Recap",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-11-rates-recap.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold's best week in ≈2 months, now facing CPI",
+        "body": "Spot gold rose ≈4.9% on the week to ≈$4,063 after peaking at $4,146.63 Thursday, then slipped ≈1% Friday as payrolls lifted the dollar (DXY ≈102.2). On Nov 2 it had traded near $3,894, its lowest since October 2025.",
+        "simple": "Gold tends to rise when people want a safe asset and fall when real yields (interest after inflation) and the dollar climb, since it pays no interest. This week fear won out, then the strong jobs data pulled it back. A hot CPI that cements a Fed hike is the main downside risk next week.",
+        "source": "BullionVault / RoboForex",
+        "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-ai-tech-jobs-110620262"
+      },
+      {
+        "title": "Rare-earth truce deadline Tuesday",
+        "body": "China's one-year suspension of its October 2025 rare-earth export-control expansion runs through Nov 10, and the US Affiliates Rule pause ends Nov 9. The April 2025 licensing on seven elements was never lifted; options range from extension to full reimposition, and buyers have been stockpiling.",
+        "simple": "Rare earths are metals used in magnets for EVs, wind turbines and weapons, and China dominates their processing. A year ago both countries paused trade restrictions as part of a truce, and those pauses are about to expire. If they lapse, expect supply-chain stress, higher prices for critical minerals, and pressure on industrial metals tied to China trade.",
+        "source": "Mining Technology",
+        "url": "https://www.mining-technology.com/news/china-rare-earth-export-pause-nears-expiry-amid-persistent-supply-concentration/"
+      },
+      {
+        "title": "Copper: worst week since March, but stocks are thin",
+        "body": "LME 3M copper fell ≈2.6% on the week and touched $13,636, the lowest since Jul 30, as the AI selloff hit data-center demand bets. SHFE warehouse stocks fell 24% to 33,848 t, a near-3-year low.",
+        "simple": "Copper is wired into everything from power grids to data centers, so its price is a bet on growth. Investors sold it on fears that the AI building boom will slow. But Chinese warehouses hold very little metal, which tends to put a floor under prices.",
+        "source": "Mining.com",
+        "url": "https://www.mining.com/web/copper-price-falls-heads-for-worst-week-since-march-on-ai-rout/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Anthropic roadshow can start Nov 10; valuation still unsettled",
+      "body": "Because it filed confidentially first, Anthropic can start marketing 15 days after its Oct 26 public S-1, so Nov 10 at the earliest. Reported valuation talk ranges from ≈$1.0–1.3T (Reuters/Bloomberg) to $1.5–1.6T (WSJ), down from ≈$2T, and the raise could reach ≈$100B.",
+      "simple": "An IPO roadshow is when a company pitches big investors before its stock starts trading. The price range in the amended filing will show how much the past week's tech selloff has cut what investors will pay. A deal this size drives fees for underwriting banks and sets the tone for other big listings.",
+      "source": "Leverage Shares (citing WSJ/Reuters)",
+      "url": "https://leverageshares.com/us/insights/anthropic-ipo-price/"
+    },
+    {
+      "title": "Bank M&A: 162 deals done in 2026",
+      "body": "BankRegReports counts 162 completed bank mergers in 2026 through Nov 2, including Grand River into Isabella Bank. Bank7 closed its Century Financial deal Nov 1.",
+      "simple": "Smaller banks keep combining to spread technology and compliance costs over a bigger base. A friendlier regulatory climate has sped up approvals this year. For customers this usually means a new name on the branch, and for bankers it means steady advisory and integration work.",
+      "source": "BankRegReports",
+      "url": "https://www.bankregreports.com/events/mergers/2026/"
+    },
+    {
+      "title": "Deal pricing: 110% to 190% of tangible book",
+      "body": "First Mid (Mattoon, IL; $9.4B assets) is paying $70.7M (≈110% of TBV) for Evergreen's $932M-asset American Bank of Freedom. First Community is paying $243M in stock (≈190% TBV) for $1.6B-asset Main Street Financial. Texas Community is paying $9.5M cash for SJCB.",
+      "simple": "Tangible book value is roughly what a bank would be worth if you sold its assets and paid its debts, excluding intangibles like goodwill. Paying a high multiple of it means the buyer values the target's deposits and earnings power. The wide range shows how much buyers will pay for good deposit franchises.",
+      "source": "ABA Banking Journal",
+      "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-three-states-13/"
+    },
+    {
+      "title": "Tariff-rollback fight sets up 2027 policy risk",
+      "body": "Democrats taking Congress in January plan to reassert authority over trade; an NBC exit poll found 66% of voters think tariffs hurt the economy. The White House says it will lean harder on tariffs and may add overcapacity duties before the handover.",
+      "simple": "Tariffs are taxes on imports, and they have pushed up prices on many goods. A fight between Congress and the White House over who controls them makes it harder for businesses to plan. For banks, unclear trade policy can slow corporate borrowing and deal activity, and it affects inflation and therefore Fed rate decisions.",
+      "source": "Bloomberg via Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/trump-congress-tariffs-clash/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Wall Street ends mixed as tech rebounds from steep weekly losses",
+        "body": "Friday's session: S&P +0.31% to 7,376.86 and Nasdaq +1.1%, Dow −237. Chips bounced (SOX ≈+4.2%) after Thursday's 12% crash, but all three indices posted weekly losses.",
+        "simple": "Stocks partly recovered Friday after a brutal Thursday driven by fears that AI spending will slow. Chipmakers, which fell hardest, bounced most. The week still ended with losses, showing investors remain nervous.",
+        "source": "Proactive Investors (CNBC coverage not directly accessible)",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101342/markets-live-wall-street-ends-mixed-as-tech-stocks-rebound-from-steep-weekly-losses-1101342.html"
+      },
+      {
+        "title": "Oil posts biggest weekly drop since 2022",
+        "body": "Brent settled $98.32 and WTI $90.83, down ≈13–16% on the week, as traders bet the new Congress speeds an end to the Iran war. Friday's tanker attacks near Hormuz caused a late bounce.",
+        "simple": "Oil prices fell sharply because traders think the war that disrupted Middle East supply may end sooner. Cheaper oil lowers gas prices and helps overall inflation. Attacks on tankers show the risk hasn't gone away.",
+        "source": "Rigzone (Bloomberg)",
+        "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
+      },
+      {
+        "title": "Nasdaq's worst day in 18 months",
+        "body": "Thursday's rout took the Nasdaq down ≈5.5% and the SOX −12.2% as investors priced a Democratic Congress as a threat to AI/data-center buildout economics.",
+        "simple": "Tech stocks had their worst day in a year and a half because investors worry the new Congress could slow the AI building boom through regulation or energy policy. Chip stocks fell most because they depend most on that spending.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Jobs blowout: 165k vs ≈59k expected",
+        "body": "October payrolls rose 165k with unemployment 4.1% and hourly earnings +0.4% m/m, reviving hawkish Fed pricing.",
+        "simple": "Employers added nearly three times the jobs economists expected, and pay rose quickly. A strong job market can keep inflation high, which pushes the Fed toward raising rates.",
+        "source": "TheStreet (Dow Jones consensus)",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+      },
+      {
+        "title": "Big investors doubt Anthropic can IPO at $1.5T",
+        "body": "Large prospective buyers signaled the valuation must come down, with ≈$1.0–1.3T floated after the AI selloff, vs earlier WSJ-reported talk of $1.5–1.6T.",
+        "simple": "The investors who would buy shares in Anthropic's IPO say the price is too high after tech stocks fell. That could make the company sell shares more cheaply or delay the listing.",
+        "source": "Yahoo Finance (WSJ-sourced)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-now-doubt-anthropic-133505249.html"
+      },
+      {
+        "title": "$2.5T wiped from the Nasdaq in one day",
+        "body": "Thursday's AI selloff erased roughly $2.5T in Nasdaq market value, the largest one-day loss in dollar terms this cycle.",
+        "simple": "Thursday's drop wiped out trillions in stock-market wealth, much of it in a few giant tech companies. That hurts retirement accounts and can make consumers and companies more cautious.",
+        "source": "Yahoo Finance (WSJ via search)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-6-132900980.html"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group: record October, Treasury complex surges",
+        "body": "Chicago-based CME logged record October ADV of 30M contracts (+15%), led by Treasury F&O (+48% to 9.2M). Election, AI and Fed volatility are driving hedging volume into its rates complex.",
+        "simple": "CME runs the world's biggest futures exchange from Chicago. When markets are volatile, investors hedge more, which means more trading and more revenue for CME. October's record shows how much uncertainty there is around interest rates.",
+        "source": "CME Group (via PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-reports-record-october-adv-of-30-million-contracts-up-15-year-over-year-302927436.html"
+      },
+      {
+        "title": "Mattoon's First Mid expands into Missouri",
+        "body": "Illinois' First Mid Bancshares ($9.4B assets) is buying Evergreen Bancshares for $70.7M (≈110% of TBV); closing is expected Q1 2027.",
+        "simple": "A downstate Illinois bank is buying a smaller Missouri bank to grow its footprint. Deals like this are common for mid-size banks seeking more deposits and customers. The modest price suggests a disciplined buyer.",
+        "source": "ABA Banking Journal",
+        "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-three-states-13/"
+      },
+      {
+        "title": "Goolsbee in focus as Fed debates a December hike",
+        "body": "Chicago Fed President Goolsbee has warned more bad inflation months would be 'unacceptable' and is on this week's speaker list ahead of CPI.",
+        "simple": "The head of the Chicago Fed is one of the officials who sets US interest rates. His concern about inflation suggests he could support a hike if prices keep rising. His remarks this week will be watched for hints about December.",
+        "source": "Investinglive",
+        "url": "https://investinglive.com/central-banks/fed-policymaker-goolsbee-warns-strong-demand-may-be-fueling-us-inflation-as-rate-hike-outlook-hardens/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Trump and Congress set to clash over tariffs",
+        "body": "Incoming Democratic majorities plan to curb presidential tariff powers; analysts warn a rollback will be slow and could split both parties, and the administration may impose new overcapacity duties first.",
+        "simple": "After the midterms, Democrats will control Congress and want to limit the president's ability to impose import taxes. The White House plans to push even more tariffs before then. The fight creates uncertainty for prices, companies and the Fed.",
+        "source": "Bloomberg via Japan Times (NYT not accessible)",
+        "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/trump-congress-tariffs-clash/"
+      },
+      {
+        "title": "Navarro: 'quadrupling down' on tariffs",
+        "body": "Trade adviser Peter Navarro said the administration will intensify tariffs despite the election, even as 66% of voters in an NBC exit poll said tariffs hurt the economy.",
+        "simple": "A top White House adviser says import taxes will increase, not shrink, despite voters saying they hurt. That sets up a fight with Congress. More tariffs usually mean higher prices for consumers.",
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2026/nov/7/navarro-quadrupling-tariffs/"
+      },
+      {
+        "title": "Democrats' wins threaten the AI trade",
+        "body": "Coverage across outlets ties Thursday's tech rout to expectations that a Democratic Congress tightens scrutiny of data-center power use and AI spending.",
+        "simple": "Investors fear new lawmakers will make building AI data centers harder or costlier. That hit the stocks that had risen most on AI hopes.",
+        "source": "Ground News (aggregating NYT et al.)",
+        "url": "https://ground.news/article/086f23e8-37d6-4fba-8a79-70a01f8c500a"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Refunding meets a crowded long",
+      "point": "Asset managers hold a record ≈3M-contract net long in 10Y futures as the Treasury sells $125B of 3s/10s/30s around Tuesday's CPI. I'd ask how dealers are positioning for a tail in the 10Y, and whether the basis trade on the other side can absorb a squeeze, since that is where a hot 0.3% core turns into a disorderly move."
+    },
+    {
+      "topic": "Rare earths and the trade truce",
+      "point": "China's pause on its October 2025 rare-earth controls lapses Nov 10, one day after the US Affiliates Rule pause. That makes it a real event risk for critical-minerals pricing and for copper/PGM hedging demand on COMEX. A good question for a metals desk is whether clients are pre-hedging, or whether physical stockpiling is already doing the job."
+    },
+    {
+      "topic": "Tariff rollback vs. the curve",
+      "point": "A Democratic Congress clawing back tariff power would be disinflationary for goods over time, but a fight that runs into the Dec 11 funding deadline adds term premium. That is a case for the curve steepening even if the Fed hikes in December (2s10s ≈+34 bp, 30Y ≈5.26%)."
+    }
+  ],
+  "caveats": "Weekend edition with no new US market data since Friday Nov 6; tiles are Friday closes, and Russell 2000, SOX level and DXY lack a confirmed close. WSJ, NYT and Chicago Tribune were not accessible (paywalled, and this session could not fetch article pages), so those buckets use other outlets' coverage, named on each story; several items carry over from Saturday's edition. FedWatch odds differ by snapshot (≈73–77%). Friday's UMich sentiment result, China's October trade data and any extension of the rare-earth pause could not be confirmed. Anthropic valuation figures differ by outlet.",
+  "updates": []
+}
