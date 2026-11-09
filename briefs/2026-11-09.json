@@ -11,112 +11,103 @@
     "Fed speakers bracket the auction: Bowman 7:40 AM, Goolsbee 9:00 AM (Chicago, Leadership Greater Chicago) and Barkin 11:15 AM CT. Goolsbee called more bad inflation months 'unacceptable' in October, so anything that pre-commits to December before CPI moves the 2Y.",
     "Deals: the Anthropic roadshow is reportedly this week, but the S-1/A still has no price range. The FT has an $80–100B raise at $1.25–1.75T, and the WSJ reports talks as low as $1T. Europe's banks are +1.6%, with Banco BPM +10% on a Crédit Agricole merger proposal. No US bank deal was announced over the weekend; 162 bank mergers have closed YTD."
   ],
-  "markets_asof": "Midday ~12:15 PM CT (index % from AP mid-morning; levels derived from Fri close; Russell/VIX are Fri closes)",
+  "markets_asof": "Close 3:00 PM CT (indices final; yields/commodities late-session quotes; Russell/VIX are Fri closes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,460–7,515",
-      "change": "≈+1.1–1.9%",
+      "value": "7,549.94",
+      "change": "+2.35%",
       "dir": "up",
-      "note": "AP versions differ by timestamp; Fri close 7,376.86"
+      "note": "Best day since Apr 8"
     },
     {
       "label": "Dow",
-      "value": "≈52,100",
-      "change": "≈+1.6%",
-      "dir": "up",
-      "note": "AP mid-morning; Fri close 51,285.73"
+      "value": "52,389.75",
+      "change": "+1,104.02 (+2.15%)",
+      "dir": "up"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "≈25,200",
-      "change": "≈+2.5%",
+      "value": "25,253.14",
+      "change": "+2.74%",
       "dir": "up",
-      "note": "AMD +10.7%; NVDA fell as much as ≈8%"
+      "note": "Out of correction; NVDA ≈−4–6%"
     },
     {
       "label": "Russell 2000",
       "value": "2,754.11",
-      "change": "+0.89%",
-      "dir": "up",
-      "note": "Fri close; no live print found"
+      "change": "—",
+      "dir": "flat",
+      "note": "Fri close; no Monday close found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.55%",
-      "change": "≈+2.5bp",
+      "value": "≈4.56%",
+      "change": "≈+5bp",
       "dir": "up",
-      "note": "Morning print; 3Y $58B auction result pending"
+      "note": "3Y auction tailed 0.5bp at 4.627%"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.87–4.88%",
-      "change": "≈+1bp",
+      "value": "≈4.88%",
+      "change": "≈+2bp",
       "dir": "up",
-      "note": "Fri ≈4.87%"
+      "note": "$42B 10Y auction Tue noon CT"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.27%",
-      "change": "≈+1bp",
-      "dir": "up",
-      "note": "Single source"
+      "change": "≈+2bp",
+      "dir": "up"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈84.5%",
+      "change": "Dec hike ≈84%",
       "dir": "up",
-      "note": "FedWatch, up from ≈76.3% after Goolsbee"
+      "note": "FedWatch; ≈76% before Goolsbee"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.2",
-      "change": "≈−0.1%",
+      "value": "—",
+      "change": "softer",
       "dir": "down",
-      "note": "No fresh midday print; morning level"
+      "note": "No closing print found; morning ≈102.2"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,118–4,128",
-      "change": "≈+1.3%",
+      "value": "≈$4,139",
+      "change": "≈+$69 (+1.7%)",
       "dir": "up",
-      "note": "Support ≈$4,107 per one desk"
+      "note": "Kitco late afternoon"
     },
     {
-      "label": "Silver",
-      "value": "≈$52.8–53.3",
-      "change": "≈+1.6–2.9%",
+      "label": "Silver (Dec fut.)",
+      "value": "$53.47",
+      "change": "+2.93%",
       "dir": "up",
-      "note": "Gold/silver ratio ≈78"
+      "note": "3 PM ET"
     },
     {
-      "label": "Copper",
-      "value": "LME $13,768/t",
-      "change": "mixed",
-      "dir": "flat",
-      "note": "SP Angel: down on AI-position cuts; COMEX ≈$6.30/lb (+1.25%) earlier"
+      "label": "Copper (COMEX)",
+      "value": "≈$6.30/lb",
+      "change": "≈+1.25%",
+      "dir": "up",
+      "note": "LME ≈$13,768/t, softer"
     },
     {
       "label": "Brent",
-      "value": "≈$93–94",
-      "change": "≈−4% to −5.5%",
+      "value": "≈$92–93",
+      "change": "≈−5% to −6%",
       "dir": "down",
-      "note": "Started Nov above $112"
+      "note": "Was >$112 on Nov 1"
     },
     {
       "label": "WTI",
-      "value": "≈$86.6",
-      "change": "≈−4.6%",
+      "value": "≈$86.7",
+      "change": "≈−4.5%",
       "dir": "down",
-      "note": "8:05 AM CT print; no fresh midday quote"
-    },
-    {
-      "label": "VIX",
-      "value": "25.64",
-      "change": "—",
-      "dir": "flat",
-      "note": "Fri close; no live print found"
+      "note": "Intraday; settle not confirmed"
     }
   ],
   "calendar": [
@@ -410,6 +401,53 @@
   "caveats": "WSJ, NYT and Chicago Tribune could not be accessed directly, and no Nov 9 Reuters press digests were found, so those buckets use other outlets' coverage (named on each story) and some items are 3–5 days old. Article pages could not be fetched this run; figures come from search summaries of the linked pieces, and pre-market levels vary by snapshot time. China's rare-earth extension is reported by Reuters/SMM but disputed by one outlet. No Monday 30Y print, COMEX copper or Russell futures quote was found. Today's Fed-speaker times, the SCE release time and the bill sizes are not fully confirmed.",
   "updates": [
     {
+      "at": "2026-11-09T21:17:12Z",
+      "label": "Close",
+      "headline": "Stocks posted their best day since April (S&P +2.35%, Dow +1,104) on a Brent collapse to ≈$93, but the front end sold off: the 2Y rose ≈5bp to ≈4.56% after Goolsbee's hawkish turn and a soft 3Y auction, so the market enters CPI with ≈84% December-hike odds.",
+      "points": [
+        "Close: S&P 500 7,549.94 (+2.35%, best day since Apr 8), Dow 52,389.75 (+1,104.02, +2.15%), Nasdaq 25,253.14 (+2.74%, back out of correction). Nvidia was the outlier, down ≈4.4–6.2% depending on source, on the Huang probe; Marvell +9%, Broadcom +8%.",
+        "3Y auction ($58B) tailed: high yield 4.627% vs 4.622% when-issued (≈0.5bp tail), bid-to-cover 2.53x vs 2.64x average. Directs took a record ≈35%, dealers only ≈9.5%, indirects below average. A C− grade: OK but not the real-money bid that would squeeze the crowded 5Y short. Note the 4.627% stop is ≈30bp below October's 4.932%.",
+        "Curve: 2Y ≈4.56% (+5bp), 10Y ≈4.88% (+2bp), 30Y ≈5.27% (+2bp), so 2s10s flattened ≈3bp to ≈32bp. The bear-flattener is a Fed story (Goolsbee), not an oil story, since crude fell hard. FedWatch December hike ≈84%.",
+        "Commodities: Brent ≈$92–93 (−5–6%), WTI ≈$86.7 (−4.5%) as Trump called new Iran strikes 'highly unlikely'. Gold ≈$4,139 (+≈$69, +1.7%) and silver futures $53.47 (+2.9%) on a softer dollar; COMEX copper ≈$6.30/lb (+1.25%).",
+        "Tomorrow: October CPI 7:30 AM CT (consensus +0.3% headline / +0.2% core; prior +0.6%/+0.3%), then the $42B 10Y auction at noon CT. Bonds are closed Wednesday. Banking: no US bank deal; in Europe Banco BPM's board meets Nov 12 on Crédit Agricole's merger proposal (BPM +9.4%, UniCredit +4.5%). No coverage of Bowman's 7:40 AM remarks surfaced; the NY Fed expectations survey result was not found either."
+      ],
+      "simple": "Stocks had a big up day because oil prices dropped sharply, which eases fears about inflation (rising prices) for companies and households. But short-term government bond yields (the interest the government pays to borrow, which moves with expected Fed rates) went up, because a Chicago Fed official sounded ready to raise rates and buyers were only lukewarm at a $58 billion Treasury sale. That mix means markets now lean on Tuesday's inflation report: a hot number makes a December rate hike, and pricier loans, very likely.",
+      "sources": [
+        {
+          "name": "CNBC (live updates)",
+          "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
+        },
+        {
+          "name": "Reuters via Kitco",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+        },
+        {
+          "name": "InvestingLive (3Y auction)",
+          "url": "https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-year-notes-at-a-high-yield-of-4-627/"
+        },
+        {
+          "name": "Eurasia Business News (yields)",
+          "url": "https://eurasiabusinessnews.com/2026/11/09/stock-market-today-nov-9-2026-nvidia-slides-amid-alleged-chinese-spying-as-dow-surges-over-1000-points"
+        },
+        {
+          "name": "Anadolu (oil)",
+          "url": "https://www.aa.com.tr/en/energy/oil/oil-falls-as-trump-plays-down-prospect-of-new-strikes-on-iran/60799"
+        },
+        {
+          "name": "Yahoo Finance (silver)",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-november-9-2026-silver-prices-rising-this-morning-as-the-dollar-retreats-123452242.html"
+        },
+        {
+          "name": "LaPresse (Banco BPM)",
+          "url": "https://uk.lapresse.it/economy-en/2026/11/09/banco-bpm-initial-briefing-on-credit-agricoles-proposal-to-be-discussed-by-the-board-on-12-november/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-09T18:16:53Z",
       "label": "Midday",
       "headline": "Goolsbee, usually a centrist, said services inflation is rising again and the Fed must admit an inflation failure, pushing December hike odds to about 84% from about 76%. Stocks still extended gains, with AP putting the Dow at about +1.6% and the Nasdaq at about +2.5% as oil kept sliding.",
@@ -504,5 +542,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-09T18:16:53Z"
+  "updatedAt": "2026-11-09T21:17:12Z"
 }
