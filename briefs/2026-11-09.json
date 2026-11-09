@@ -11,119 +11,112 @@
     "Fed speakers bracket the auction: Bowman 7:40 AM, Goolsbee 9:00 AM (Chicago, Leadership Greater Chicago) and Barkin 11:15 AM CT. Goolsbee called more bad inflation months 'unacceptable' in October, so anything that pre-commits to December before CPI moves the 2Y.",
     "Deals: the Anthropic roadshow is reportedly this week, but the S-1/A still has no price range. The FT has an $80–100B raise at $1.25–1.75T, and the WSJ reports talks as low as $1T. Europe's banks are +1.6%, with Banco BPM +10% on a Crédit Agricole merger proposal. No US bank deal was announced over the weekend; 162 bank mergers have closed YTD."
   ],
-  "markets_asof": "Pre-market ~6:00 AM CT Mon (futures/overnight snapshots; Russell and VIX are Fri closes)",
+  "markets_asof": "Post-open ~8:40–9:05 AM CT (index % from live blogs; levels derived from Fri close; Russell/VIX are Fri closes)",
   "markets": [
     {
-      "label": "S&P 500 fut.",
-      "value": "—",
-      "change": "≈+0.5%",
+      "label": "S&P 500",
+      "value": "≈7,441",
+      "change": "≈+0.9%",
       "dir": "up",
-      "note": "Fri cash close 7,376.86; snapshots +0.35% to +0.7%"
+      "note": "Level derived from Fri close 7,376.86; one feed shows +1.3% at the open"
     },
     {
-      "label": "Dow fut.",
-      "value": "≈51,900",
-      "change": "≈+0.9–1.0%",
+      "label": "Dow",
+      "value": "≈51,830",
+      "change": "≈+1.0–1.1%",
       "dir": "up",
-      "note": "Fri cash close 51,285.73"
+      "note": "Fri close 51,285.73"
     },
     {
-      "label": "Nasdaq fut.",
-      "value": "—",
-      "change": "≈flat (+0.1%)",
-      "dir": "flat",
-      "note": "Dragged by NVDA ≈−5% pre-mkt; Fri Comp. 24,579.42"
+      "label": "Nasdaq Comp.",
+      "value": "≈24,810",
+      "change": "≈+0.8–1.0%",
+      "dir": "up",
+      "note": "NVDA ≈−5%; AMD up"
     },
     {
       "label": "Russell 2000",
       "value": "2,754.11",
       "change": "+0.89%",
       "dir": "up",
-      "note": "Fri close; week ≈−2.1%"
+      "note": "Fri close; no live print found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.53%",
-      "change": "≈+1 bp",
-      "dir": "up",
+      "value": "≈4.53–4.55%",
+      "change": "≈flat",
+      "dir": "flat",
       "note": "3Y $58B auction at noon CT"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.87%",
-      "change": "≈+1 bp",
+      "value": "≈4.85–4.87%",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "10Y TIPS 2.60% (Nov 5, H.15)"
+      "note": "Morning notes; no live print"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.26–5.28%",
+      "value": "≈5.24%",
       "change": "—",
       "dir": "flat",
-      "note": "Fri close range; no Mon print found"
+      "note": "Single source"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈78–81%",
+      "change": "Dec hike ≈80%",
       "dir": "up",
-      "note": "FedWatch; 76.8% Fri, 66.9% a week ago"
+      "note": "FedWatch per previews; no intraday change found"
     },
     {
       "label": "Dollar index",
       "value": "≈102.2",
       "change": "≈−0.1%",
-      "dir": "flat",
-      "note": "Fri close ≈102.31"
+      "dir": "down",
+      "note": "Fri ≈102.29"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,100",
-      "change": "≈+0.9%",
+      "value": "≈$4,125",
+      "change": "≈+1%",
       "dir": "up",
-      "note": "Range $4,091–4,122 across snapshots"
+      "note": "8:00 AM CT; 24h range $4,055–4,134"
     },
     {
       "label": "Silver",
-      "value": "≈$52.3–53.0",
-      "change": "≈+1–2%",
+      "value": "≈$53.3",
+      "change": "≈+2.9%",
       "dir": "up",
-      "note": "Fri ≈$51.8"
+      "note": "Fri ≈$51.82"
     },
     {
-      "label": "Copper (LME)",
-      "value": "$13,823/t",
-      "change": "+0.5%",
+      "label": "Copper (COMEX)",
+      "value": "≈$6.30/lb",
+      "change": "≈+1.25%",
       "dir": "up",
-      "note": "COMEX Fri ≈$6.22/lb"
+      "note": "LME $13,823/t earlier (+0.5%)"
     },
     {
       "label": "Brent",
-      "value": "$96.67",
-      "change": "−$1.65 (−1.7%)",
+      "value": "$93.44",
+      "change": "−$4.88 (−4.96%)",
       "dir": "down",
-      "note": "08:30 GMT; −17% last week"
+      "note": "8:05 AM CT; prior $98.32"
     },
     {
       "label": "WTI",
-      "value": "$89.87",
-      "change": "−$0.96 (−1.0%)",
+      "value": "$86.65",
+      "change": "−$4.18 (−4.6%)",
       "dir": "down",
-      "note": "08:30 GMT"
+      "note": "Near Oct low $86.32"
     },
     {
       "label": "VIX",
       "value": "25.64",
-      "change": "−9%",
-      "dir": "down",
-      "note": "Curve still inverted (VIX3M/VIX 0.96)"
-    },
-    {
-      "label": "Nikkei 225",
-      "value": "58,775.50",
-      "change": "+2.33%",
-      "dir": "up",
-      "note": "Taiwan ≈+6%; Stoxx 600 ≈651 (+0.5%)"
+      "change": "—",
+      "dir": "flat",
+      "note": "Fri close; no live print found"
     }
   ],
   "calendar": [
@@ -415,5 +408,50 @@
     }
   ],
   "caveats": "WSJ, NYT and Chicago Tribune could not be accessed directly, and no Nov 9 Reuters press digests were found, so those buckets use other outlets' coverage (named on each story) and some items are 3–5 days old. Article pages could not be fetched this run; figures come from search summaries of the linked pieces, and pre-market levels vary by snapshot time. China's rare-earth extension is reported by Reuters/SMM but disputed by one outlet. No Monday 30Y print, COMEX copper or Russell futures quote was found. Today's Fed-speaker times, the SCE release time and the bill sizes are not fully confirmed.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-09T15:21:28Z",
+      "label": "Post-open",
+      "headline": "Stocks opened about 1% higher as oil's slide deepened to roughly 5%, but the 2Y is still pinned near 4.53–4.55%, so cheaper crude has not yet moved December hike odds of about 80% ahead of the noon 3Y auction.",
+      "points": [
+        "Equities: at about 8:40 AM CT the Dow was ≈+1.0–1.1%, the S&P 500 ≈+0.9% and the Nasdaq ≈+0.8–1.0%. Nvidia is ≈−4.7% to −6% after the board opened its probe into Jensen Huang; one outlet calls the underlying spy reports unverified. Last week the Nasdaq fell 3.4% and the S&P 500 2.7%.",
+        "Oil moved further than the morning brief showed. Brent is ≈$93.44 (−4.96%) and WTI ≈$86.65 (−4.6%) at 8:05 AM CT, versus −1.7% and −1.0% at 2:30 AM CT. WTI is near its early-October low of $86.32. Both the US and Iran reported attacks on shipping near Hormuz, so the supply risk has not gone away.",
+        "Rates: 2Y ≈4.53–4.55%, 10Y ≈4.85–4.87%, 30Y ≈5.24% in morning notes. That is essentially unchanged, even though oil fell 5%. FedWatch December hike odds are still around 80% in previews. The $58B 3Y auction (prior 4.932%) is at noon CT.",
+        "Metals: gold is ≈$4,125 at 8:00 AM CT (24h range $4,055–4,134) and silver ≈$53.3. COMEX copper is ≈$6.30/lb (+1.25%) on reports of tighter supply in China. DXY ≈102.2, so the dollar is softer as oil cuts into the inflation story.",
+        "Correction to the calendar: Bowman's remarks were listed at 7:40 AM CT, but one calendar has them at 10:40 AM CT, and no coverage has appeared yet. Goolsbee (9:00 AM CT) has not been reported yet. NY Fed inflation expectations (consensus 3.8%) and Barkin (11:15 AM) are still ahead."
+      ],
+      "simple": "Oil prices fell sharply again because a new US attack on Iran looks less likely. That lowers fuel costs and makes inflation look less threatening, which is why stocks rose. Bond yields (the interest rate the government pays to borrow) barely moved, though. Traders still expect the Fed to raise rates in December, so the rest of the day hinges on what Fed officials say and on how much demand shows up at today's $58 billion Treasury sale.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (live blog)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-9-nvidia-stock-falls-on-probe-into-ceo-huang-focus-on-inflation-data-ai-earnings"
+        },
+        {
+          "name": "JournalArta (Reuters oil data)",
+          "url": "https://journalarta.com/en/2026/11/09/oil-price-today-brent-falls-4-96-to-93-44-on-iran-peace-hopes-as-gold-climbs/"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/united-states-dollar-index-remains-subdued-as-lower-oil-prices-ease-inflation-pressure-202611090414"
+        },
+        {
+          "name": "CNBC Select (gold)",
+          "url": "https://www.cnbc.com/select/the-price-of-gold-today-nov-9-2026/"
+        },
+        {
+          "name": "Trading Economics (copper)",
+          "url": "https://tradingeconomics.com/commodity/copper"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-09T15:21:28Z"
 }
