@@ -11,28 +11,28 @@
     "Fed speakers bracket the auction: Bowman 7:40 AM, Goolsbee 9:00 AM (Chicago, Leadership Greater Chicago) and Barkin 11:15 AM CT. Goolsbee called more bad inflation months 'unacceptable' in October, so anything that pre-commits to December before CPI moves the 2Y.",
     "Deals: the Anthropic roadshow is reportedly this week, but the S-1/A still has no price range. The FT has an $80–100B raise at $1.25–1.75T, and the WSJ reports talks as low as $1T. Europe's banks are +1.6%, with Banco BPM +10% on a Crédit Agricole merger proposal. No US bank deal was announced over the weekend; 162 bank mergers have closed YTD."
   ],
-  "markets_asof": "Post-open ~8:40–9:05 AM CT (index % from live blogs; levels derived from Fri close; Russell/VIX are Fri closes)",
+  "markets_asof": "Midday ~12:15 PM CT (index % from AP mid-morning; levels derived from Fri close; Russell/VIX are Fri closes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,441",
-      "change": "≈+0.9%",
+      "value": "≈7,460–7,515",
+      "change": "≈+1.1–1.9%",
       "dir": "up",
-      "note": "Level derived from Fri close 7,376.86; one feed shows +1.3% at the open"
+      "note": "AP versions differ by timestamp; Fri close 7,376.86"
     },
     {
       "label": "Dow",
-      "value": "≈51,830",
-      "change": "≈+1.0–1.1%",
+      "value": "≈52,100",
+      "change": "≈+1.6%",
       "dir": "up",
-      "note": "Fri close 51,285.73"
+      "note": "AP mid-morning; Fri close 51,285.73"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "≈24,810",
-      "change": "≈+0.8–1.0%",
+      "value": "≈25,200",
+      "change": "≈+2.5%",
       "dir": "up",
-      "note": "NVDA ≈−5%; AMD up"
+      "note": "AMD +10.7%; NVDA fell as much as ≈8%"
     },
     {
       "label": "Russell 2000",
@@ -43,73 +43,73 @@
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.53–4.55%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "3Y $58B auction at noon CT"
+      "value": "≈4.55%",
+      "change": "≈+2.5bp",
+      "dir": "up",
+      "note": "Morning print; 3Y $58B auction result pending"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.85–4.87%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Morning notes; no live print"
+      "value": "≈4.87–4.88%",
+      "change": "≈+1bp",
+      "dir": "up",
+      "note": "Fri ≈4.87%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.24%",
-      "change": "—",
-      "dir": "flat",
+      "value": "≈5.27%",
+      "change": "≈+1bp",
+      "dir": "up",
       "note": "Single source"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈80%",
+      "change": "Dec hike ≈84.5%",
       "dir": "up",
-      "note": "FedWatch per previews; no intraday change found"
+      "note": "FedWatch, up from ≈76.3% after Goolsbee"
     },
     {
       "label": "Dollar index",
       "value": "≈102.2",
       "change": "≈−0.1%",
       "dir": "down",
-      "note": "Fri ≈102.29"
+      "note": "No fresh midday print; morning level"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,125",
-      "change": "≈+1%",
+      "value": "≈$4,118–4,128",
+      "change": "≈+1.3%",
       "dir": "up",
-      "note": "8:00 AM CT; 24h range $4,055–4,134"
+      "note": "Support ≈$4,107 per one desk"
     },
     {
       "label": "Silver",
-      "value": "≈$53.3",
-      "change": "≈+2.9%",
+      "value": "≈$52.8–53.3",
+      "change": "≈+1.6–2.9%",
       "dir": "up",
-      "note": "Fri ≈$51.82"
+      "note": "Gold/silver ratio ≈78"
     },
     {
-      "label": "Copper (COMEX)",
-      "value": "≈$6.30/lb",
-      "change": "≈+1.25%",
-      "dir": "up",
-      "note": "LME $13,823/t earlier (+0.5%)"
+      "label": "Copper",
+      "value": "LME $13,768/t",
+      "change": "mixed",
+      "dir": "flat",
+      "note": "SP Angel: down on AI-position cuts; COMEX ≈$6.30/lb (+1.25%) earlier"
     },
     {
       "label": "Brent",
-      "value": "$93.44",
-      "change": "−$4.88 (−4.96%)",
+      "value": "≈$93–94",
+      "change": "≈−4% to −5.5%",
       "dir": "down",
-      "note": "8:05 AM CT; prior $98.32"
+      "note": "Started Nov above $112"
     },
     {
       "label": "WTI",
-      "value": "$86.65",
-      "change": "−$4.18 (−4.6%)",
+      "value": "≈$86.6",
+      "change": "≈−4.6%",
       "dir": "down",
-      "note": "Near Oct low $86.32"
+      "note": "8:05 AM CT print; no fresh midday quote"
     },
     {
       "label": "VIX",
@@ -410,6 +410,57 @@
   "caveats": "WSJ, NYT and Chicago Tribune could not be accessed directly, and no Nov 9 Reuters press digests were found, so those buckets use other outlets' coverage (named on each story) and some items are 3–5 days old. Article pages could not be fetched this run; figures come from search summaries of the linked pieces, and pre-market levels vary by snapshot time. China's rare-earth extension is reported by Reuters/SMM but disputed by one outlet. No Monday 30Y print, COMEX copper or Russell futures quote was found. Today's Fed-speaker times, the SCE release time and the bill sizes are not fully confirmed.",
   "updates": [
     {
+      "at": "2026-11-09T18:16:53Z",
+      "label": "Midday",
+      "headline": "Goolsbee, usually a centrist, said services inflation is rising again and the Fed must admit an inflation failure, pushing December hike odds to about 84% from about 76%. Stocks still extended gains, with AP putting the Dow at about +1.6% and the Nasdaq at about +2.5% as oil kept sliding.",
+      "points": [
+        "Fed: Goolsbee (Chicago) said services inflation has accelerated for several months, that this goes beyond tariffs, and that the AI data-center build-out looks like old-fashioned demand overheating. FedWatch December 25bp hike odds are ≈84.5%, up from ≈76.3%. Barkin (Richmond, a 2026 voter) said inflation, above 2% for nearly six years, is the main risk and that the policy direction is 'relatively straightforward'. No coverage of Bowman's remarks has appeared yet.",
+        "Rates: a morning print had the 2Y at ≈4.55% (+2.5bp), the 5Y at ≈4.67% (+1.8bp) and the 10Y at ≈4.87% (+1.3bp). One later quote has the 10Y at ≈4.88% and the 30Y at ≈5.27%, so the front end is leading after Goolsbee and the curve is flat-to-bear-flatter. The $58B 3Y auction closed at noon CT (prior 4.932%, bid-to-cover 2.62x); results were not yet published at the time of writing.",
+        "Equities: AP had the Dow at ≈+1.6% and the Nasdaq at ≈+2.5% in mid-morning trading, with S&P 500 readings of +1.1% to +1.9% depending on the timestamp. The S&P 500 is ≈3.8% below its October record. Nvidia fell as much as ≈8% on the Huang probe (its board says it has 'no reason to believe' any secrets were compromised), while AMD rose ≈10.7% and CoreWeave ≈5.2%.",
+        "Commodities: Brent is ≈$93–94, down ≈4–5.5%, after starting November above $112. Gold is ≈$4,118–4,128 (+≈1.3%) on a softer dollar, and the gold/silver ratio is ≈78. Copper is mixed: COMEX was +1.25% earlier, but SP Angel had LME at $13,768/t, down as AI-linked positions were cut.",
+        "Correction to the morning brief: the summary's December hike odds of ≈78–81% are stale (now ≈84%). Goolsbee read hawkish, not centrist, so Tuesday's CPI (consensus +0.3% headline/+0.2% core) now needs a soft core print to pull odds back."
+      ],
+      "simple": "A Fed official who usually sits in the middle said prices for services (things like rent, insurance and haircuts) are rising faster again and that the Fed has to own that failure. Traders now see roughly a 5-in-6 chance that the Fed raises its interest rate in December, which would make loans, mortgages and credit cards more expensive. Stocks rose anyway because falling oil prices and a rebound in chip stocks outweighed the rate worry. The short-term government bond yield (the interest rate on a 2-year Treasury), which tracks expected Fed moves most closely, rose slightly.",
+      "sources": [
+        {
+          "name": "InvestingLive (Goolsbee)",
+          "url": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/"
+        },
+        {
+          "name": "GuruFocus (FedWatch odds)",
+          "url": "https://www.gurufocus.com/news/9185458/chicago-feds-goolsbee-signals-possible-rate-hike-what-this-means-for-tlt-investors"
+        },
+        {
+          "name": "FXStreet (Goolsbee)",
+          "url": "https://www.fxstreet.com/news/feds-goolsbee-warns-services-inflation-goes-beyond-tariff-pressure-202611091537"
+        },
+        {
+          "name": "FXStreet (Barkin)",
+          "url": "https://fxstreet.com/news/feds-barkin-sees-inflation-as-main-risk-hints-cautious-rate-path-202611091721"
+        },
+        {
+          "name": "AP via Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/nov/9/us-stocks-rallying-recovering-last-weeks-losses-oil-prices-swing/"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/us-iran-peace-hope-boosts-stocks-but-nvidia-toils-ce785fd3df81ff27"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-9-2026/"
+        },
+        {
+          "name": "SP Angel via Share-Talk",
+          "url": "https://www.share-talk.com/sp-angel-todays-market-view-monday-9th-november-2026/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-09T15:21:28Z",
       "label": "Post-open",
       "headline": "Stocks opened about 1% higher as oil's slide deepened to roughly 5%, but the 2Y is still pinned near 4.53–4.55%, so cheaper crude has not yet moved December hike odds of about 80% ahead of the noon 3Y auction.",
@@ -453,5 +504,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-09T15:21:28Z"
+  "updatedAt": "2026-11-09T18:16:53Z"
 }
