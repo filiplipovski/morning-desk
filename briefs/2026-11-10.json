@@ -11,104 +11,105 @@
     "Metals give back Monday's gains on the hawkish Fed: gold ≈$4,080–4,110 (−≈1–1.5%), silver $52.51 (−1.6%), COMEX copper ≈$6.30/lb (−0.5%). Central-bank demand (321t in Q3, +42% y/y; China 24 straight months) is the floor.",
     "Equity futures are mixed after Monday's best day since April (S&P +2.35%, Russell 2000 +3.15%): Dow ≈+0.3–0.5%, S&P ≈flat to +0.2%, Nasdaq-100 ≈−0.1–0.3%. Capital markets: Anthropic set a $70–78 range on 825M shares (≈$58–64B raise), and US IG issuance is already a record $1.88T YTD."
   ],
-  "markets_asof": "≈9:20 AM CT (intraday; sources differ by snapshot)",
+  "markets_asof": "≈12:15 PM CT (midday; search snapshots, feeds differ)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,527",
-      "change": "≈−0.2% to −0.7%",
+      "value": "≈7,500",
+      "change": "≈−0.5% to −0.75%",
       "dir": "down",
-      "note": "Opened −0.7%, pared to ≈−0.2% (Yahoo)"
+      "note": "Slipped further into midday after paring at the open (TheStreet/CNBC)"
     },
     {
       "label": "Dow",
-      "value": "≈52,199",
-      "change": "≈−0.3% to −0.5%",
+      "value": "≈52,200",
+      "change": "≈−0.2% to −0.4%",
       "dir": "down",
-      "note": "Yahoo snapshot"
+      "note": "Mon close +2.2%"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "≈25,181",
-      "change": "≈flat to −1%",
+      "value": "≈25,100",
+      "change": "≈−0.6% to −1%",
       "dir": "down",
-      "note": "Opened ≈−0.9–1.05%, pared to near flat"
+      "note": "Nvidia ≈−3–5% weighs"
     },
     {
       "label": "Russell 2000",
       "value": "≈2,824",
       "change": "≈−0.6%",
       "dir": "down",
-      "note": "Yahoo snapshot"
+      "note": "Morning snapshot; no fresh quote"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.68–4.69%",
       "change": "≈+13–15bp",
       "dir": "up",
-      "note": "Post-CPI; up ≈6.5bp more vs pre-market"
+      "note": "No fresh quote since post-CPI"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.94–4.95%",
-      "change": "≈+8bp",
+      "value": "≈4.95–5.00%",
+      "change": "≈+8–12bp",
       "dir": "up",
-      "note": "$42B auction noon CT; one feed shows 4.99%"
+      "note": "CNBC: back above 5% at points; $42B auction result pending"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.30%",
       "change": "≈+3bp",
       "dir": "up",
-      "note": "Pre-market snapshot"
+      "note": "Stale (pre-market)"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec: 25bp ≈85% / 50bp ≈15%",
+      "change": "Dec hike ≈84–85%",
       "dir": "up",
-      "note": "FedWatch post-CPI; 50bp was ≈1% before"
+      "note": "25bp ≈85% / 50bp ≈15% post-CPI"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.5–101.7",
+      "value": "≈101.6",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Erased early drop after Waller"
+      "note": "No fresh midday quote"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,053–4,077",
-      "change": "≈−1.5% to −2.1%",
+      "value": "≈$4,055",
+      "change": "≈−$84 (−2.0%)",
       "dir": "down",
-      "note": "Feeds differ (USAGold / midday)"
+      "note": "Kitco"
     },
     {
       "label": "Silver",
-      "value": "≈$51.9–52.4",
-      "change": "≈−1.9% to −2.8%",
-      "dir": "down"
+      "value": "≈$51.70–51.92",
+      "change": "≈−3.0%",
+      "dir": "down",
+      "note": "Kitco; gold/silver ratio ≈78"
     },
     {
       "label": "Copper",
-      "value": "≈$13,840/t (LME)",
-      "change": "softer",
-      "dir": "down",
-      "note": "No fresh COMEX quote found"
+      "value": "≈$6.36/lb (COMEX Dec)",
+      "change": "—",
+      "dir": "flat",
+      "note": "Monday quote; no post-CPI print found"
     },
     {
       "label": "Brent",
       "value": "≈$90",
       "change": "—",
       "dir": "down",
-      "note": "Traded below $90 earlier; no fresh quote"
+      "note": "No fresh quote"
     },
     {
       "label": "WTI",
       "value": "≈$85.3",
       "change": "≈−1.8%",
       "dir": "down",
-      "note": "vs Mon settle $86.85"
+      "note": "Morning snapshot vs Mon settle $86.85"
     }
   ],
   "calendar": [
@@ -416,6 +417,41 @@
   "caveats": "WSJ, NYT and the Tribune were not accessed directly. WSJ items come from a Reuters press digest (French edition), NYT items from a digest and secondary coverage, and the Tribune bucket uses other outlets' Chicago business coverage. Direct page fetches (CNBC and others) were blocked, so all figures come from search summaries. Futures, gold and oil levels are ranges because feeds differ by timestamp. The NFIB actual (97.8) and Logan's speaking time are unconfirmed, and the SOFR-implied odds come from a single analyst's board quote.",
   "updates": [
     {
+      "at": "2026-11-10T18:17:07Z",
+      "label": "Midday",
+      "headline": "The post-CPI selloff deepened rather than faded: the S&P is ≈−0.5–0.75% with the 10Y testing 5% into the $42B auction, and gold (≈−2%) and silver (≈−3%) extended losses.",
+      "points": [
+        "Stocks: the open's partial recovery gave way. S&P ≈−0.5–0.75%, Nasdaq ≈−0.6–1%, Dow ≈−0.2–0.4%. Nvidia is ≈−3–5% after reports of a board inquiry involving CEO Jensen Huang, while other chipmakers rallied (CNBC).",
+        "Rates: the 10Y is ≈4.95–5.00% (CNBC had it back above 5% at points), up ≈8–12bp on the day. The 2Y is still ≈4.68–4.69%. Dec FedWatch is unchanged since the post-open update: ≈85% for 25bp, ≈15% for 50bp.",
+        "10Y auction ($42B, new Nov-2036 note) closed at noon CT; results were not yet published in sources searched. Benchmarks: the Oct 7 reopening cleared at 5.300% with a 2.77 bid-to-cover and 80.3% indirects; Monday's 3Y tailed 0.5bp at 4.627% with a 2.53 cover, the weakest since Aug 2025.",
+        "Metals: Kitco has gold ≈$4,055 (−$84, −2.0%) and silver ≈$51.70 (−3.0%), gold/silver ratio ≈78. No post-CPI copper print found (COMEX Dec was ≈$6.36/lb Monday).",
+        "Still ahead: Schmid 12:30 PM, Bowman 2:30 PM, CoreWeave after the close. No Logan remarks turned up yet. Cash Treasuries are closed Wednesday, so any auction-driven move spills into futures until Thursday."
+      ],
+      "simple": "Investors are taking the hot inflation report more seriously as the day goes on. Stocks have slipped again, and the 10-year Treasury yield (the rate the government pays to borrow for 10 years, which feeds into mortgage rates) is flirting with 5%. Gold and silver are falling because higher interest rates make metals that pay no interest less attractive. The government's $42 billion 10-year bond sale just closed. A weak result would mean buyers want an even higher rate to lend to Washington, which would lift borrowing costs for everyone.",
+      "sources": [
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-retreat-high-core-cpi-lifts-december-fed-hike-odds-kitco-am"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html"
+        },
+        {
+          "name": "Invezz",
+          "url": "https://invezz.com/news/2026/11/10/gold-price-today-falls-hot-us-cpi-fed-hike-bets/"
+        },
+        {
+          "name": "TheStreet Pro (3Y auction)",
+          "url": "https://pro.thestreet.com/stock-market-today/2026-11-10"
+        }
+      ]
+    },
+    {
       "at": "2026-11-10T15:20:40Z",
       "label": "Post-open",
       "headline": "CPI came in hot (+0.4% headline / +0.3% core vs 0.3/0.2), so Waller's 50bp test is now met: the 2Y is up ≈13–15bp to ≈4.69%, and stocks opened lower before paring losses.",
@@ -459,5 +495,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-10T15:20:40Z"
+  "updatedAt": "2026-11-10T18:17:07Z"
 }
