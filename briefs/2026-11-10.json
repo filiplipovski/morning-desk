@@ -11,104 +11,104 @@
     "Metals give back Monday's gains on the hawkish Fed: gold ≈$4,080–4,110 (−≈1–1.5%), silver $52.51 (−1.6%), COMEX copper ≈$6.30/lb (−0.5%). Central-bank demand (321t in Q3, +42% y/y; China 24 straight months) is the floor.",
     "Equity futures are mixed after Monday's best day since April (S&P +2.35%, Russell 2000 +3.15%): Dow ≈+0.3–0.5%, S&P ≈flat to +0.2%, Nasdaq-100 ≈−0.1–0.3%. Capital markets: Anthropic set a $70–78 range on 825M shares (≈$58–64B raise), and US IG issuance is already a record $1.88T YTD."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (index levels are Mon close; futures in notes)",
+  "markets_asof": "≈9:20 AM CT (intraday; sources differ by snapshot)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,549.94",
-      "change": "+2.35%",
-      "dir": "up",
-      "note": "Mon close; futures ≈flat to +0.2%"
+      "value": "≈7,527",
+      "change": "≈−0.2% to −0.7%",
+      "dir": "down",
+      "note": "Opened −0.7%, pared to ≈−0.2% (Yahoo)"
     },
     {
       "label": "Dow",
-      "value": "52,389.75",
-      "change": "+2.15%",
-      "dir": "up",
-      "note": "Mon close; futures ≈+0.3–0.5%"
+      "value": "≈52,199",
+      "change": "≈−0.3% to −0.5%",
+      "dir": "down",
+      "note": "Yahoo snapshot"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "25,253.14",
-      "change": "+2.74%",
-      "dir": "up",
-      "note": "Mon close; NQ futures ≈−0.1–0.3%"
+      "value": "≈25,181",
+      "change": "≈flat to −1%",
+      "dir": "down",
+      "note": "Opened ≈−0.9–1.05%, pared to near flat"
     },
     {
       "label": "Russell 2000",
-      "value": "2,840.81",
-      "change": "+3.15%",
-      "dir": "up",
-      "note": "Mon close"
+      "value": "≈2,824",
+      "change": "≈−0.6%",
+      "dir": "down",
+      "note": "Yahoo snapshot"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.61%",
-      "change": "≈+6.5bp",
+      "value": "≈4.68–4.69%",
+      "change": "≈+13–15bp",
       "dir": "up",
-      "note": "After Waller (Reuters via Globe and Mail)"
+      "note": "Post-CPI; up ≈6.5bp more vs pre-market"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.88%",
-      "change": "≈+2bp",
+      "value": "≈4.94–4.95%",
+      "change": "≈+8bp",
       "dir": "up",
-      "note": "$42B auction noon CT"
+      "note": "$42B auction noon CT; one feed shows 4.99%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.26%",
-      "change": "—",
-      "dir": "flat",
-      "note": "Mon afternoon; no Tue quote found"
+      "value": "≈5.30%",
+      "change": "≈+3bp",
+      "dir": "up",
+      "note": "Pre-market snapshot"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈82–84%",
+      "change": "Dec: 25bp ≈85% / 50bp ≈15%",
       "dir": "up",
-      "note": "FedWatch; Waller floats 50bp"
+      "note": "FedWatch post-CPI; 50bp was ≈1% before"
     },
     {
       "label": "Dollar index",
-      "value": "≈101.7",
-      "change": "−0.56%",
-      "dir": "down",
-      "note": "Mon close"
+      "value": "≈101.5–101.7",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Erased early drop after Waller"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,080–4,110",
-      "change": "≈−1% to −1.5%",
+      "value": "≈$4,053–4,077",
+      "change": "≈−1.5% to −2.1%",
       "dir": "down",
-      "note": "Feeds differ"
+      "note": "Feeds differ (USAGold / midday)"
     },
     {
       "label": "Silver",
-      "value": "$52.51",
-      "change": "−1.58%",
-      "dir": "down",
-      "note": "FXStreet"
-    },
-    {
-      "label": "Copper (COMEX)",
-      "value": "≈$6.30/lb",
-      "change": "−0.5%",
+      "value": "≈$51.9–52.4",
+      "change": "≈−1.9% to −2.8%",
       "dir": "down"
     },
     {
-      "label": "Brent",
-      "value": "≈$90–91.8",
-      "change": "≈−1.5%",
+      "label": "Copper",
+      "value": "≈$13,840/t (LME)",
+      "change": "softer",
       "dir": "down",
-      "note": "Briefly < $90, first since late Aug"
+      "note": "No fresh COMEX quote found"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$90",
+      "change": "—",
+      "dir": "down",
+      "note": "Traded below $90 earlier; no fresh quote"
     },
     {
       "label": "WTI",
-      "value": "≈$85.6–85.9",
-      "change": "≈−1.3%",
+      "value": "≈$85.3",
+      "change": "≈−1.8%",
       "dir": "down",
-      "note": "vs Mon settle ≈$86.85"
+      "note": "vs Mon settle $86.85"
     }
   ],
   "calendar": [
@@ -414,5 +414,50 @@
     }
   ],
   "caveats": "WSJ, NYT and the Tribune were not accessed directly. WSJ items come from a Reuters press digest (French edition), NYT items from a digest and secondary coverage, and the Tribune bucket uses other outlets' Chicago business coverage. Direct page fetches (CNBC and others) were blocked, so all figures come from search summaries. Futures, gold and oil levels are ranges because feeds differ by timestamp. The NFIB actual (97.8) and Logan's speaking time are unconfirmed, and the SOFR-implied odds come from a single analyst's board quote.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-10T15:20:40Z",
+      "label": "Post-open",
+      "headline": "CPI came in hot (+0.4% headline / +0.3% core vs 0.3/0.2), so Waller's 50bp test is now met: the 2Y is up ≈13–15bp to ≈4.69%, and stocks opened lower before paring losses.",
+      "points": [
+        "Oct CPI: headline +0.4% m/m (cons. 0.3%, Sep 0.6%), core +0.3% (cons. 0.2%), the third straight 0.3% core. Shelter was +0.3% (Sep 0.4%) and drove >30% of the gain; food +0.5% (food at home +0.4%); medical services +0.3%; drugs +0.4%.",
+        "Fed: FedWatch December odds are now ≈85% for 25bp and ≈15% for 50bp (50bp was ≈1% before the print). Cumulative odds of 50bp by January are ≈49%. The morning brief's line that 'core ≥0.3% puts a half-point on the table' is now live.",
+        "Rates: 2Y ≈4.68–4.69% (≈+13–15bp on the day), 10Y ≈4.94–4.95% (≈+8bp), 30Y ≈5.30%. 2s10s is ≈26bp, still bear-flattening. The $42B 10Y auction at noon CT now comes ≈7bp cheaper than this morning's ≈4.88%, so the morning's 4.85–4.90% 'buy zone' framing is stale.",
+        "Stocks: S&P opened ≈−0.7% and Nasdaq ≈−1%, then pared to ≈−0.2% and ≈flat. Gold fell ≈1.5–2% to ≈$4,053–4,077 and silver ≈2–3% to ≈$52. WTI is ≈$85.3 (−1.8%) and DXY ≈101.6.",
+        "Still ahead: Logan (time varies), 10Y auction at 12:00 PM, Schmid at 12:30 PM, Bowman at 2:30 PM, CoreWeave after the close. Cash Treasuries are closed Wednesday."
+      ],
+      "simple": "The CPI (the government's monthly measure of how fast consumer prices are rising) came in a bit hotter than forecasters expected, mainly from rent and food. That makes it more likely the Fed raises its benchmark rate next month, and possibly by a half point instead of the usual quarter point. Short-term Treasury yields (the interest the government pays to borrow) jumped as a result. For ordinary people that means car loans, credit cards and adjustable-rate mortgages are likely to get more expensive. For banks it means their cost of deposits rises.",
+      "sources": [
+        {
+          "name": "BLS (CPI release)",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+        },
+        {
+          "name": "PANews (FedWatch)",
+          "url": "https://panews.io/articles/01a1c5c2-28c6-7302-95cc-4235cb4a361e"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-10-2026/"
+        },
+        {
+          "name": "Bespoke",
+          "url": "https://bespokeinvest.substack.com/p/hot-inflation-morning-market-note"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-10T15:20:40Z"
 }
