@@ -11,35 +11,35 @@
     "Capital markets: Anthropic set its IPO range at $70–78 (825M shares, $57.75–64.35B raise, up to ≈$1.4T fully diluted). Goldman and Morgan Stanley lead a 22-bank syndicate. Pricing is slated for Nov 18, and the FT reports underwriters weighing a price above the range. This is the single biggest Q4 fee event for the bulge brackets.",
     "Next 48 hours: jobless claims and the $25B 30Y auction (prior stop 5.618%) on Thursday, plus Hammack and Cisco after the close. PPI (cons. +0.4%, prior +1.3%) is Friday. After a 0.5bp 3Y tail and a 1.0bp 10Y tail (bid-to-cover 2.46), a third soft long-end sale would confirm buyers want concession for duration."
   ],
-  "markets_asof": "Midday ≈12:15 PM CT",
+  "markets_asof": "Close ≈3:10 PM CT (stocks); metals/oil late-afternoon quotes",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈+0.9% (open)",
+      "value": "≈7,619",
+      "change": "+1.3%",
       "dir": "up",
-      "note": "No reliable midday print; open ≈7,589; Tue close 7,520.93"
+      "note": "Close; Tue 7,520.93"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "—",
-      "change": "≈+2%",
+      "value": "≈25,466",
+      "change": "+1.6%",
       "dir": "up",
-      "note": "TokenPost midday; chip index ≈+7%, CRWV ≈+20–26%"
+      "note": "Close; post-midterm losses erased; CRWV ≈+23–25%"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈+0.1%",
-      "dir": "flat",
-      "note": "TokenPost midday; Tue close 52,231.89"
+      "value": "≈52,486",
+      "change": "+0.5%",
+      "dir": "up",
+      "note": "Close; Tue 52,231.89"
     },
     {
       "label": "Russell 2000",
       "value": "2,821.38",
       "change": "—",
       "dir": "flat",
-      "note": "Tue close; no reliable open read found"
+      "note": "Tue close; Wed close not found"
     },
     {
       "label": "UST 2Y",
@@ -60,56 +60,56 @@
       "value": "≈5.35%",
       "change": "—",
       "dir": "up",
-      "note": "Tue close; cash market closed for Veterans Day"
+      "note": "Tue close; $25B 30Y auction Thu 12 PM CT"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈87–89% (25bp)",
       "dir": "up",
-      "note": "Last FedWatch ≈87–89% 25bp / ≈13% 50bp; no update with bonds shut; FOMC Dec 8–9"
+      "note": "Last FedWatch read; ≈13% 50bp; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.2+",
-      "change": "Yearly high (FXStreet)",
+      "value": "≈102.86",
+      "change": "+0.64%",
       "dir": "up",
-      "note": "Tue close 102.24 (+0.55%); fresh YTD high Wed, level unconfirmed"
+      "note": "Reuters; USD/JPY ≈159.8"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,034",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "USAGold midday; feeds range ≈$3,996–4,050"
+      "value": "≈$3,984–3,992",
+      "change": "≈−1.0% to −1.2%",
+      "dir": "down",
+      "note": "CNBC/Kitco afternoon; intraday high ≈$4,067"
     },
     {
       "label": "Silver",
-      "value": "≈$52.8–52.9",
-      "change": "≈+2.2%",
-      "dir": "up",
-      "note": "% per USAGold; level from morning FXStreet/Fortune read"
+      "value": "≈$51.8",
+      "change": "—",
+      "dir": "flat",
+      "note": "Trading Economics; feeds conflict (morning ≈$52.8–52.9)"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.28/lb",
-      "change": "≈+0.97%",
-      "dir": "up",
-      "note": "Morning Trading Economics read; no fresh midday quote"
+      "value": "≈$6.26/lb",
+      "change": "—",
+      "dir": "flat",
+      "note": "Trading Economics"
     },
     {
       "label": "Brent",
-      "value": "≈$92.3–93.5",
-      "change": "≈+0.9% to +2.2%",
+      "value": "≈$93.0–93.5",
+      "change": "≈+1.7–2.2%",
       "dir": "up",
-      "note": "Morning quotes; Seeking Alpha says oil still rebounding midday. Tue settle $91.49"
+      "note": "Late quotes, no settle found; Tue $91.49"
     },
     {
       "label": "WTI",
-      "value": "≈$86.7–87.3",
-      "change": "≈+0.8% to +1.4%",
+      "value": "≈$86.8–87.3",
+      "change": "≈+0.9–1.4%",
       "dir": "up",
-      "note": "Morning quotes; Tue settle $86.04"
+      "note": "Late quotes, no settle found; Tue $86.04"
     }
   ],
   "calendar": [
@@ -403,6 +403,48 @@
   "caveats": "WSJ, NYT and Tribune were not accessible; their items come from secondary coverage citing them (outlets named), and no Nov 11 press digests were indexed. CNBC/investingLive pages couldn't be fetched directly, so CNBC items rely on search excerpts. Index closes and Brent/WTI settles are firm; yields are Tue session closes from Treasury/CNBC/Trading Economics. Futures, gold and silver are ranges from snapshots taken at different times. FedWatch odds vary by snapshot (25bp 84–89%). The 30Y TIPS ≈3.21% figure is single-source. KBW bank index, platinum/palladium and gilt/Bund levels weren't found. Nvidia's earnings date conflicts across sources (Nov 17 vs Nov 25).",
   "updates": [
     {
+      "at": "2026-11-11T21:16:51Z",
+      "label": "Close",
+      "headline": "The AI rebound held into the close: S&P +1.3% to ≈7,619, Nasdaq +1.6% and Dow +0.5%, with CoreWeave ≈+23–25%. Gold turned lower, losing ≈1.2% to below $4,000 as the dollar index climbed ≈0.6% to ≈102.9, while Treasuries stayed shut.",
+      "points": [
+        "Closes: S&P 500 ≈7,619 (+1.3%), Nasdaq ≈25,466 (+1.6%, about +400 points), Dow ≈52,486 (+0.5%). Per Kiplinger/Investing.com, Nasdaq has now erased its post-midterm losses. The Nasdaq's gain faded from ≈+2% at midday. CoreWeave closed ≈+23% (Reuters) to ≈+25% (Kiplinger), its biggest one-day gain since June 2025. Nvidia ≈+3%; Intel, AMD and Micron each >+5% (TipRanks). No Russell 2000 close found.",
+        "Correction to midday: gold did not stay steady. CNBC has spot down ≈1.2% at ≈$3,984 after an intraday high of ≈$4,067. Kitco had $3,992 (−$39.80) at 1:28 PM ET, putting it ≈$115 above the Oct 30 YTD low of ≈$3,870. Two days of hot-CPI and stronger-dollar pressure have now pushed it below $4,000.",
+        "Dollar: Reuters has DXY ≈102.86 (+0.64%) and USD/JPY ≈159.8 (+0.67%), near the 160 level where Japan intervened before. Oil was firmer (Brent ≈$93.0–93.5, WTI ≈$86.8–87.3 in late quotes; no settle found) after Tuesday's $91.49/$86.04.",
+        "Rates were unchanged in cash because Treasuries were closed. The 2Y ≈4.73% and 10Y ≈4.98–4.99% are still Tuesday's marks. No Fed speakers and no bank M&A today. Thursday is the real test: claims at 7:30 AM CT (≈194–195K est.), Hammack, the $25B 30Y auction at 12 PM CT (prior stop 5.618%) and Cisco after the close. Friday brings PPI (+0.4% est.)."
+      ],
+      "simple": "Stocks finished the day solidly higher because a strong report from CoreWeave, which rents out AI computing power, eased fears that AI spending is cracking. Gold went the other way. A stronger dollar makes gold more expensive for overseas buyers, and the expectation of higher Fed rates makes a metal that pays no interest less attractive. The bond market was closed, so interest rates haven't reacted yet. Tomorrow's 30-year Treasury sale, where the government borrows from investors for 30 years, will show whether buyers demand higher rates after Tuesday's hot inflation report.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (live)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        },
+        {
+          "name": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://www.tipranks.com/news/market-wrap-stocks-close-higher-as-ai-trade-is-reignited"
+        },
+        {
+          "name": "Reuters via Mecklenburg Times",
+          "url": "https://mecktimes.com/news/2026/11/11/stocks-gain-as-coreweave-eases-worries-dollar-strengthens/"
+        },
+        {
+          "name": "CNBC (gold)",
+          "url": "https://www.cnbc.com/2026/11/11/gold-edges-higher-after-sharp-selloff-fed-hike-bets-weigh.html"
+        },
+        {
+          "name": "Kitco (gold)",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "5paisa (oil)",
+          "url": "https://www.5paisa.com/blog/crude-oil-price-today-11-november-2026"
+        }
+      ]
+    },
+    {
       "at": "2026-11-11T18:16:55Z",
       "label": "Midday",
       "headline": "The AI rebound got bigger into midday: CoreWeave is up ≈20–26%, the chip index ≈+7% and the Nasdaq ≈+2%, while the Dow is barely positive. Anthropic's IPO is reportedly several times oversubscribed, and Treasuries remain shut.",
@@ -493,5 +535,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-11T18:16:55Z"
+  "updatedAt": "2026-11-11T21:16:51Z"
 }
