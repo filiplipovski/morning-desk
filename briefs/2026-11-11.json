@@ -11,105 +11,105 @@
     "Capital markets: Anthropic set its IPO range at $70–78 (825M shares, $57.75–64.35B raise, up to ≈$1.4T fully diluted). Goldman and Morgan Stanley lead a 22-bank syndicate. Pricing is slated for Nov 18, and the FT reports underwriters weighing a price above the range. This is the single biggest Q4 fee event for the bulge brackets.",
     "Next 48 hours: jobless claims and the $25B 30Y auction (prior stop 5.618%) on Thursday, plus Hammack and Cisco after the close. PPI (cons. +0.4%, prior +1.3%) is Friday. After a 0.5bp 3Y tail and a 1.0bp 10Y tail (bid-to-cover 2.46), a third soft long-end sale would confirm buyers want concession for duration."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT Wed (futures and Asia metals); cash index, yield and oil levels are Tue close",
+  "markets_asof": "Post-open ≈9:20 AM CT",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,520.93",
-      "change": "Fut ≈+0.7% to +0.9%",
+      "value": "≈7,589",
+      "change": "≈+0.9% to +1.05%",
       "dir": "up",
-      "note": "Tue close −0.38%; futures per CNBC/TipRanks snapshots"
+      "note": "At the open; Tue close 7,520.93"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "25,065.88",
-      "change": "NQ fut ≈+1.6% to +1.9%",
+      "value": "—",
+      "change": "≈+1.56% to +1.64%",
       "dir": "up",
-      "note": "Tue close −0.74%; CoreWeave +≈13%, Nvidia bouncing pre-market"
+      "note": "At the open; CoreWeave ≈+14.5%, Nvidia ≈+2.6%"
     },
     {
       "label": "Dow",
-      "value": "52,231.89",
-      "change": "Fut ≈+0.1% to +0.2%",
-      "dir": "up",
-      "note": "Tue close −157.86 (−0.30%)"
+      "value": "—",
+      "change": "≈−0.1% to +0.2%",
+      "dir": "flat",
+      "note": "At the open; snapshots disagree; Tue close 52,231.89"
     },
     {
       "label": "Russell 2000",
       "value": "2,821.38",
-      "change": "−0.68%",
-      "dir": "down",
-      "note": "Tue close; VIX 19.46 after trading above 21 early Tue"
+      "change": "—",
+      "dir": "flat",
+      "note": "Tue close; no reliable open read found"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.73%",
       "change": "≈+17bp",
       "dir": "up",
-      "note": "Tue close; cash market closed today"
+      "note": "Tue close; cash market closed for Veterans Day"
     },
     {
       "label": "UST 10Y",
       "value": "≈4.98–4.99%",
       "change": "≈+9–10bp",
       "dir": "up",
-      "note": "Intraday high ≈5.015%; 10Y auction 5.020%, 1bp tail"
+      "note": "Tue close; cash market closed for Veterans Day"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.35%",
       "change": "—",
       "dir": "up",
-      "note": "Treasury par curve Tue; $25B 30Y auction Thu"
+      "note": "Tue close; cash market closed for Veterans Day"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈85–89% (25bp)",
       "dir": "up",
-      "note": "50bp ≈11–15% (FedWatch snapshots vary); FOMC Dec 8–9"
+      "note": "No fresh FedWatch read today; last ≈85–89% 25bp / ≈11–15% 50bp; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
       "value": "≈102.4",
       "change": "≈+0.7%",
       "dir": "up",
-      "note": "FXStreet, post-CPI; USD/JPY ≈158.8"
+      "note": "Last read post-CPI (FXStreet); no fresh quote found"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,043–4,055",
-      "change": "≈+0.3% to +0.5%",
-      "dir": "up",
-      "note": "Wed Asia; Tue −2.5% to −2.8%, low ≈$4,021"
+      "value": "≈$4,031–4,038",
+      "change": "≈−0.3% vs Tue 9 AM ET",
+      "dir": "down",
+      "note": "CNBC/Fortune/Kitco ≈9 AM ET; overnight bounce faded"
     },
     {
       "label": "Silver",
-      "value": "≈$52.0–52.4",
-      "change": "≈+1.7% to +2%",
+      "value": "≈$52.8–52.9",
+      "change": "≈+0.7% to +2.7%",
       "dir": "up",
-      "note": "Wed Asia; Tue ≈−3.6% to −4%"
+      "note": "Fortune/FXStreet; vs Tue $51.52–52.40"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.23–6.28/lb",
-      "change": "—",
-      "dir": "flat",
-      "note": "LME 3M ≈$13,830/t (Tue)"
+      "value": "≈$6.28/lb",
+      "change": "≈+0.97%",
+      "dir": "up",
+      "note": "Trading Economics"
     },
     {
       "label": "Brent",
-      "value": "$91.49",
-      "change": "−1.17%",
-      "dir": "down",
-      "note": "Tue settle; dipped below $90 intraday, first time since Aug"
+      "value": "≈$92.3–93.5",
+      "change": "≈+0.9% to +2.2%",
+      "dir": "up",
+      "note": "Intraday quotes vs $91.49 Tue settle"
     },
     {
       "label": "WTI",
-      "value": "$86.04",
-      "change": "−0.93%",
-      "dir": "down",
-      "note": "Tue settle"
+      "value": "≈$86.7–87.3",
+      "change": "≈+0.8% to +1.4%",
+      "dir": "up",
+      "note": "Intraday quotes vs $86.04 Tue settle"
     }
   ],
   "calendar": [
@@ -401,5 +401,50 @@
     }
   ],
   "caveats": "WSJ, NYT and Tribune were not accessible; their items come from secondary coverage citing them (outlets named), and no Nov 11 press digests were indexed. CNBC/investingLive pages couldn't be fetched directly, so CNBC items rely on search excerpts. Index closes and Brent/WTI settles are firm; yields are Tue session closes from Treasury/CNBC/Trading Economics. Futures, gold and silver are ranges from snapshots taken at different times. FedWatch odds vary by snapshot (25bp 84–89%). The 30Y TIPS ≈3.21% figure is single-source. KBW bank index, platinum/palladium and gilt/Bund levels weren't found. Nvidia's earnings date conflicts across sources (Nov 17 vs Nov 25).",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-11T15:24:00Z",
+      "label": "Post-open",
+      "headline": "The AI rebound held through the cash open: Nasdaq is up ≈1.6% and S&P ≈1%, led by CoreWeave (+≈14.5%), while gold gave back its overnight bounce with Treasuries still shut.",
+      "points": [
+        "At the open the S&P 500 was up ≈0.9–1.05% (≈7,589), the Nasdaq ≈+1.56–1.64% and the Dow ≈flat (−0.1% to +0.2%). Snapshots differ by a few minutes. The Dow lags because the bounce is concentrated in tech.",
+        "CoreWeave was ≈+14.5% at the open after a $3.66B quarter that beat ≈$3.55B estimates, and it said it won't tap unsecured debt after its borrowing costs spiked. Nvidia was ≈+2.6% (≈+5% pre-market), so some of the pre-market gain faded.",
+        "Gold faded to ≈$4,031–4,038 by 9 AM ET, below Tuesday's same-time ≈$4,050, so the morning's +0.3–0.5% bounce is gone. Silver is holding ≈$52.8–52.9 and COMEX copper ≈$6.28/lb (+≈1%).",
+        "Oil is retracing Tuesday's drop: Brent ≈$92.3–93.5 and WTI ≈$86.7–87.3, versus settles of $91.49/$86.04.",
+        "Cash Treasuries are closed, so the 2Y (≈4.73%) and 10Y (≈4.98–4.99%) are frozen and no new FedWatch read is available. No bank M&A found this morning. The morning thesis stands: the rates test is Thursday's claims and the $25B 30Y."
+      ],
+      "simple": "Stocks opened higher because CoreWeave, a company that rents out AI computing power, beat its sales forecast. That eased fears that the AI spending boom is cracking. The bond market is closed for Veterans Day, so interest rates can't react today. Gold, which tends to fall when real interest rates (rates after inflation) rise, couldn't hold its early bounce after Tuesday's hot inflation report. For a bank or a borrower, nothing has changed on rates until bonds reopen Thursday.",
+      "sources": [
+        {
+          "name": "The Standard (Reuters)",
+          "url": "https://www.thestandard.com.hk/finance/article/348223/Wall-St-opens-higher-as-CoreWeave-lifts-AI-trade"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears-5018610"
+        },
+        {
+          "name": "CNBC Select (gold)",
+          "url": "https://www.cnbc.com/select/the-price-of-gold-today-nov-11-2026/"
+        },
+        {
+          "name": "FXStreet (silver)",
+          "url": "https://fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202611110930"
+        },
+        {
+          "name": "Trading Economics (copper)",
+          "url": "https://tradingeconomics.com/commodity/copper"
+        },
+        {
+          "name": "OilPriceAPI",
+          "url": "https://www.oilpriceapi.com/oil-prices-today"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-11T15:24:00Z"
 }
