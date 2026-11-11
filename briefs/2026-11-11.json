@@ -11,28 +11,28 @@
     "Capital markets: Anthropic set its IPO range at $70–78 (825M shares, $57.75–64.35B raise, up to ≈$1.4T fully diluted). Goldman and Morgan Stanley lead a 22-bank syndicate. Pricing is slated for Nov 18, and the FT reports underwriters weighing a price above the range. This is the single biggest Q4 fee event for the bulge brackets.",
     "Next 48 hours: jobless claims and the $25B 30Y auction (prior stop 5.618%) on Thursday, plus Hammack and Cisco after the close. PPI (cons. +0.4%, prior +1.3%) is Friday. After a 0.5bp 3Y tail and a 1.0bp 10Y tail (bid-to-cover 2.46), a third soft long-end sale would confirm buyers want concession for duration."
   ],
-  "markets_asof": "Post-open ≈9:20 AM CT",
+  "markets_asof": "Midday ≈12:15 PM CT",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,589",
-      "change": "≈+0.9% to +1.05%",
+      "value": "—",
+      "change": "≈+0.9% (open)",
       "dir": "up",
-      "note": "At the open; Tue close 7,520.93"
+      "note": "No reliable midday print; open ≈7,589; Tue close 7,520.93"
     },
     {
       "label": "Nasdaq Comp.",
       "value": "—",
-      "change": "≈+1.56% to +1.64%",
+      "change": "≈+2%",
       "dir": "up",
-      "note": "At the open; CoreWeave ≈+14.5%, Nvidia ≈+2.6%"
+      "note": "TokenPost midday; chip index ≈+7%, CRWV ≈+20–26%"
     },
     {
       "label": "Dow",
       "value": "—",
-      "change": "≈−0.1% to +0.2%",
+      "change": "≈+0.1%",
       "dir": "flat",
-      "note": "At the open; snapshots disagree; Tue close 52,231.89"
+      "note": "TokenPost midday; Tue close 52,231.89"
     },
     {
       "label": "Russell 2000",
@@ -65,51 +65,51 @@
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈85–89% (25bp)",
+      "change": "Dec hike ≈87–89% (25bp)",
       "dir": "up",
-      "note": "No fresh FedWatch read today; last ≈85–89% 25bp / ≈11–15% 50bp; FOMC Dec 8–9"
+      "note": "Last FedWatch ≈87–89% 25bp / ≈13% 50bp; no update with bonds shut; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.4",
-      "change": "≈+0.7%",
+      "value": "≈102.2+",
+      "change": "Yearly high (FXStreet)",
       "dir": "up",
-      "note": "Last read post-CPI (FXStreet); no fresh quote found"
+      "note": "Tue close 102.24 (+0.55%); fresh YTD high Wed, level unconfirmed"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$4,031–4,038",
-      "change": "≈−0.3% vs Tue 9 AM ET",
-      "dir": "down",
-      "note": "CNBC/Fortune/Kitco ≈9 AM ET; overnight bounce faded"
+      "value": "≈$4,034",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "USAGold midday; feeds range ≈$3,996–4,050"
     },
     {
       "label": "Silver",
       "value": "≈$52.8–52.9",
-      "change": "≈+0.7% to +2.7%",
+      "change": "≈+2.2%",
       "dir": "up",
-      "note": "Fortune/FXStreet; vs Tue $51.52–52.40"
+      "note": "% per USAGold; level from morning FXStreet/Fortune read"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.28/lb",
       "change": "≈+0.97%",
       "dir": "up",
-      "note": "Trading Economics"
+      "note": "Morning Trading Economics read; no fresh midday quote"
     },
     {
       "label": "Brent",
       "value": "≈$92.3–93.5",
       "change": "≈+0.9% to +2.2%",
       "dir": "up",
-      "note": "Intraday quotes vs $91.49 Tue settle"
+      "note": "Morning quotes; Seeking Alpha says oil still rebounding midday. Tue settle $91.49"
     },
     {
       "label": "WTI",
       "value": "≈$86.7–87.3",
       "change": "≈+0.8% to +1.4%",
       "dir": "up",
-      "note": "Intraday quotes vs $86.04 Tue settle"
+      "note": "Morning quotes; Tue settle $86.04"
     }
   ],
   "calendar": [
@@ -403,6 +403,53 @@
   "caveats": "WSJ, NYT and Tribune were not accessible; their items come from secondary coverage citing them (outlets named), and no Nov 11 press digests were indexed. CNBC/investingLive pages couldn't be fetched directly, so CNBC items rely on search excerpts. Index closes and Brent/WTI settles are firm; yields are Tue session closes from Treasury/CNBC/Trading Economics. Futures, gold and silver are ranges from snapshots taken at different times. FedWatch odds vary by snapshot (25bp 84–89%). The 30Y TIPS ≈3.21% figure is single-source. KBW bank index, platinum/palladium and gilt/Bund levels weren't found. Nvidia's earnings date conflicts across sources (Nov 17 vs Nov 25).",
   "updates": [
     {
+      "at": "2026-11-11T18:16:55Z",
+      "label": "Midday",
+      "headline": "The AI rebound got bigger into midday: CoreWeave is up ≈20–26%, the chip index ≈+7% and the Nasdaq ≈+2%, while the Dow is barely positive. Anthropic's IPO is reportedly several times oversubscribed, and Treasuries remain shut.",
+      "points": [
+        "Nasdaq is ≈+2% and the Dow only ≈+0.1% (TokenPost), extending the ≈+1.5% Nasdaq / −0.1% Dow at 9:35 ET. No reliable midday S&P level found; it was ≈+0.9% at the open. The gap between the two shows how narrow the rally is.",
+        "CoreWeave went from ≈+11% ($54.26) at 9:35 ET to ≈+20.8% ($58.85) mid-morning (Benzinga), with later reads of ≈+25–26%. It raised FY revenue guidance to $13.0–13.3B. Intel is ≈+7.4%, AMD ≈+5.7–7% and Broadcom ≈+5.4–6%, and 22 AI names added >$500B in market cap by mid-morning.",
+        "Anthropic's $70–78 IPO is reportedly several times covered (Bloomberg, via Quartz/Seeking Alpha). Per the FT, GS/MS are weighing pricing above $78, which would value it at ≥$1.5T versus ≈$1.4T fully diluted at the top of the range. Pricing is expected Nov 18 and trading Nov 19. This adds to the morning's banking/ECM thesis: a bigger deal means bigger Q4 underwriting fees.",
+        "Gold is steady at ≈$4,034 (USAGold, ≈flat) after Tuesday's ≈2.6% CPI drop. Quotes range from ≈$3,996 to ≈$4,050 depending on feed. USAGold has silver ≈+2.2% on the day. The dollar index closed Tue at 102.24 (+0.55%), and FXStreet says it set a fresh yearly high today (no level confirmed). Oil is rebounding mid-session (Seeking Alpha); no fresh print beyond the earlier Brent ≈$92–93.",
+        "Rates: no change. Cash Treasuries are closed, so the 2Y ≈4.73% and 10Y ≈4.98–4.99% are Tuesday's marks. FedWatch was last read at ≈87–89% for a 25bp Dec hike and ≈13% for 50bp. Thursday's claims and $25B 30Y auction remain the real test. No bank M&A announced today."
+      ],
+      "simple": "Chip and AI stocks jumped further because CoreWeave, which rents out AI computing power, raised its sales forecast. That calmed fears that companies are about to cut AI spending. Separately, investors have asked for several times more Anthropic shares than are for sale in its IPO (initial public offering, when a company first sells stock to the public). That could let the banks running the deal raise the price, and those banks get paid a percentage of the money raised. Interest rates are frozen until the bond market reopens Thursday, so the stock rally hasn't yet been tested against Tuesday's hot inflation data.",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/63148039/tech-stocks-500-billion-coreweave-results-ai-rally"
+        },
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/investing/54247"
+        },
+        {
+          "name": "Invezz",
+          "url": "https://invezz.com/sg/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/"
+        },
+        {
+          "name": "Quartz (Anthropic IPO)",
+          "url": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126"
+        },
+        {
+          "name": "Bloomberg (Anthropic IPO)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-11-2026/"
+        },
+        {
+          "name": "FXStreet (DXY)",
+          "url": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-hits-fresh-yearly-high-after-bullish-flag-breakout-202611111726"
+        },
+        {
+          "name": "Investing.com (FedWatch)",
+          "url": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585"
+        }
+      ]
+    },
+    {
       "at": "2026-11-11T15:24:00Z",
       "label": "Post-open",
       "headline": "The AI rebound held through the cash open: Nasdaq is up ≈1.6% and S&P ≈1%, led by CoreWeave (+≈14.5%), while gold gave back its overnight bounce with Treasuries still shut.",
@@ -446,5 +493,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-11T15:24:00Z"
+  "updatedAt": "2026-11-11T18:16:55Z"
 }
