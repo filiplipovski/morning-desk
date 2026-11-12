@@ -11,83 +11,412 @@
     "The 30Y auction ($25B, 12 PM CT; prior high yield 5.618%) is the day's real test. The 3Y tailed 0.5bp and the 10Y tailed 1.0bp (bid-to-cover 2.46) this week. A third tail would say real money wants more concession for duration with the 10Y at 5%; a stop-through would cap the long end and steepen nothing.",
     "Also on deck: jobless claims 7:30 AM CT (≈194–195K vs 189K prior), Cisco after the close, PPI Friday (+0.4% est. vs +1.3% prior), Anthropic IPO pricing Nov 18 ($70–78 range, up to ≈$64B raise) and the Dec 8–9 FOMC."
   ],
-  "markets_asof": "Pre-market ≈6:30 AM CT (snapshots vary; Wed closes noted)",
+  "markets_asof": "≈9:20 AM CT (early cash session; snapshots vary)",
   "markets": [
-    {"label": "S&P 500 fut.", "value": "—", "change": "≈−0.3% to −0.4%", "dir": "down", "note": "E-minis −29.25 pts in one early print; Wed cash close ≈7,619 (+1.3%)"},
-    {"label": "Nasdaq-100 fut.", "value": "—", "change": "≈−0.6% to −0.9%", "dir": "down", "note": "Nvidia CEO turmoil; Wed Nasdaq Comp. close ≈25,466 (+1.6%)"},
-    {"label": "Dow fut.", "value": "—", "change": "≈flat", "dir": "flat", "note": "Mixed/slightly green early; Wed close ≈52,486 (+0.5%)"},
-    {"label": "Nvidia (pre-mkt)", "value": "—", "change": "≈−5% to −8.6%", "dir": "down", "note": "CNBC −6.9% at 6:23 AM ET; board meeting on Huang, no decision"},
-    {"label": "UST 2Y", "value": "≈4.74–4.76%", "change": "≈+1–3bp", "dir": "up", "note": "vs Tue close ≈4.73%; cash reopens after Veterans Day"},
-    {"label": "UST 10Y", "value": "≈4.99–5.01%", "change": "≈+1–3bp", "dir": "up", "note": "CNBC 5.010% early; Tue close ≈4.98%"},
-    {"label": "UST 30Y", "value": "≈5.35%", "change": "≈flat", "dir": "flat", "note": "$25B auction 12 PM CT; prior high yield 5.618%"},
-    {"label": "Fed funds", "value": "3.75–4.00%", "change": "Dec hike ≈82–88%", "dir": "up", "note": "≈11–13% odds of 50bp; FOMC Dec 8–9"},
-    {"label": "Dollar index", "value": "≈102.7–103.05", "change": "≈+0.1–0.2%", "dir": "up", "note": "Highest since spring 2025; USD/JPY ≈158.7–159.7, near 160"},
-    {"label": "Gold (spot)", "value": "≈$3,944–3,981", "change": "≈−0.4% to −1.0%", "dir": "down", "note": "Below $4,000; lowest since Nov 4"},
-    {"label": "Silver", "value": "≈$51.0–51.4", "change": "≈−0.6%", "dir": "down", "note": "Fortune $51.04 at 5:30 AM CT; Reuters-cited $51.36"},
-    {"label": "Platinum", "value": "≈$1,536", "change": "−0.2%", "dir": "down", "note": "Palladium ≈$1,034 (+0.1%)"},
-    {"label": "Copper (COMEX)", "value": "≈$6.21/lb", "change": "−1.0%", "dir": "down", "note": "Trading Economics; strong dollar weighs"},
-    {"label": "Brent", "value": "≈$92.3–92.9", "change": "≈−0.5%", "dir": "down", "note": "Supply fears easing"},
-    {"label": "WTI", "value": "≈$86.75", "change": "≈−0.3%", "dir": "down", "note": "OilPriceAPI 3:06 AM CT snapshot"}
+    {
+      "label": "S&P 500",
+      "value": "—",
+      "change": "≈−0.8%",
+      "dir": "down",
+      "note": "Early cash trade; Wed close 7,619.38"
+    },
+    {
+      "label": "Nasdaq Comp.",
+      "value": "—",
+      "change": "≈−1.5%",
+      "dir": "down",
+      "note": "Nvidia CEO exit; Wed close 25,466.19"
+    },
+    {
+      "label": "Dow",
+      "value": "—",
+      "change": "≈+0.2% (+108)",
+      "dir": "up",
+      "note": "Wed close 52,486.49"
+    },
+    {
+      "label": "Nvidia",
+      "value": "≈$152–156",
+      "change": "≈−10% to −14%",
+      "dir": "down",
+      "note": "Huang resigned; Kress interim CEO; earnings Nov 17"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh intraday quote found; pre-market ≈4.74–4.76%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.01%",
+      "change": "+2bp",
+      "dir": "up",
+      "note": "CNBC; vs Tue close ≈4.98–4.99%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "Pre-market ≈5.35%; $25B auction 12 PM CT"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈82–88%",
+      "dir": "up",
+      "note": "Claims 200K don't shift the odds; FOMC Dec 8–9"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈102.7",
+      "change": "—",
+      "dir": "flat",
+      "note": "Strongest since May 2025"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,891",
+      "change": "≈−2.3% vs Wed ≈$3,984",
+      "dir": "down",
+      "note": "CNBC 8 AM CT; YTD low ≈$3,870"
+    },
+    {
+      "label": "Silver",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No clean intraday quote; pre-market ≈$51.0–51.4"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No clean intraday quote; pre-market ≈$6.21/lb"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$92–93",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Snapshots $91.8–92.9"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$86–87",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Snapshots $85.7–87.5"
+    }
   ],
   "calendar": [
-    {"time": "All day", "event": "Nvidia board decision on CEO Jensen Huang", "consensus": "CFO Colette Kress floated as interim (Seeking Alpha)", "prior": "Board met overnight; no announcement", "why": "Nvidia is the largest stock in the S&P 500, so its move alone can swing the index and AI-linked credit/capex sentiment. An ouster removes the founder from the most important AI supplier; Anthropic's IPO book-build runs into this."},
-    {"time": "7:30 AM", "event": "Initial jobless claims (wk ending Nov 7)", "consensus": "≈194–195K (GS 200K)", "prior": "189K", "why": "Claims under 200K plus October payrolls of +165K keep the labor market from giving the Fed any reason to wait. A sub-190K print adds to 50bp chatter."},
-    {"time": "8:00 AM", "event": "Cleveland Fed's Hammack (Ohio State, moderated Q&A)", "consensus": "—", "prior": "Dissented for an Oct hike; Nov 5: policy must turn restrictive via 'smaller, more frequent' moves", "why": "Time conflicts across calendars (8:00 AM vs ≈1 PM CT). If she backs 50bp in December alongside Waller, the 2Y has room to push toward 4.8%."},
-    {"time": "8:30 AM", "event": "US equity open", "consensus": "—", "prior": "S&P ≈7,619 (+1.3%)", "why": "Test is whether Wednesday's CoreWeave-led AI rebound survives Nvidia's leadership crisis. Watch AMD/Broadcom (up after hours) vs CoreWeave/Dell/Super Micro (down)."},
-    {"time": "12:00 PM", "event": "$25B 30-year bond auction", "consensus": "WI ≈5.35% area", "prior": "High yield 5.618%", "why": "Third leg of refunding after a 0.5bp 3Y tail and a 1.0bp 10Y tail (BTC 2.46). Watch the tail vs when-issued, indirect share and dealer takedown: a soft sale raises term premium and mortgage rates."},
-    {"time": "After close", "event": "Cisco FQ1 earnings", "consensus": "EPS ≈$1.32, rev ≈$18.11B", "prior": "—", "why": "Next AI networking capex read after CoreWeave; a guide-down would compound the Nvidia hit to the AI trade."},
-    {"time": "Fri 7:30 AM", "event": "October PPI", "consensus": "+0.4% m/m", "prior": "+1.3%", "why": "PPI components feed core PCE, the Fed's target gauge. A hot print on top of CPI hardens 25bp and lifts 50bp odds."},
-    {"time": "Dec 8–9", "event": "Next FOMC", "consensus": "25bp hike ≈82–88% / 50bp ≈11–13%", "prior": "3.75–4.00%", "why": "The debate has moved from 'hold vs hike' to '25 vs 50' in one week. Goldman sees a 4.25–4.50% peak with a hike in March 2027."}
+    {
+      "time": "All day",
+      "event": "Nvidia board decision on CEO Jensen Huang",
+      "consensus": "CFO Colette Kress floated as interim (Seeking Alpha)",
+      "prior": "Board met overnight; no announcement",
+      "why": "Nvidia is the largest stock in the S&P 500, so its move alone can swing the index and AI-linked credit/capex sentiment. An ouster removes the founder from the most important AI supplier; Anthropic's IPO book-build runs into this."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial jobless claims (wk ending Nov 7)",
+      "consensus": "≈194–195K (GS 200K)",
+      "prior": "189K",
+      "why": "Claims under 200K plus October payrolls of +165K keep the labor market from giving the Fed any reason to wait. A sub-190K print adds to 50bp chatter."
+    },
+    {
+      "time": "8:00 AM",
+      "event": "Cleveland Fed's Hammack (Ohio State, moderated Q&A)",
+      "consensus": "—",
+      "prior": "Dissented for an Oct hike; Nov 5: policy must turn restrictive via 'smaller, more frequent' moves",
+      "why": "Time conflicts across calendars (8:00 AM vs ≈1 PM CT). If she backs 50bp in December alongside Waller, the 2Y has room to push toward 4.8%."
+    },
+    {
+      "time": "8:30 AM",
+      "event": "US equity open",
+      "consensus": "—",
+      "prior": "S&P ≈7,619 (+1.3%)",
+      "why": "Test is whether Wednesday's CoreWeave-led AI rebound survives Nvidia's leadership crisis. Watch AMD/Broadcom (up after hours) vs CoreWeave/Dell/Super Micro (down)."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$25B 30-year bond auction",
+      "consensus": "WI ≈5.35% area",
+      "prior": "High yield 5.618%",
+      "why": "Third leg of refunding after a 0.5bp 3Y tail and a 1.0bp 10Y tail (BTC 2.46). Watch the tail vs when-issued, indirect share and dealer takedown: a soft sale raises term premium and mortgage rates."
+    },
+    {
+      "time": "After close",
+      "event": "Cisco FQ1 earnings",
+      "consensus": "EPS ≈$1.32, rev ≈$18.11B",
+      "prior": "—",
+      "why": "Next AI networking capex read after CoreWeave; a guide-down would compound the Nvidia hit to the AI trade."
+    },
+    {
+      "time": "Fri 7:30 AM",
+      "event": "October PPI",
+      "consensus": "+0.4% m/m",
+      "prior": "+1.3%",
+      "why": "PPI components feed core PCE, the Fed's target gauge. A hot print on top of CPI hardens 25bp and lifts 50bp odds."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "25bp hike ≈82–88% / 50bp ≈11–13%",
+      "prior": "3.75–4.00%",
+      "why": "The debate has moved from 'hold vs hike' to '25 vs 50' in one week. Goldman sees a 4.25–4.50% peak with a hike in March 2027."
+    }
   ],
   "desk": {
     "rates": [
-      {"title": "Cash Treasuries reopen and catch up to futures", "body": "After Wednesday's holiday, early quotes have the 2Y ≈4.76% (+3bp) and the 10Y ≈5.01%, with the 30Y steady ≈5.35%. Futures had implied ≈+6bp on the 2Y and ≈+3.5bp on the 10Y vs Tuesday's closes, extending the CPI-day bear flattener (2s10s ≈25–26bp).", "simple": "Treasury yields (the interest the government pays to borrow) didn't trade yesterday, so today the cash market is catching up to moves that already happened in futures. Short-term yields are rising faster than long-term ones because traders expect the Fed to raise rates soon. That makes floating-rate loans and credit-card rates, which key off short rates, more expensive first.", "source": "CNBC", "url": "https://cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"},
-      {"title": "30Y auction: the week's duration verdict", "body": "Treasury sells $25B of 30-year bonds at 12 PM CT; the last one stopped at 5.618%. The 3Y tailed 0.5bp and the 10Y tailed 1.0bp with a 2.46 bid-to-cover, so a third tail would confirm buyers want a bigger concession with the 10Y at 5%.", "simple": "When the government auctions bonds, a 'tail' means it had to pay a higher yield than the market expected, which signals weak demand. Two weak auctions in a row this week suggest investors want more payment for locking money up long-term while inflation runs hot. If today's sale is weak too, long-term borrowing costs like mortgage rates could climb further.", "source": "Investing.com / U.S. Treasury", "url": "https://www.investing.com/economic-calendar/30-year-bond-auction-572"},
-      {"title": "Hammack and the 25-vs-50 debate", "body": "Cleveland Fed President Hammack, who dissented in October in favor of an immediate hike, speaks today. On Nov 5 she argued policy must become restrictive through smaller, more frequent moves; Waller has already said 50bp should be considered if core CPI keeps running ≈0.3%.", "simple": "The Fed sets its benchmark rate in steps of 0.25 percentage points (25 basis points); a 50bp move is a double step, used when officials feel behind on inflation. Hammack is one of the most hawkish (inflation-focused) policymakers, so her tone hints at how far the committee will go in December. A bigger hike raises borrowing costs faster for businesses and households.", "source": "Kiplinger / ZeroHedge calendar", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"}
+      {
+        "title": "Cash Treasuries reopen and catch up to futures",
+        "body": "After Wednesday's holiday, early quotes have the 2Y ≈4.76% (+3bp) and the 10Y ≈5.01%, with the 30Y steady ≈5.35%. Futures had implied ≈+6bp on the 2Y and ≈+3.5bp on the 10Y vs Tuesday's closes, extending the CPI-day bear flattener (2s10s ≈25–26bp).",
+        "simple": "Treasury yields (the interest the government pays to borrow) didn't trade yesterday, so today the cash market is catching up to moves that already happened in futures. Short-term yields are rising faster than long-term ones because traders expect the Fed to raise rates soon. That makes floating-rate loans and credit-card rates, which key off short rates, more expensive first.",
+        "source": "CNBC",
+        "url": "https://cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+      },
+      {
+        "title": "30Y auction: the week's duration verdict",
+        "body": "Treasury sells $25B of 30-year bonds at 12 PM CT; the last one stopped at 5.618%. The 3Y tailed 0.5bp and the 10Y tailed 1.0bp with a 2.46 bid-to-cover, so a third tail would confirm buyers want a bigger concession with the 10Y at 5%.",
+        "simple": "When the government auctions bonds, a 'tail' means it had to pay a higher yield than the market expected, which signals weak demand. Two weak auctions in a row this week suggest investors want more payment for locking money up long-term while inflation runs hot. If today's sale is weak too, long-term borrowing costs like mortgage rates could climb further.",
+        "source": "Investing.com / U.S. Treasury",
+        "url": "https://www.investing.com/economic-calendar/30-year-bond-auction-572"
+      },
+      {
+        "title": "Hammack and the 25-vs-50 debate",
+        "body": "Cleveland Fed President Hammack, who dissented in October in favor of an immediate hike, speaks today. On Nov 5 she argued policy must become restrictive through smaller, more frequent moves; Waller has already said 50bp should be considered if core CPI keeps running ≈0.3%.",
+        "simple": "The Fed sets its benchmark rate in steps of 0.25 percentage points (25 basis points); a 50bp move is a double step, used when officials feel behind on inflation. Hammack is one of the most hawkish (inflation-focused) policymakers, so her tone hints at how far the committee will go in December. A bigger hike raises borrowing costs faster for businesses and households.",
+        "source": "Kiplinger / ZeroHedge calendar",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+      }
     ],
     "derivatives": [
-      {"title": "SOFR strip prices a hiking cycle, not a one-off", "body": "On CPI day the rate implied by Dec-2027 SOFR futures jumped 21.5bp to ≈4.63%, versus +12bp to ≈4.29% for Dec-2026. Polymarket odds of a ≥50bp December hike rose to 11% from under 1% a day earlier.", "simple": "SOFR futures are contracts that let traders bet on where short-term interest rates will be on a future date; CME is the main exchange for them. The 2027 contract moving almost twice as much as the 2026 one means traders now expect the Fed to keep raising rates well into next year, not just once. Banks and companies that hedge floating-rate debt see those hedges reprice immediately.", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/articles/50-basis-point-fed-hike-170519995.html"},
-      {"title": "CME rates complex running hot into the hike turn", "body": "CME posted a record October ADV of 30M contracts (+15% y/y). 10Y note futures ADV rose 58% to 2.7M, 2Y and 5Y were up 51% and 50%, while SOFR futures and options grew 5% to 4.9M. CME stock closed at a 1-year high of $315.87 Wednesday.", "simple": "Average daily volume (ADV) counts how many futures and options contracts change hands per day. When the Fed outlook flips from cuts to hikes, investors rush to hedge, and CME, which earns a fee on each contract, benefits. That's why exchange stocks often rise when markets get volatile.", "source": "CME Group", "url": "https://www.cmegroup.com/media-room/press-releases/2026/11/03/cme_group_reportsrecordoctoberadvof30millioncontractsup15yearove.html"},
-      {"title": "CME moves toward physically backed uranium futures", "body": "CME is close to a storage arrangement with ConverDyn that would let it list a uranium futures contract settled in physical material, riding the nuclear-power revival. It would add a new commodity line alongside its existing cash-settled uranium products.", "simple": "A physically settled future means the buyer can actually take delivery of the commodity at expiry, rather than just settling the price difference in cash. That needs a trusted warehouse, which is what the ConverDyn deal provides. It would give utilities and miners a more reliable way to lock in uranium prices as nuclear power expands.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts"}
+      {
+        "title": "SOFR strip prices a hiking cycle, not a one-off",
+        "body": "On CPI day the rate implied by Dec-2027 SOFR futures jumped 21.5bp to ≈4.63%, versus +12bp to ≈4.29% for Dec-2026. Polymarket odds of a ≥50bp December hike rose to 11% from under 1% a day earlier.",
+        "simple": "SOFR futures are contracts that let traders bet on where short-term interest rates will be on a future date; CME is the main exchange for them. The 2027 contract moving almost twice as much as the 2026 one means traders now expect the Fed to keep raising rates well into next year, not just once. Banks and companies that hedge floating-rate debt see those hedges reprice immediately.",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/50-basis-point-fed-hike-170519995.html"
+      },
+      {
+        "title": "CME rates complex running hot into the hike turn",
+        "body": "CME posted a record October ADV of 30M contracts (+15% y/y). 10Y note futures ADV rose 58% to 2.7M, 2Y and 5Y were up 51% and 50%, while SOFR futures and options grew 5% to 4.9M. CME stock closed at a 1-year high of $315.87 Wednesday.",
+        "simple": "Average daily volume (ADV) counts how many futures and options contracts change hands per day. When the Fed outlook flips from cuts to hikes, investors rush to hedge, and CME, which earns a fee on each contract, benefits. That's why exchange stocks often rise when markets get volatile.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/media-room/press-releases/2026/11/03/cme_group_reportsrecordoctoberadvof30millioncontractsup15yearove.html"
+      },
+      {
+        "title": "CME moves toward physically backed uranium futures",
+        "body": "CME is close to a storage arrangement with ConverDyn that would let it list a uranium futures contract settled in physical material, riding the nuclear-power revival. It would add a new commodity line alongside its existing cash-settled uranium products.",
+        "simple": "A physically settled future means the buyer can actually take delivery of the commodity at expiry, rather than just settling the price difference in cash. That needs a trusted warehouse, which is what the ConverDyn deal provides. It would give utilities and miners a more reliable way to lock in uranium prices as nuclear power expands.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts"
+      }
     ],
     "metals": [
-      {"title": "Gold loses $4,000 on dollar and hike bets", "body": "Spot gold fell ≈1.2% Wednesday to ≈$3,984 and extended to ≈$3,944–3,981 Thursday, its lowest since Nov 4, as DXY pushed toward ≈103. Analysts see risk toward $3,900; the Oct 30 YTD low is ≈$3,870.", "simple": "Gold pays no interest, so when expected interest rates rise, holding it costs more in missed income. A stronger dollar also makes gold pricier for buyers using other currencies. Both forces are working against gold right now, after a long run-up driven by central-bank buying.", "source": "Kitco / FXStreet", "url": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report"},
-      {"title": "Silver and PGMs follow gold lower; palladium holds", "body": "Spot silver ≈$51.0–51.4 (≈−0.6% early), platinum ≈$1,535.84 (−0.2%), palladium ≈$1,034.06 (+0.1%). Silver remains the higher-beta leg after its ≈4% CPI-day drop.", "simple": "Silver and platinum-group metals (platinum, palladium) are part monetary metal, part industrial input, so they tend to move more than gold in both directions. Silver dropping harder than gold shows investors cutting riskier precious-metal bets. Palladium, used mainly in car catalytic converters, is following its own supply story.", "source": "FXStreet", "url": "https://www.fxstreet.com/news/gold-falls-below-4-000-as-traders-weigh-a-half-point-fed-rate-hike-202611121051"},
-      {"title": "Copper slips 1% to ≈$6.21/lb", "body": "COMEX copper fell ≈1.0% to ≈$6.21/lb as the dollar firmed. Earlier this week China's import premiums were above $200/t, a sign physical demand is holding even as macro pressure builds.", "simple": "Copper is priced in dollars, so a stronger dollar makes it more expensive abroad and tends to push the price down. China buys roughly half the world's copper, and a high import premium (the extra paid to land metal in China) shows Chinese buyers still want it. The tug-of-war is a strong dollar versus solid real-world demand from grids and data centers.", "source": "Trading Economics", "url": "https://tradingeconomics.com/commodity/copper"}
+      {
+        "title": "Gold loses $4,000 on dollar and hike bets",
+        "body": "Spot gold fell ≈1.2% Wednesday to ≈$3,984 and extended to ≈$3,944–3,981 Thursday, its lowest since Nov 4, as DXY pushed toward ≈103. Analysts see risk toward $3,900; the Oct 30 YTD low is ≈$3,870.",
+        "simple": "Gold pays no interest, so when expected interest rates rise, holding it costs more in missed income. A stronger dollar also makes gold pricier for buyers using other currencies. Both forces are working against gold right now, after a long run-up driven by central-bank buying.",
+        "source": "Kitco / FXStreet",
+        "url": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report"
+      },
+      {
+        "title": "Silver and PGMs follow gold lower; palladium holds",
+        "body": "Spot silver ≈$51.0–51.4 (≈−0.6% early), platinum ≈$1,535.84 (−0.2%), palladium ≈$1,034.06 (+0.1%). Silver remains the higher-beta leg after its ≈4% CPI-day drop.",
+        "simple": "Silver and platinum-group metals (platinum, palladium) are part monetary metal, part industrial input, so they tend to move more than gold in both directions. Silver dropping harder than gold shows investors cutting riskier precious-metal bets. Palladium, used mainly in car catalytic converters, is following its own supply story.",
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/gold-falls-below-4-000-as-traders-weigh-a-half-point-fed-rate-hike-202611121051"
+      },
+      {
+        "title": "Copper slips 1% to ≈$6.21/lb",
+        "body": "COMEX copper fell ≈1.0% to ≈$6.21/lb as the dollar firmed. Earlier this week China's import premiums were above $200/t, a sign physical demand is holding even as macro pressure builds.",
+        "simple": "Copper is priced in dollars, so a stronger dollar makes it more expensive abroad and tends to push the price down. China buys roughly half the world's copper, and a high import premium (the extra paid to land metal in China) shows Chinese buyers still want it. The tug-of-war is a strong dollar versus solid real-world demand from grids and data centers.",
+        "source": "Trading Economics",
+        "url": "https://tradingeconomics.com/commodity/copper"
+      }
     ]
   },
   "banking": [
-    {"title": "Anthropic IPO book-build collides with Nvidia shock", "body": "Anthropic's range is $70–78 (825M shares, $57.75–64.35B raise), led by Goldman and Morgan Stanley in a 22-bank syndicate, with pricing slated for Nov 18. CNBC flags ≈$900B of computing commitments in the filing; the company expects to match or beat SpaceX's record IPO size.", "simple": "An IPO (initial public offering) is when a private company first sells shares to the public, with banks underwriting it for a fee. This one is among the largest ever, so it is a major payday for the lead banks. Turmoil at Nvidia, the key AI chip supplier, could make investors more cautious about how much they'll pay for AI companies.", "source": "Bloomberg Government / CNBC", "url": "https://news.bgov.com/securities-law/anthropic-expects-to-match-spacexs-record-ipo-size-or-top-it"},
-      {"title": "Alibaba plans to list T-Head chip unit", "body": "Alibaba announced plans to list T-Head, its in-house AI chip designer positioned as an Nvidia rival in China. No size or venue details were in the coverage found.", "simple": "A spin-off listing lets a parent company sell part of a division to public investors, putting a market price on it and raising cash. China is building its own AI chips because US export rules restrict Nvidia sales there. It adds to a busy pipeline of AI-related equity deals for investment banks.", "source": "CNBC", "url": "https://www.cnbc.com/"},
-      {"title": "Bank M&A: 162 deals YTD; Bank7 closes Century", "body": "Fed data show 162 banks acquired or merged in 2026 through Nov 2, with Webster Bank the largest target. Bank7 Corp. completed its purchase of Century Financial Services effective Nov 1.", "simple": "Bank M&A (mergers and acquisitions) is when one bank buys another, usually to gain scale and spread fixed costs like compliance and technology. A faster regulatory approval process has kept deal counts high this year. For commercial bankers, consolidation shifts client relationships and creates integration work.", "source": "BankRegReports / SEC 8-K", "url": "https://www.bankregreports.com/events/mergers/2026/"},
-      {"title": "Higher-for-longer helps NII but pressures bond books", "body": "With a hike ≈82–88% priced and the 10Y near 5%, asset-sensitive banks gain net interest income on floating-rate loans, while long-duration securities portfolios take fresh unrealized losses. KBW bank index level wasn't found this morning.", "simple": "Net interest income (NII) is what a bank earns on loans minus what it pays on deposits; rising rates usually widen it. But banks also hold bonds bought when yields were lower, and those lose value as rates rise. Which effect wins depends on each bank's mix, which is why bank stocks can react unevenly to rate shocks.", "source": "Morning Desk analysis (yields: CNBC)", "url": "https://cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"}
+    {
+      "title": "Anthropic IPO book-build collides with Nvidia shock",
+      "body": "Anthropic's range is $70–78 (825M shares, $57.75–64.35B raise), led by Goldman and Morgan Stanley in a 22-bank syndicate, with pricing slated for Nov 18. CNBC flags ≈$900B of computing commitments in the filing; the company expects to match or beat SpaceX's record IPO size.",
+      "simple": "An IPO (initial public offering) is when a private company first sells shares to the public, with banks underwriting it for a fee. This one is among the largest ever, so it is a major payday for the lead banks. Turmoil at Nvidia, the key AI chip supplier, could make investors more cautious about how much they'll pay for AI companies.",
+      "source": "Bloomberg Government / CNBC",
+      "url": "https://news.bgov.com/securities-law/anthropic-expects-to-match-spacexs-record-ipo-size-or-top-it"
+    },
+    {
+      "title": "Alibaba plans to list T-Head chip unit",
+      "body": "Alibaba announced plans to list T-Head, its in-house AI chip designer positioned as an Nvidia rival in China. No size or venue details were in the coverage found.",
+      "simple": "A spin-off listing lets a parent company sell part of a division to public investors, putting a market price on it and raising cash. China is building its own AI chips because US export rules restrict Nvidia sales there. It adds to a busy pipeline of AI-related equity deals for investment banks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/"
+    },
+    {
+      "title": "Bank M&A: 162 deals YTD; Bank7 closes Century",
+      "body": "Fed data show 162 banks acquired or merged in 2026 through Nov 2, with Webster Bank the largest target. Bank7 Corp. completed its purchase of Century Financial Services effective Nov 1.",
+      "simple": "Bank M&A (mergers and acquisitions) is when one bank buys another, usually to gain scale and spread fixed costs like compliance and technology. A faster regulatory approval process has kept deal counts high this year. For commercial bankers, consolidation shifts client relationships and creates integration work.",
+      "source": "BankRegReports / SEC 8-K",
+      "url": "https://www.bankregreports.com/events/mergers/2026/"
+    },
+    {
+      "title": "Higher-for-longer helps NII but pressures bond books",
+      "body": "With a hike ≈82–88% priced and the 10Y near 5%, asset-sensitive banks gain net interest income on floating-rate loans, while long-duration securities portfolios take fresh unrealized losses. KBW bank index level wasn't found this morning.",
+      "simple": "Net interest income (NII) is what a bank earns on loans minus what it pays on deposits; rising rates usually widen it. But banks also hold bonds bought when yields were lower, and those lose value as rates rise. Which effect wins depends on each bank's mix, which is why bank stocks can react unevenly to rate shocks.",
+      "source": "Morning Desk analysis (yields: CNBC)",
+      "url": "https://cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+    }
   ],
   "sources": {
     "cnbc": [
-      {"title": "Nvidia falls ≈7% pre-market as investors await Huang's fate", "body": "NVDA was −6.9% at 6:23 AM ET after the board met overnight on whether to oust Huang. Bernstein cut its target to $200 from $400 and Morgan Stanley removed it from its Top Pick list.", "simple": "Nvidia's board is deciding whether to fire its founder and CEO after reports of personal misconduct, including a relationship with a woman US officials suspect of spying for China. Investors fear losing the leader who built the company's AI dominance. Because Nvidia is the largest stock in major indexes, its slide drags down retirement accounts broadly.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"},
-      {"title": "Goolsbee: inflation report 'borderline disturbing'", "body": "Chicago Fed President Goolsbee reacted to October CPI (+0.4% headline, +0.3% core vs 0.3/0.2) as the Fed weighs more hikes; it was the third hot core print in a row.", "simple": "The Consumer Price Index (CPI) tracks what households pay for goods and services. When even a typically moderate official like Goolsbee is alarmed, it tells markets the Fed is likely to raise rates. Higher rates make mortgages, car loans and business credit costlier.", "source": "CNBC", "url": "https://www.cnbc.com/"},
-      {"title": "CoreWeave beat revives AI trade before Nvidia news hit", "body": "CoreWeave closed ≈+23–25% Wednesday on Q3 revenue of $3.66B (+168%) and a $132.5B backlog; analysts called it a sentiment turnaround. Nasdaq +1.6% erased its post-midterm losses.", "simple": "CoreWeave rents out AI computing power, so strong results suggest companies are still spending heavily on AI. That lifted chip and tech stocks broadly. The rally was then partly undone overnight by the Nvidia leadership crisis.", "source": "CNBC", "url": "https://www.cnbc.com/"},
-      {"title": "US gas prices drop below $4", "body": "National average gasoline fell under $4/gal for the first time since July, even as Brent holds ≈$92–93.", "simple": "Gas prices are one of the most visible costs for households and feed directly into inflation expectations. Falling pump prices give consumers some relief. They don't change the Fed's focus, which is on core inflation that excludes energy.", "source": "CNBC", "url": "https://www.cnbc.com/"}
+      {
+        "title": "Nvidia falls ≈7% pre-market as investors await Huang's fate",
+        "body": "NVDA was −6.9% at 6:23 AM ET after the board met overnight on whether to oust Huang. Bernstein cut its target to $200 from $400 and Morgan Stanley removed it from its Top Pick list.",
+        "simple": "Nvidia's board is deciding whether to fire its founder and CEO after reports of personal misconduct, including a relationship with a woman US officials suspect of spying for China. Investors fear losing the leader who built the company's AI dominance. Because Nvidia is the largest stock in major indexes, its slide drags down retirement accounts broadly.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+      },
+      {
+        "title": "Goolsbee: inflation report 'borderline disturbing'",
+        "body": "Chicago Fed President Goolsbee reacted to October CPI (+0.4% headline, +0.3% core vs 0.3/0.2) as the Fed weighs more hikes; it was the third hot core print in a row.",
+        "simple": "The Consumer Price Index (CPI) tracks what households pay for goods and services. When even a typically moderate official like Goolsbee is alarmed, it tells markets the Fed is likely to raise rates. Higher rates make mortgages, car loans and business credit costlier.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/"
+      },
+      {
+        "title": "CoreWeave beat revives AI trade before Nvidia news hit",
+        "body": "CoreWeave closed ≈+23–25% Wednesday on Q3 revenue of $3.66B (+168%) and a $132.5B backlog; analysts called it a sentiment turnaround. Nasdaq +1.6% erased its post-midterm losses.",
+        "simple": "CoreWeave rents out AI computing power, so strong results suggest companies are still spending heavily on AI. That lifted chip and tech stocks broadly. The rally was then partly undone overnight by the Nvidia leadership crisis.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/"
+      },
+      {
+        "title": "US gas prices drop below $4",
+        "body": "National average gasoline fell under $4/gal for the first time since July, even as Brent holds ≈$92–93.",
+        "simple": "Gas prices are one of the most visible costs for households and feed directly into inflation expectations. Falling pump prices give consumers some relief. They don't change the Fed's focus, which is on core inflation that excludes energy.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/"
+      }
     ],
     "wsj": [
-      {"title": "Nvidia board prepares to oust Jensen Huang", "body": "The WSJ reported the board is preparing to remove Huang after reports of two extramarital relationships, one involving a woman suspected of being a Chinese intelligence asset. NVDA fell ≈6.8% after hours on the report; CFO Colette Kress is floated as interim CEO.", "simple": "A board of directors can fire a CEO when it thinks his conduct creates legal, security or reputational risk. Here the concern includes possible exposure to Chinese intelligence at a company central to US AI and export policy. Removing a founder-CEO is rare and would reshape the most valuable chip company.", "source": "WSJ via CNBC / Yahoo Finance live blog", "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html"}
+      {
+        "title": "Nvidia board prepares to oust Jensen Huang",
+        "body": "The WSJ reported the board is preparing to remove Huang after reports of two extramarital relationships, one involving a woman suspected of being a Chinese intelligence asset. NVDA fell ≈6.8% after hours on the report; CFO Colette Kress is floated as interim CEO.",
+        "simple": "A board of directors can fire a CEO when it thinks his conduct creates legal, security or reputational risk. Here the concern includes possible exposure to Chinese intelligence at a company central to US AI and export policy. Removing a founder-CEO is rare and would reshape the most valuable chip company.",
+        "source": "WSJ via CNBC / Yahoo Finance live blog",
+        "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html"
+      }
     ],
     "tribune": [
-      {"title": "CME Group hits a 1-year high", "body": "CME closed at $315.87 on Nov 11, edging past its March 2 peak, as the rates repricing drives volume after a record October (30M ADV).", "simple": "CME, headquartered in Chicago, runs the main US exchanges for interest-rate, commodity and stock-index futures. It earns fees on trading volume, so a sudden shift in Fed expectations is good for business. The stock hitting a high shows investors expect that activity to continue.", "source": "24/7 Wall St.", "url": "https://247wallst.com/cards/cme-group-cme-enriched-price-move-01m76g2vyhxtd94c8eawt5j03v"},
-      {"title": "Ferrara closing Little Village candy plant", "body": "Chicago-based Ferrara (Nerds, Lemonheads) will shut the plant permanently in April 2027; WARN notices cover ≈154 jobs, with layoffs running through year-end.", "simple": "A WARN notice is a legally required advance warning of mass layoffs. Food manufacturers are consolidating production to cut costs. For Chicago, it's another loss of factory jobs in a working-class neighborhood.", "source": "WGN / Inc.", "url": "https://wgntv.com/news/chicago-news/chicago-candy-factory-shutting-down/"},
-      {"title": "Medline cuts 304 jobs to 'simplify'", "body": "Northfield-based Medline is laying off 304, mostly corporate staff, starting Nov 17, while unwinding its home-care bed business amid a recall, despite strong financial results.", "simple": "Companies sometimes cut staff even when profitable to protect margins and simplify how they're run. Exiting a product line after a recall reduces legal and quality risk. For the Chicago area, it trims white-collar jobs at one of the region's largest private employers.", "source": "Crain's Chicago Business", "url": "https://www.chicagobusiness.com/health-care/ccb-medline-layoffs-homecare-beds-20261105/"},
-      {"title": "CME Globex expansion goes live Nov 15", "body": "CME is rolling out a Globex technology and product expansion on Sunday Nov 15, with related futures trade dates starting Monday Nov 16.", "simple": "Globex is CME's electronic trading platform, where most futures trade around the clock. Upgrades like this add products or improve how spread trades (buying one contract and selling a related one) are matched. It matters to traders who need reliable execution during volatile weeks like this one.", "source": "CME Group", "url": "https://www.cmegroup.com/notices/electronic-trading/2026/11/20261102.html"}
+      {
+        "title": "CME Group hits a 1-year high",
+        "body": "CME closed at $315.87 on Nov 11, edging past its March 2 peak, as the rates repricing drives volume after a record October (30M ADV).",
+        "simple": "CME, headquartered in Chicago, runs the main US exchanges for interest-rate, commodity and stock-index futures. It earns fees on trading volume, so a sudden shift in Fed expectations is good for business. The stock hitting a high shows investors expect that activity to continue.",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/cards/cme-group-cme-enriched-price-move-01m76g2vyhxtd94c8eawt5j03v"
+      },
+      {
+        "title": "Ferrara closing Little Village candy plant",
+        "body": "Chicago-based Ferrara (Nerds, Lemonheads) will shut the plant permanently in April 2027; WARN notices cover ≈154 jobs, with layoffs running through year-end.",
+        "simple": "A WARN notice is a legally required advance warning of mass layoffs. Food manufacturers are consolidating production to cut costs. For Chicago, it's another loss of factory jobs in a working-class neighborhood.",
+        "source": "WGN / Inc.",
+        "url": "https://wgntv.com/news/chicago-news/chicago-candy-factory-shutting-down/"
+      },
+      {
+        "title": "Medline cuts 304 jobs to 'simplify'",
+        "body": "Northfield-based Medline is laying off 304, mostly corporate staff, starting Nov 17, while unwinding its home-care bed business amid a recall, despite strong financial results.",
+        "simple": "Companies sometimes cut staff even when profitable to protect margins and simplify how they're run. Exiting a product line after a recall reduces legal and quality risk. For the Chicago area, it trims white-collar jobs at one of the region's largest private employers.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/health-care/ccb-medline-layoffs-homecare-beds-20261105/"
+      },
+      {
+        "title": "CME Globex expansion goes live Nov 15",
+        "body": "CME is rolling out a Globex technology and product expansion on Sunday Nov 15, with related futures trade dates starting Monday Nov 16.",
+        "simple": "Globex is CME's electronic trading platform, where most futures trade around the clock. Upgrades like this add products or improve how spread trades (buying one contract and selling a related one) are matched. It matters to traders who need reliable execution during volatile weeks like this one.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/notices/electronic-trading/2026/11/20261102.html"
+      }
     ],
     "nyt": [
-      {"title": "NYT: Huang had a relationship with Nvidia VP Kimberly Powell", "body": "The Times reported Nov 11, citing five people who worked at the company, that Huang, 63, had a relationship with Powell, 48, Nvidia's VP of health care. It followed his Sunday acknowledgment of a separate affair; NVDA fell ≈8.6% after hours.", "simple": "A CEO's relationship with a subordinate raises conflict-of-interest and governance concerns, because the CEO controls pay and promotions. A second report made it harder for the board to treat the earlier scandal as a one-off. That's what pushed the board toward considering his removal.", "source": "NYT via Newsband / Yahoo Finance", "url": "https://newsband.in/article_detail/jensen-huang-second-affair-kimberly-powell-nvidia-board"},
-      {"title": "NYT: US officials saw Huang as target of China spy plot", "body": "The Times reported Oct 29 that US intelligence concluded Megaspeed executive Alice Huang (no relation), who was close to Jensen Huang, passed information to Beijing. Nvidia disputed the report; there is no public evidence Huang shared sensitive information.", "simple": "Counterintelligence agencies try to spot when foreign spies cultivate people with valuable secrets. Nvidia's chips are subject to strict US export limits to China, so any hint of influence on its CEO is a national-security issue. This earlier report is the root of the current board crisis.", "source": "NYT via The Hill", "url": "https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/amp/"}
+      {
+        "title": "NYT: Huang had a relationship with Nvidia VP Kimberly Powell",
+        "body": "The Times reported Nov 11, citing five people who worked at the company, that Huang, 63, had a relationship with Powell, 48, Nvidia's VP of health care. It followed his Sunday acknowledgment of a separate affair; NVDA fell ≈8.6% after hours.",
+        "simple": "A CEO's relationship with a subordinate raises conflict-of-interest and governance concerns, because the CEO controls pay and promotions. A second report made it harder for the board to treat the earlier scandal as a one-off. That's what pushed the board toward considering his removal.",
+        "source": "NYT via Newsband / Yahoo Finance",
+        "url": "https://newsband.in/article_detail/jensen-huang-second-affair-kimberly-powell-nvidia-board"
+      },
+      {
+        "title": "NYT: US officials saw Huang as target of China spy plot",
+        "body": "The Times reported Oct 29 that US intelligence concluded Megaspeed executive Alice Huang (no relation), who was close to Jensen Huang, passed information to Beijing. Nvidia disputed the report; there is no public evidence Huang shared sensitive information.",
+        "simple": "Counterintelligence agencies try to spot when foreign spies cultivate people with valuable secrets. Nvidia's chips are subject to strict US export limits to China, so any hint of influence on its CEO is a national-security issue. This earlier report is the root of the current board crisis.",
+        "source": "NYT via The Hill",
+        "url": "https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/amp/"
+      }
     ]
   },
   "talking_points": [
-    {"topic": "Front-end repricing in SOFR futures", "point": "Dec-2027 SOFR implied rates rose 21.5bp on CPI vs 12bp for Dec-2026, so the market added hikes in 2027, not just December. If you're positioned for a 25bp 'insurance' hike, the risk is the back of the white/red packs; a 2s10s flattener has worked because terminal-rate pricing, not term premium, is moving."},
-    {"topic": "Auction concession at 5% 10s", "point": "The 3Y and 10Y both tailed this week. Today's $25B 30Y (prior 5.618%) shows whether real money takes duration at ≈5.35%. If it tails again, I'd expect the curve to shift from bear-flattening to bear-steepening as term premium rebuilds, which matters for mortgage rates and bank AFS marks."},
-    {"topic": "Gold under $4,000 isn't the end of the bid", "point": "Gold fell through $4,000 on a ≈19-month-high dollar and rising real-rate expectations, the textbook headwinds. The question for metals desks is whether central-bank and Chinese buying absorbs the dip near the ≈$3,870 YTD low; copper's >$200/t China import premium says physical demand is still there even with COMEX at ≈$6.21."}
+    {
+      "topic": "Front-end repricing in SOFR futures",
+      "point": "Dec-2027 SOFR implied rates rose 21.5bp on CPI vs 12bp for Dec-2026, so the market added hikes in 2027, not just December. If you're positioned for a 25bp 'insurance' hike, the risk is the back of the white/red packs; a 2s10s flattener has worked because terminal-rate pricing, not term premium, is moving."
+    },
+    {
+      "topic": "Auction concession at 5% 10s",
+      "point": "The 3Y and 10Y both tailed this week. Today's $25B 30Y (prior 5.618%) shows whether real money takes duration at ≈5.35%. If it tails again, I'd expect the curve to shift from bear-flattening to bear-steepening as term premium rebuilds, which matters for mortgage rates and bank AFS marks."
+    },
+    {
+      "topic": "Gold under $4,000 isn't the end of the bid",
+      "point": "Gold fell through $4,000 on a ≈19-month-high dollar and rising real-rate expectations, the textbook headwinds. The question for metals desks is whether central-bank and Chinese buying absorbs the dip near the ≈$3,870 YTD low; copper's >$200/t China import premium says physical demand is still there even with COMEX at ≈$6.21."
+    }
   ],
   "caveats": "WebFetch was blocked for most sites this run, so every figure comes from search excerpts. WSJ, NYT and Tribune were not accessible; their items come from secondary coverage (outlets named), and only one WSJ story could be confirmed. Futures, yields, gold, silver and DXY are pre-market ranges from snapshots taken at different times. FedWatch odds vary by snapshot (≈82–88% for 25bp). Hammack's speech time conflicts across calendars. Russell 2000, KBW bank index and LME copper levels weren't found. Cisco consensus carried from Wednesday's research. CNBC items without a specific article URL link to CNBC's homepage.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-12T15:18:24Z",
+      "label": "Post-open",
+      "headline": "Nvidia's board confirmed Jensen Huang has resigned, with CFO Colette Kress as interim CEO. NVDA opened ≈10–14% lower and dragged the Nasdaq ≈−1.5%, while the 10Y held ≈5.01% after a slightly soft claims print.",
+      "points": [
+        "Nvidia: Huang is out as president, CEO and director, effective immediately. Kress keeps her CFO duties while serving as interim CEO, the board is running an internal/external search, and Harvey Jones becomes Nvidia's first board chair. Q3 earnings stay on Nov 17. NVDA traded ≈$152–156 early (≈−10% to −14%, back to June-2025 levels). CoreWeave fell ≈−12% and Nebius ≈−17%.",
+        "Indices early: S&P 500 ≈−0.8%, Nasdaq Comp. ≈−1.5%, Dow ≈+0.2% (+108). The morning's 'no decision yet' framing is now out of date; this is a leadership change, not a pending vote.",
+        "Claims came in at 200K vs ≈194–195K consensus (prior revised up to 191K from 189K). The 4-week average is 195,250 and continuing claims fell 20K to 1.697M. It's a hair soft, but claims have stayed ≤200K since mid-September, so it does nothing to the December hike case.",
+        "Rates: the 10Y is ≈5.01% (+2bp vs Tuesday), in line with the morning's range. There was no fresh Hammack readout in coverage found. The 30Y auction ($25B, 12 PM CT) is still the next catalyst.",
+        "Metals: spot gold slipped to ≈$3,891 (CNBC, 8 AM CT), below the morning's ≈$3,944–3,981 range and through the $3,900 marker flagged earlier. The Oct 30 YTD low (≈$3,870) is next. Oil is little changed (WTI ≈$86–87, Brent ≈$92–93) and DXY is ≈102.7."
+      ],
+      "simple": "Nvidia's board formally pushed out its founder and CEO, so the uncertainty from this morning is now a done deal. Investors are selling because they don't know who will run the world's most important AI chip company long term. Meanwhile, jobless claims (new unemployment filings) ticked up only slightly, which still points to a tight job market. That keeps the Fed on track to raise rates, and that pressure is weighing on gold.",
+      "sources": [
+        {
+          "name": "Nvidia 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://qz.com/nvidia-huang-resignation-sp500-nasdaq-fall-111226"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-but-labor-market-firming-5021926"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+        },
+        {
+          "name": "CNBC Select (gold)",
+          "url": "https://www.cnbc.com/select/the-price-of-gold-today-nov-12-2026/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-12T15:18:24Z"
 }
