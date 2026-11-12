@@ -11,105 +11,105 @@
     "The 30Y auction ($25B, 12 PM CT; prior high yield 5.618%) is the day's real test. The 3Y tailed 0.5bp and the 10Y tailed 1.0bp (bid-to-cover 2.46) this week. A third tail would say real money wants more concession for duration with the 10Y at 5%; a stop-through would cap the long end and steepen nothing.",
     "Also on deck: jobless claims 7:30 AM CT (≈194–195K vs 189K prior), Cisco after the close, PPI Friday (+0.4% est. vs +1.3% prior), Anthropic IPO pricing Nov 18 ($70–78 range, up to ≈$64B raise) and the Dec 8–9 FOMC."
   ],
-  "markets_asof": "≈12:15 PM CT (midday; snapshots vary)",
+  "markets_asof": "≈3:00 PM CT (near-close snapshots; final prints may differ)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,628",
-      "change": "≈+0.1%",
-      "dir": "up",
-      "note": "Recovered from ≈−0.8% early; Wed close 7,619.38"
+      "value": "≈7,588–7,595",
+      "change": "≈−0.3% to −0.4%",
+      "dir": "down",
+      "note": "Late snapshot; Wed close 7,619.38"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "≈25,505",
-      "change": "≈flat (−0.1% to +0.15%)",
-      "dir": "flat",
-      "note": "Was ≈−1.5% early; Wed close 25,466.19"
+      "value": "≈25,340",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Late snapshot; Wed close 25,466.19"
     },
     {
       "label": "Dow",
       "value": "—",
-      "change": "≈+0.3–0.4%",
-      "dir": "up",
-      "note": "Wed close 52,486.49"
+      "change": "≈−0.3%",
+      "dir": "down",
+      "note": "Late snapshot; Wed close 52,486.49"
     },
     {
       "label": "Nvidia",
       "value": "—",
-      "change": "≈−5%",
+      "change": "≈−4.3%",
       "dir": "down",
-      "note": "Pared ≈−13% low; ≥5 downgrades, Citi PT $225"
+      "note": "Off ≈−14% low; Bernstein PT $200"
     },
     {
       "label": "UST 2Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No clean intraday quote; pre-market ≈4.74–4.76%"
+      "note": "No clean close found"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.05–5.10%",
-      "change": "≈+6–10bp",
+      "value": "≈5.05%",
+      "change": "≈+5bp",
       "dir": "up",
-      "note": "vs Tue ≈4.99%; snapshots vary"
+      "note": "Highest close since late Oct"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.445%",
-      "change": "≈+9.6bp",
+      "value": "≈5.44–5.45%",
+      "change": "≈+9–10bp",
       "dir": "up",
-      "note": "Post-auction; HY 5.441%, BTC 2.36"
+      "note": "Auction 5.441%, 0.4bp tail, BTC 2.36"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈88.5%",
+      "change": "Dec hike ≈88%",
       "dir": "up",
-      "note": "50bp ≈11.5%; Hammack favors gradual; FOMC Dec 8–9"
+      "note": "FOMC Dec 8–9; PPI Fri"
     },
     {
       "label": "Dollar index",
-      "value": "—",
+      "value": "≈103",
       "change": "—",
       "dir": "up",
-      "note": "No fresh quote; ≈19-month high (≈102.7 early)"
+      "note": "Topped 103 in the morning; no close found"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,864–3,896",
-      "change": "≈−2.3% to −3%",
+      "value": "≈$3,870–3,880",
+      "change": "≈−2.9%",
       "dir": "down",
-      "note": "Below $3,900; YTD low ≈$3,870 in play"
+      "note": "At Oct 30 YTD low; COMEX Dec ≈$3,985"
     },
     {
       "label": "Silver",
-      "value": "≈$50.0–50.2",
-      "change": "≈−3.5% to −3.9%",
+      "value": "≈$50.2",
+      "change": "≈−3.5%",
       "dir": "down",
-      "note": "Testing $50"
+      "note": "Holding $50"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "≈$6.18–6.20/lb",
-      "change": "≈−1.5% to −1.8%",
+      "value": "≈$6.18/lb",
+      "change": "≈−1.8%",
       "dir": "down",
       "note": "Dollar strength"
     },
     {
       "label": "Brent",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote; early ≈$92–93"
+      "value": "≈$91.8",
+      "change": "≈−1%",
+      "dir": "down",
+      "note": "Post-settle quote"
     },
     {
       "label": "WTI",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh quote; early ≈$86–87"
+      "value": "≈$85.7",
+      "change": "≈−1%",
+      "dir": "down",
+      "note": "Post-settle quote"
     }
   ],
   "calendar": [
@@ -375,6 +375,49 @@
   "caveats": "WebFetch was blocked for most sites this run, so every figure comes from search excerpts. WSJ, NYT and Tribune were not accessible; their items come from secondary coverage (outlets named), and only one WSJ story could be confirmed. Futures, yields, gold, silver and DXY are pre-market ranges from snapshots taken at different times. FedWatch odds vary by snapshot (≈82–88% for 25bp). Hammack's speech time conflicts across calendars. Russell 2000, KBW bank index and LME copper levels weren't found. Cisco consensus carried from Wednesday's research. CNBC items without a specific article URL link to CNBC's homepage.",
   "updates": [
     {
+      "at": "2026-11-12T21:17:12Z",
+      "label": "Close",
+      "headline": "Stocks gave back the midday bounce and closed ≈0.3–0.4% lower as the 10Y pushed to ≈5.05% after a tailed 30Y auction. Nvidia finished only ≈−4% after a ≈−14% low, and gold closed the day under $3,900.",
+      "points": [
+        "Indices into the bell: S&P 500 ≈7,588–7,595 (≈−0.3% to −0.4%), Nasdaq ≈−0.5%, Dow ≈−0.3% (late snapshots, not final prints). VIX ≈+8.5%. The midday 'S&P ≈+0.1%' did not hold: rising yields took over from Nvidia as the drag in the last two hours, and tech was the worst sector at ≈−1.4%.",
+        "NVDA closed ≈−4.3% after a ≈−14% morning low. Bernstein halved its target to $200 from $400 (Citi $225). Micron fell ≈−1.6%. Q3 earnings on Nov 17 are now the first test under interim CEO Kress.",
+        "Rates: the 10Y is ≈5.05% (≈+5bp on the day) and the 30Y is ≈5.44–5.45% after the auction. The 30Y stopped at 5.441% vs 5.437% WI, a 0.4bp tail, with bid-to-cover 2.36 vs 2.54 prior, the weakest since June. That makes three of three refunding auctions tailing. No clean 2Y close was found. Dec hike odds held ≈88% for 25bp.",
+        "Metals and FX: spot gold ≈$3,870–3,880 (≈−2.9%), at its Oct 30 YTD low. COMEX Dec gold is ≈$3,985. Silver ≈$50.2 (≈−3.5%), copper ≈$6.18/lb (≈−1.8%). DXY traded above 103 in the morning. Brent ≈$91.8 and WTI ≈$85.7 (≈−1%).",
+        "Tomorrow (Fri): October PPI at 7:30 AM CT, consensus +0.4% m/m. After Tuesday's hot CPI, a firm PPI would cement the Dec 9 hike and could put 50bp back in play. Cisco reports FQ1 after today's close (EPS consensus ≈$1.32)."
+      ],
+      "simple": "The stock market slipped at the end of the day because long-term interest rates kept rising after the government had a hard time selling 30-year bonds. When fewer buyers show up, the government has to pay a higher rate, and that pushes up borrowing costs across the economy. Nvidia's fall ended up much smaller than the morning panic suggested. Gold is at its lowest level of the year, because high interest rates make a metal that pays nothing less appealing. Tomorrow's wholesale-inflation report (PPI) will show whether price pressures are still building.",
+      "sources": [
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+        },
+        {
+          "name": "JournalArta (stocks)",
+          "url": "https://journalarta.com/en/2026/11/12/stock-market-today-sp-500-slips-0-32-to-7595-3-and-nasdaq-falls-0-49-as-vix-jumps-8-52/"
+        },
+        {
+          "name": "SF Standard (Nvidia close)",
+          "url": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
+        },
+        {
+          "name": "Seeking Alpha (30Y auction)",
+          "url": "https://seekingalpha.com/news/4671677-uss-25b-30-year-treasury-bond-auction-tails-on-softer-demand?feed_item_type=news"
+        },
+        {
+          "name": "investingLive (30Y auction)",
+          "url": "https://investinglive.com/news/us-30-year-bond-auction-tails-as-demand-disappoints-for-second-straight-day/"
+        },
+        {
+          "name": "JournalArta (metals)",
+          "url": "https://journalarta.com/en/2026/11/12/gold-price-today-spot-gold-drops-2-9-to-3871-6-as-silver-falls-3-47-and-copper-slides/"
+        },
+        {
+          "name": "5paisa (oil)",
+          "url": "https://www.5paisa.com/blog/crude-oil-price-today-12-november-2026"
+        }
+      ]
+    },
+    {
       "at": "2026-11-12T18:16:45Z",
       "label": "Midday",
       "headline": "The $25B 30Y auction cleared at 5.441% with a small ≈0.4bp tail and soft 2.36 bid-to-cover, the long end is ≈+10bp on the day, and stocks shrugged off Nvidia's CEO exit to trade slightly higher while gold broke below $3,900.",
@@ -461,5 +504,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-12T18:16:45Z"
+  "updatedAt": "2026-11-12T21:17:12Z"
 }
