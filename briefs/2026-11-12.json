@@ -11,105 +11,105 @@
     "The 30Y auction ($25B, 12 PM CT; prior high yield 5.618%) is the day's real test. The 3Y tailed 0.5bp and the 10Y tailed 1.0bp (bid-to-cover 2.46) this week. A third tail would say real money wants more concession for duration with the 10Y at 5%; a stop-through would cap the long end and steepen nothing.",
     "Also on deck: jobless claims 7:30 AM CT (≈194–195K vs 189K prior), Cisco after the close, PPI Friday (+0.4% est. vs +1.3% prior), Anthropic IPO pricing Nov 18 ($70–78 range, up to ≈$64B raise) and the Dec 8–9 FOMC."
   ],
-  "markets_asof": "≈9:20 AM CT (early cash session; snapshots vary)",
+  "markets_asof": "≈12:15 PM CT (midday; snapshots vary)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−0.8%",
-      "dir": "down",
-      "note": "Early cash trade; Wed close 7,619.38"
+      "value": "≈7,628",
+      "change": "≈+0.1%",
+      "dir": "up",
+      "note": "Recovered from ≈−0.8% early; Wed close 7,619.38"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "—",
-      "change": "≈−1.5%",
-      "dir": "down",
-      "note": "Nvidia CEO exit; Wed close 25,466.19"
+      "value": "≈25,505",
+      "change": "≈flat (−0.1% to +0.15%)",
+      "dir": "flat",
+      "note": "Was ≈−1.5% early; Wed close 25,466.19"
     },
     {
       "label": "Dow",
       "value": "—",
-      "change": "≈+0.2% (+108)",
+      "change": "≈+0.3–0.4%",
       "dir": "up",
       "note": "Wed close 52,486.49"
     },
     {
       "label": "Nvidia",
-      "value": "≈$152–156",
-      "change": "≈−10% to −14%",
+      "value": "—",
+      "change": "≈−5%",
       "dir": "down",
-      "note": "Huang resigned; Kress interim CEO; earnings Nov 17"
+      "note": "Pared ≈−13% low; ≥5 downgrades, Citi PT $225"
     },
     {
       "label": "UST 2Y",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No fresh intraday quote found; pre-market ≈4.74–4.76%"
+      "note": "No clean intraday quote; pre-market ≈4.74–4.76%"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.01%",
-      "change": "+2bp",
+      "value": "≈5.05–5.10%",
+      "change": "≈+6–10bp",
       "dir": "up",
-      "note": "CNBC; vs Tue close ≈4.98–4.99%"
+      "note": "vs Tue ≈4.99%; snapshots vary"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "Pre-market ≈5.35%; $25B auction 12 PM CT"
+      "value": "≈5.445%",
+      "change": "≈+9.6bp",
+      "dir": "up",
+      "note": "Post-auction; HY 5.441%, BTC 2.36"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈82–88%",
+      "change": "Dec hike ≈88.5%",
       "dir": "up",
-      "note": "Claims 200K don't shift the odds; FOMC Dec 8–9"
+      "note": "50bp ≈11.5%; Hammack favors gradual; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈102.7",
+      "value": "—",
       "change": "—",
-      "dir": "flat",
-      "note": "Strongest since May 2025"
+      "dir": "up",
+      "note": "No fresh quote; ≈19-month high (≈102.7 early)"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,891",
-      "change": "≈−2.3% vs Wed ≈$3,984",
+      "value": "≈$3,864–3,896",
+      "change": "≈−2.3% to −3%",
       "dir": "down",
-      "note": "CNBC 8 AM CT; YTD low ≈$3,870"
+      "note": "Below $3,900; YTD low ≈$3,870 in play"
     },
     {
       "label": "Silver",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No clean intraday quote; pre-market ≈$51.0–51.4"
+      "value": "≈$50.0–50.2",
+      "change": "≈−3.5% to −3.9%",
+      "dir": "down",
+      "note": "Testing $50"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No clean intraday quote; pre-market ≈$6.21/lb"
+      "value": "≈$6.18–6.20/lb",
+      "change": "≈−1.5% to −1.8%",
+      "dir": "down",
+      "note": "Dollar strength"
     },
     {
       "label": "Brent",
-      "value": "≈$92–93",
-      "change": "≈flat",
+      "value": "—",
+      "change": "—",
       "dir": "flat",
-      "note": "Snapshots $91.8–92.9"
+      "note": "No fresh quote; early ≈$92–93"
     },
     {
       "label": "WTI",
-      "value": "≈$86–87",
-      "change": "≈flat",
+      "value": "—",
+      "change": "—",
       "dir": "flat",
-      "note": "Snapshots $85.7–87.5"
+      "note": "No fresh quote; early ≈$86–87"
     }
   ],
   "calendar": [
@@ -375,6 +375,49 @@
   "caveats": "WebFetch was blocked for most sites this run, so every figure comes from search excerpts. WSJ, NYT and Tribune were not accessible; their items come from secondary coverage (outlets named), and only one WSJ story could be confirmed. Futures, yields, gold, silver and DXY are pre-market ranges from snapshots taken at different times. FedWatch odds vary by snapshot (≈82–88% for 25bp). Hammack's speech time conflicts across calendars. Russell 2000, KBW bank index and LME copper levels weren't found. Cisco consensus carried from Wednesday's research. CNBC items without a specific article URL link to CNBC's homepage.",
   "updates": [
     {
+      "at": "2026-11-12T18:16:45Z",
+      "label": "Midday",
+      "headline": "The $25B 30Y auction cleared at 5.441% with a small ≈0.4bp tail and soft 2.36 bid-to-cover, the long end is ≈+10bp on the day, and stocks shrugged off Nvidia's CEO exit to trade slightly higher while gold broke below $3,900.",
+      "points": [
+        "30Y auction: high yield 5.441% (vs 5.618% in October), bid-to-cover 2.36 vs ≈2.44 average, indirects ≈68.1%, directs ≈20.5%, dealers ≈11.4%. One source puts the tail at ≈0.4bp (single-sourced). That makes three tails in three refunding sales (3Y 0.5bp, 10Y 1.0bp). The morning's '≈5.35% WI' and '30Y steady ≈5.35%' were too low: the long bond had already cheapened to ≈5.42% before the sale and printed ≈5.445% after (≈+9.6bp).",
+        "Curve: the 10Y is ≈5.05–5.10% (snapshots vary), vs ≈5.01% at the open. That's a bear steepener led by the long end, not the front-end flattener the morning brief described. No clean 2Y quote was found.",
+        "Fed: Hammack backed continued hikes in 'smaller, more frequent' steps and said the Fed isn't behind the curve, which pushes back on Waller's 50bp talk. FedWatch has ≈88.5% for 25bp and ≈11.5% for 50bp on Dec 9, the hawkish end of this morning's range.",
+        "Stocks recovered: S&P ≈+0.1% (≈7,628), Dow ≈+0.3–0.4%, Nasdaq ≈flat (−0.1% to +0.15%). NVDA pared a ≈−13% early drop to ≈−5%, with ≥5 downgrades and Citi's target cut to $225 from $285. AMD rose on a William Blair upgrade.",
+        "Metals: spot gold ≈$3,864–3,896 (≈−2.3% to −3%) took out the $3,900 marker and is testing the ≈$3,870 YTD low. Silver ≈$50.0–50.2 (≈−3.5% to −3.9%) and COMEX copper ≈$6.18–6.20/lb (≈−1.5% to −1.8%). The drivers are the 19-month-high dollar and 5%+ yields. No fresh oil or DXY quote was found."
+      ],
+      "simple": "The government borrowed $25 billion for 30 years, and buyers demanded a slightly higher interest rate than expected. Investors were less eager than usual, which is called a 'tail'. That pushed long-term borrowing costs up, which feeds into mortgages and corporate loans. Stocks steadied as investors decided Nvidia's leadership change doesn't break the AI story. Gold kept sliding, because higher interest rates and a strong dollar make a metal that pays no interest less attractive.",
+      "sources": [
+        {
+          "name": "Investing.com (auction calendar)",
+          "url": "https://www.investing.com/economic-calendar/30-year-bond-auction-572"
+        },
+        {
+          "name": "Rallies.ai (auction result)",
+          "url": "https://rallies.ai/news/us-30-year-bond-high-yield-5441-41c9c5002426ef8c"
+        },
+        {
+          "name": "Reuters via Investing.com (Hammack)",
+          "url": "https://www.investing.com/news/economy-news/feds-hammack-signals-support-for-gradual-ratehike-path-5022530"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+        },
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-as-wall-street-edges-higher/"
+        },
+        {
+          "name": "JournalArta (metals)",
+          "url": "https://journalarta.com/en/2026/11/12/gold-price-today-spot-gold-drops-2-9-to-3871-6-as-silver-falls-3-47-and-copper-slides/"
+        },
+        {
+          "name": "24/7 Wall St (gold)",
+          "url": "https://247wallst.com/cards/xpost-01m7811tn8a3vf4ch327dwms80"
+        }
+      ]
+    },
+    {
       "at": "2026-11-12T15:18:24Z",
       "label": "Post-open",
       "headline": "Nvidia's board confirmed Jensen Huang has resigned, with CFO Colette Kress as interim CEO. NVDA opened ≈10–14% lower and dragged the Nasdaq ≈−1.5%, while the 10Y held ≈5.01% after a slightly soft claims print.",
@@ -418,5 +461,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-12T15:18:24Z"
+  "updatedAt": "2026-11-12T18:16:45Z"
 }
