@@ -11,105 +11,105 @@
     "Equities: S&P 500 closed 7,592.40 (−0.35%), Nasdaq 25,366.09 (−0.39%), Dow 52,297.09 (−0.36%), Russell 2000 −1.7%. Futures are mixed (S&P ≈+0.1–0.2%, Nasdaq-100 ≈−0.2% to flat). NVDA is ≈+2–2.7% pre-market (≈$169) after −4.3% Thursday, with Q3 earnings Tue Nov 17 under interim CEO Kress.",
     "Metals: spot gold bounced ≈+1% to ≈$3,890–3,915 after Thursday's lowest close since Oct 2025, but is still ≈−3.5% to −4.4% on the week. Silver ≈$50.0, LME copper ≈$13,610–13,640/t (four-month low). Banking: Hancock Whitney is buying Trustmark for ≈$3.2B in stock, and Anthropic's IPO book is reportedly ≈6x covered ahead of ≈Nov 18 pricing."
   ],
-  "markets_asof": "≈9:50 AM CT (intraday; sources disagree, so levels are approximate)",
+  "markets_asof": "≈12:20 PM CT (intraday; sources disagree, so levels are approximate)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−0.8% intraday",
+      "value": "≈7,530",
+      "change": "≈−0.8% to −0.9%",
       "dir": "down",
-      "note": "Opened ≈+0.4%; Thu close 7,592.40"
+      "note": "Thu close 7,592.40"
     },
     {
       "label": "Nasdaq Comp.",
-      "value": "—",
-      "change": "≈−1.6% intraday",
+      "value": "≈24,998",
+      "change": "≈−1.5% to −1.6%",
       "dir": "down",
-      "note": "NVDA ≈−2% to −4%; AMD, AVGO higher"
+      "note": "Chip selloff broadening beyond NVDA"
     },
     {
       "label": "Dow",
-      "value": "—",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Opened ≈+0.2%; Thu close 52,297.09"
+      "value": "≈52,234",
+      "change": "≈−0.1% to −0.2%",
+      "dir": "down",
+      "note": "Thu close 52,297.09"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "Lagging",
       "dir": "down",
-      "note": "Underperforming the S&P again on 5%+ yields"
+      "note": "Small caps weak on 5%+ 10Y"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.84%",
-      "change": "≈−1 to −2bp",
-      "dir": "down",
-      "note": "Worst week since 2024"
+      "value": "≈4.84–4.86%",
+      "change": "≈flat to −1bp",
+      "dir": "flat",
+      "note": "Thu 4.86% (Forbes)"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.13–5.14%",
-      "change": "≈+2 to +4bp",
+      "value": "≈5.15–5.17%",
+      "change": "≈+5 to +7bp",
       "dir": "up",
-      "note": "Intraday high ≈5.16%, highest since Oct"
+      "note": "High of the move, highest since Oct"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.45–5.50%",
-      "change": "—",
+      "value": "≈5.47%",
+      "change": "≈+4bp",
       "dir": "up",
-      "note": "Long end still cheapening"
+      "note": "Long end keeps cheapening"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈89.7%",
+      "change": "Dec hike ≈100% priced",
       "dir": "up",
-      "note": "50bp ≈10.3% (from ≈13–15%); FOMC Dec 8–9"
+      "note": "25bp ≈86%, 50bp ≈14% (CNBC/FedWatch); FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.17",
-      "change": "Slightly lower",
-      "dir": "down",
-      "note": "Eased after the PPI print"
+      "value": "≈103.2",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh midday print found; last ≈103.17"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,890–3,915",
-      "change": "≈flat to +1%",
-      "dir": "flat",
-      "note": "Soft PPI gave little lift"
+      "value": "$3,885",
+      "change": "Below post-open",
+      "dir": "down",
+      "note": "Kitco 11:43 AM CT"
     },
     {
       "label": "Silver",
-      "value": "≈$49.9–50.4",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Sources differ"
+      "value": "≈$49.8–50",
+      "change": "≈−2% d/d",
+      "dir": "down",
+      "note": "Fortune, ≈−$1.22 over 24h"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$6.19/lb",
-      "change": "≈+0.1%",
+      "change": "—",
       "dir": "flat",
-      "note": "Near four-month low"
+      "note": "Post-open level; near four-month low"
     },
     {
       "label": "WTI",
-      "value": "≈$89.4",
-      "change": "≈+0.7%",
-      "dir": "up",
-      "note": "Thu settle $88.74"
+      "value": "≈$88.6",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "≈−3.6% w/w"
     },
     {
-      "label": "PPI (Oct)",
-      "value": "+0.3% m/m",
-      "change": "vs +0.4% est.",
-      "dir": "down",
-      "note": "Y/y 6.5%, highest since Nov 2022"
+      "label": "Brent",
+      "value": "≈$96",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "≈−4.3% w/w; Thu settle $95.82"
     }
   ],
   "calendar": [
@@ -382,6 +382,53 @@
   "caveats": "WebFetch was blocked for CNBC, Yahoo and TradingView this run, so all figures come from search snippets and secondary outlets (Saxo, Reuters via MarketScreener/Kitco, investingLive, Benzinga). WSJ and NYT items are via digests and front-page indexes, not the original articles. Treasury closes vary by source (10Y 5.10–5.13%). Fed speaker times are from Newsquawk's schedule and are unconfirmed. Index levels are Thursday closes; futures and commodities are overnight snapshots. No confirmed Applied Materials results were found.",
   "updates": [
     {
+      "at": "2026-11-13T18:17:26Z",
+      "label": "Midday",
+      "headline": "The selloff picked up into midday: the 10Y tagged ≈5.17%, its highest since October, the Nasdaq is ≈−1.5% as the Nvidia and chip rout spread, and gold is drifting back toward $3,885. The softer PPI did nothing to cool the bond market.",
+      "points": [
+        "Equities (≈11:30 AM–12:30 PM CT): S&P 500 ≈7,530 (≈−0.8% to −0.9%), Nasdaq ≈24,998 (≈−1.45% to −1.6%), Dow ≈52,234 (≈−0.1% to −0.2%). QQQ was ≈−1.7% at 12:02 PM CT. The chip selloff has spread past NVDA, so Nasdaq losses are now about twice the S&P's.",
+        "Rates: CNBC has the 10Y at ≈5.15–5.17%, a new high for the move and above the morning's ≈5.13%. The 30Y is ≈5.47% (+4bp). The bear steepener is intact, and the 10Y has had its steepest weekly rise since April 2025 (MLQ). The 10Y–2Y spread is ≈+24bp at Thursday's close per one tracker, versus the morning's ≈+27–28bp; sources disagree, so treat the curve level as approximate.",
+        "Fed: a December hike is still fully priced. CNBC's FedWatch read is ≈86% for 25bp and ≈14% for 50bp, versus ≈89.7%/10.3% in the post-open update, so the post-PPI drop in 50bp odds has partly reversed. Bowman's 9:50 AM CT supervision remarks produced no new policy headlines. Her Nov 10 speech still stands: inflation is broadening, and the case for more tightening has to be weighed against an AI-led equity correction.",
+        "Metals and oil: Kitco has spot gold at $3,885.10 (11:43 AM CT), below the post-open ≈$3,890–3,915, while BullionVault had already flagged a 13-month low this week. Silver is ≈$49.8–50 (Fortune). Brent is ≈$96 and WTI ≈$88.6. Both are heading for a second straight weekly loss (Brent ≈−4.3% w/w, WTI ≈−3.6%) despite Thursday's +3% jump.",
+        "No new bank M&A or big capital-markets headlines since the morning. Thesis check: the morning's call for long-end pressure and fragile equities is playing out. Still ahead: Jefferson at 6 PM CT, then retail sales and NVDA earnings on Tue Nov 17."
+      ],
+      "simple": "Long-term US government bond yields (the interest rate the government pays to borrow for 10 or 30 years) kept rising, even though a wholesale inflation report came in slightly better than expected. That tells you investors are worried about more than one month's data: they want extra pay to lend long-term while inflation and government borrowing stay high. Higher yields make mortgages and business loans more expensive and hit fast-growing tech stocks hardest, which is why the Nasdaq is falling more than the rest of the market.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+        },
+        {
+          "name": "Yahoo Finance (midday)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-13-173501591.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+        },
+        {
+          "name": "MLQ",
+          "url": "https://mlq.ai/news/treasury-yields-head-for-their-steepest-weekly-jump-since-april-2025-as-gold-sinks-toward-a-one-year-low/"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/gold"
+        },
+        {
+          "name": "Fortune (silver)",
+          "url": "https://fortune.com/article/current-price-of-silver-11-13-2026/"
+        },
+        {
+          "name": "Zee Business (oil)",
+          "url": "https://www.zeebiz.com/market-news/news-crude-oil-prices-today-brent-near-96-wti-above-88-both-set-for-second-weekly-decline-despite-trumps-fresh-iran-warning-405505"
+        },
+        {
+          "name": "Reuters via Investing.com (Bowman)",
+          "url": "https://www.investing.com/news/economy-news/feds-bowman-says-still-work-to-do-on-inflation-5016718"
+        }
+      ]
+    },
+    {
       "at": "2026-11-13T15:56:20Z",
       "label": "Post-open",
       "headline": "October PPI came in a tenth light (+0.3% m/m vs +0.4%) but the y/y rate hit 6.5%, a four-year high, so the Fed odds barely moved, the 10Y is still pushing ≈5.13–5.16%, and stocks gave up an early gain as Nvidia fell again.",
@@ -425,5 +472,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-13T15:56:20Z"
+  "updatedAt": "2026-11-13T18:17:26Z"
 }
