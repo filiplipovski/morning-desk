@@ -1,0 +1,384 @@
+{
+  "date": "2026-11-13",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-13T12:23:04Z",
+  "headline": "October PPI (7:30 AM CT, +0.4% est.) is the last inflation print before Nvidia reports and the FOMC run-up. The 10Y is ≈5.13% after closing above 5.1% for the first time this cycle, oil's 3% jump keeps the inflation story alive, and a firm print would add to the ≈12–14% odds of a 50bp hike while gold tries to hold $3,900.",
+  "summary": [
+    "Thursday's real damage was in rates, not Nvidia. The 30Y auction was the weakest since summer, and the 10Y closed ≈5.10–5.12% vs ≈5.0% at the open; Saxo has the 2Y +14bp to ≈4.88% and the 10Y ≈+13bp across the Tue→Thu window (cash was shut Wednesday). Correction to yesterday's Close update: the 10Y finished closer to 5.10–5.12% than the ≈5.05% we had.",
+    "Early Friday (CNBC): 10Y ≈5.127% (+2bp), 30Y ≈5.460% (+3bp), 2Y ≈4.853% (−1bp). That is a small bear steepener: the long end keeps cheapening while the front end holds, which is the term-premium story the three tailed refunding auctions pointed to. 2s10s is ≈+27–28bp.",
+    "Fed: December 25bp ≈87–89% (FedWatch), 50bp ≈12–14.5%, up from 0% a week ago. Goolsbee (2027 voter) said Thursday the Fed is 'not fulfilling' its price-stability mandate; Logan wants at least two more 25bp hikes and floated moving fast. PPI consensus is +0.4% m/m (prior +1.3%), core +0.3% (prior +0.7%). Anything at or above that keeps 50bp chatter alive into the Dec 8–9 meeting.",
+    "Oil is back as an inflation input. Brent settled +3.3% at $95.82 and WTI +2.6% at $88.74 after Trump said no Iran deal is needed ('we've got their Strait') and Houthis claimed hits on Saudi facilities; Brent is ≈$95.6 overnight. DXY ≈103.2 (19-month high, third straight weekly gain) and USD/JPY ≈159.9, with Tokyo again warning near 160.",
+    "Equities: S&P 500 closed 7,592.40 (−0.35%), Nasdaq 25,366.09 (−0.39%), Dow 52,297.09 (−0.36%), Russell 2000 −1.7%. Futures are mixed (S&P ≈+0.1–0.2%, Nasdaq-100 ≈−0.2% to flat). NVDA is ≈+2–2.7% pre-market (≈$169) after −4.3% Thursday, with Q3 earnings Tue Nov 17 under interim CEO Kress.",
+    "Metals: spot gold bounced ≈+1% to ≈$3,890–3,915 after Thursday's lowest close since Oct 2025, but is still ≈−3.5% to −4.4% on the week. Silver ≈$50.0, LME copper ≈$13,610–13,640/t (four-month low). Banking: Hancock Whitney is buying Trustmark for ≈$3.2B in stock, and Anthropic's IPO book is reportedly ≈6x covered ahead of ≈Nov 18 pricing."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (index levels are Thu close; futures/yields/commodities are overnight snapshots)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,592.40",
+      "change": "−0.35% (Thu)",
+      "dir": "down",
+      "note": "Futures ≈+0.1–0.2% early Fri"
+    },
+    {
+      "label": "Nasdaq Comp.",
+      "value": "25,366.09",
+      "change": "−0.39% (Thu)",
+      "dir": "down",
+      "note": "NQ futures ≈−0.2% to flat; NVDA ≈+2% pre"
+    },
+    {
+      "label": "Dow",
+      "value": "52,297.09",
+      "change": "−0.36% (Thu)",
+      "dir": "down",
+      "note": "Futures ≈+0.1%"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "—",
+      "change": "−1.7% (Thu)",
+      "dir": "down",
+      "note": "Small caps hit hardest by 5%+ yields"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.85%",
+      "change": "≈−1bp",
+      "dir": "down",
+      "note": "Thu close ≈4.86–4.88%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.13%",
+      "change": "≈+2bp",
+      "dir": "up",
+      "note": "Thu close ≈5.10–5.12%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.46%",
+      "change": "≈+3bp",
+      "dir": "up",
+      "note": "After weakest 30Y auction since summer"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈87–89%",
+      "dir": "up",
+      "note": "50bp ≈12–14.5%; FOMC Dec 8–9"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈103.2",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "19-mo high; USD/JPY ≈159.9"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,890–3,915",
+      "change": "≈+0.5–1%",
+      "dir": "up",
+      "note": "Week ≈−3.5% to −4.4%"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$50.0",
+      "change": "—",
+      "dir": "flat",
+      "note": "Fell ≈3.5% Thu"
+    },
+    {
+      "label": "Copper (LME)",
+      "value": "≈$13,640/t",
+      "change": "≈−0.7% to −1%",
+      "dir": "down",
+      "note": "Four-month low; COMEX ≈$6.16/lb"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$95.6",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Thu settle $95.82 (+3.3%)"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$88.2–88.4",
+      "change": "≈−0.4%",
+      "dir": "down",
+      "note": "Thu settle $88.74 (+2.6%)"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "7:30 AM",
+      "event": "October PPI (final demand)",
+      "consensus": "+0.4% m/m; core +0.3%",
+      "prior": "+1.3% m/m; core +0.7%",
+      "why": "After a hot CPI, PPI feeds the components (airfares, medical, portfolio-management fees) that drive core PCE, the Fed's target gauge. A core print ≥0.4% would push 50bp odds up from ≈12–14% and hit the 2Y hardest; a miss gives the front end its first relief this week."
+    },
+    {
+      "time": "8:10 AM",
+      "event": "Boston Fed's Collins (opening remarks)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "2028 voter; schedule per Newsquawk, unconfirmed. Watch whether she endorses 25bp or leaves the door open to 50bp."
+    },
+    {
+      "time": "8:30 AM",
+      "event": "US cash equity open",
+      "consensus": "Futures mixed",
+      "prior": "S&P −0.35% Thu",
+      "why": "First full session with Kress as interim Nvidia CEO; NVDA is ≈+2% pre-market. The bigger driver is whether the 10Y holds above 5.1% after PPI."
+    },
+    {
+      "time": "9:50 AM",
+      "event": "Fed Gov. Bowman on supervision & regulation",
+      "consensus": "—",
+      "prior": "Seen as a relative dove on policy",
+      "why": "As Vice Chair for Supervision, her capital/liquidity comments matter for bank stocks and Treasury market depth (SLR/eSLR changes affect how much Treasuries dealers can hold). Time unconfirmed."
+    },
+    {
+      "time": "10:10 AM",
+      "event": "SF Fed's Daly (UNLV)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "2027 voter. If even a centrist like Daly talks up consecutive hikes, the market will lean toward Logan's 'move rapidly this winter' path."
+    },
+    {
+      "time": "6:00 PM",
+      "event": "Fed Vice Chair Jefferson (UC San Diego)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Leadership voice heading into the blackout; his framing of December (25 vs 50) is the closest thing to a Board signal before Dec 8–9."
+    },
+    {
+      "time": "Tue Nov 17",
+      "event": "Oct retail sales; Nvidia FQ3 earnings (after close)",
+      "consensus": "Retail 0.0% m/m, ex-autos +0.4%; NVDA EPS ≈$2.49, revenue ≈$109B",
+      "prior": "—",
+      "why": "Consumer demand plus the first Nvidia print without Huang. Both feed the AI-capex and 'overheating' narratives Goolsbee flagged."
+    },
+    {
+      "time": "≈Nov 18–19",
+      "event": "Anthropic IPO pricing / Nasdaq debut (ANT)",
+      "consensus": "$70–78 range, 825M shares; ≈6x covered",
+      "prior": "—",
+      "why": "Largest IPO on record if it prices at the top (up to ≈$90.4B incl. private placement). A sign of whether capital markets stay open with 10s at 5%+."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "FOMC",
+      "consensus": "25bp hike ≈87–89%; 50bp ≈12–14.5%",
+      "prior": "3.75–4.00%",
+      "why": "A hike is essentially fully priced. The trade now is size (25 vs 50) and how many more hikes are priced into 2027."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Long end leads as auction tails pile up",
+        "body": "Early Friday the 10Y is ≈5.127% (+2bp) and the 30Y ≈5.460% (+3bp) while the 2Y slips ≈1bp to ≈4.853%. That follows Thursday's 30Y auction (weakest since summer) and a two-session move of ≈+14bp in the 2Y and ≈+13bp in the 10Y. 2s10s is ≈+27–28bp.",
+        "simple": "A Treasury yield is the interest the US government pays to borrow; when yields rise, bond prices fall. This week, three government bond sales in a row needed higher-than-expected yields to attract buyers, and long-term rates are now rising faster than short-term ones. That 'steepening' means investors want extra pay to lock money up for decades, which pushes up mortgage and corporate borrowing costs.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+      },
+      {
+        "title": "Fed hawks widen the December debate",
+        "body": "Logan says the Fed needs at least two more 25bp hikes and could 'move more rapidly this winter.' Goolsbee said Thursday the Fed is not meeting its price-stability mandate. FedWatch: ≈87–89% for 25bp in December, ≈12–14.5% for 50bp (0% a week ago).",
+        "simple": "The Fed raises its policy rate (the overnight rate banks charge each other) to cool inflation. Several Fed officials now say one more hike isn't enough, and markets are betting on a December increase, with a smaller chance of a double-size one. Higher Fed rates flow straight into credit cards, car loans and what banks pay on deposits.",
+        "source": "investingLive",
+        "url": "https://investinglive.com/central-banks/fed-s-logan-it-s-clear-that-fed-needs-at-least-two-more-quarter-point-rate-hikes/"
+      },
+      {
+        "title": "Oil and the yen add global pressure",
+        "body": "Brent's +3.3% settle at $95.82 revives the energy leg of inflation just as PPI lands. In FX, USD/JPY is ≈159.9 with DXY ≈103.2 near a 19-month high, and Japan's finance minister is warning again near 160 (Tokyo spent a record ¥11.7T defending 160 in Apr–May).",
+        "simple": "Higher oil prices feed into gasoline and shipping costs, which makes inflation harder for the Fed to bring down. A strong dollar against the yen raises the odds Japan steps in and sells US assets (including Treasuries) to buy its own currency. Either one can push US interest rates higher.",
+        "source": "investingLive",
+        "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Rates vol reprices: MOVE ≈98",
+        "body": "The MOVE index (Treasury implied vol) jumped ≈6.5% to 98.42 on Thursday's session after sitting at 92.44 through the Wednesday holiday. It is still below the >113 spike of early October.",
+        "simple": "Implied volatility is how much traders expect prices to swing, read off option prices. The MOVE index does this for Treasuries. A jump means hedging interest-rate risk got more expensive, which hits banks, mortgage servicers and anyone who sells rate options.",
+        "source": "Saxo",
+        "url": "https://www.home.saxo/en-sg/content/articles/options/one-day-protection-jumps-as-the-index-slips---options-brief---13-november-2026-13112026"
+      },
+      {
+        "title": "SOFR futures price a cycle, not one hike",
+        "body": "On CPI day the Dec-2027 SOFR contract's implied rate rose 21.5bp to ≈4.63% vs +12bp to ≈4.29% for Dec-2026, so the market added more hikes for next year than for this one. Fed funds is 3.75–4.00% today.",
+        "simple": "SOFR futures are CME contracts that let traders bet on where short-term interest rates will be on a future date. The contract for late 2027 moved almost twice as much as the one for late 2026. That means traders now expect the Fed to keep raising rates well into next year, not stop after December.",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/macro-economic-events/26/11/63106031/50-basis-point-fed-hike-october-cpi-waller-treasury-yields"
+      },
+      {
+        "title": "Equity hedges get short-dated",
+        "body": "Saxo flags a jump in one-day (0DTE-style) S&P protection as the index slipped Thursday; the VIX rose ≈8.5%. With PPI at 7:30 AM CT and NVDA earnings Tuesday, demand is concentrated in event-dated options rather than longer tenors.",
+        "simple": "Options are contracts that pay off if a price moves past a set level, so buying them is like buying insurance. Traders are buying insurance that only lasts a day or a few days, around specific events. That keeps hedging cheap, but it can make the market jumpier around data releases.",
+        "source": "Saxo",
+        "url": "https://www.home.saxo/en-sg/content/articles/options/one-day-protection-jumps-as-the-index-slips---options-brief---13-november-2026-13112026"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold bounces off a one-year low but the week is still ugly",
+        "body": "Spot gold rose ≈1% to $3,915 in Asia (Reuters) after Thursday's lowest close since October 2025, but it is ≈−3.5% to −4.4% on the week. DXY ≈103.2 is heading for a third weekly gain, and 25bp December odds are ≈89%.",
+        "simple": "Gold pays no interest, so when bond yields and the dollar rise it becomes less attractive to hold. Both have climbed sharply on Fed hike bets, which is why gold has dropped even with war risk in the Middle East. Friday's bounce looks like bargain hunting, not a change in trend.",
+        "source": "MarketScreener (Reuters)",
+        "url": "https://www.marketscreener.com/news/gold-rises-on-bargain-hunting-but-heads-for-weekly-decline-ce785ed9db8af22c"
+      },
+      {
+        "title": "Official buyers vs. a hawkish Fed",
+        "body": "Central banks bought a net 321t in Q3 (+42% y/y, WGC), and the PBOC added ≈25.8t in October, its biggest month since Sept 2023 (Wind data). Goldman still cut its targets to $4,150 for end-2026 and $4,800 for end-2027 on a hawkish Fed.",
+        "simple": "Central banks, especially China's, keep buying gold to diversify away from the dollar. That provides a floor under prices. But big banks like Goldman think higher US rates will cap gains for now, so the tug-of-war is between steady official buying and fast-rising interest rates.",
+        "source": "investingLive",
+        "url": "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/"
+      },
+      {
+        "title": "Copper at four-month lows despite record China premium",
+        "body": "LME copper is ≈$13,610–13,640/t, a four-month low, on rate-hike fears; SMM sees a $13,300–13,750 range. Yet Yangshan import premiums are at a record ≈$300/t, a sign physical demand in China is tighter than the futures price suggests.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price is a read on global industrial demand. Futures prices fell because higher US rates hurt growth expectations. But Chinese buyers are paying record extra fees to get physical metal, which suggests the real-world shortage hasn't gone away.",
+        "source": "Kitco (Reuters)",
+        "url": "https://kitco.com/news/off-the-wire/2026-11-12/copper-hits-four-month-lows-focus-demand-ai-and-us-rates"
+      },
+      {
+        "title": "Silver holds $50; PGMs drift",
+        "body": "Silver is ≈$50.0 after a ≈3.5% drop Thursday. Platinum was ≈$1,524 and palladium ≈$1,018 on Thursday (Fortune).",
+        "simple": "Silver trades like a more volatile version of gold, so it fell harder when rates and the dollar rose. Platinum and palladium are used mostly in car exhaust systems and industry, so they track factory demand more than interest rates. $50 is the line traders are watching for silver.",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/current-price-of-silver-11-12-2026"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Hancock Whitney to buy Trustmark for ≈$3.2B in stock",
+      "body": "Trustmark holders get 0.7463 HWC shares each, ≈$3.2B at Nov 11 prices, creating a ≈$58B-asset Gulf South bank across six states. Five Trustmark directors join the board; close targeted late Q1 2027.",
+      "simple": "A merger is when one company buys another. Here two Mississippi-based regional banks are combining, paid for with the buyer's stock instead of cash. Bigger regional banks can spread compliance and technology costs over more customers, and fast approvals are encouraging more deals like this.",
+      "source": "SEC filing (Hancock Whitney 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"
+    },
+    {
+      "title": "Anthropic IPO book reportedly ≈6x covered",
+      "body": "Bloomberg reports demand ≈6x the 825M shares offered at $70–78. Up to ≈$90.4B could be raised including a private placement, and Goldman and Morgan Stanley have signaled the price could rise. Existing holders get priority; pricing is expected ≈Nov 18, with trading Nov 19 as ANT.",
+      "simple": "An IPO (initial public offering) is when a private company first sells shares to the public. 'Oversubscribed' means investors asked for far more shares than are on offer, which often lets the banks raise the price. For the underwriting banks, a deal this size means record fees and a test of whether the stock market can absorb it.",
+      "source": "Quartz",
+      "url": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126"
+    },
+    {
+      "title": "Small-bank M&A keeps coming",
+      "body": "First Community is paying $243M in stock (190% of tangible book) for $1.6B-asset Main Street; First International ($6.4B assets) is buying $650M Dominion Bank; First Capital is paying $33.2M for $583M First Bancorp of Indiana. One tracker counts 162 bank acquisitions in 2026.",
+      "simple": "Tangible book value is roughly what a bank's assets are worth after subtracting debts and intangibles like goodwill. Paying 190% of it means the buyer values the target's deposits and customers well above their accounting value. A steady stream of deals means fewer, larger community banks.",
+      "source": "ABA Banking Journal",
+      "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-three-states-13/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Treasury yields rise as hike bets firm",
+        "body": "The 10Y is up ≈2bp to ≈5.127% and the 30Y ≈3bp to ≈5.460%; the 2Y is ≈1bp lower at ≈4.853%. CNBC says a December hike is fully priced, with ≈87% on 25bp.",
+        "simple": "Investors are demanding more interest to lend to the US government for 10 and 30 years because they expect the Fed to keep raising rates. That raises borrowing costs across the economy, from mortgages to business loans.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+      },
+      {
+        "title": "Oil jumps after Trump says no Iran deal needed",
+        "body": "Brent settled +3.3% at $95.82 and WTI +2.6% at $88.74 after Trump's 'we've got their Strait' remark signaled the US-Iran conflict may drag on. Both are still ≈−2.5% on the week.",
+        "simple": "The Strait of Hormuz is a narrow waterway that a large share of the world's oil passes through. Signs the conflict won't end soon raise the risk of supply disruptions, which lifts oil prices and eventually gas prices.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+      },
+      {
+        "title": "Cisco beats and says AI infrastructure revenue will double",
+        "body": "FQ1 revenue was $18.52B (+24% y/y) vs $18.14B est., and adjusted EPS $1.40 vs $1.33; Cisco raised its full-year guide. Shares closed +1.24% at $102.01 but were reported ≈−2.7% early Friday pre-market.",
+        "simple": "Cisco sells the networking gear that connects servers in data centers. Its strong results show companies are still spending heavily on AI infrastructure, even as Nvidia's leadership crisis shakes the AI trade.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
+      },
+      {
+        "title": "Nvidia closes −4.3% after Huang resigns",
+        "body": "NVDA ended −4.34% Thursday after Huang stepped down as CEO and director; CFO Colette Kress is interim CEO. Citi cut its target to $225 from $285. Q3 earnings are Tuesday, Nov 17.",
+        "simple": "Nvidia is the largest company in the S&P 500, so its stock moves the whole market. Losing its founder-CEO creates uncertainty about strategy and customer relationships just before a key earnings report.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Nvidia board moved to oust Huang (WSJ scoop)",
+        "body": "The WSJ first reported Nov 12 that Nvidia's board was preparing to remove Huang, citing unnamed sources; he resigned later that day. The story set off a ≈−14% intraday low before the stock pared to −4.3%.",
+        "simple": "A newspaper report that a board was about to fire the CEO turned into a resignation within hours. Board-level governance failures at a company this large affect index funds and retirement accounts that hold it.",
+        "source": "AND Magazine (relaying WSJ)",
+        "url": "https://andmagazine.substack.com/p/morning-brief-13-november-2026"
+      },
+      {
+        "title": "Google faces renewed EU penalty risk over AdSense",
+        "body": "The WSJ reports Google is again at risk of an EU fine tied to its AdSense ad platform. No fine amount was reported in the digest we saw.",
+        "simple": "AdSense is Google's system for placing ads on other websites. EU regulators have fined Google before for anticompetitive ad practices, and another penalty could force changes to how online advertising works in Europe.",
+        "source": "Benton Institute daily digest (relaying WSJ)",
+        "url": "https://www.benton.org/newsletter/daily-digest-11132026-richard-earl-holmes"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Goolsbee: inflation 'inching' into a tough spot",
+        "body": "At Yahoo Finance Invest on Thursday, the Chicago Fed president (2027 voter) said the latest inflation data are not moving the right way and that the Fed is not meeting its price-stability mandate. He did not commit to a rate path.",
+        "simple": "Goolsbee runs the Chicago Fed and has usually sounded patient about rates. When a typically cautious official says the Fed is falling short on inflation, markets read it as more support for a December hike.",
+        "source": "MarketScreener (Bloomberg/Reuters)",
+        "url": "https://www.marketscreener.com/news/fed-s-goolsbee-says-inflation-inching-into-tough-spot-ce785ed8d08efe20"
+      },
+      {
+        "title": "Illinois' First Mid buys Evergreen Bancshares",
+        "body": "Mattoon-based First Mid Bancshares will pay $70.7M in cash and stock for the parent of $932M-asset American Bank of Freedom, ≈110% of tangible book, closing in Q1 2027.",
+        "simple": "A downstate Illinois bank is buying a smaller rival at a modest price relative to its book value. Deals like this are how community banks gain the scale to afford technology and compliance costs.",
+        "source": "ABA Banking Journal",
+        "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-three-states-13/"
+      },
+      {
+        "title": "CME sets lean hog volume record",
+        "body": "Chicago-based CME Group said lean hog futures and options traded a record 209,363 contracts on Nov 9, topping the prior 204,948 record, with hog prices at six-year lows.",
+        "simple": "Farmers and meatpackers use CME futures to lock in prices ahead of time. Record trading volume when prices are at multi-year lows shows producers rushing to hedge, and it means more fee revenue for CME.",
+        "source": "CME Group",
+        "url": "https://investor.cmegroup.com/news-releases/news-release-details/cme-group-sets-new-volume-record-lean-hog-futures-and-options"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Nvidia chief quits as second affair adds to scrutiny",
+        "body": "Front-page NYT story Friday: Huang resigned after reports of a second relationship, the one the NYT itself reported this week. The board is running an internal and external search.",
+        "simple": "The NYT's reporting helped push the board to act. For investors, the issue is less the scandal than who runs the world's most important AI chip company and whether big customers stay.",
+        "source": "NYT front page (PressReader index)",
+        "url": "https://eeditionnytimes.pressreader.com/the-new-york-times"
+      },
+      {
+        "title": "Inflation continues to challenge the US economy",
+        "body": "October CPI rose 0.4% after 0.6% in September. NYT calculations put headline inflation at ≈4% y/y and core at ≈2.8%, and October was the seventh straight month that prices outpaced wages (+3.1% y/y).",
+        "simple": "When prices rise faster than pay, people's paychecks buy less each month. That squeezes households and keeps pressure on the Fed to raise rates.",
+        "source": "GV Wire (syndicating NYT)",
+        "url": "https://gvwire.com/2026/11/10/inflation-continues-to-challenge-us-economy/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Three tails and a steepener",
+      "point": "The 3Y, 10Y and 30Y refunding auctions all tailed, and this morning the 30Y is +3bp while the 2Y is −1bp. The curve has flipped from a Fed-driven bear flattener (Tuesday) to a term-premium bear steepener. That matters for banks: the 5–10Y sector drives AFS marks and AOCI, while deposit costs key off the front end. A steeper curve helps new-loan NIM but hurts the existing bond book."
+    },
+    {
+      "topic": "Why gold fell while oil rose",
+      "point": "Brent +3.3% on Hormuz risk would normally help gold, but gold fell to a one-year low because the dollar (DXY ≈103.2) and real yields dominate when the Fed is hiking. The tell to watch is whether official buying (321t in Q3, PBOC +25.8t in October) puts a floor near $3,870–3,900. If it holds while 10s sit above 5.1%, that's a structural bid, not a cyclical one."
+    },
+    {
+      "topic": "Pricing the cycle in SOFR",
+      "point": "December is already ≈87–89% priced for 25bp, so the edge is in the 2027 strip. Dec-27 SOFR moved 21.5bp vs 12bp for Dec-26 on CPI. A firm PPI and hawkish Fedspeak (Logan's 'two more, possibly rapidly') argue for the back of the whites/reds to keep cheapening relative to December. That's a clean way to express 'more hikes' without paying up for 50bp."
+    }
+  ],
+  "caveats": "WebFetch was blocked for CNBC, Yahoo and TradingView this run, so all figures come from search snippets and secondary outlets (Saxo, Reuters via MarketScreener/Kitco, investingLive, Benzinga). WSJ and NYT items are via digests and front-page indexes, not the original articles. Treasury closes vary by source (10Y 5.10–5.13%). Fed speaker times are from Newsquawk's schedule and are unconfirmed. Index levels are Thursday closes; futures and commodities are overnight snapshots. No confirmed Applied Materials results were found.",
+  "updates": []
+}
