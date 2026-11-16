@@ -11,104 +11,104 @@
     "Equity and AI news: per WSJ-sourced reports, the White House plans to name 20+ AI 'national champions' (Nvidia, Amazon, Microsoft, OpenAI, Anthropic) to fast-track their overseas expansion, with Lutnick possibly announcing within a week. Nvidia (interim CEO Kress) still faces Bessent's 10-day demand for answers and HSBC's downgrade to Hold with a $170 target. Options price an ≈8–11% move for Tuesday's print. Anthropic is set to price on Wed (range $70–78, 825M shares) and trade Thursday as ANT.",
     "Today's calendar: Empire State at 7:30 AM CT (consensus 17.6, prior 25.5; watch prices paid, prior 59.5), NAHB at 9:00, Warsh at 11:00, and the 13F deadline after the close. Tomorrow brings Oct retail sales, IP and Nvidia. On Wednesday the $16B 20Y auction (the Aug 20Y cleared 5.204%) comes ahead of the Oct FOMC minutes."
   ],
-  "markets_asof": "≈12:00 PM CT (noon-ET snapshots; some tiles are morning reads)",
+  "markets_asof": "≈3:00 PM CT close (equities, Treasuries); gold 12:47 PM CT; silver, copper, oil are midday reads",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,476",
-      "change": "−1.14%",
+      "value": "7,427.40",
+      "change": "−1.78%",
       "dir": "down",
-      "note": "12:00 PM ET; Fri close 7,561.67"
+      "note": "−134.27; 3rd straight loss"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "≈24,700",
-      "change": "−1.72%",
+      "value": "≈24,510",
+      "change": "≈−2.49%",
       "dir": "down",
-      "note": "Chip gauge −4.5%; NVDA ≈−2.4%"
+      "note": "Sources 24,510–24,614; NVDA ≈−4.2%"
     },
     {
       "label": "Dow",
-      "value": "≈51,900",
-      "change": "−0.83%",
+      "value": "51,688.96",
+      "change": "−1.26%",
       "dir": "down",
-      "note": "Rotation cushion gone"
+      "note": "−659.41"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Fri close 2,790.49; no intraday print found"
+      "note": "No close found; Fri 2,790.49"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.86%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Timestamp unconfirmed"
+      "value": "≈4.82–4.85%",
+      "change": "≈−1 to −5bp",
+      "dir": "down",
+      "note": "CNBC reads differ"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.13–5.15%",
-      "change": "≈−2 to 0bp",
-      "dir": "flat",
+      "value": "≈5.12%",
+      "change": "≈−3bp",
+      "dir": "down",
       "note": "Fri high 5.174%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.46%",
+      "value": "≈5.47%",
       "change": "≈−1bp",
-      "dir": "flat",
-      "note": "Timestamp unconfirmed; Fri ≈5.47%"
+      "dir": "flat"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec +25bp ≈88–94%",
       "dir": "up",
-      "note": "Warsh gave no December signal"
+      "note": "No new Fed signal"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.4–103.5",
+      "value": "≈103.5",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Highest since Apr 2025"
+      "note": "19-month high"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,865",
-      "change": "≈−0.3–0.5%",
+      "value": "≈$3,848",
+      "change": "−0.8%",
       "dir": "down",
-      "note": "Day range ≈$3,832–3,902"
+      "note": "1:47 PM ET; low $3,830.74 (13-mo low)"
     },
     {
       "label": "Silver",
-      "value": "≈$47.1",
+      "value": "≈$47",
       "change": "≈−3%",
       "dir": "down",
-      "note": "Fri $49.15"
+      "note": "Midday read; no settle found"
     },
     {
       "label": "Copper (LME)",
       "value": "≈$13,290/t",
       "change": "≈−2%",
       "dir": "down",
-      "note": "Comex Dec ≈$6.04/lb"
+      "note": "Midday read"
     },
     {
       "label": "WTI",
       "value": "≈$88",
       "change": "lower",
-      "dir": "down"
+      "dir": "down",
+      "note": "Midday read; no settle found"
     },
     {
       "label": "Brent",
       "value": "≈$95–97",
       "change": "lower",
       "dir": "down",
-      "note": "Sources differ"
+      "note": "Midday read; sources differ"
     }
   ],
   "calendar": [
@@ -395,6 +395,49 @@
   "caveats": "WSJ, NYT and Chicago Tribune were not directly accessible. Their stories come from press-digest and secondary coverage (MarketScreener, MLQ.ai, World in Summary), and the Tribune bucket uses Chicago Sun-Times, ABC7, Quartz and CME releases. Futures, gold, Brent, copper and silver are early-morning snapshots that differ across sources, so they are shown as ranges or ≈. The 2Y, 30Y and real-yield levels are Friday reads. SOFR-implied rates are post-CPI figures from Nov 10 and may have moved. Retail-sales consensus is carried over from prior calendars. Several data sites (Yahoo, Reuters mirrors) could not be fetched in this run.",
   "updates": [
     {
+      "at": "2026-11-16T21:17:33Z",
+      "label": "Close",
+      "headline": "The AI selloff spread into a broad close. The S&P 500 lost ≈1.8% to 7,427, the Nasdaq ≈2.5% and the Dow 659 points, while Treasuries only edged ≈3bp richer and gold slid to a 13-month low, so bonds still aren't hedging stocks going into retail sales and Nvidia.",
+      "points": [
+        "Close: S&P 500 7,427.40 (−134.27, ≈−1.78%), Dow 51,688.96 (−659.41, ≈−1.26%), Nasdaq Comp ≈24,510 (≈−2.49%; sources range 24,510–24,614). That is the S&P's third straight loss, and all three indexes finished well below their noon levels. NVDA fell ≈4.2%. Late selling spread beyond AI names into financials, a point to watch for the KBW bank index. No Russell 2000 close found.",
+        "Rates: the 10Y finished ≈5.12% (≈−3bp; Fri high 5.174%), the 2Y ≈4.82–4.85% (≈−1 to −5bp) and the 30Y ≈5.47% (≈−1bp). The 2s10s spread is a touch steeper at ≈+27–30bp. A 1.8% equity drop bought only a few basis points of rally, which is the morning thesis confirmed: inflation and supply risk are capping duration's hedge value. Dec +25bp is still ≈88–94% with no new Fed signal.",
+        "Warsh: no coverage of the ≈2:15 PM CT fireside chat was available by publication time, so there's nothing to add to the midday read (scenarios, not forecasts; no December hint). The FT reported that Huang allies may lobby for his return while Nvidia's board reportedly isn't planning it, which raises headline risk into Tuesday's print.",
+        "Metals/FX: spot gold ≈$3,848 (−0.8%, Reuters via Polandinsight, 1:47 PM ET) after touching $3,830.74, its lowest in more than a year and ≈31% below January's record. DXY ≈103.5, still at a 19-month high. No reliable settles found for silver, copper or crude; the tiles keep midday reads (silver ≈$47, LME copper ≈$13,290/t, WTI ≈$88, Brent ≈$95–97).",
+        "Tomorrow (Tue, CT): 7:30 AM Oct retail sales (cons ≈+0.2% m/m, control ≈+0.4%; prior +0.8%), 8:15 AM industrial production, 9:00 AM NAHB (prior 29, moved from today). Nvidia FQ3 comes after the close with an implied move of ≈8–11%. The 13F deadline was tonight, and Berkshire's Q3 holdings land after hours."
+      ],
+      "simple": "Stocks had a rough day. Investors dumped computer-chip and AI companies, worried about Nvidia's leadership turmoil before its earnings report on Tuesday, and by the end of the day the selling had spread to banks too. Usually when stocks fall, people buy government bonds as a safe place, which pushes yields (the interest rate bonds pay) down a lot, but today yields barely fell. That's a sign investors are still worried about inflation and more Fed rate hikes. Gold kept falling because a strong dollar and high yields make a metal that pays no interest less attractive.",
+      "sources": [
+        {
+          "name": "Korea Times / Reuters (closing levels)",
+          "url": "https://www.koreatimes.co.kr/world/20261117/nasdaq-sp-500-fall-over-1-in-run-up-to-nvidia-results-anthropic-debut"
+        },
+        {
+          "name": "CNBC (stock market close)",
+          "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Quartz (Dow, Nasdaq)",
+          "url": "https://qz.com/stocks-slide-nvidia-ai-names-earnings-anthropic-ipo-111626"
+        },
+        {
+          "name": "Yahoo Finance (live)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+        },
+        {
+          "name": "CNBC (Treasury yields)",
+          "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "name": "Polandinsight / Reuters (gold low)",
+          "url": "https://polandinsight.com/gold-price-lowest-year-november-2026/"
+        },
+        {
+          "name": "BNN Bloomberg (AI drag, financials)",
+          "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-16T18:17:11Z",
       "label": "Midday",
       "headline": "Warsh gave no December signal and set out AI scenarios from a productivity boom to an equity bust, while the chip rout deepened. By noon ET the Nasdaq was ≈−1.7% and the S&P ≈−1.1%, and the 10Y held at ≈5.13–5.15%.",
@@ -485,5 +528,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16T18:17:11Z"
+  "updatedAt": "2026-11-16T21:17:33Z"
 }
