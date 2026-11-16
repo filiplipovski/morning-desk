@@ -11,28 +11,28 @@
     "Equity and AI news: per WSJ-sourced reports, the White House plans to name 20+ AI 'national champions' (Nvidia, Amazon, Microsoft, OpenAI, Anthropic) to fast-track their overseas expansion, with Lutnick possibly announcing within a week. Nvidia (interim CEO Kress) still faces Bessent's 10-day demand for answers and HSBC's downgrade to Hold with a $170 target. Options price an ≈8–11% move for Tuesday's print. Anthropic is set to price on Wed (range $70–78, 825M shares) and trade Thursday as ANT.",
     "Today's calendar: Empire State at 7:30 AM CT (consensus 17.6, prior 25.5; watch prices paid, prior 59.5), NAHB at 9:00, Warsh at 11:00, and the 13F deadline after the close. Tomorrow brings Oct retail sales, IP and Nvidia. On Wednesday the $16B 20Y auction (the Aug 20Y cleared 5.204%) comes ahead of the Oct FOMC minutes."
   ],
-  "markets_asof": "≈9:20 AM CT (opening prints; intraday ranges where sources differ)",
+  "markets_asof": "≈12:00 PM CT (noon-ET snapshots; some tiles are morning reads)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,513.98 (open)",
-      "change": "−0.63% open; ≈−0.9% after",
+      "value": "≈7,476",
+      "change": "−1.14%",
       "dir": "down",
-      "note": "Fri close 7,561.67"
+      "note": "12:00 PM ET; Fri close 7,561.67"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "24,853.35 (open)",
-      "change": "−1.13% open; ≈−1.4–1.5% after",
+      "value": "≈24,700",
+      "change": "−1.72%",
       "dir": "down",
-      "note": "Chips −4–6% before NVDA Tue"
+      "note": "Chip gauge −4.5%; NVDA ≈−2.4%"
     },
     {
       "label": "Dow",
-      "value": "52,267.06 (open)",
-      "change": "−0.15%",
+      "value": "≈51,900",
+      "change": "−0.83%",
       "dir": "down",
-      "note": "Rotation cushions the blue chips"
+      "note": "Rotation cushion gone"
     },
     {
       "label": "Russell 2000",
@@ -43,72 +43,72 @@
     },
     {
       "label": "UST 2Y",
-      "value": "—",
-      "change": "—",
+      "value": "≈4.86%",
+      "change": "≈flat",
       "dir": "flat",
-      "note": "Fri ≈4.86%; no Monday print found"
+      "note": "Timestamp unconfirmed"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.131%",
-      "change": "≈−2bp",
-      "dir": "down",
-      "note": "Fri high 5.174%; Empire prices cooled"
+      "value": "≈5.13–5.15%",
+      "change": "≈−2 to 0bp",
+      "dir": "flat",
+      "note": "Fri high 5.174%"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
+      "value": "≈5.46%",
+      "change": "≈−1bp",
       "dir": "flat",
-      "note": "Fri ≈5.47%; no Monday print found"
+      "note": "Timestamp unconfirmed; Fri ≈5.47%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈88.5%",
+      "change": "Dec +25bp ≈88–94%",
       "dir": "up",
-      "note": "One FedWatch read, rest on 50bp; FOMC Dec 8–9"
+      "note": "Warsh gave no December signal"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.4",
+      "value": "≈103.4–103.5",
       "change": "≈flat",
       "dir": "flat",
       "note": "Highest since Apr 2025"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,852–3,877",
-      "change": "lower",
+      "value": "≈$3,865",
+      "change": "≈−0.3–0.5%",
       "dir": "down",
-      "note": "Near 13-month low"
+      "note": "Day range ≈$3,832–3,902"
     },
     {
       "label": "Silver",
-      "value": "≈$47.2",
-      "change": "≈−4% vs Fri $49.15",
-      "dir": "down"
+      "value": "≈$47.1",
+      "change": "≈−3%",
+      "dir": "down",
+      "note": "Fri $49.15"
     },
     {
       "label": "Copper (LME)",
-      "value": "≈$13,250/t",
-      "change": "≈−2.5%",
+      "value": "≈$13,290/t",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "China data miss, tech selloff"
+      "note": "Comex Dec ≈$6.04/lb"
     },
     {
       "label": "WTI",
-      "value": "≈$86–88",
-      "change": "≈−1%",
-      "dir": "down",
-      "note": "Sources differ; supply outweighs Gulf risk"
+      "value": "≈$88",
+      "change": "lower",
+      "dir": "down"
     },
     {
       "label": "Brent",
-      "value": "low-to-mid $90s",
+      "value": "≈$95–97",
       "change": "lower",
       "dir": "down",
-      "note": "Precise quote not confirmed"
+      "note": "Sources differ"
     }
   ],
   "calendar": [
@@ -395,6 +395,53 @@
   "caveats": "WSJ, NYT and Chicago Tribune were not directly accessible. Their stories come from press-digest and secondary coverage (MarketScreener, MLQ.ai, World in Summary), and the Tribune bucket uses Chicago Sun-Times, ABC7, Quartz and CME releases. Futures, gold, Brent, copper and silver are early-morning snapshots that differ across sources, so they are shown as ranges or ≈. The 2Y, 30Y and real-yield levels are Friday reads. SOFR-implied rates are post-CPI figures from Nov 10 and may have moved. Retail-sales consensus is carried over from prior calendars. Several data sites (Yahoo, Reuters mirrors) could not be fetched in this run.",
   "updates": [
     {
+      "at": "2026-11-16T18:17:11Z",
+      "label": "Midday",
+      "headline": "Warsh gave no December signal and set out AI scenarios from a productivity boom to an equity bust, while the chip rout deepened. By noon ET the Nasdaq was ≈−1.7% and the S&P ≈−1.1%, and the 10Y held at ≈5.13–5.15%.",
+      "points": [
+        "Warsh (11:00 AM CT, SF Fed): he described AI outcomes as 'illustrative scenarios, not forecasts.' The upside case is faster real growth with employment near full capacity. The downside case is that the boom disappoints, stocks bust, and the economy recovers 'without the productivity gains' (CNBC, Axios). He declined to comment on near-term policy or December, so the morning's 'productivity vs overheating' test came out a draw. Dec +25bp pricing is still ≈88–94% depending on the source.",
+        "Equities at 12:00 PM ET: S&P 500 −1.14% (≈7,476), Nasdaq Comp −1.72% (≈24,700), Dow −0.83% (≈51,900); levels are derived from Friday's closes. The Dow gave up the open's rotation cushion (−0.15%). A chip gauge was −4.5% and NVDA ≈−2.4% before Tuesday's print.",
+        "Rates: the 10Y is ≈5.13–5.15% (sources differ), essentially unchanged from the post-open level. The curve is approximately 2Y ≈4.86%, 5Y ≈4.97% and 30Y ≈5.46%, but those timestamps are unconfirmed. The equity selloff hasn't produced a flight-to-quality bid, so stocks and bonds are not hedging each other at these yields. Barr and Williams are also on today's Fedspeak list.",
+        "Cross-asset: gold ≈$3,865 (Fortune 9 AM ET read, inside a $3,832–3,902 range), silver ≈$47.1 (≈−3%), LME copper ≈$13,290/t, Brent ≈$95–97, WTI ≈$88, DXY ≈103.4–103.5. Moves since the open are small. Metals remain pinned by the dollar, the 5% 10Y and the China miss.",
+        "Correction to the morning calendar: the November NAHB index is listed for Tue Nov 17, 9:00 AM CT (Forex Factory, Investing.com), not today. The prior reading is 29, a 14-year low. No new bank or deal headlines since the UniCredit–Commerzbank clearance. Still ahead: Warsh's ≈2:15 PM CT fireside chat and the 13F deadline after the close."
+      ],
+      "simple": "The Fed chair spoke about artificial intelligence and laid out several possible futures: AI could make workers far more productive, or the hype could fade and stocks could crash. He refused to say what the Fed will do with interest rates in December, so bond markets barely moved. Stocks kept falling as investors sold chip companies before Nvidia's earnings on Tuesday, and gold and silver stayed low because a strong dollar and high interest rates make non-interest-paying metals less attractive.",
+      "sources": [
+        {
+          "name": "CNBC (Warsh remarks)",
+          "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html"
+        },
+        {
+          "name": "Axios (Warsh on AI bust risk)",
+          "url": "https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks"
+        },
+        {
+          "name": "Newsquawk (Fedspeak list)",
+          "url": "https://www.newsquawk.com/headlines/todays-fedspeak-16th-nov-2026-includes-barr-williams-warsh"
+        },
+        {
+          "name": "Motley Fool / Yahoo Finance (midday)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-16-174502059.html"
+        },
+        {
+          "name": "BNN Bloomberg (Nvidia, AI drag)",
+          "url": "https://bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist"
+        },
+        {
+          "name": "Fortune (gold)",
+          "url": "https://fortune.com/article/current-price-of-gold-11-16-2026"
+        },
+        {
+          "name": "Fortune (oil)",
+          "url": "https://fortune.com/article/price-of-oil-11-16-2026"
+        },
+        {
+          "name": "Forex Factory (NAHB schedule)",
+          "url": "https://www.forexfactory.com/calendar/162-us-nahb-housing-market-index"
+        }
+      ]
+    },
+    {
       "at": "2026-11-16T15:21:45Z",
       "label": "Post-open",
       "headline": "Empire State collapsed to 7.8 from 25.5 (consensus ≈17–18) with prices paid down 14 points, nudging the 10Y about 2bp lower to ≈5.13%, but the open is all about AI: Nasdaq −1.1–1.5%, chips −4–6% before Nvidia.",
@@ -438,5 +485,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16T15:21:45Z"
+  "updatedAt": "2026-11-16T18:17:11Z"
 }
