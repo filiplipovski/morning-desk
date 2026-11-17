@@ -11,105 +11,105 @@
     "Commodities: oil has dropped back sharply. Reuters had Brent at $91.66 (−0.8%) and WTI at $84.99 (−0.9%) at 0430 GMT. Gulf exports are back at pre-war levels and the IEA sees a Q4 surplus, so the Hormuz premium is fading even as attacks continue. Gold bounced ≈+0.7% to ≈$3,881 after a 14-month low, silver is $47.38 (+0.9%), and LME copper is ≈$13,225/t, its lowest since July 1. DXY is ≈103.5, a 19-month high, with EUR/USD ≈1.10 and USD/JPY ≈159.4, close to intervention territory.",
     "Banks and deals: the KBW Bank Index (BKX) fell ≈1.6–1.7% Monday, with JPM ≈−2% after a Chase 'software bug' delayed transactions and spilled into Zelle and other banks (not cyber, according to the bank). Home Depot beat this morning: adj. EPS $3.86 vs ≈$3.84–3.86 and revenue $43.4B vs ≈$42.7–42.8B, a useful consumer read before retail sales. Anthropic prices its IPO Wednesday: 825M shares at $70–78, raising up to $64.4B, with Nasdaq trading Thursday."
   ],
-  "markets_asof": "≈8:45–9:15 AM CT Tue (stocks ≈8:45, yields post-data)",
+  "markets_asof": "≈12:15 PM CT Tue (some tiles earlier; see notes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,400",
-      "change": "−0.25%",
+      "value": "≈7,388",
+      "change": "−0.39%",
       "dir": "down",
-      "note": "≈8:45 AM CT; Mon close 7,416.59"
+      "note": "Reuters midday; near multi-month lows"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈24,470",
-      "change": "≈−0.2%",
-      "dir": "flat",
-      "note": "Chips soft ahead of NVDA"
+      "value": "≈24,428",
+      "change": "−0.33%",
+      "dir": "down",
+      "note": "Reuters midday; NVDA ≈−1.2%"
     },
     {
       "label": "Dow",
-      "value": "≈51,270",
-      "change": "−337 (−0.7%)",
+      "value": "≈51,255",
+      "change": "≈−0.6%",
       "dir": "down",
-      "note": "Home Depot −≈2% on CEO change"
+      "note": "Late-morning print; no fresh midday quote"
     },
     {
       "label": "Russell 2000",
       "value": "2,742.94",
       "change": "—",
       "dir": "flat",
-      "note": "Mon close; no fresh intraday quote"
+      "note": "Mon close; no intraday quote found"
     },
     {
       "label": "UST 2Y",
-      "value": "4.851%",
+      "value": "≈4.825%",
       "change": "≈+2bp d/d",
       "dir": "up",
-      "note": "CNBC post-data; +4.5bp from early 4.806%"
+      "note": "Mitrade; off 4.851% post-data high"
     },
     {
       "label": "UST 10Y",
-      "value": "5.145%",
-      "change": "≈+2bp",
-      "dir": "up",
-      "note": "CNBC post-data"
+      "value": "≈5.122%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Mitrade; post-data high 5.145%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.483%",
+      "value": "≈5.48%",
       "change": "≈+1bp",
-      "dir": "up",
-      "note": "2s10s ≈+29bp, flatter"
+      "dir": "flat",
+      "note": "Post-data CNBC level; no fresh midday print"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec +25bp ≈95%",
       "dir": "up",
-      "note": "CME FedWatch; Musalem: real rate +≈1pt by spring"
+      "note": "CME FedWatch; Williams 1:25 PM CT"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.6",
-      "change": "≈+0.1–0.2%",
-      "dir": "up",
-      "note": "Tested 103.6–103.7 after data (FXStreet)"
+      "value": "≈103.52",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Mitrade; 19-month-high area"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,860–3,880",
-      "change": "≈flat to +0.6%",
-      "dir": "flat",
-      "note": "Fortune vs Centrino, differ by timing"
+      "value": "≈$3,856",
+      "change": "−0.72%",
+      "dir": "down",
+      "note": "Mitrade; intraday low $3,832"
     },
     {
       "label": "Silver",
-      "value": "≈$47.7",
-      "change": "≈+1–1.5%",
-      "dir": "up",
-      "note": "Fortune/Centrino"
+      "value": "≈$46.9–47.5",
+      "change": "≈−0.5% to −3.6%",
+      "dir": "down",
+      "note": "Kitco $47.50 at 11:10 AM CT; Mitrade $46.86"
     },
     {
       "label": "Copper (LME 3M)",
       "value": "≈$13,210/t",
       "change": "≈−0.4%",
       "dir": "down",
-      "note": "ADMISI; Mon official settle $13,375"
+      "note": "Morning ADMISI level; no fresh print"
     },
     {
       "label": "WTI",
-      "value": "≈$85",
-      "change": "≈−0.9%",
-      "dir": "down",
-      "note": "Morning Reuters level; no fresh print found"
+      "value": "≈$85–86",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Sources conflict; no settlement yet"
     },
     {
       "label": "Brent",
-      "value": "≈$91.7",
-      "change": "≈−0.8%",
-      "dir": "down",
-      "note": "Centrino; one source shows ≈$94.9"
+      "value": "≈$91–93",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Sources conflict; no settlement yet"
     }
   ],
   "calendar": [
@@ -431,6 +431,49 @@
   "caveats": "WebFetch was blocked for most outlets this run, so figures come from search snippets of Reuters, CNBC, AP, Saxo and others. WSJ and NYT items were taken from Reuters press-digest and print-listing headlines and filled in with other outlets' reporting. Pre-market futures readings conflict across sources (Dow −0.3% to +0.1%). Retail-sales consensus varies from +0.2% to +0.6%. VIX close figures range from 22.9 to 23.7. Monday's AP final closes are lower than the midday or close reads in yesterday's updates. The Quebecor–Telus value currency isn't confirmed. Fed speaker times today weren't confirmed.",
   "updates": [
     {
+      "at": "2026-11-17T18:17:12Z",
+      "label": "Midday",
+      "headline": "Stocks extended losses into midday with the S&P near multi-month lows. Treasuries gave back about half of the post-data selloff. Gold broke to ≈$3,832 intraday, and Huang said he'd return as Nvidia CEO if asked, though reports say the board isn't considering it.",
+      "points": [
+        "Equities: per Reuters, the S&P 500 was −0.39% at ≈7,388 and the Nasdaq −0.33% at ≈24,428, both near multi-month lows. The Dow's last print was ≈51,255 (−0.6%). Losses widened from the ≈−0.25% S&P at 8:45 AM CT.",
+        "Nvidia: shares were down more than 3% early, then pared to ≈−1.2% after Huang said he'd be 'honored' to return as CEO if the board judged it in shareholders' interest. CNBC and the WSJ report the board isn't considering it. Earnings are still after the close with an ≈±8% implied move.",
+        "Rates: Mitrade cites safe-haven buying that pulled the 10Y back to ≈5.122% (from 5.145% post-data) and the 2Y to ≈4.825% (from 4.851%). The front end stays cheaper on the day after Musalem's call; reports put his ask at 100–150bp more tightening by spring 2027, i.e. up to four more hikes. The morning brief's 'Dec hike only' framing undersells that. Williams speaks at 1:25 PM CT.",
+        "Metals: gold fell −0.72% to ≈$3,856 after an intraday low of $3,832.20, which wiped out the morning bounce and sits near a one-year low. Silver is ≈$46.9–47.5 (Mitrade −3.6%; Kitco $47.50 at 11:10 AM CT), reversing its early +1%. DXY is ≈103.5. WTI ≈$85–86 and Brent ≈$91–93, with sources conflicting.",
+        "Deals: Anthropic kept its $70–78 range in an amended filing Tuesday, but CNBC sources say it will likely price above the range Wednesday. In banking, Mercantile Bank (MBWM) won FDIC and Michigan approval to merge Eastern Michigan Bank, with closing expected in Q1 2027."
+      ],
+      "simple": "Stocks kept sliding as investors waited for Nvidia's results tonight. Nvidia is the bellwether for the AI boom, and its former CEO's offer to come back added to the drama. Some money moved into Treasuries (government bonds) as a safe place, which nudged their yields (the interest they pay) down a little. Gold, which pays no interest, keeps losing out when bonds pay over 5% and the dollar is strong, so it fell to its lowest level in about a year. Anthropic's huge stock-market debut still looks in high demand, which suggests investors haven't given up on AI.",
+      "sources": [
+        {
+          "name": "MarketScreener (Reuters)",
+          "url": "https://www.marketscreener.com/news/nasdaq-set-for-higher-open-as-tech-steadies-ahead-of-nvidia-results-anthropic-ipo-ce785edcdb8dff24"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-says-he-would-return-as-nvidia-ceo-if-asked-shares-gain-5033563"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+        },
+        {
+          "name": "Mitrade",
+          "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-pressured-dollar-tech-selloff-hormuz"
+        },
+        {
+          "name": "Pomegra",
+          "url": "https://pomegra.io/news/musalem-urges-fed-rate-hikes-sooner-as-yields-climb"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/charts/silver"
+        },
+        {
+          "name": "PR Newswire (Mercantile)",
+          "url": "https://www.prnewswire.com/news-releases/mercantile-bank-corporation-announces-fdic-and-michigan-difs-approval-of-merger-of-mercantile-bank-and-eastern-michigan-bank-302942315.html"
+        }
+      ]
+    },
+    {
       "at": "2026-11-17T15:18:08Z",
       "label": "Post-open",
       "headline": "Retail sales beat underneath: the control group rose 0.6% against a 0.4% consensus. Musalem's call for about a point of real tightening by spring pushed the 2Y up ≈5bp from its early low, and stocks slipped ahead of Nvidia.",
@@ -474,5 +517,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17T15:18:08Z"
+  "updatedAt": "2026-11-17T18:17:12Z"
 }
