@@ -11,105 +11,112 @@
     "Commodities: oil has dropped back sharply. Reuters had Brent at $91.66 (−0.8%) and WTI at $84.99 (−0.9%) at 0430 GMT. Gulf exports are back at pre-war levels and the IEA sees a Q4 surplus, so the Hormuz premium is fading even as attacks continue. Gold bounced ≈+0.7% to ≈$3,881 after a 14-month low, silver is $47.38 (+0.9%), and LME copper is ≈$13,225/t, its lowest since July 1. DXY is ≈103.5, a 19-month high, with EUR/USD ≈1.10 and USD/JPY ≈159.4, close to intervention territory.",
     "Banks and deals: the KBW Bank Index (BKX) fell ≈1.6–1.7% Monday, with JPM ≈−2% after a Chase 'software bug' delayed transactions and spilled into Zelle and other banks (not cyber, according to the bank). Home Depot beat this morning: adj. EPS $3.86 vs ≈$3.84–3.86 and revenue $43.4B vs ≈$42.7–42.8B, a useful consumer read before retail sales. Anthropic prices its IPO Wednesday: 825M shares at $70–78, raising up to $64.4B, with Nasdaq trading Thursday."
   ],
-  "markets_asof": "≈12:15 PM CT Tue (some tiles earlier; see notes)",
+  "markets_asof": "≈3:00 PM CT Tue close (some tiles midday/earlier; see notes)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,388",
-      "change": "−0.39%",
+      "value": "≈7,341",
+      "change": "−1.02%",
       "dir": "down",
-      "note": "Reuters midday; near multi-month lows"
+      "note": "Close; 4th straight loss"
     },
     {
-      "label": "Nasdaq Comp",
-      "value": "≈24,428",
-      "change": "−0.33%",
+      "label": "Nasdaq 100",
+      "value": "—",
+      "change": "≈−0.72%",
       "dir": "down",
-      "note": "Reuters midday; NVDA ≈−1.2%"
+      "note": "Close; software led, NVDA ≈−1%"
     },
     {
       "label": "Dow",
-      "value": "≈51,255",
-      "change": "≈−0.6%",
+      "value": "≈50,760",
+      "change": "−849 (−1.64%)",
       "dir": "down",
-      "note": "Late-morning print; no fresh midday quote"
+      "note": "Close; Breaking The News/Yahoo"
     },
     {
       "label": "Russell 2000",
-      "value": "2,742.94",
-      "change": "—",
-      "dir": "flat",
-      "note": "Mon close; no intraday quote found"
+      "value": "≈2,724",
+      "change": "≈−0.7%",
+      "dir": "down",
+      "note": "Benzinga midday; no close found"
+    },
+    {
+      "label": "VIX",
+      "value": "≈25.3",
+      "change": "≈+10%",
+      "dir": "up",
+      "note": "Benzinga midday"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.825%",
-      "change": "≈+2bp d/d",
-      "dir": "up",
-      "note": "Mitrade; off 4.851% post-data high"
+      "value": "≈4.80%",
+      "change": "≈flat/−",
+      "dir": "flat",
+      "note": "Trading Economics; not official close"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.122%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Mitrade; post-data high 5.145%"
+      "value": "≈5.10%",
+      "change": "≈−2bp",
+      "dir": "down",
+      "note": "Yields slipped into close (Benzinga)"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.48%",
-      "change": "≈+1bp",
-      "dir": "flat",
-      "note": "Post-data CNBC level; no fresh midday print"
+      "value": "≈5.46%",
+      "change": "≈−1bp",
+      "dir": "down",
+      "note": "Trading Economics"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec +25bp ≈95%",
       "dir": "up",
-      "note": "CME FedWatch; Williams 1:25 PM CT"
+      "note": "Williams: one more hike, not 'dramatic'"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.52",
+      "value": "≈103.5",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Mitrade; 19-month-high area"
+      "note": "No fresh close; 19-month-high area"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,856",
-      "change": "−0.72%",
+      "value": "≈$3,867",
+      "change": "≈−0.3%",
       "dir": "down",
-      "note": "Mitrade; intraday low $3,832"
+      "note": "JournalArta midday; earlier tile was Mon data"
     },
     {
       "label": "Silver",
-      "value": "≈$46.9–47.5",
-      "change": "≈−0.5% to −3.6%",
-      "dir": "down",
-      "note": "Kitco $47.50 at 11:10 AM CT; Mitrade $46.86"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable Tue print; Mon ≈$46.9"
     },
     {
       "label": "Copper (LME 3M)",
       "value": "≈$13,210/t",
       "change": "≈−0.4%",
       "dir": "down",
-      "note": "Morning ADMISI level; no fresh print"
+      "note": "Morning level; no settle found"
     },
     {
       "label": "WTI",
       "value": "≈$85–86",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Sources conflict; no settlement yet"
+      "note": "Mon settle $85.72; Tue settle not found"
     },
     {
       "label": "Brent",
-      "value": "≈$91–93",
+      "value": "≈$91–92",
       "change": "≈flat",
       "dir": "flat",
-      "note": "Sources conflict; no settlement yet"
+      "note": "Mon settle $92.44; Tue settle not found"
     }
   ],
   "calendar": [
@@ -431,6 +438,53 @@
   "caveats": "WebFetch was blocked for most outlets this run, so figures come from search snippets of Reuters, CNBC, AP, Saxo and others. WSJ and NYT items were taken from Reuters press-digest and print-listing headlines and filled in with other outlets' reporting. Pre-market futures readings conflict across sources (Dow −0.3% to +0.1%). Retail-sales consensus varies from +0.2% to +0.6%. VIX close figures range from 22.9 to 23.7. Monday's AP final closes are lower than the midday or close reads in yesterday's updates. The Quebecor–Telus value currency isn't confirmed. Fed speaker times today weren't confirmed.",
   "updates": [
     {
+      "at": "2026-11-17T21:17:34Z",
+      "label": "Close",
+      "headline": "The afternoon turned into a rout. The Dow closed down ≈849 points (−1.6%) and the S&P ≈−1.0%, with software rather than chips leading as Salesforce fell ≈9–10% a day before Anthropic prices. Williams said another hike is likely but nothing 'dramatic', so Treasuries ended slightly richer.",
+      "points": [
+        "Close (Breaking The News/Yahoo): Dow −849 (−1.64%, ≈50,760), S&P 500 −1.02% (≈7,341, a fourth straight loss), Nasdaq 100 ≈−0.7%. Benzinga had the Russell 2000 ≈2,724 (−0.7%) and VIX ≈25.3 (+10%) at midday. The midday read of −0.39% S&P was too benign: selling accelerated after 12:15 PM CT.",
+        "Leadership changed. Salesforce fell ≈9.4–9.7% (≈$194, ≈−$17B of market cap), and ServiceNow (≈−7%), Intuit and Microsoft also dropped. Reports blame fear that AI agents will undercut per-seat software pricing, plus funds raising cash for Anthropic's ≈$64B IPO. NVDA held up better (≈−1%) going into its print, which is due shortly after this update.",
+        "Williams (NY Fed, Axios summit): inflation is 'stubbornly high' and shocks are spilling into broader prices, so one more hike is probably needed. He rejected an outsized move, and AI investment could argue for more tightening in 2027. Next to Musalem's 100–150bp, this backs a 25bp December hike, not 50bp. Dec +25bp stays ≈95% (FedWatch, earlier read).",
+        "Rates: Benzinga says Treasury yields slipped into the close. Trading Economics shows the 10Y ≈5.10%, 2Y ≈4.80% and 30Y ≈5.46%, which erases most of the post-retail-sales cheapening (10Y high 5.145%). These are not official closing marks.",
+        "Metals: JournalArta had gold ≈$3,867 (−0.3%) at midday. Correction: the midday tile ($3,856, −0.72%, $3,832 low) and the silver −3.6% matched Kitco's Monday report, so Tuesday's gold losses were smaller than shown. No Tuesday Kitco PM report, copper or oil settlement could be found, so those tiles are carried with notes. Up next: NVDA call at 4 PM CT, the 20Y auction Wed 12 PM CT, FOMC minutes Wed 1 PM CT and Anthropic pricing Wed evening."
+      ],
+      "simple": "Stocks had a bad afternoon. The Dow is an index of 30 large US companies, and it fell about 1.6%. The worst hit were business-software companies like Salesforce, because investors fear that AI 'agents' (programs that do tasks on their own) will replace software licensed per user. Some investors are also selling to raise cash for Anthropic's huge stock-market debut this week. A senior Fed official said interest rates probably need to rise once more but not sharply, so bond yields (the interest Treasuries pay) dipped a bit. Nvidia's results tonight will set the mood for tomorrow.",
+      "sources": [
+        {
+          "name": "Breaking The News",
+          "url": "https://breakingthenews.net/Article/Dow-tanks-850-pts-at-close-with-eyes-on-Nvidia-earnings/67584886"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63359152/stock-market-today-salesforce-software-selloff-anthropic-ipo-nvidia-november-17"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4673872-salesforce-leads-enterprise-software-stocks-lower-ahead-of-anthropics-ipo"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move"
+        },
+        {
+          "name": "Seeking Alpha (Williams)",
+          "url": "https://seekingalpha.com/news/4673886-ny-feds-williams-sees-no-need-for-a-dramatic-rate-move"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+        },
+        {
+          "name": "JournalArta",
+          "url": "https://journalarta.com/en/2026/11/17/wall-street-midday-nasdaq-leads-as-chip-shares-stay-under-pressure/"
+        },
+        {
+          "name": "Kitco (Mon PM report)",
+          "url": "https://www.kitco.com/news/article/2026-11-16/gold-silver-extend-losses-tech-selloff-dollar-pressure-metals-kitco-pm"
+        }
+      ]
+    },
+    {
       "at": "2026-11-17T18:17:12Z",
       "label": "Midday",
       "headline": "Stocks extended losses into midday with the S&P near multi-month lows. Treasuries gave back about half of the post-data selloff. Gold broke to ≈$3,832 intraday, and Huang said he'd return as Nvidia CEO if asked, though reports say the board isn't considering it.",
@@ -517,5 +571,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17T18:17:12Z"
+  "updatedAt": "2026-11-17T21:17:34Z"
 }
