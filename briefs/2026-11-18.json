@@ -11,112 +11,112 @@
     "Consumer earnings were strong, but much of it came from tariff refunds. Target comps were +5.6% (vs ≈+3.6% est.) with EPS $2.65 vs ≈$2.07, including $301M of pretax tariff-refund benefit. Lowe's adj. EPS was $3.10 vs $2.88, but $0.34 of that came from IEEPA tariff refunds; it raised FY sales to ≈$92.5B and held EPS at $12.25. TJX reports before the open (consensus EPS $1.33, revenue $15.81B). October housing starts are at 7:30 AM CT.",
     "Capital markets: Anthropic prices tonight and trades Thursday on Nasdaq as 'ANT'. The order book is reportedly ≈6–7x covered, and the WSJ and CNBC expect pricing above the $70–78 range (possibly >$80). Banking: JPMorgan named CIB CFO Bregje de Best (43) to succeed Jeremy Barnum as CFO after Q1 2027; Barnum becomes Vice Chairman. Ameris agreed to buy Bank of Central Florida (≈$1.2B assets) for ≈$180M in stock."
   ],
-  "markets_asof": "Post-open ≈9:15 AM CT (indices = Reuters opening prints; Dow since ≈−400)",
+  "markets_asof": "≈11:50 AM–12:15 PM CT (indices = Yahoo Finance live blog 11:50 AM CT; metals ex-gold not refreshed)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,355.69",
-      "change": "+0.21%",
-      "dir": "up",
-      "note": "At the open (Reuters); fading since"
+      "value": "≈7,319",
+      "change": "−0.29%",
+      "dir": "down",
+      "note": "Yahoo live blog 11:50 AM CT; level derived from % move"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "24,486.18",
-      "change": "+0.65%",
+      "value": "≈24,380",
+      "change": "+0.22%",
       "dir": "up",
-      "note": "At the open (Reuters)"
+      "note": "Gave back most of +0.65% open"
     },
     {
       "label": "Dow",
-      "value": "50,627.36",
-      "change": "−132 (−0.26%)",
+      "value": "≈50,170–50,310",
+      "change": "≈−0.9% to −1.2%",
       "dir": "down",
-      "note": "At the open; CNBC later ≈−400 pts"
+      "note": "Sources differ by timestamp"
     },
     {
       "label": "Russell 2000",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No reliable intraday print; Tue close 2,701.87"
+      "value": "2,731.04",
+      "change": "+1.08%",
+      "dir": "up",
+      "note": "Small caps outperforming"
     },
     {
       "label": "NVDA",
       "value": "—",
-      "change": "<−1%",
+      "change": "≈−2.1% to −2.4%",
       "dir": "down",
-      "note": "Reversed ≈+4–5% pre-market gain (CNBC); prior close $155.46"
+      "note": "Full reversal of ≈+4–5% pre-market pop"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.83%",
-      "change": "≈+3–4bp",
-      "dir": "up",
-      "note": "Jumped on Waller's 50bp comments"
+      "value": "≈4.78%",
+      "change": "≈−0.5bp",
+      "dir": "flat",
+      "note": "Round-tripped: peaked 4.83% on Waller, then faded (CNBC)"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.10%",
-      "change": "≈flat",
-      "dir": "flat",
-      "note": "Approximate; Tue ≈5.109%"
+      "value": "≈5.06–5.10%",
+      "change": "≈flat to −4bp",
+      "dir": "down",
+      "note": "Approximate; sources differ"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.44%",
-      "change": "≈flat",
+      "change": "—",
       "dir": "flat",
-      "note": "Approximate; early-Wed read; 20Y auction at noon CT"
+      "note": "No fresh midday print; morning read"
+    },
+    {
+      "label": "20Y auction",
+      "value": "5.459%",
+      "change": "b/c 2.63",
+      "dir": "flat",
+      "note": "Reported 'in line'; single source (Helious); Oct 5.469%, b/c 2.73"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈95%; 50bp ≈10%",
+      "change": "Dec 50bp ≈11–12.5%",
       "dir": "up",
-      "note": "FOMC Dec 8–9"
+      "note": "+25bp ≈95–100%; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
       "value": "≈103.7",
-      "change": "≈+0.3%",
+      "change": "—",
       "dir": "up",
-      "note": "Near 19-month high"
+      "note": "Fresh 52-week high reported; no exact midday print"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,790",
-      "change": "≈−1.9%",
+      "value": "≈$3,742",
+      "change": "≈−3.1%",
       "dir": "down",
-      "note": "One-year low area"
+      "note": "New one-year low; Yahoo live blog"
     },
     {
       "label": "Silver",
       "value": "≈$46.0",
-      "change": "≈−2.8%",
+      "change": "—",
       "dir": "down",
-      "note": "COMEX Live"
+      "note": "Morning read; no reliable midday print"
     },
     {
       "label": "Copper (COMEX)",
       "value": "≈$5.90/lb",
-      "change": "≈−1.5%",
+      "change": "—",
       "dir": "down",
-      "note": "LME low $13,019/t overnight"
+      "note": "Morning read; no reliable midday print"
     },
     {
       "label": "WTI",
-      "value": "≈$84–85",
-      "change": "≈−1–2%",
+      "value": "≈$84",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "Sources differ; EIA inventories ≈9:30 AM CT"
-    },
-    {
-      "label": "Housing starts (Oct)",
-      "value": "1.309M",
-      "change": "+9.9% m/m",
-      "dir": "up",
-      "note": "Permits 1.295M (−7.4%)"
+      "note": "EIA crude +3.4M bbl vs ≈+0.06–1M exp.; S&P energy ≈−3%"
     }
   ],
   "calendar": [
@@ -431,6 +431,49 @@
   "caveats": "WSJ and NYT items come via Reuters press digests (Boursorama, rallies.ai); Tribune is paywalled, so Chicago items use the Sun-Times, Bond Buyer and CME. Index levels are Tuesday's AP closes; futures, yields, gold, silver and WTI are early-morning reads from varying sources and times. The 2Y is approximate, housing-starts consensus differs by source,. Brent was ≈$93 at Tuesday's close; no reliable Wednesday print was found. Yahoo, CNBC and other direct page fetches were blocked in this run, so figures come from search summaries.",
   "updates": [
     {
+      "at": "2026-11-18T18:17:11Z",
+      "label": "Midday",
+      "headline": "The 20Y auction cleared without drama and the 2Y round-tripped back to ≈4.78%, but gold extended its slide to ≈$3,742 (−3%) and the Nvidia bounce is fully gone. NVDA is down ≈2% and the Dow ≈1%, while small caps rally into the 1 PM CT minutes.",
+      "points": [
+        "New $16B 20Y (Nov 2046) reportedly stopped at 5.459% with 2.63x bid-to-cover, described as in line with no meaningful tail (single source, Helious; I couldn't confirm WI or tail elsewhere). That compares with October's 5.469% and 2.73x. Indirect bids were 60.2% (avg 63.7%) and directs 26.7% (avg 24.3%). Foreign demand was softer, but the morning's 'tail = more term premium' risk didn't show up.",
+        "2Y is ≈4.78%, down ≈0.5bp on the day after spiking to 4.83% on Waller (CNBC). Futures still price a December hike at ≈95–100%, with 50bp odds ≈11–12.5% depending on the source. The front end is treating Waller as a tail risk, not the base case. The minutes at 1 PM CT and Williams at 1:30 PM CT are the next catalysts.",
+        "Stocks at 11:50 AM CT (Yahoo): S&P 500 −0.29%, Nasdaq +0.22%, Dow −1.04%, Russell 2000 +1.08% to 2,731. NVDA is ≈−2.1% to −2.4%. The morning's Nvidia-led relief thesis has failed; leadership is rotating into small caps instead of mega-cap tech.",
+        "Gold is ≈$3,742 (−3.1%), a fresh one-year low, below the ≈$3,790 seen at the open, as DXY makes another 52-week high. Real yields near 2.9% and the hike debate keep pressuring non-yielding metals. Silver and copper had no reliable midday print, so their tiles show morning reads.",
+        "EIA (week to Nov 13): crude +3.4M bbl to 417.8M vs a Reuters poll of ≈+58K. Gasoline +5.2M (exp. +1.6M), distillates +1.6M, Cushing −1.2M. WTI is ≈$84 (≈−2%) and the S&P energy sector ≈−3%, the weakest sector. Anthropic (ANT) still prices tonight; the order book is covered at the $70–78 range, with reports of ≥$80."
+      ],
+      "simple": "The government sold $16 billion of 20-year bonds, and buyers showed up at about the expected price. That calmed fears that investors would demand much higher interest (yield) to lend to Washington for that long. Short-term rates gave back their jump from the Fed governor's 'big hike' comments, but gold kept falling: a stronger dollar and high inflation-adjusted interest rates make a metal that pays no interest less attractive. Stocks are mixed, with Nvidia's great results failing to lift big tech while smaller companies rallied.",
+      "sources": [
+        {
+          "name": "Helious (auction results)",
+          "url": "https://helious.io/news/auc-912810UZ9-2026-11-18/20-year-bond-auction-in-line"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/"
+        },
+        {
+          "name": "Reuters via BOE Report",
+          "url": "https://boereport.com/2026/11/18/us-crude-stocks-gasoline-and-distillate-inventories-rise-eia-says/"
+        },
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        },
+        {
+          "name": "CNBC (Anthropic IPO)",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        }
+      ]
+    },
+    {
       "at": "2026-11-18T15:17:39Z",
       "label": "Post-open",
       "headline": "Waller told CNBC a 50bp December hike is 'probably necessary' and the Fed may need to 'shock people'. The 2Y jumped ≈4bp to ≈4.83%, and the Nvidia bounce faded at the open, with the Dow down ≈400 points and NVDA slightly negative.",
@@ -474,5 +517,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18T15:17:39Z"
+  "updatedAt": "2026-11-18T18:17:11Z"
 }
