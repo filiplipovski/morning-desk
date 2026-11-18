@@ -11,70 +11,70 @@
     "Consumer earnings were strong, but much of it came from tariff refunds. Target comps were +5.6% (vs ≈+3.6% est.) with EPS $2.65 vs ≈$2.07, including $301M of pretax tariff-refund benefit. Lowe's adj. EPS was $3.10 vs $2.88, but $0.34 of that came from IEEPA tariff refunds; it raised FY sales to ≈$92.5B and held EPS at $12.25. TJX reports before the open (consensus EPS $1.33, revenue $15.81B). October housing starts are at 7:30 AM CT.",
     "Capital markets: Anthropic prices tonight and trades Thursday on Nasdaq as 'ANT'. The order book is reportedly ≈6–7x covered, and the WSJ and CNBC expect pricing above the $70–78 range (possibly >$80). Banking: JPMorgan named CIB CFO Bregje de Best (43) to succeed Jeremy Barnum as CFO after Q1 2027; Barnum becomes Vice Chairman. Ameris agreed to buy Bank of Central Florida (≈$1.2B assets) for ≈$180M in stock."
   ],
-  "markets_asof": "≈11:50 AM–12:15 PM CT (indices = Yahoo Finance live blog 11:50 AM CT; metals ex-gold not refreshed)",
+  "markets_asof": "≈3:00–3:15 PM CT (indices = Yahoo 4:03 PM ET close report, levels derived; 2Y, gold, WTI from midday)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,319",
-      "change": "−0.29%",
+      "value": "≈7,326",
+      "change": "≈−0.2%",
       "dir": "down",
-      "note": "Yahoo live blog 11:50 AM CT; level derived from % move"
+      "note": "Close per Yahoo 4:03 PM ET; level derived from % vs 7,340.53"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈24,380",
-      "change": "+0.22%",
+      "value": "≈24,425",
+      "change": "≈+0.4%",
       "dir": "up",
-      "note": "Gave back most of +0.65% open"
+      "note": "Level derived from % vs 24,328.38"
     },
     {
       "label": "Dow",
-      "value": "≈50,170–50,310",
-      "change": "≈−0.9% to −1.2%",
+      "value": "≈50,200",
+      "change": "≈−1.1%+",
       "dir": "down",
-      "note": "Sources differ by timestamp"
+      "note": "Yahoo: down more than 1.1%; level derived"
     },
     {
       "label": "Russell 2000",
-      "value": "2,731.04",
-      "change": "+1.08%",
-      "dir": "up",
-      "note": "Small caps outperforming"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No closing print found; +1.08% at 2,731 at midday"
     },
     {
       "label": "NVDA",
       "value": "—",
-      "change": "≈−2.1% to −2.4%",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "Full reversal of ≈+4–5% pre-market pop"
+      "note": "5th straight loss despite beat-and-raise"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.78%",
-      "change": "≈−0.5bp",
+      "change": "—",
       "dir": "flat",
-      "note": "Round-tripped: peaked 4.83% on Waller, then faded (CNBC)"
+      "note": "Midday read; no post-minutes print found"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.06–5.10%",
-      "change": "≈flat to −4bp",
+      "value": "≈5.06%",
+      "change": "≈−5bp",
       "dir": "down",
-      "note": "Approximate; sources differ"
+      "note": "Post-minutes (Benzinga)"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.44%",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh midday print; morning read"
+      "value": "≈5.41%",
+      "change": "≈−5bp",
+      "dir": "down",
+      "note": "Post-minutes (Benzinga)"
     },
     {
       "label": "20Y auction",
       "value": "5.459%",
       "change": "b/c 2.63",
       "dir": "flat",
-      "note": "Reported 'in line'; single source (Helious); Oct 5.469%, b/c 2.73"
+      "note": "In line; Oct 5.469%, b/c 2.73"
     },
     {
       "label": "Fed funds",
@@ -85,38 +85,38 @@
     },
     {
       "label": "Dollar index",
-      "value": "≈103.7",
-      "change": "—",
+      "value": "≈103.86",
+      "change": "+0.25%",
       "dir": "up",
-      "note": "Fresh 52-week high reported; no exact midday print"
+      "note": "19-month high (pre-minutes read)"
     },
     {
       "label": "Gold (spot)",
       "value": "≈$3,742",
-      "change": "≈−3.1%",
+      "change": "≈−3%",
       "dir": "down",
-      "note": "New one-year low; Yahoo live blog"
+      "note": "One-year low; last reliable print midday"
     },
     {
       "label": "Silver",
-      "value": "≈$46.0",
-      "change": "—",
+      "value": "≈$46.4",
+      "change": "≈−3.0%",
       "dir": "down",
-      "note": "Morning read; no reliable midday print"
+      "note": "USAGold; gold/silver ratio ≈81.6"
     },
     {
-      "label": "Copper (COMEX)",
-      "value": "≈$5.90/lb",
-      "change": "—",
+      "label": "Copper (COMEX Dec)",
+      "value": "$5.741/lb",
+      "change": "−24.5¢ (≈−4.1%)",
       "dir": "down",
-      "note": "Morning read; no reliable midday print"
+      "note": "LME ≈$12,734/t −3.7%, weakest since mid-April"
     },
     {
       "label": "WTI",
       "value": "≈$84",
       "change": "≈−2%",
       "dir": "down",
-      "note": "EIA crude +3.4M bbl vs ≈+0.06–1M exp.; S&P energy ≈−3%"
+      "note": "Midday; no settle found; EIA crude +3.4M bbl"
     }
   ],
   "calendar": [
@@ -431,6 +431,57 @@
   "caveats": "WSJ and NYT items come via Reuters press digests (Boursorama, rallies.ai); Tribune is paywalled, so Chicago items use the Sun-Times, Bond Buyer and CME. Index levels are Tuesday's AP closes; futures, yields, gold, silver and WTI are early-morning reads from varying sources and times. The 2Y is approximate, housing-starts consensus differs by source,. Brent was ≈$93 at Tuesday's close; no reliable Wednesday print was found. Yahoo, CNBC and other direct page fetches were blocked in this run, so figures come from search summaries.",
   "updates": [
     {
+      "at": "2026-11-18T21:17:10Z",
+      "label": "Close",
+      "headline": "The October minutes were hawkish on paper: almost all officials see more hikes ahead, and they flagged AI-related debt as a stability risk. But the long end rallied anyway, with the 10Y ≈−5bp to ≈5.06%. Stocks finished split (Dow ≈−1.1%, S&P ≈−0.2%, Nasdaq ≈+0.4%), and the metals rout deepened, led by copper.",
+      "points": [
+        "FOMC minutes (Oct 27–28, 10–2 hold): almost all participants expect further hikes to be appropriate, and 'some' beyond dissenters Cook and Hammack backed +25bp in October. Officials flagged fast-growing AI debt built through 'complex and opaque' financing, off-balance-sheet leases and circular funding as a financial-stability risk. The minutes don't settle the size of a December hike, so Waller's 50bp call is still a minority view.",
+        "Rates reaction (Benzinga): 10Y ≈5.06% (≈−5bp) and 30Y ≈5.41% (≈−5bp), with TLT higher. With hikes already ≈95–100% priced for Dec 8–9, 'more hikes, eventually' was no surprise, and the in-line 20Y (5.459%) took some supply pressure off. I couldn't find a post-minutes 2Y print; it was last ≈4.78% at midday. The morning's 'long end faces a test' framing passed without damage.",
+        "Stocks (Yahoo, 4:03 PM ET): Dow down more than 1.1% (≈−600 pts intraday, after −849 Tue), S&P ≈−0.2% (6th straight loss), Nasdaq ≈+0.4%. NVDA posted a 5th straight loss (≈−2%) despite the beat, so the morning's 'Nvidia relief rally' thesis is officially wrong. Energy was the worst sector, and tech led.",
+        "Metals: gold is ≈$3,742 (≈−3%, a one-year low) and silver ≈$46.4 (≈−3%; gold/silver ratio ≈81.6, USAGold). The bigger move came in copper: Dec COMEX ≈$5.74/lb (−24.5¢, ≈−4%) and LME ≈$12,734/t (−3.7%), the weakest since mid-April (Price Group). That is worse than the morning's 'five-month low' read. DXY ≈103.9 (+0.25%) printed a 19-month high.",
+        "Tomorrow (CT): jobless claims 7:30 AM (claims have run ≈200–210K in 2026); Vice Chair Jefferson ≈8:25 AM; 10Y TIPS reopening (Sep 2.653%); Anthropic (ANT) debuts on Nasdaq after pricing tonight. No final price was out at writing (range $70–78, reports of ≥$80). WTI ≈$84 (≈−2% on EIA build); no settle print found."
+      ],
+      "simple": "The Fed published notes from its October meeting showing nearly every official expects to raise interest rates again to fight inflation. Officials also worried that the borrowing behind the AI building boom is hard to see and could cause trouble if AI doesn't pay off. Markets already expected a December hike, so long-term bond yields (the interest rates on government debt) actually dipped. Metals kept falling, though: a stronger dollar and higher rates make gold less attractive, and copper, a bellwether for global industry, had its worst day in months.",
+      "sources": [
+        {
+          "name": "CNBC (Fed minutes)",
+          "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+        },
+        {
+          "name": "Benzinga (minutes & yields)",
+          "url": "https://www.benzinga.com/markets/economic-data/26/11/63409950/fed-minutes-almost-all-officials-more-hikes-ai-debt"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/fed-policymakers-concerned-about-financial-system-risks-minutes-show-5036972"
+        },
+        {
+          "name": "IBTimes",
+          "url": "https://www.ibtimes.com/fed-officials-consider-bigger-december-rate-hike-ai-spending-adds-inflation-risks-3809935"
+        },
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-18-2026/"
+        },
+        {
+          "name": "Price Group (Manic Metals)",
+          "url": "https://blog.pricegroup.com/2026/11/18/aint-no-sunshine-manic-metals-report-11-18-2026/"
+        },
+        {
+          "name": "Benzinga (dollar)",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
+        }
+      ]
+    },
+    {
       "at": "2026-11-18T18:17:11Z",
       "label": "Midday",
       "headline": "The 20Y auction cleared without drama and the 2Y round-tripped back to ≈4.78%, but gold extended its slide to ≈$3,742 (−3%) and the Nvidia bounce is fully gone. NVDA is down ≈2% and the Dow ≈1%, while small caps rally into the 1 PM CT minutes.",
@@ -517,5 +568,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18T18:17:11Z"
+  "updatedAt": "2026-11-18T21:17:10Z"
 }
