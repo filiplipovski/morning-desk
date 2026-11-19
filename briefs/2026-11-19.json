@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-19",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-19T12:21:05Z",
+  "headline": "Anthropic's record $81.3B IPO (priced at $83, above its $70–78 range) has Nasdaq 100 futures up ≈2% after a 5th straight S&P loss. Beneath the risk-on open, the macro hasn't changed: the DXY is at a 19-month high near 104, gold fell 3.2% to a 14-month low, copper hit a 7-month low, and the Fed minutes locked in a December hike. Today's 10Y TIPS reopening tests real yields near 2.9%.",
+  "summary": [
+    "Wednesday close (AP/Washington Post, CNBC): Dow −561.25 (−1.11%) to 50,198.17; S&P 500 −0.23% to 7,323.63, a 5th straight loss and its longest losing streak since June; Nasdaq +0.42% to 24,429.89. NVDA fell 2.9% to a 16-month closing low despite its beat. UNH −10.2% to $349.91 and Humana ≈−13% on a CMS Medicare Advantage audit proposal. I found no Russell 2000 close.",
+    "Pre-market: S&P futures ≈+1.0–1.2%, Nasdaq 100 ≈+1.8–2.1%, Dow ≈+300 pts (+0.6%, 4:13 AM ET) (Reuters via AOL, Forbes). Anthropic sold ≈980M shares at $83 to raise $81.3B, the largest IPO ever (above SpaceX's $75B), at ≈$1.5T fully diluted. A $26B private placement brings the total to ≈$107B. Gray-market indications put the open 20–26% above $83. NVDA is +1.6% pre-market, and Micron and SK Hynix are up >5%.",
+    "Rates: the minutes (almost all officials see more hikes; AI-linked debt flagged as a stability risk) bull-flattened the curve. The 10Y is ≈5.06–5.07% (−3–4bp), the 30Y ≈5.41%, and the 2Y ≈4.80% (+1bp), leaving 2s10s ≈+26–27bp. Dec 8–9 +25bp is priced ≈90–100%. Williams rules out 50bp and Kashkari says markets price more hikes than officials do, so Waller's 50bp call is isolated. Overnight, the JGB 10Y fell 1.5bp to 2.855%.",
+    "Metals and FX: spot gold fell 3.2% Wednesday to its weakest close in over a year, hit ≈$3,693 overnight, and is back to ≈$3,734 (+0.3%) on short covering (StoneX). Silver is ≈$45.3, platinum ≈$1,387 and palladium ≈$953 (Fortune, 6 AM ET). LME copper hit its lowest since April 7 Wednesday and is ≈$12,637 (+1.3%) in Asia. DXY printed ≈104.0, a 19-month high, and USD/JPY is ≈159.4, near the 160 intervention line.",
+    "Walmart (provisional, single source: Investing.com): adj. EPS $0.65 vs $0.64, revenue $188.8B vs $187.3B, US comps +2.9% ex-fuel, FY adj. EPS raised to $2.84–2.89 and FY sales growth to 4.9–5.2% cc. Unlike TGT, LOW and TJX, I found no tariff refund flagged in the beat. Data: jobless claims and Philly Fed at 7:30 AM CT (claims cons ≈197–200K, prior 200K; Philly prior 20.9). $19B 10Y TIPS reopening at noon CT (Sept 2.653%).",
+    "Oil is the disinflation offset: WTI fell 3.2% Wednesday to its lowest since Aug 26 and is ≈$82.7–83.2, with Brent ≈$91.7–92.1. Hormuz flows are back near pre-war levels and US stocks are building. Lower breakevens with sticky nominals is exactly what keeps real yields (≈2.9%) pinned high, which is bearish for gold."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (indices = Wed close; futures as noted; yields = Wed late-session)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,323.63",
+      "change": "−0.23%",
+      "dir": "down",
+      "note": "Wed close; futures ≈+1.0–1.2% pre-mkt"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "24,429.89",
+      "change": "+0.42%",
+      "dir": "up",
+      "note": "Wed close; NQ futures ≈+1.8–2.1%"
+    },
+    {
+      "label": "Dow",
+      "value": "50,198.17",
+      "change": "−561.25 (−1.11%)",
+      "dir": "down",
+      "note": "Wed close; futures ≈+300 pts (+0.6%)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No Wed close found (Tue 2,701.87)"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.80%",
+      "change": "≈+1bp",
+      "dir": "up",
+      "note": "Wed late session (CNBC, Forbes)"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈5.06–5.07%",
+      "change": "≈−3–4bp",
+      "dir": "down",
+      "note": "Post-minutes; Tue close 5.10%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.41%",
+      "change": "≈−4bp",
+      "dir": "down",
+      "note": "CNBC late session"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec +25bp ≈90–100%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9; 50bp odds ≈10–13%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈104.0",
+      "change": "19-mo high",
+      "dir": "up",
+      "note": "FXStreet, Asia session"
+    },
+    {
+      "label": "USD/JPY",
+      "value": "≈159.4",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "160 = intervention watch"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,734",
+      "change": "+0.3%",
+      "dir": "up",
+      "note": "0630 GMT; low ≈$3,693; Wed −3.2%"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$45.3",
+      "change": "≈−0.3% to −1%",
+      "dir": "down",
+      "note": "Fortune $45.26 (6 AM ET); AOL $45.33"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$12,637/t",
+      "change": "+1.3%",
+      "dir": "up",
+      "note": "0200 GMT; Wed lowest since Apr 7"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$82.7–83.2",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Wed −3.2%, lowest since Aug 26"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$91.7–92.1",
+      "change": "≈−0.2%",
+      "dir": "down",
+      "note": "Wed −1.3%"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "≈6:00 AM",
+      "event": "Walmart Q3 FY27 (reported; call 7:00 AM)",
+      "consensus": "Adj EPS $0.64; rev ≈$187.3B; US comps ≈+2.9% ex-fuel",
+      "prior": "Yr-ago adj EPS $0.62; rev $179.5B",
+      "why": "Reportedly $0.65 and $188.8B, with the FY guide raised (single source). The biggest US retailer is still taking share; whether the beat is clean of tariff refunds tells you how strong the consumer really is."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial jobless claims (wk to Nov 14) / continuing claims",
+      "consensus": "≈197–200K",
+      "prior": "200K",
+      "why": "Claims have held 189–212K since July. A low print supports the minutes' 'more hikes' message and lifts the 2Y."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Philly Fed manufacturing (Nov)",
+      "consensus": "—",
+      "prior": "20.9 (prices paid 43.2)",
+      "why": "Prices paid is the Fed-relevant line: factory input inflation versus falling oil."
+    },
+    {
+      "time": "Morning (unconfirmed)",
+      "event": "Vice Chair Jefferson speaks",
+      "consensus": "—",
+      "prior": "—",
+      "why": "On the earlier schedule; I couldn't confirm the time. Leadership's view on 25 vs 50bp is the swing factor for Dec SOFR."
+    },
+    {
+      "time": "≈Late morning",
+      "event": "Anthropic (ANT) first trade, Nasdaq",
+      "consensus": "Priced $83; gray market ≈$100–105",
+      "prior": "Range $70–78",
+      "why": "A ≈$81B float to absorb. A strong open supports ECM fee pools and AI-capex sentiment; a broken deal would hit the whole AI complex."
+    },
+    {
+      "time": "10:00 AM",
+      "event": "Kansas City Fed manufacturing (Nov)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Second regional factory read; minor."
+    },
+    {
+      "time": "10:30 AM",
+      "event": "4-week ($115B) and 8-week ($110B) bill auctions",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Heavy bill supply drains reserves and supports SOFR versus IORB. Watch funding spreads."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$19B 10Y TIPS reopening (Jul-36, 2.375% coupon)",
+      "consensus": "WI ≈2.85–2.9% (est.)",
+      "prior": "Sep reopening 2.653%; Jul original 2.438%",
+      "why": "Likely the highest 10Y real yield at auction since 2008. Strong demand caps real yields and gives gold room to stabilize; a tail pushes both lower."
+    },
+    {
+      "time": "After close",
+      "event": "Intuit, Gap, Ross Stores earnings",
+      "consensus": "INTU EPS $2.46 / rev ≈$4.30B; GPS $0.78 / $4.02B; ROST ≈$1.82",
+      "prior": "ROST yr-ago $1.58",
+      "why": "More middle-income retail reads after TJX, plus software sentiment after Anthropic's debut."
+    },
+    {
+      "time": "Fri 9:00 AM",
+      "event": "UMich sentiment, final Nov",
+      "consensus": "—",
+      "prior": "Prelim 51.0",
+      "why": "Inflation expectations matter more than the headline for whether the Fed goes 50bp."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "+25bp ≈90–100% priced",
+      "prior": "Oct: 10–2 hold at 3.75–4.00%",
+      "why": "The debate is now about size and the path into Jan/Mar. Danske sees 25bp at each of the next three meetings."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Hawkish minutes, long-end rally: the curve bull-flattens",
+        "body": "The Oct 27–28 minutes showed almost all participants expect further hikes, and a few would back 50bp if inflation data disappoint. Yet the 10Y fell ≈4bp to ≈5.06% and the 30Y to ≈5.41%, while the 2Y rose ≈1bp to 4.80%. 2s10s compressed to ≈+26–27bp, from ≈+29bp Tuesday.",
+        "simple": "The 'curve' compares interest rates on short and long Treasury bonds. Short rates track what the Fed will do next, while long rates reflect growth and inflation over many years. Investors heard 'more hikes coming', which keeps short rates high, but they took that to mean the Fed will kill inflation and slow the economy, so long-term rates fell. A flatter curve squeezes banks, which borrow short and lend long.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
+      },
+      {
+        "title": "Fed speakers close ranks around 25bp, not 50bp",
+        "body": "Williams said the situation doesn't call for 'dramatic action', ruling out 50bp. Kashkari said markets price more hikes than officials expect. Waller remains the lone public 50bp voice. FedWatch still shows ≈95–100% for +25bp on Dec 8–9; Danske expects 25bp in Dec, Jan and Mar.",
+        "simple": "Fed officials signal their thinking in speeches before meetings. A 'basis point' is 0.01%, so 25bp is a quarter-point hike. Most officials favor raising rates in small steps rather than one big jump, which lowers the odds of a shock for borrowers. For anyone with a credit card or adjustable loan, though, rates are still going up.",
+        "source": "Yahoo Finance / InvestingLive",
+        "url": "https://finance.yahoo.com/economy/policy/article/new-york-feds-williams-rules-out-jumbo-rate-hike-for-december-205144565.html"
+      },
+      {
+        "title": "Real yields at an 18-year high into today's 10Y TIPS reopening",
+        "body": "Today's $19B reopening of the July 10Y TIPS (2.375% coupon) comes with the 10Y real yield ≈2.88% (5.14% nominal minus a 2.26% breakeven as of last Friday), versus 2.653% at the September reopening, which was the highest in nearly 18 years. JGBs rallied overnight: 10Y −1.5bp to 2.855%, 30Y −2.5bp to 4.030%.",
+        "simple": "TIPS are Treasury bonds whose principal rises with inflation, so their yield is the 'real' return after inflation. A real yield near 2.9% means investors get a strong return just for lending to the government. That raises borrowing costs across the economy and makes non-paying assets like gold less attractive. Today's sale shows how much buyers demand to hold that protection.",
+        "source": "Tipswatch / NewsBytes",
+        "url": "https://tipswatch.com/2026/11/15/this-weeks-10-year-tips-auction-shows-a-lot-of-potential/"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "SOFR curve prices ≈70bp of hikes over 12 months",
+        "body": "SOFR was 3.92% on Nov 17, while CME Term SOFR was ≈4.18% for 3 months and ≈4.63% for 12 months. That slope implies roughly three more 25bp hikes, consistent with commentary pricing no cuts before 2028 and ≈13.5% odds of 50bp in December.",
+        "simple": "SOFR is the overnight rate banks pay to borrow cash against Treasuries, and it's the benchmark behind most US loans and swaps. Futures on SOFR let traders bet on where it will be later. The gap between today's rate and the 12-month rate shows the market expects about three more quarter-point Fed hikes. Companies with floating-rate loans hedge against exactly this.",
+        "source": "Global-Rates (CME Term SOFR) / NY Fed",
+        "url": "https://www.global-rates.com/en/interest-rates/cme-term-sofr/"
+      },
+      {
+        "title": "CME rates complex posts record October volume",
+        "body": "CME interest-rate futures and options averaged 14.78M contracts a day in October, the busiest October ever and more than 2M above the prior record. CME's overall October ADV was a record 30M (+15% y/y). Treasury vol (CME's TYVIX-style index) hit a 7-month high of 140 on Oct 22.",
+        "simple": "ADV (average daily volume) counts how many futures and options contracts change hands each day. When the Fed path is uncertain, banks, funds and companies trade more to hedge or bet on rates, and CME, a Chicago exchange, earns a fee on each contract. Hiking cycles are good business for CME.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-11-rates-recap.html"
+      },
+      {
+        "title": "Anthropic: derivatives priced the pop before the stock traded",
+        "body": "Crypto-venue pre-IPO perpetual futures and gray-market quotes implied an ANT open 20–26% above the $83 IPO price (≈$100–105). Nasdaq 100 futures are ≈+2% pre-market, and chip names tied to AI capex (Micron, SK Hynix) are up >5%.",
+        "simple": "Before a stock starts trading, some platforms let traders bet on where it will open using contracts that track the expected price. These point to a big first-day jump. If the jump holds, Anthropic 'left money on the table' by pricing too low, but the deal still lifts the whole AI-linked market and the banks that ran it.",
+        "source": "Bloomberg / Forbes",
+        "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold: 14-month low, then short-covering bounce",
+        "body": "Spot gold fell 3.2% Wednesday to its weakest close in over a year, then hit ≈$3,693 early Thursday before recovering to $3,733.76 (+0.3%) by 0630 GMT. StoneX called the bounce short covering. OCBC warns a sustained break below $3,800 entrenches the bear case. The record is $5,589 (Jan 28).",
+        "simple": "Gold pays no interest, so when safe bonds pay ≈2.9% after inflation and the dollar is strong, holding gold costs more and its price falls. The bounce came from traders who bet on declines buying back to lock in profits, not from new demand. Gold is down about a third from January's peak.",
+        "source": "FX Leaders / Investing.com",
+        "url": "https://www.fxleaders.com/news/2026/11/19/gold-price-forecast-xau-usd-rebounds-from-3703-after-hawkish-fed-minutes/"
+      },
+      {
+        "title": "Copper: lowest since April, then a relief bid",
+        "body": "LME 3M copper fell for a 5th straight session Wednesday to its lowest since April 7 (reports put the settle at ≈$12,470–12,770), then rose 1.3% to $12,636.50 by 0200 GMT. KCM Trade ties the slide to the dollar and AI data-center capex doubts. China's October concentrate imports fell 11% y/y.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a bet on industrial and AI-related growth. A strong dollar makes it pricier for foreign buyers, and doubts about AI spending hit demand expectations. That's why it fell for five days. The small rebound looks like a pause, not a turn.",
+        "source": "Business Recorder / Yahoo Finance",
+        "url": "https://www.brecorder.com/news/40449713/london-copper-ticks-higher-from-seven-month-trough"
+      },
+      {
+        "title": "Silver and PGMs track gold lower; the official sector is still buying",
+        "body": "Silver is ≈$45.26, platinum ≈$1,387 and palladium ≈$953 as of 6 AM ET. The PBOC added ≈25.8t in October, its 24th straight month, and global gold ETF holdings hit a record 4,275t at end-October. The WGC flags the first Chinese gold-ETF outflows in November.",
+        "simple": "Central banks like China's keep buying gold to cut their reliance on the dollar, which puts a slow floor under prices. Fund investors move faster, though, and some Chinese funds are now selling. Silver and platinum are part precious metal and part industrial, so they get hit by both the strong dollar and growth worries.",
+        "source": "Fortune / WGC via GoldSilver",
+        "url": "https://fortune.com/article/current-price-of-silver-11-19-2026/"
+      },
+      {
+        "title": "Goldman's second gold downgrade in a month",
+        "body": "Goldman now sees end-2026 gold at $4,150 (from $4,650) and cut end-2027 again to $4,650 (from $4,800), now assuming a third Fed hike in March 2027. Spot at ≈$3,734 is still ≈10% below even the lowered 2026 target.",
+        "simple": "When a big bank lowers its forecast, it signals that professional money expects higher rates for longer. Goldman still sees gold rising from here, just not as much, because rate hikes make bonds a tougher competitor. For a metals desk, the question is when the Fed's last hike is in sight, because that has historically marked gold's bottom.",
+        "source": "InvestingLive",
+        "url": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Anthropic prices the largest IPO on record at $83",
+      "body": "Anthropic sold ≈980M shares (upsized from 825M) at $83, above the $70–78 range, to raise $81.3B. That tops SpaceX's $75B, and the valuation is ≈$1.5T fully diluted versus $965B privately in May. A $26B private placement (Google, Microsoft, Nvidia, AMD and others) takes the total to ≈$107B. The WSJ reported unusually large hedge-fund orders drove the price up. Axios cites ≈956M shares and ≈$79.4B, so terms vary slightly by outlet.",
+      "simple": "An IPO (initial public offering) is when a private company first sells shares to the public. Underwriting banks earn a percentage of the money raised, so an $81B deal is a huge fee event for capital-markets desks. Demand was strong enough to raise both the price and the number of shares, a sign that investors still pay up for AI despite the recent selloff.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "title": "Fed minutes flag AI debt as a financial-stability risk",
+      "body": "The October minutes flagged fast-growing AI-related borrowing, funded through 'complex and opaque' structures, off-balance-sheet leases and circular arrangements, alongside stretched equity valuations. The warning lands the same week as a $107B AI capital raise.",
+      "simple": "The Fed watches for borrowing that could spread losses through the financial system if things go wrong. Some AI data-center funding is hidden off company balance sheets or loops between the same few firms, which makes the risk hard to see. Banks and private-credit funds lending into this boom could face tougher scrutiny.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/11/63409950/fed-minutes-almost-all-officials-more-hikes-ai-debt"
+    },
+    {
+      "title": "Palo Alto Networks buys Applied Compute for $4.5B in stock",
+      "body": "The all-stock deal adds a platform that helps enterprises train and serve their own AI models. Closing is expected in Palo Alto's fiscal Q3 2027.",
+      "simple": "Paying in stock rather than cash lets a buyer use its own high share price as currency and preserve cash. Big software firms are buying AI tools rather than building them, which keeps tech M&A advisory fees flowing even while the market wobbles.",
+      "source": "SEC 8-K (Palo Alto Networks)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex992pressrelease_november.htm"
+    },
+    {
+      "title": "Community-bank consolidation: John Marshall/Eagle votes today",
+      "body": "The Fed approved John Marshall Bancorp's merger with Eagle Financial Services on Nov 16, and both shareholder votes are today. It follows Ameris's ≈$180M all-stock purchase of Bank of Central Florida ($1.2B assets), its first deal since 2019.",
+      "simple": "Small banks are merging to spread compliance and tech costs over a bigger balance sheet and to gather cheaper deposits. Faster regulatory approvals have made these deals easier. Commercial bankers should expect more of them as rate hikes push up deposit costs.",
+      "source": "GuruFocus / Banking Dive",
+      "url": "https://gurufocus.com/news/9201468/federal-reserve-approves-john-marshall-bancorp-jmsb-merger-with-eagle-financial-services"
+    },
+    {
+      "title": "Private credit: retail BDCs are still gating redemptions",
+      "body": "Per a Nov 7 tracker, 7 of 10 non-traded BDCs prorated their latest repurchase offers, filling only 12.8–49.9% of requests (BCRED among them). 10.3% of BDC loans were marked below 90 at June 30. I found nothing new in the last 24 hours.",
+      "simple": "BDCs are funds that lend to mid-sized companies and sell shares to individual investors. 'Prorating' means investors who asked for their money back only got part of it. That happens when more people want out than the fund can pay without selling loans. It shows stress building in the private lending market that banks increasingly compete and partner with.",
+      "source": "Crowdfunded Wealth tracker",
+      "url": "https://www.crowdfundedwealth.com/articles/private-credit-fund-redemptions-tracker-2026"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Waller: a half-point December hike is 'probably' needed",
+        "body": "Gov. Waller told CNBC 50bp is likely necessary. FedWatch still has ≈95% on +25bp for Dec 8–9, and the dollar sits at a 19-month high.",
+        "simple": "A Fed governor wants a bigger-than-usual rate hike to show the Fed is serious about inflation. Most colleagues prefer smaller steps. The strong dollar reflects that US interest rates now pay more than rates abroad.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/dollar-holds-near-19-month-high-as-data-supports-case-for-rate-hikes.html"
+      },
+      {
+        "title": "Stocks split: Dow −1.1%, S&P's longest losing streak since June",
+        "body": "The Dow lost 561.25 to 50,198.17 and the S&P 0.23% to 7,323.63 (5th straight loss), while the Nasdaq rose 0.42% to 24,429.89. NVDA −2.89% despite its beat, and UNH −10.2% to $349.91 on Medicare audit fears.",
+        "simple": "The Dow fell harder because UnitedHealth, a big Dow stock, dropped on fears the government will audit its Medicare business more aggressively. The Nasdaq rose because many tech stocks bounced. Five down days in a row is the longest slide since June.",
+        "source": "CNBC / Washington Post (AP)",
+        "url": "https://www.washingtonpost.com/business/2026/11/18/wall-street-stocks-dow-nasdaq/f0208c14-e395-11f1-a99e-b3e3805c6b8b_story.html"
+      },
+      {
+        "title": "Nvidia interim CEO Kress addresses staff after Huang's exit",
+        "body": "Colette Kress held her first all-hands as interim CEO and told employees to 'move forward'. The stock closed at a 16-month low after five straight losses.",
+        "simple": "Nvidia's founder suddenly left as CEO, and its finance chief is temporarily running the company. Investors dislike leadership uncertainty at a company this central to AI, even when sales are booming.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+      },
+      {
+        "title": "Oil steadies after a slide as Hormuz flows normalize",
+        "body": "WTI fell 3.2% Wednesday to its lowest since Aug 26 and Brent fell 1.3%. Both are ≈flat in Asia, near $83 and $92. Strait of Hormuz shipments are back near pre-war levels, and US inventories are rising.",
+        "simple": "Oil had a 'war premium' because of fears the Gulf conflict would block tankers. Now that ships are moving normally and US stockpiles are growing, that premium is fading. Cheaper oil helps lower inflation, which slightly eases pressure on the Fed.",
+        "source": "CNBC",
+        "url": "https://cnbc.com/2026/11/19/oil-brent-wti-price-hormuz.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "US requires licenses for AI chips shipped to data centers in five countries",
+        "body": "The rule targets Chinese firms renting Nvidia chips through data centers in Singapore, Malaysia, Thailand, Indonesia and Brazil. The WSJ cited records showing one broker arranged ≈$12B of Nvidia chips for China. AMD and CoreWeave fell 5%+ on the report (exact report date unconfirmed).",
+        "simple": "Export controls stop advanced chips from reaching China directly, but Chinese companies were renting computing power abroad instead. The new license requirement closes that gap. It could cut sales for US chipmakers and hurt Southeast Asian data-center plans.",
+        "source": "InvestingLive (citing WSJ)",
+        "url": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/"
+      },
+      {
+        "title": "Hedge-fund demand pushed Anthropic's price above range",
+        "body": "The WSJ reported unusually large hedge-fund orders in the book ahead of the $83 pricing, above the $70–78 range.",
+        "simple": "When big investors put in more orders than there are shares, the bankers running the deal can raise the price. Hedge funds often 'flip' (sell quickly) after an IPO pops, which can make early trading volatile.",
+        "source": "TechCrunch (citing WSJ)",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      },
+      {
+        "title": "Ramp in early talks to raise at a valuation above $70B",
+        "body": "The fintech's third raise of 2026 would mark another big private-market markup (report date not confirmed).",
+        "simple": "Ramp sells corporate cards and spending software. Private companies can now raise huge sums without going public, which competes with the IPO business banks depend on.",
+        "source": "Kiplinger (citing WSJ)",
+        "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026"
+      },
+      {
+        "title": "House China panel presses Microsoft on reported ByteDance AI deal",
+        "body": "Chair Moolenaar wants a briefing on a reported ≈$500M AI cloud deal that would give ByteDance access to OpenAI models (originally reported by The Information; it appeared in the WSJ digest).",
+        "simple": "Congress worries Chinese firms can use US cloud services to reach top AI models that export rules are meant to block. This adds political risk to US tech companies' overseas cloud revenue.",
+        "source": "US News / Reuters",
+        "url": "https://www.usnews.com/news/politics/articles/2026-11-18/us-house-panel-seeks-microsoft-briefing-on-reported-ai-deal-talks-with-chinas-bytedance"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Chicago Fed's Goolsbee: inflation is 'going the wrong way'",
+        "body": "Goolsbee warned the US is 'dancing on the edge' of persistent inflation and pointed to the AI data-center buildout as a source of pressure. He is a 2027 FOMC voter.",
+        "simple": "Chicago's Fed president, usually one of the more cautious-about-hiking officials, now sounds worried. When doves turn hawkish, the market believes rate hikes will last longer, which matters for Chicago's futures traders and borrowers.",
+        "source": "WTTW",
+        "url": "https://news.wttw.com/2026/11/16/chicago-fed-president-persistent-high-inflation-could-be-painful-try-get-rid"
+      },
+      {
+        "title": "Boeing wins up to 20 787s from Philippine Airlines; director buys stock",
+        "body": "The order is worth ≈$12B. Director Akhil Johri bought ≈$500K of shares Nov 17, with the stock near its $161.75 52-week low and down ≈25% YTD.",
+        "simple": "Chicago-based Boeing landed a big wide-body order, and a board member bought shares with his own money, a common signal insiders think the stock is cheap. The shares are still down a quarter this year on production and cash-flow worries.",
+        "source": "24/7 Wall St. / Investing.com",
+        "url": "https://247wallst.com/investing/2026/11/18/boeing-is-down-25-this-year-can-a-12-billion-philippine-airlines-deal-help-get-ba-stock-back-to-200"
+      },
+      {
+        "title": "Walgreens sued in Illinois over suspected ransomware breach",
+        "body": "A proposed class action in Illinois federal court says patients haven't been notified of a November breach.",
+        "simple": "Deerfield-based Walgreens may have had patient data stolen in a hacking attack. Lawsuits like this can lead to settlements and regulatory fines, adding cost for a company already under pressure.",
+        "source": "Law360",
+        "url": "https://www.law360.com/consumerprotection/articles/2551851"
+      },
+      {
+        "title": "Chicago real estate: Gold Coast tower trophy sale vs. a distressed suburban office",
+        "body": "Pontegadea paid $202M for the 390-unit Sinclair on the Gold Coast, while Rosemont's Columbia Centre III sold distressed for $21M (≈$82/sf).",
+        "simple": "Investors pay up for downtown apartments but sell suburban offices at steep losses. That split is what Illinois banks with commercial real-estate loans have to manage.",
+        "source": "CRE News",
+        "url": "https://crenews.com/2026/11/18/distressed-suburban-chicago-office-building-sells-for-21mln/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "DealBook Summit: Musk floats a Tesla–SpaceX combination; Altman questions Anthropic's safety",
+        "body": "At the NYT's DealBook Summit, Musk said he feels 'pretty foolish' about his midterm spending and floated combining Tesla and SpaceX. Altman said he doesn't know whether Anthropic's approach to AI is safe.",
+        "simple": "The NYT hosts a yearly conference where top CEOs speak. A Tesla–SpaceX merger would be one of the largest deals ever and a huge job for investment banks, though it's only an idea so far.",
+        "source": "CNBC (recap of NYT DealBook)",
+        "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html"
+      },
+      {
+        "title": "NYT: Trump urged Huang to keep fighting for his job before he quit",
+        "body": "The Times reported a phone call days before Huang resigned as Nvidia CEO (secondary summary; I couldn't verify against the original).",
+        "simple": "If true, it shows how political Nvidia's leadership has become. Investors hate uncertainty at the top of a company worth trillions.",
+        "source": "Rallies.ai (summary of NYT)",
+        "url": "https://rallies.ai/news/new-york-times-business-news-november-18-f44601619ceb903c"
+      },
+      {
+        "title": "Southeast Asia's AI build-out faces new US chip curbs",
+        "body": "The NYT print index carried the new licensing rule for chips shipped to data centers in five countries. Regional outlets warn it could stall Malaysian and Thai data-center projects.",
+        "simple": "Many companies built data centers in Southeast Asia to serve Chinese customers. If US chips need a license to go there, those projects lose their edge, which hits construction lenders and chip demand.",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/11/could-new-us-chip-restrictions-torpedo-southeast-asias-ai-ambitions/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Bull flattener on a hawkish signal",
+      "point": "The minutes said 'almost all' see more hikes, yet the 10Y fell ≈4bp to 5.06% while the 2Y rose to 4.80%, compressing 2s10s to ≈+26bp. That is the market saying the Fed is credible: front-end pricing (12M Term SOFR ≈4.63% vs SOFR 3.92%, ≈3 hikes) is being exchanged for lower long-run inflation risk. For a bank, a flatter curve squeezes NIM just as deposit betas rise. The trade question: does a strong 10Y TIPS reopening today extend the flattener?"
+    },
+    {
+      "topic": "Gold vs. real yields at 2.9%",
+      "point": "Gold is ≈$3,734, ≈33% off January's $5,589 record, even with the PBOC on its 24th straight month of buying and ETF holdings at a record 4,275t. The marginal driver is a 10Y real yield ≈2.9% and a DXY at 104. Goldman's second cut (2027 to $4,650) assumes a March hike. The thesis: gold bottoms when the market can see the terminal rate, so watch the Mar-27 SOFR contract rather than headlines from the Gulf."
+    },
+    {
+      "topic": "Record ECM fees vs. AI-debt warnings",
+      "point": "Anthropic's $81.3B IPO ($107B with the placement) at ≈$1.5T is a historic underwriting fee pool, but the same day the Fed minutes flagged opaque AI financing (off-balance-sheet leases, circular funding) as a stability risk. For a capital-markets or commercial-banking seat: banks earn ECM and DCM fees on the boom but carry the credit and concentration risk on data-center loans. How would you size that exposure?"
+    }
+  ],
+  "caveats": "WSJ, NYT and Tribune are paywalled, and direct fetches to most news sites were blocked this run, so stories come from search snippets and other outlets' coverage (named in each story). No Russell 2000, KBW or official Treasury closes for Wednesday were found. Yields are late-session reads. Walmart results are from a single source (Investing.com) and are provisional. LME copper's Wednesday settle differs by source ($12,470–12,770). Anthropic share count and proceeds vary slightly (CNBC 980M/$81.3B vs Axios ≈956M/$79.4B). The 10Y TIPS real yield (≈2.88%) is derived from last Friday's nominal yield and breakeven.",
+  "updates": []
+}
