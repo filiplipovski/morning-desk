@@ -11,112 +11,112 @@
     "Walmart (provisional, single source: Investing.com): adj. EPS $0.65 vs $0.64, revenue $188.8B vs $187.3B, US comps +2.9% ex-fuel, FY adj. EPS raised to $2.84–2.89 and FY sales growth to 4.9–5.2% cc. Unlike TGT, LOW and TJX, I found no tariff refund flagged in the beat. Data: jobless claims and Philly Fed at 7:30 AM CT (claims cons ≈197–200K, prior 200K; Philly prior 20.9). $19B 10Y TIPS reopening at noon CT (Sept 2.653%).",
     "Oil is the disinflation offset: WTI fell 3.2% Wednesday to its lowest since Aug 26 and is ≈$82.7–83.2, with Brent ≈$91.7–92.1. Hormuz flows are back near pre-war levels and US stocks are building. Lower breakevens with sticky nominals is exactly what keeps real yields (≈2.9%) pinned high, which is bearish for gold."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (indices = Wed close; futures as noted; yields = Wed late-session)",
+  "markets_asof": "≈9:40 AM CT (indices 9:37 ET CNBC/Reuters open; yields early session; metals/oil partly morning levels)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,323.63",
-      "change": "−0.23%",
-      "dir": "down",
-      "note": "Wed close; futures ≈+1.0–1.2% pre-mkt"
+      "value": "≈7,389",
+      "change": "≈+0.9–1.1%",
+      "dir": "up",
+      "note": "Open 7,389.26 (+0.90%); +1.1% at 9:37 ET"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "24,429.89",
-      "change": "+0.42%",
+      "value": "≈24,809",
+      "change": "≈+1.6–1.9%",
       "dir": "up",
-      "note": "Wed close; NQ futures ≈+1.8–2.1%"
+      "note": "Open 24,809.05 (+1.55%); +1.9% at 9:37 ET"
     },
     {
       "label": "Dow",
-      "value": "50,198.17",
-      "change": "−561.25 (−1.11%)",
-      "dir": "down",
-      "note": "Wed close; futures ≈+300 pts (+0.6%)"
+      "value": "≈50,389",
+      "change": "≈+191 (+0.4%)",
+      "dir": "up",
+      "note": "9:37 ET (CNBC); Wed close 50,198.17"
     },
     {
       "label": "Russell 2000",
       "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "No Wed close found (Tue 2,701.87)"
+      "note": "No intraday print found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.80%",
-      "change": "≈+1bp",
+      "value": "≈4.83%",
+      "change": "≈+3bp vs Wed",
       "dir": "up",
-      "note": "Wed late session (CNBC, Forbes)"
+      "note": "Single source, early session"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.06–5.07%",
-      "change": "≈−3–4bp",
-      "dir": "down",
-      "note": "Post-minutes; Tue close 5.10%"
+      "value": "≈5.085%",
+      "change": "≈+2bp",
+      "dir": "up",
+      "note": "After claims/Philly; Wed ≈5.06–5.07%"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.41%",
-      "change": "≈−4bp",
-      "dir": "down",
-      "note": "CNBC late session"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print; Wed late ≈5.41%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈90–100%",
+      "change": "Dec +25bp fully priced",
       "dir": "up",
-      "note": "FOMC Dec 8–9; 50bp odds ≈10–13%"
+      "note": "FedWatch also prices Jan + Mar hikes; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈104.0",
-      "change": "19-mo high",
-      "dir": "up",
-      "note": "FXStreet, Asia session"
+      "value": "≈103.65",
+      "change": "−0.13%",
+      "dir": "down",
+      "note": "Hit 103.97 (19-mo high) earlier (FXStreet)"
     },
     {
       "label": "USD/JPY",
       "value": "≈159.4",
-      "change": "≈flat",
+      "change": "—",
       "dir": "flat",
-      "note": "160 = intervention watch"
+      "note": "Morning level; no fresh print; 160 = intervention watch"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,734",
-      "change": "+0.3%",
-      "dir": "up",
-      "note": "0630 GMT; low ≈$3,693; Wed −3.2%"
+      "value": "≈$3,729",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "Asia low <$3,700, lowest since Sep 2025"
     },
     {
       "label": "Silver",
       "value": "≈$45.3",
-      "change": "≈−0.3% to −1%",
-      "dir": "down",
-      "note": "Fortune $45.26 (6 AM ET); AOL $45.33"
+      "change": "—",
+      "dir": "flat",
+      "note": "Morning level (6 AM ET); no fresh print"
     },
     {
       "label": "Copper (LME 3M)",
       "value": "≈$12,637/t",
       "change": "+1.3%",
       "dir": "up",
-      "note": "0200 GMT; Wed lowest since Apr 7"
+      "note": "Asia-session level; no fresh print"
     },
     {
       "label": "WTI",
-      "value": "≈$82.7–83.2",
-      "change": "≈−0.5%",
-      "dir": "down",
-      "note": "Wed −3.2%, lowest since Aug 26"
+      "value": "≈$83",
+      "change": "≈steady",
+      "dir": "flat",
+      "note": "Steady after Wed −3.2%; morning ≈$82.7–83.2"
     },
     {
       "label": "Brent",
-      "value": "≈$91.7–92.1",
-      "change": "≈−0.2%",
-      "dir": "down",
-      "note": "Wed −1.3%"
+      "value": "≈$92",
+      "change": "≈steady",
+      "dir": "flat",
+      "note": "Morning ≈$91.7–92.1"
     }
   ],
   "calendar": [
@@ -443,5 +443,50 @@
     }
   ],
   "caveats": "WSJ, NYT and Tribune are paywalled, and direct fetches to most news sites were blocked this run, so stories come from search snippets and other outlets' coverage (named in each story). No Russell 2000, KBW or official Treasury closes for Wednesday were found. Yields are late-session reads. Walmart results are from a single source (Investing.com) and are provisional. LME copper's Wednesday settle differs by source ($12,470–12,770). Anthropic share count and proceeds vary slightly (CNBC 980M/$81.3B vs Axios ≈956M/$79.4B). The 10Y TIPS real yield (≈2.88%) is derived from last Friday's nominal yield and breakeven.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-19T15:18:29Z",
+      "label": "Post-open",
+      "headline": "The 7:30 data was the bad mix for a hiking Fed: the Philly Fed fell to 6.3 (vs ≈18–20 expected) while prices paid jumped to 58.2, and claims beat consensus at 203K. The 10Y still rose ≈2bp to ≈5.085% instead of rallying, and stocks opened ≈+1% on Anthropic.",
+      "points": [
+        "Claims 203K vs 197K consensus. Prior was revised to 202K (the morning calendar had 200K). Continuing claims rose 70K to 1.763M, the strongest sign yet that laid-off workers are slower to find jobs (Reuters via Investing.com).",
+        "Philly Fed 6.3 vs 20.9 prior and ≈17–23 consensus, the weakest since May. New orders −0.4 (4th straight drop), prices paid +15 to 58.2 (highest since April) and prices received 47.0 (highest since June 2022). Future new orders 31.7 and shipments 25.4 are at 1-yr+ lows (Philadelphia Fed, RTTNews).",
+        "Rates: the 10Y is ≈5.085% (+≈2bp) and the 2Y ≈4.83% (single source), so the curve is roughly unchanged at ≈+26bp. The morning's bull-flattening has stalled. FedWatch still fully prices +25bp Dec 9, with follow-ups in Jan and Mar. No Jefferson remarks found yet.",
+        "Open (Reuters): S&P +0.90% to 7,389.26 and Nasdaq +1.55% to 24,809.05. By 9:37 ET (CNBC) the Nasdaq was +1.9%, S&P +1.1% and Dow +191 (+0.4%). NVDA ≈+4% (after −23% MTD), MU ≈+6%, AMD ≈+2.7%. ANT's opening auction was indicated ≈$100–104 vs the $83 IPO price; no first print yet.",
+        "FX/metals: DXY touched 103.97 (a 19-mo high) then eased to ≈103.65 (−0.13%) (FXStreet). Gold is flat near $3,729 after its sub-$3,700 Asia low. Oil is steady after Wednesday's 3.2% drop. I found no fresh silver, copper or crude prints after the open, so those tiles carry morning levels."
+      ],
+      "simple": "The Philadelphia Fed survey asks factories in the region how business is going. Today's answer was 'orders are drying up, but our costs are rising fast.' That combination is called stagflation (slow growth plus inflation), and it puts the Fed in a bind: it is about to raise interest rates to fight inflation just as factories cool. Bond investors focused on the inflation half, so longer-term borrowing rates such as mortgages didn't get the relief that weak data usually brings.",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com (claims)",
+          "url": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-increase-slightly-5039110"
+        },
+        {
+          "name": "Philadelphia Fed MBOS Nov 2026",
+          "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11"
+        },
+        {
+          "name": "RTTNews",
+          "url": "https://www.rttnews.com/3716421/philly-fed-index-plunges-much-more-than-expected-in-november.aspx"
+        },
+        {
+          "name": "Yahoo Finance / Reuters (open)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-over-1-open-143443855.html"
+        },
+        {
+          "name": "CNBC live updates",
+          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "FXStreet (DXY)",
+          "url": "https://www.fxstreet.com/news/us-dollar-takes-a-breather-after-rally-to-19-month-high-202611191423"
+        },
+        {
+          "name": "CNN (Anthropic live)",
+          "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-19T15:18:29Z"
 }
