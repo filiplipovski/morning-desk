@@ -11,63 +11,63 @@
     "Walmart (provisional, single source: Investing.com): adj. EPS $0.65 vs $0.64, revenue $188.8B vs $187.3B, US comps +2.9% ex-fuel, FY adj. EPS raised to $2.84–2.89 and FY sales growth to 4.9–5.2% cc. Unlike TGT, LOW and TJX, I found no tariff refund flagged in the beat. Data: jobless claims and Philly Fed at 7:30 AM CT (claims cons ≈197–200K, prior 200K; Philly prior 20.9). $19B 10Y TIPS reopening at noon CT (Sept 2.653%).",
     "Oil is the disinflation offset: WTI fell 3.2% Wednesday to its lowest since Aug 26 and is ≈$82.7–83.2, with Brent ≈$91.7–92.1. Hormuz flows are back near pre-war levels and US stocks are building. Lower breakevens with sticky nominals is exactly what keeps real yields (≈2.9%) pinned high, which is bearish for gold."
   ],
-  "markets_asof": "≈12:15 PM CT (indices Reuters midday; yields/metals mixed timestamps)",
+  "markets_asof": "Thu close ≈3:15 PM CT (indices rounded; gold 12:18 PM CT; 2Y/30Y/silver/copper earlier prints)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,207.35",
-      "change": "−118.60 (−1.59%)",
+      "value": "≈7,175",
+      "change": "≈−149 (−2.0%)",
       "dir": "down",
-      "note": "Midday (Reuters); opened +0.9%"
+      "note": "Close (Kiplinger, rounded); 6th straight loss"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "24,051.46",
-      "change": "−1.55%",
+      "value": "≈23,879",
+      "change": "≈−551 (−2.3%)",
       "dir": "down",
-      "note": "Midday (Reuters); was +2.1% at high"
+      "note": "Close (Kiplinger, rounded)"
     },
     {
       "label": "Dow",
-      "value": "49,180.77",
-      "change": "−1,022.85 (−2.03%)",
+      "value": "≈49,097",
+      "change": "≈−1,100 (−2.2%)",
       "dir": "down",
-      "note": "Midday (Reuters)"
+      "note": "Close (Kiplinger, rounded)"
     },
     {
       "label": "Russell 2000",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No intraday print found"
+      "value": "≈2,661",
+      "change": "≈−1.96%",
+      "dir": "down",
+      "note": "Midday only, single source (JournalArta); no close found"
     },
     {
       "label": "Anthropic (ANT)",
-      "value": "≈$98.6–105",
-      "change": "≈+19–27% vs $83 IPO",
+      "value": "$97.17",
+      "change": "+17.1% vs $83 IPO",
       "dir": "up",
-      "note": "Opened $111.50, high ≈$115"
+      "note": "Close; opened $111.50, high ≈$115"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.83%",
       "change": "≈+2bp",
       "dir": "up",
-      "note": "CNBC, earlier session; no fresh print"
+      "note": "Earlier session (CNBC); no fresh print"
     },
     {
       "label": "UST 10Y",
-      "value": "≈5.06%",
+      "value": "≈5.054%",
       "change": "≈−1bp",
       "dir": "down",
-      "note": "AP; was ≈5.085% after 7:30 data"
+      "note": "CNBC late session; day high ≈5.085%"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.43%",
       "change": "≈+1bp",
       "dir": "up",
-      "note": "CNBC, earlier session"
+      "note": "Earlier session (CNBC); no fresh print"
     },
     {
       "label": "10Y TIPS auction",
@@ -81,28 +81,28 @@
       "value": "3.75–4.00%",
       "change": "Dec +25bp ≈95%",
       "dir": "up",
-      "note": "FOMC Dec 8–9"
+      "note": "FOMC Dec 8–9 (CME FedWatch)"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.65",
-      "change": "≈−0.1%",
-      "dir": "flat",
-      "note": "Morning level; no fresh print; 19-mo high 103.97"
+      "value": "≈104",
+      "change": "Near 19-mo high",
+      "dir": "up",
+      "note": "XTB wrap; no exact close found"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,692",
-      "change": "≈−0.9%",
+      "value": "≈$3,676",
+      "change": "−1.24%",
       "dir": "down",
-      "note": "Trading Economics; 14-mo low"
+      "note": "1:18 PM ET (CNBC); 14-mo low"
     },
     {
       "label": "Silver",
       "value": "≈$44.6",
       "change": "—",
       "dir": "down",
-      "note": "Single undated live quote"
+      "note": "Midday undated quote; no fresh print"
     },
     {
       "label": "Copper (LME 3M)",
@@ -112,11 +112,18 @@
       "note": "Asia-session level; no fresh print"
     },
     {
+      "label": "WTI",
+      "value": "$83.21",
+      "change": "−$0.05 (−0.06%)",
+      "dir": "flat",
+      "note": "Settle (Reuters); lowest since Aug 26"
+    },
+    {
       "label": "Brent",
-      "value": "≈$91",
-      "change": "≈−1–2%",
-      "dir": "down",
-      "note": "Single snapshot; WTI no fresh print (≈$83 AM)"
+      "value": "$91.98",
+      "change": "+$0.03 (+0.03%)",
+      "dir": "flat",
+      "note": "Settle (Reuters)"
     }
   ],
   "calendar": [
@@ -445,6 +452,53 @@
   "caveats": "WSJ, NYT and Tribune are paywalled, and direct fetches to most news sites were blocked this run, so stories come from search snippets and other outlets' coverage (named in each story). No Russell 2000, KBW or official Treasury closes for Wednesday were found. Yields are late-session reads. Walmart results are from a single source (Investing.com) and are provisional. LME copper's Wednesday settle differs by source ($12,470–12,770). Anthropic share count and proceeds vary slightly (CNBC 980M/$81.3B vs Axios ≈956M/$79.4B). The 10Y TIPS real yield (≈2.88%) is derived from last Friday's nominal yield and breakeven.",
   "updates": [
     {
+      "at": "2026-11-19T21:17:04Z",
+      "label": "Close",
+      "headline": "The selloff deepened into the bell. The Dow closed ≈−1,100 (−2.2%), the S&P ≈−2.0% (a 6th straight loss) and the Nasdaq ≈−2.3%, while ANT finished at $97.17 (+17.1% vs $83), well off its $111.50 open. Bonds didn't follow stocks: the 10Y only eased ≈1bp to ≈5.05%, so the Fed-hike story still dominates.",
+      "points": [
+        "Closes (Kiplinger; rounded): Dow ≈49,097 (−2.2%, ≈−1,100 pts from 50,198), S&P ≈7,175 (−2.0%, ≈−149), Nasdaq ≈23,879 (−2.3%). The S&P fell a further ≈0.4pt after midday, giving a ≈3pt high-to-close reversal from the +0.9% open. The morning headline's 'risk-on open' did not survive the day.",
+        "ANT closed $97.17, +17.1% on day one and ≈$14 below the $111.50 open (Kiplinger, CNBC live). Rotation, not new money: AI incumbents were sold to fund the ≈$81B float. ECM read: the deal is a success for the issuer and syndicate, but the fade will make the next mega-IPO price more conservatively.",
+        "Rates barely moved on a 2% equity drop: the 10Y is ≈5.054% (−1bp+, CNBC late), the post-data high was ≈5.085%, and FedWatch is still ≈95% for +25bp on Dec 9. No fresh 2Y/30Y prints. No Jefferson remarks surfaced, so treat that calendar item as a no-show. Stocks down with no flight-to-quality bid means the market still prices inflation and hikes ahead of growth risk.",
+        "Gold fell to ≈$3,676 (−1.24%, 1:18 PM ET, CNBC), a fresh 14-month low and below the midday ≈$3,692. The dollar held near its 104 high (XTB), and a NYT report that Trump is weighing new Iran strikes lifted the dollar, not gold. Oil settled flat: Brent $91.98 (+$0.03), WTI $83.21 (−$0.05), the lowest WTI since Aug 26 (Reuters), as Hormuz tanker disruptions offset a US stock build.",
+        "Next up: Intuit, Gap and Ross report after the close (options imply ≈±9% INTU, ≈±8% ROST). Friday 9:00 AM CT is final UMich sentiment (prelim 51.0); watch its inflation expectations for the 25-vs-50bp debate. I found no bank M&A news today."
+      ],
+      "simple": "Stocks had their worst day in a while. Investors sold existing tech names to buy Anthropic's new shares, and worries about AI spending spread to the wider market. Normally, when stocks fall this much, people buy government bonds for safety, which pushes interest rates down. That barely happened today, because investors still expect the Fed to raise rates in December to fight inflation. Gold, which pays no interest, keeps losing out to bonds that now pay about 2.9% above inflation, and to a strong dollar.",
+      "sources": [
+        {
+          "name": "Kiplinger (close)",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-drops-1-100-points-as-anthropic-pops-17-percent-stock-market-today"
+        },
+        {
+          "name": "CNBC (Anthropic live)",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+        },
+        {
+          "name": "Yahoo Finance live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
+        {
+          "name": "CNBC (Treasuries)",
+          "url": "https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html"
+        },
+        {
+          "name": "CNBC (gold)",
+          "url": "https://www.cnbc.com/amp/2026/11/19/gold-silver-metals-price-treasury.html"
+        },
+        {
+          "name": "Reuters via Yahoo (oil settle)",
+          "url": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
+        },
+        {
+          "name": "XTB market wrap (dollar)",
+          "url": "https://www.xtb.com/int/market-analysis/news-and-research/market-wrap-anthropic-lifts-sentiment-but-a-hawkish-fed-keeps-the-dollar-high"
+        },
+        {
+          "name": "FXStreet (NYT Iran report)",
+          "url": "https://www.fxstreet.com/news/israel-presses-us-for-joint-strikes-as-iran-begins-rebuilding-military-strength-nyt-202611190329"
+        }
+      ]
+    },
+    {
       "at": "2026-11-19T18:17:05Z",
       "label": "Midday",
       "headline": "The Anthropic pop didn't carry the market. ANT opened at $111.50 (+34% vs $83) and then faded toward ≈$99–105, and the indexes flipped from ≈+1–2% to ≈−1.6%, with the Dow off ≈1,000 points. The noon 10Y TIPS reopening cleared at 2.903%, in line, so the bond market barely moved.",
@@ -535,5 +589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19T18:17:05Z"
+  "updatedAt": "2026-11-19T21:17:04Z"
 }
