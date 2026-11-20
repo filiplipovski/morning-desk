@@ -11,105 +11,105 @@
     "Metals and FX: spot gold fell 1.9% to $3,554 (06:27 GMT) after touching $3,513.54, its lowest since Sept 2025, and is heading for ≈−9–10% on the week, the worst since March. Silver is $41.25 (−3.5%), platinum $1,299 (−3.6%) and palladium $879 (−3.3%). LME copper closed ≈$12,471 Thursday (lowest since early April, ≈−6% on the week) and was ≈$12,188 in Asia. DXY ≈103.9 is near a 19-month high and on track for a 4th weekly gain.",
     "Today: final UMich sentiment at 9:00 AM CT (prelim 51.0). The 1Y and 5Y inflation expectations (4.3% / 3.4% prior) matter more than the headline for the 25-vs-50bp debate. It is also monthly options expiration in a ≈25 VIX tape. Brent is $91.45 (−0.6%, set for ≈−5% on the week) even after Iran's IRGC said two tankers hit mines in Hormuz."
   ],
-  "markets_asof": "≈12:10 PM CT (sources conflict; some tiles are morning prints, noted)",
+  "markets_asof": "Close ≈3:00 PM CT (indices Reuters prelim; yields/metals late-session approx.)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,028–7,065",
-      "change": "≈−1.5% to −2.3%",
+      "value": "6,918.45",
+      "change": "−3.59%",
       "dir": "down",
-      "note": "Benzinga / Motley Fool / Yahoo; Thu close 7,175.83"
+      "note": "Reuters prelim close; 7th straight loss; in correction"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈23,210",
-      "change": "≈−2.8% to −3.7%",
+      "value": "22,654.15",
+      "change": "−5.13%",
       "dir": "down",
-      "note": "Now negative YTD (Yahoo); Thu close 23,879.20"
+      "note": "Reuters prelim; negative YTD"
     },
     {
       "label": "Dow",
-      "value": "≈48,807–49,048",
-      "change": "≈−0.1% to −0.7%",
+      "value": "48,188.18",
+      "change": "−908.88 (−1.85%)",
       "dir": "down",
-      "note": "Turned red; Thu close 49,097.06"
+      "note": "Reuters prelim; in correction"
     },
     {
       "label": "Russell 2000",
-      "value": "2,655.11",
-      "change": "≈−2.2%",
-      "dir": "down",
-      "note": "Thu close (AP); no reliable intraday print"
-    },
-    {
-      "label": "Anthropic (ANT)",
       "value": "—",
       "change": "—",
       "dir": "down",
-      "note": "No reliable midday print; ≈−8–9% early; IPO $83"
+      "note": "No reliable close found; Thu 2,655.11"
+    },
+    {
+      "label": "Nvidia (NVDA)",
+      "value": "≈$127–128",
+      "change": "≈−12% to −13%",
+      "dir": "down",
+      "note": "Reported SEC accounting probe; −22% wk"
     },
     {
       "label": "UST 2Y",
-      "value": "4.653%",
-      "change": "≈−12.6bp",
+      "value": "≈4.61%",
+      "change": "≈−17bp",
       "dir": "down",
-      "note": "Reuters via MarketScreener; Thu 4.770%"
+      "note": "Late-session print; Thu 4.770%"
     },
     {
       "label": "UST 10Y",
-      "value": "4.948%",
-      "change": "≈−10bp",
+      "value": "≈4.91%",
+      "change": "≈−14bp",
       "dir": "down",
-      "note": "Reuters; biggest drop since Oct 22"
+      "note": "Biggest weekly drop since Apr 2025"
     },
     {
       "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No fresh print; Thu close 5.406%"
+      "value": "≈5.32%",
+      "change": "≈−8bp",
+      "dir": "down",
+      "note": "Single source; Thu 5.406%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈fully priced",
+      "change": "Dec +25bp ≈98%",
       "dir": "up",
-      "note": "FOMC Dec 8–9; Jan hike also expected (FXStreet)"
+      "note": "CME FedWatch; FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
       "value": "≈103.9",
       "change": "No fresh print",
       "dir": "flat",
-      "note": "Morning level (CNBC); no midday print"
+      "note": "Morning level (CNBC)"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,530–3,570",
-      "change": "≈−1.5% to −3.7%",
+      "value": "≈$3,530–3,560",
+      "change": "≈−2% to −3.7%",
       "dir": "down",
-      "note": "Early-session range; one source $3,530.75 (−3.7%)"
+      "note": "No settle found; ≈−8–9% on week"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$41.3–42.3",
-      "change": "≈−2.4% to −3.5%",
+      "value": "≈$41",
+      "change": "≈−3%",
       "dir": "down",
-      "note": "Trading Economics / Fortune / USAGold"
+      "note": "Intraday; low $40.99 (Kitco via search)"
     },
     {
       "label": "Copper (COMEX)",
-      "value": "$5.53/lb",
-      "change": "−1.88%",
+      "value": "≈$5.5/lb",
+      "change": "Lowest since March",
       "dir": "down",
-      "note": "Trading Economics"
+      "note": "Midday $5.53 (Trading Economics); no settle"
     },
     {
       "label": "Brent",
       "value": "$91.14",
       "change": "3rd weekly loss",
       "dir": "down",
-      "note": "Reuters 7:10 AM CT; no midday print"
+      "note": "7:10 AM CT print; no settle found"
     }
   ],
   "calendar": [
@@ -403,6 +403,49 @@
   "caveats": "Direct fetches to news sites were blocked this run, so all figures come from search-result summaries. WSJ, NYT and Tribune are paywalled: those buckets use Reuters press-digest listings and other outlets' coverage, named in each story. The BILL/Corpay $6B figure comes from a headline aggregator and is unconfirmed. Futures changes are from an early Reuters snapshot (exact time unknown), and the ANT pre-market price is implied from −6.8%. No Friday Treasury yields were found, so tiles show Thursday closes. FedWatch odds come via aggregators (≈93–97%). The 10Y TIPS result (2.903%) is single-source. No VIX close for Thursday was found. WTI's figure is from an earlier session than Brent's. Waller and Barr appearance times are unconfirmed.",
   "updates": [
     {
+      "at": "2026-11-20T21:17:35Z",
+      "label": "Close",
+      "headline": "A Reuters report of an SEC accounting probe at Nvidia turned the AI unwind into a crash. The S&P fell 3.6% to ≈6,918 and closed in a correction, the Nasdaq lost 5.1% and is negative for 2026, and the 2Y fell ≈17bp to ≈4.61% on a flight to safety.",
+      "points": [
+        "Close (Reuters preliminary): S&P 500 6,918.45 (−257.38, −3.59%), its 7th straight loss and longest losing streak since Feb 2020. Nasdaq 22,654.15 (−5.13%). Dow 48,188.18 (−908.88, −1.85%). The S&P and Dow both closed >10% below their records, which is a correction. All three posted their worst week since April 2025. Benzinga's early wrap had the S&P at 6,949 (−3.2%), so treat the final levels as provisional.",
+        "The catalyst after midday: Reuters, citing two people briefed, reported that SEC enforcement staff are examining possible accounting issues at Nvidia. NVDA fell ≈12–13% to ≈$127–128, touching a 52-week low of $126.64. That is −22% on the week and its 7th straight weekly loss, the longest run since 2008. The SEC declined to comment, and an inquiry is not a finding of wrongdoing. SOXX is −34.5% over two months, the worst stretch since 2001 (Benzinga). Anthropic is back near its $83 IPO price.",
+        "Rates: a bull steepener into the close. The 2Y was ≈4.61% (≈−17bp), the 10Y ≈4.91% (≈−14bp, its 5th straight decline and the biggest weekly drop since April 2025) and the 30Y ≈5.32% (≈−8bp). These are late-session single-source prints (Reuters via TradingView/BigGo). The 2Y is ≈−18bp on the week. Dec +25bp is still ≈98% priced (CME FedWatch), so markets read the bond rally as a haven bid, not the Fed backing off. We found no coverage of Waller or Barr remarks today.",
+        "Metals and oil: we found no reliable settles. Gold is ≈$3,530–3,560, down ≈8–9% on the week, its worst week since March. Bloomberg (as cited) says investors are selling gold to cover AI losses. Copper fell to its lowest since March, and UBS frames it as an AI scare spreading into a broader growth scare. Silver ≈$41. The morning thesis that the selloff is 'tech, not macro' no longer fully holds: cross-asset de-risking is now visible.",
+        "Next: Paulson speaks at 5:30 PM CT tonight. Mon 12:00 PM CT is the 2Y auction, now at ≈4.61% vs ≈4.77% when the morning brief flagged it, so it is less attractive on yield but has a strong haven bid. Wed brings GDP, Oct PCE, durables and the Beige Book. Markets close Thanksgiving Thu and close early Fri. We found no new bank M&A today."
+      ],
+      "simple": "Reuters reported that the main US securities regulator, the SEC, is looking into Nvidia's accounting. Nvidia is the chipmaker at the center of the AI boom and one of the largest stocks in the market, so its 12% drop pulled the whole market down hard. A 'correction' means an index has fallen 10% from its peak, and the S&P 500 and Dow both got there today. Scared investors moved into short-term US government bonds, which pushed their yields (the interest they pay) down sharply. Traders still expect the Fed to raise rates in December, so cheaper borrowing isn't on the way just because stocks fell.",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo Finance (search)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+        },
+        {
+          "name": "Benzinga (This Week on Wall Street)",
+          "url": "https://www.benzinga.com/markets/market-summary/26/11/63510066/this-week-on-wall-street-semiconductor-worst-two-months-since-2001-nvidia-correction"
+        },
+        {
+          "name": "Investing.com (Nvidia SEC report)",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464"
+        },
+        {
+          "name": "Reuters via TradingView (Treasuries)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4710WA:0-us-yields-drop-as-ai-trade-concern-spurs-safe-haven-bid/"
+        },
+        {
+          "name": "BigGo Finance (yields)",
+          "url": "https://finance.biggo.com/news/db6d78c0-ccc1-409e-97e1-6e00d49bfef8"
+        },
+        {
+          "name": "ZeroHedge (copper/UBS)",
+          "url": "https://www.zerohedge.com/commodities/copper-slammed-ubs-sees-ai-fears-morphing-broader-growth-scare-across-assets"
+        },
+        {
+          "name": "Tradersunion (gold selling)",
+          "url": "https://tradersunion.com/news/commodities/show/4334135-global-cross-asset-selloff/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-20T18:17:26Z",
       "label": "Midday",
       "headline": "The pullback became a rout: the Nasdaq is down ≈3–3.7% and the S&P ≈2% toward 7,000, the Dow has turned red, and the 2Y has fallen ≈12–13bp to ≈4.65% as money moves into Treasuries.",
@@ -489,5 +532,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T18:17:26Z"
+  "updatedAt": "2026-11-20T21:17:35Z"
 }
