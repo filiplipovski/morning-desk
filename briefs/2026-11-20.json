@@ -11,105 +11,105 @@
     "Metals and FX: spot gold fell 1.9% to $3,554 (06:27 GMT) after touching $3,513.54, its lowest since Sept 2025, and is heading for ≈−9–10% on the week, the worst since March. Silver is $41.25 (−3.5%), platinum $1,299 (−3.6%) and palladium $879 (−3.3%). LME copper closed ≈$12,471 Thursday (lowest since early April, ≈−6% on the week) and was ≈$12,188 in Asia. DXY ≈103.9 is near a 19-month high and on track for a 4th weekly gain.",
     "Today: final UMich sentiment at 9:00 AM CT (prelim 51.0). The 1Y and 5Y inflation expectations (4.3% / 3.4% prior) matter more than the headline for the 25-vs-50bp debate. It is also monthly options expiration in a ≈25 VIX tape. Brent is $91.45 (−0.6%, set for ≈−5% on the week) even after Iran's IRGC said two tankers hit mines in Hormuz."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT (futures, metals); Thu close for indices, yields, copper",
+  "markets_asof": "≈9:15 AM CT (open snapshots; sources conflict on index levels)",
   "markets": [
     {
-      "label": "S&P 500 fut",
+      "label": "S&P 500",
       "value": "—",
-      "change": "−54.5 (−0.76%)",
+      "change": "≈−0.2% to −0.5%",
       "dir": "down",
-      "note": "Reuters early Fri; cash closed 7,175.83 Thu (≈−2.0%)"
+      "note": "Early-session reports conflict; Thu close 7,175.83"
     },
     {
-      "label": "Nasdaq 100 fut",
-      "value": "—",
-      "change": "−434 (−1.63%)",
+      "label": "Nasdaq Comp",
+      "value": "≈23,536",
+      "change": "−0.66% to −1.44%",
       "dir": "down",
-      "note": "Reuters early Fri; Comp closed 23,879.20 Thu (≈−2.3%)"
+      "note": "Open reports conflict; Thu close 23,879.20"
     },
     {
-      "label": "Dow fut",
-      "value": "—",
-      "change": "−99 (−0.2%)",
-      "dir": "down",
-      "note": "Reuters early Fri; cash closed 49,097.06 Thu (≈−2.2%)"
+      "label": "Dow",
+      "value": "≈49,171",
+      "change": "+0.1% to +0.4%",
+      "dir": "up",
+      "note": "Thu close 49,097.06"
     },
     {
       "label": "Russell 2000",
       "value": "2,655.11",
       "change": "≈−2.2%",
       "dir": "down",
-      "note": "Thu close (AP)"
+      "note": "Thu close (AP); no reliable intraday print"
     },
     {
       "label": "Anthropic (ANT)",
-      "value": "≈$90.6",
-      "change": "−6.8% pre-mkt",
+      "value": "≈$88–89",
+      "change": "≈−8% to −9%",
       "dir": "down",
       "note": "Implied from $97.17 close; IPO $83"
     },
     {
       "label": "UST 2Y",
-      "value": "4.770%",
-      "change": "−3.0bp",
+      "value": "4.683%",
+      "change": "≈−9bp",
       "dir": "down",
-      "note": "Thu close (Investing.com)"
+      "note": "CNBC intraday vs 4.770% Thu close"
     },
     {
       "label": "UST 10Y",
-      "value": "5.046%",
-      "change": "−1.9bp",
+      "value": "4.974%",
+      "change": "≈−7bp",
       "dir": "down",
-      "note": "Thu close; 4th straight decline"
+      "note": "CNBC intraday; back under 5%"
     },
     {
       "label": "UST 30Y",
-      "value": "5.406%",
-      "change": "−0.6bp",
-      "dir": "down",
-      "note": "Thu close; 2s10s ≈+28bp"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No fresh print; Thu close 5.406%"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈95%",
+      "change": "Dec +25bp ≈95–99%",
       "dir": "up",
-      "note": "FOMC Dec 8–9; 50bp ≈11%"
+      "note": "FOMC Dec 8–9; 50bp ≈5% (TipRanks)"
     },
     {
       "label": "Dollar index",
       "value": "≈103.9",
-      "change": "Near 19-mo high",
-      "dir": "up",
-      "note": "CNBC; on track for 4th weekly gain"
+      "change": "No fresh print",
+      "dir": "flat",
+      "note": "Morning level (CNBC); near 19-mo high"
     },
     {
       "label": "Gold (spot)",
-      "value": "$3,554",
-      "change": "−1.9%",
+      "value": "≈$3,558–3,572",
+      "change": "≈−1.5% d/d",
       "dir": "down",
-      "note": "06:27 GMT; low $3,513.54, 14-mo low; ≈−9–10% wk"
+      "note": "USAGold; Fortune 8 AM CT; ≈−8% wk"
     },
     {
       "label": "Silver (spot)",
-      "value": "$41.25",
-      "change": "−3.5%",
+      "value": "≈$41.9–42.3",
+      "change": "≈−2.4%",
       "dir": "down",
-      "note": "Reuters via Investing.com, Asia/Europe session"
+      "note": "USAGold / Fortune"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "≈$12,188/t",
-      "change": "vs ≈$12,471 Thu close",
+      "label": "Copper (COMEX)",
+      "value": "$5.53/lb",
+      "change": "−1.88%",
       "dir": "down",
-      "note": "SMM 11:00 Shanghai; Thu close lowest since early Apr"
+      "note": "Trading Economics"
     },
     {
       "label": "Brent",
-      "value": "$91.45",
-      "change": "−$0.53 (−0.6%)",
+      "value": "$91.14",
+      "change": "3rd weekly loss",
       "dir": "down",
-      "note": "11:45 GMT (Reuters); ≈−5% wk; WTI ≈$81.6 earlier (−1.95%)"
+      "note": "Reuters 1310 GMT; Dec WTI ≈$82.10, expires today"
     }
   ],
   "calendar": [
@@ -401,5 +401,50 @@
     }
   ],
   "caveats": "Direct fetches to news sites were blocked this run, so all figures come from search-result summaries. WSJ, NYT and Tribune are paywalled: those buckets use Reuters press-digest listings and other outlets' coverage, named in each story. The BILL/Corpay $6B figure comes from a headline aggregator and is unconfirmed. Futures changes are from an early Reuters snapshot (exact time unknown), and the ANT pre-market price is implied from −6.8%. No Friday Treasury yields were found, so tiles show Thursday closes. FedWatch odds come via aggregators (≈93–97%). The 10Y TIPS result (2.903%) is single-source. No VIX close for Thursday was found. WTI's figure is from an earlier session than Brent's. Waller and Barr appearance times are unconfirmed.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-20T15:18:21Z",
+      "label": "Post-open",
+      "headline": "Bonds are absorbing the AI selloff: the 10Y has slipped back under 5% (≈4.97%) and the 2Y is down ≈9bp to ≈4.68% as the Nasdaq opens ≈−0.7% to −1.4%, while the Dow is green and final UMich shows inflation expectations falling sharply.",
+      "points": [
+        "Rates: CNBC intraday has the 2Y at 4.683% (≈−9bp vs Thu's 4.770%) and the 10Y at 4.974% (≈−7bp vs 5.046%). That is a bull steepener, led by the front end, on a haven bid. The morning headline's 'the 10Y held above 5%' no longer holds intraday. Waller told CNBC the Fed should be more aggressive. Dec +25bp is still ≈95–99% priced (TipRanks; CME FedWatch per CNBC 98.7%) and 50bp ≈5%, down from ≈11% this morning.",
+        "UMich final Nov (single source: investingLive via search): 51.5 vs 51.5 est (prelim 51.0). 1Y inflation expectations 3.7% vs 4.3% prelim and 4.7% Oct; 5Y 3.3% vs 3.4% prelim. That is the opposite of the ≥3.5% 5Y print the calendar flagged as hawkish, so it undercuts the 50bp case.",
+        "Equities: open reports conflict. Nasdaq is −0.66% to −1.44% (one print at 23,536.28), the S&P ≈−0.2% to −0.5% and the Dow +0.1% to +0.4% (≈49,171). ANT is ≈−8% to −9% (≈$88–89 vs $97.17 close; IPO $83), AMD ≈−6.8% and NVDA ≈−2.4%, heading for a 7th straight loss. Options expiration is today.",
+        "Metals: gold ≈$3,558–3,572 (USAGold; Fortune at 8 AM CT), a small bounce off the $3,513.54 overnight low but still ≈−8% on the week. Silver ≈$41.9–42.3. COMEX copper ≈$5.53/lb (−1.9%, Trading Economics). Falling real yields haven't rescued gold yet, which says the selling is about positioning and liquidation, not rates.",
+        "Oil: Brent $91.14 at 7:10 AM CT (Reuters via CNBC), heading for a 3rd weekly loss as Hormuz flows return to roughly pre-war levels. Dec WTI (≈$82.10) expires today, so its daily % change is distorted. OPEC+ meets Nov 29 on 2027 output."
+      ],
+      "simple": "When stocks sell off, investors often move money into U.S. government bonds as a safe place to park it. Heavy buying pushes bond prices up and yields (the interest rate the bond effectively pays) down. Two-year yields are falling fastest because traders are now less sure the Fed will need a big half-point hike in December, and the consumer survey showed people expecting less inflation ahead. Lower yields can pull mortgage and business loan rates down, but nobody is calling this the end of Fed hikes.",
+      "sources": [
+        {
+          "name": "CNBC (via search)",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://www.tipranks.com/news/investors-pile-into-u-s-bonds-as-fed-governors-eye-rate-hikes-ahead-of-oil-rig-data"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/"
+        },
+        {
+          "name": "CNBC (Anthropic/chips)",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+        },
+        {
+          "name": "Tokenpost",
+          "url": "https://www.tokenpost.com/news/investing/62116"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-20-2026/"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-20T15:18:21Z"
 }
