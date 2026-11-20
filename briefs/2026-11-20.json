@@ -11,28 +11,28 @@
     "Metals and FX: spot gold fell 1.9% to $3,554 (06:27 GMT) after touching $3,513.54, its lowest since Sept 2025, and is heading for ≈−9–10% on the week, the worst since March. Silver is $41.25 (−3.5%), platinum $1,299 (−3.6%) and palladium $879 (−3.3%). LME copper closed ≈$12,471 Thursday (lowest since early April, ≈−6% on the week) and was ≈$12,188 in Asia. DXY ≈103.9 is near a 19-month high and on track for a 4th weekly gain.",
     "Today: final UMich sentiment at 9:00 AM CT (prelim 51.0). The 1Y and 5Y inflation expectations (4.3% / 3.4% prior) matter more than the headline for the 25-vs-50bp debate. It is also monthly options expiration in a ≈25 VIX tape. Brent is $91.45 (−0.6%, set for ≈−5% on the week) even after Iran's IRGC said two tankers hit mines in Hormuz."
   ],
-  "markets_asof": "≈9:15 AM CT (open snapshots; sources conflict on index levels)",
+  "markets_asof": "≈12:10 PM CT (sources conflict; some tiles are morning prints, noted)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "—",
-      "change": "≈−0.2% to −0.5%",
+      "value": "≈7,028–7,065",
+      "change": "≈−1.5% to −2.3%",
       "dir": "down",
-      "note": "Early-session reports conflict; Thu close 7,175.83"
+      "note": "Benzinga / Motley Fool / Yahoo; Thu close 7,175.83"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈23,536",
-      "change": "−0.66% to −1.44%",
+      "value": "≈23,210",
+      "change": "≈−2.8% to −3.7%",
       "dir": "down",
-      "note": "Open reports conflict; Thu close 23,879.20"
+      "note": "Now negative YTD (Yahoo); Thu close 23,879.20"
     },
     {
       "label": "Dow",
-      "value": "≈49,171",
-      "change": "+0.1% to +0.4%",
-      "dir": "up",
-      "note": "Thu close 49,097.06"
+      "value": "≈48,807–49,048",
+      "change": "≈−0.1% to −0.7%",
+      "dir": "down",
+      "note": "Turned red; Thu close 49,097.06"
     },
     {
       "label": "Russell 2000",
@@ -43,24 +43,24 @@
     },
     {
       "label": "Anthropic (ANT)",
-      "value": "≈$88–89",
-      "change": "≈−8% to −9%",
+      "value": "—",
+      "change": "—",
       "dir": "down",
-      "note": "Implied from $97.17 close; IPO $83"
+      "note": "No reliable midday print; ≈−8–9% early; IPO $83"
     },
     {
       "label": "UST 2Y",
-      "value": "4.683%",
-      "change": "≈−9bp",
+      "value": "4.653%",
+      "change": "≈−12.6bp",
       "dir": "down",
-      "note": "CNBC intraday vs 4.770% Thu close"
+      "note": "Reuters via MarketScreener; Thu 4.770%"
     },
     {
       "label": "UST 10Y",
-      "value": "4.974%",
-      "change": "≈−7bp",
+      "value": "4.948%",
+      "change": "≈−10bp",
       "dir": "down",
-      "note": "CNBC intraday; back under 5%"
+      "note": "Reuters; biggest drop since Oct 22"
     },
     {
       "label": "UST 30Y",
@@ -72,30 +72,30 @@
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈95–99%",
+      "change": "Dec +25bp ≈fully priced",
       "dir": "up",
-      "note": "FOMC Dec 8–9; 50bp ≈5% (TipRanks)"
+      "note": "FOMC Dec 8–9; Jan hike also expected (FXStreet)"
     },
     {
       "label": "Dollar index",
       "value": "≈103.9",
       "change": "No fresh print",
       "dir": "flat",
-      "note": "Morning level (CNBC); near 19-mo high"
+      "note": "Morning level (CNBC); no midday print"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,558–3,572",
-      "change": "≈−1.5% d/d",
+      "value": "≈$3,530–3,570",
+      "change": "≈−1.5% to −3.7%",
       "dir": "down",
-      "note": "USAGold; Fortune 8 AM CT; ≈−8% wk"
+      "note": "Early-session range; one source $3,530.75 (−3.7%)"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$41.9–42.3",
-      "change": "≈−2.4%",
+      "value": "≈$41.3–42.3",
+      "change": "≈−2.4% to −3.5%",
       "dir": "down",
-      "note": "USAGold / Fortune"
+      "note": "Trading Economics / Fortune / USAGold"
     },
     {
       "label": "Copper (COMEX)",
@@ -109,7 +109,7 @@
       "value": "$91.14",
       "change": "3rd weekly loss",
       "dir": "down",
-      "note": "Reuters 1310 GMT; Dec WTI ≈$82.10, expires today"
+      "note": "Reuters 7:10 AM CT; no midday print"
     }
   ],
   "calendar": [
@@ -403,6 +403,49 @@
   "caveats": "Direct fetches to news sites were blocked this run, so all figures come from search-result summaries. WSJ, NYT and Tribune are paywalled: those buckets use Reuters press-digest listings and other outlets' coverage, named in each story. The BILL/Corpay $6B figure comes from a headline aggregator and is unconfirmed. Futures changes are from an early Reuters snapshot (exact time unknown), and the ANT pre-market price is implied from −6.8%. No Friday Treasury yields were found, so tiles show Thursday closes. FedWatch odds come via aggregators (≈93–97%). The 10Y TIPS result (2.903%) is single-source. No VIX close for Thursday was found. WTI's figure is from an earlier session than Brent's. Waller and Barr appearance times are unconfirmed.",
   "updates": [
     {
+      "at": "2026-11-20T18:17:26Z",
+      "label": "Midday",
+      "headline": "The pullback became a rout: the Nasdaq is down ≈3–3.7% and the S&P ≈2% toward 7,000, the Dow has turned red, and the 2Y has fallen ≈12–13bp to ≈4.65% as money moves into Treasuries.",
+      "points": [
+        "Equities (sources conflict by timestamp): Yahoo Finance at ≈12:10 PM CT had the S&P ≈−2.3%, the Nasdaq ≈−3.7% and the Dow ≈−0.7%. Benzinga had the S&P at 7,028 (−2.1%, −148 pts) and the Dow at 48,807 (−290). The Nasdaq is now negative for 2026 (Yahoo) and was down >700 pts (Schaeffer's). If the S&P holds here it is a 7th straight loss. The post-open note that 'the Dow is green' no longer holds.",
+        "Leaders: semis. AMD and Micron are leading the chip selloff (Motley Fool midday), and NVDA is on track for a 7th straight down day (Benzinga). The Nasdaq 100 is ≈−3%+. There is no reliable fresh ANT print; the morning tile (≈$88–89) is stale.",
+        "Rates: Reuters (via MarketScreener) had the 2Y at 4.653% (≈−12.6bp vs 4.770%) and the 10Y at 4.948%, its biggest one-day drop since Oct 22. The bull steepener from the open has extended, and 2s10s is ≈+30bp. Dec +25bp is still treated as fully priced, with January seen as a further hike (FXStreet). We found no fresh report of Waller's or Barr's remarks today.",
+        "Metals: we found no reliable midday print. Early-session spot gold ranged ≈$3,527–3,573 (Kitco/Fortune), and one single-source report has it at $3,530.75 (−3.7%). Gold is still selling off even as real yields fall, which supports the liquidation/margin-call read rather than a rates story. Silver ≈$41.3–42.3, COMEX copper ≈$5.53/lb.",
+        "Banking/deals: we found no new bank M&A today. This week's announced deals are Hancock Whitney–Trustmark and Ameris–Bank of Central Florida (ABA Banking Journal, Nov 17). Still ahead: the Baker Hughes rig count and Paulson at 5:30 PM CT."
+      ],
+      "simple": "Investors who are worried about the AI boom are dumping chip and tech stocks. Because many funds own the same handful of big tech names, that drags the whole S&P 500 down, which is an index of the 500 largest US companies. The money is flowing into short-term US government bonds, which pushes their yields (the interest rate they pay) down sharply. Falling yields can ease borrowing costs a little. Bonds rallying while stocks fall tells you investors are scared, not that they expect the Fed to stop raising rates.",
+      "sources": [
+        {
+          "name": "Yahoo Finance live blog",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63492512/stock-market-today-nasdaq-100-nvidia-seventh-day-chipmakers-smh"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/"
+        },
+        {
+          "name": "Schaeffer's",
+          "url": "https://www.schaeffersresearch.com/content/ezines/2026/11/20/wall-street-stumbles-as-tech-takes-nasdaq-700-points-lower"
+        },
+        {
+          "name": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/tech-stocks-tumble-treasury-yields-fall-as-traders-seek-refuge-ce785ed3da81f423"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://fxstreet.com/news/us-10-year-treasury-yield-slips-below-5-as-global-equity-rout-deepens-202611201233"
+        },
+        {
+          "name": "ABA Banking Journal",
+          "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-four-states-9/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-20T15:18:21Z",
       "label": "Post-open",
       "headline": "Bonds are absorbing the AI selloff: the 10Y has slipped back under 5% (≈4.97%) and the 2Y is down ≈9bp to ≈4.68% as the Nasdaq opens ≈−0.7% to −1.4%, while the Dow is green and final UMich shows inflation expectations falling sharply.",
@@ -446,5 +489,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T15:18:21Z"
+  "updatedAt": "2026-11-20T18:17:26Z"
 }
