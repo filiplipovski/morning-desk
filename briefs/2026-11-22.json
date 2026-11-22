@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-22",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-11-22T12:18:43Z",
+  "headline": "Nothing over the weekend changed Friday's setup: stocks are in a correction (S&P −8.6% on the week), the 10Y is back at 4.91%, and Dec +25bp is still priced above 90%. The holiday week's three days of real trading come down to $183B of 2s/5s/7s and Wednesday's 7:30 AM PCE/GDP print, which decides whether the haven rally in Treasuries survives a Fed that is still hiking.",
+  "summary": [
+    "Week recap, equities: the S&P 500 ended Friday at 6,910.39 (−3.70% d, −8.6% wk), 11.6% below its Oct 6 record. Nasdaq −10.0% wk (negative YTD), Dow −8.0% to 48,147.33, Russell −7.5%. Friday's leg down was an SEC probe of Nvidia's disclosures on top of the CEO exit. Weekend coverage frames it as tech's worst week since 2020, and the VIX closed at a 2026 high.",
+    "Week recap, rates: a haven bull steepener. The 2Y fell ≈15–20bp to ≈4.61% (biggest weekly drop since Aug 2025), and the 10Y fell 14bp Friday to 4.91%. Kiplinger, citing CME FedWatch, still shows Dec +25bp above 97%. One weekend preview puts it nearer 80%, so check FedWatch at Sunday's 5 PM CT futures open before you quote a number.",
+    "Week recap, metals: gold fell ≈8.7% to ≈$3,540 (low $3,513.70), its worst week since March, as funds sold winners to meet margin calls. The dollar index was ≈103.8 and the 10Y TIPS cleared at a 2.903% real yield, highest since 2002. LME copper fell ≈8% to ≈$12,240/t. Silver ≈$41.",
+    "Week recap, banking: the KBW Bank Index fell as much as 7.7% (worst week since Apr 2025) even as GS/MS led Anthropic's record ≈$81B IPO at $83. Small-bank M&A kept printing (Hancock Whitney–Trustmark $3.2B; First Capital–First Bancorp of Indiana $33.2M).",
+    "Supply: Treasury sells $69B 2Y Mon, $70B 5Y Tue and $44B 7Y Wed ($183B total, all settling Nov 30), into a rally that has cut the yield buyers receive. Tails would suggest the haven bid is tired; stop-throughs would suggest it has further to run.",
+    "Wednesday is the week: Q3 GDP 2nd estimate (adv. 3.4%), Oct PCE (Oxford Economics: core +0.27% m/m, 3.2% y/y; headline 3.8% y/y from 3.6%), durables, claims (moved up a day for Thanksgiving), the 7Y auction and the Beige Book. Markets close Thursday and close early Friday. The Fed blackout starts Nov 28, with the FOMC on Dec 8–9."
+  ],
+  "markets_asof": "Fri Nov 20 close (weekend: no trading; CME Globex futures reopen Sun 5:00 PM CT). Weekly changes vs Nov 13 close.",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "6,910.39",
+      "change": "−3.70% d / −8.6% wk",
+      "dir": "down",
+      "note": "In correction; 11.6% below Oct 6 record"
+    },
+    {
+      "label": "Dow",
+      "value": "48,147.33",
+      "change": "−949.73 (−1.93%) / −8.0% wk",
+      "dir": "down",
+      "note": "In correction"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "22,617.73",
+      "change": "−5.28% d / −10.0% wk",
+      "dir": "down",
+      "note": "Negative YTD; SOX −10.7% Fri"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,581.79",
+      "change": "−2.76% d / −7.5% wk",
+      "dir": "down",
+      "note": "The Closing Print"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.61%",
+      "change": "≈−17bp d / ≈−15–20bp wk",
+      "dir": "down",
+      "note": "Biggest weekly drop since Aug 2025"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.91%",
+      "change": "−14bp d",
+      "dir": "down",
+      "note": "5th straight decline; back below 5%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.32%",
+      "change": "≈−8bp d",
+      "dir": "down",
+      "note": "Single source"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec +25bp ≈92–98%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9; 50bp ≈10%"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈103.8",
+      "change": "4th weekly gain",
+      "dir": "up",
+      "note": "19-mo high 103.97 Thu"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,540",
+      "change": "≈−2.3% d / ≈−8.7% wk",
+      "dir": "down",
+      "note": "Low $3,513.70; worst week since March"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$41.1",
+      "change": "≈−2.6% d",
+      "dir": "down",
+      "note": "Low $40.99"
+    },
+    {
+      "label": "Copper",
+      "value": "≈$5.47/lb COMEX; ≈$12,240/t LME",
+      "change": "≈−8% wk (LME)",
+      "dir": "down",
+      "note": "Lowest since March; COMEX figure is aggregator"
+    },
+    {
+      "label": "WTI",
+      "value": "$83.98",
+      "change": "+0.93% d / −5.17% wk",
+      "dir": "down",
+      "note": "Dec contract; 3rd weekly loss"
+    },
+    {
+      "label": "Brent",
+      "value": "$92.57",
+      "change": "+0.6% d / −3.41% wk",
+      "dir": "down",
+      "note": "Jan contract; Hormuz tanker fire bounce"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun 5:00 PM",
+      "event": "CME Globex reopens: equity index, Treasury, SOFR, metals futures",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the first chance to see whether Friday's Nvidia-driven selloff carries over. Watch ES/NQ, the 10Y note future and gold for a weekend gap."
+    },
+    {
+      "time": "Mon 7:30 AM",
+      "event": "Chicago Fed National Activity Index (Oct)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This home-team index rolls 85 indicators into one growth read. A negative print would add to the growth-scare story behind the bull steepener."
+    },
+    {
+      "time": "Mon 8:45 AM",
+      "event": "S&P Global flash PMIs (Nov): manufacturing & services",
+      "consensus": "—",
+      "prior": "Mfg 54.9 (one preview)",
+      "why": "This is the first activity data after the equity rout. Weak services would support the front-end rally; a firm print keeps the Dec hike locked."
+    },
+    {
+      "time": "Mon (TBC)",
+      "event": "NY Fed's Williams speaks (BoE's Pill also speaks Monday)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Williams is a permanent voter who has pushed back on 50bp. Listen for whether market stress softens his December language."
+    },
+    {
+      "time": "Mon 12:00 PM",
+      "event": "2Y note auction ($69B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 2Y yields ≈4.61%, ≈16bp less than Thursday. This tests whether money managers will buy front-end paper at lower yields with a hike still priced."
+    },
+    {
+      "time": "Mon after close",
+      "event": "Earnings: HPE, Zoom, Agilent",
+      "consensus": "—",
+      "prior": "—",
+      "why": "HPE's AI-server backlog is a read-through for the hardware names that led the selloff."
+    },
+    {
+      "time": "Tue 9:00 AM",
+      "event": "Conference Board consumer confidence (Nov)",
+      "consensus": "92.0",
+      "prior": "91.7",
+      "why": "This is the wealth-effect check after a ≈9% drawdown. A big miss feeds growth-scare pricing and steeper curves."
+    },
+    {
+      "time": "Tue 12:00 PM",
+      "event": "5Y note auction ($70B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 5Y is the belly of the curve and the most sensitive to the Fed path, which makes it the purest read on whether buyers will lock in yields before a hike."
+    },
+    {
+      "time": "Tue after close",
+      "event": "Earnings: Dell, HP, Workday, Autodesk",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Dell's AI-server guidance shows whether the AI capex cycle itself is cracking or only valuations are."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "October PCE / core PCE + personal income & spending",
+      "consensus": "Core +0.3% m/m, 3.2% y/y (Oxford: 0.27%); headline 3.8% y/y",
+      "prior": "Core 3.1% y/y; headline 3.6% y/y",
+      "why": "This is the Fed's preferred gauge and the last major print before the blackout. A 0.4% core revives 50bp talk; a 0.2% softens December."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "Q3 GDP 2nd estimate; durable goods (Oct); initial jobless claims",
+      "consensus": "GDP ≈3.4%; durables 0.0%; claims —",
+      "prior": "GDP 3.4% adv; durables +1.9%; claims 203K",
+      "why": "Above-3% growth with ≈3% core inflation is the Fed's case to hike into a correction. Claims move to Wednesday because of the holiday."
+    },
+    {
+      "time": "Wed (pre-market)",
+      "event": "Deere earnings",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Farm-equipment demand matters to ag lending, a core book for Midwest commercial banks."
+    },
+    {
+      "time": "Wed 12:00 PM",
+      "event": "7Y note auction ($44B)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the last coupon supply before the holiday, in thin liquidity. 7Ys have a history of tailing."
+    },
+    {
+      "time": "Wed 1:00 PM",
+      "event": "Fed Beige Book; Chicago Fed NFCI",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Fed districts' anecdotes on pricing power and layoffs will shape the Dec 8–9 statement. The NFCI shows whether the stock selloff has tightened broader financial conditions."
+    },
+    {
+      "time": "Thu–Fri",
+      "event": "Thanksgiving: US markets closed Thu; Fri early close (stocks 12:00 PM CT, bonds 1:00 PM CT)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Thin liquidity can exaggerate moves. Black Friday is the first consumer read since the correction. The Fed blackout starts Nov 28."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Haven bull steepener heads into $183B of supply",
+        "body": "The 2Y fell ≈15–20bp on the week to ≈4.61% and the 10Y fell 14bp Friday to 4.91%, its 5th straight decline. Treasury now sells $69B 2Y, $70B 5Y and $44B 7Y Mon–Wed, all settling Nov 30.",
+        "simple": "When stocks crash, investors buy government bonds as a safe place, which pushes yields (the interest a bond pays) down. Short-term yields fell most, so the curve steepened (the gap between short and long rates widened). This week Treasury needs buyers for $183B of new debt, and how eagerly they bid tells you whether that safety buying is still strong.",
+        "source": "Newsquawk (Treasury announcement)",
+        "url": "https://www.newsquawk.com/headlines/us-to-sell-usd-69bln-of-2-yr-notes-on-november-23rd-usd-70bln-of-5-yr-notes-on-november-24th-and-usd-44bln-of-7-yr-notes-on-november-25th-all-to-settle-on-november-30th"
+      },
+      {
+        "title": "PCE is the swing factor for a 'hike into a correction'",
+        "body": "Oxford Economics sees Oct core PCE +0.27% m/m and 3.2% y/y, with headline accelerating to 3.8% from 3.6%. Kiplinger cites FedWatch above 97% for Dec +25bp, which leaves fed funds at 3.75–4.00% heading to 4.00–4.25%.",
+        "simple": "PCE is the inflation measure the Fed watches most. With inflation above 3%, the Fed is set to raise rates in December even though stocks are falling. A hot reading Wednesday would make that hike look certain; a soft one would let bond traders bet it is the last.",
+        "source": "Kiplinger",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+      },
+      {
+        "title": "Real yields at a 24-year high",
+        "body": "Thursday's $19B 10Y TIPS reopening cleared at 2.903%, the highest at auction since Jul 2002 (bid-to-cover 2.43). The 10Y Bund is ≈3.30–3.36%, near a 17-year high, and the 10Y gilt ≈5.29%.",
+        "simple": "A real yield is a bond's interest rate after inflation, and it is the true cost of money. At nearly 3% it is very high by recent standards. That squeezes anything that pays no interest, like gold, and raises borrowing costs for companies and homebuyers.",
+        "source": "Tipswatch",
+        "url": "https://tipswatch.com/2026/11/19/10-year-tips-auction-gets-real-yield-of-2-903-highest-in-24-years/"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Sunday's Globex open is the first test",
+        "body": "Friday was monthly opex, with the VIX closing ≈35.9 (+26%; another source has 31.6) after SOX −10.7% and Nasdaq −5.28%. Equity, Treasury, SOFR and metals futures reopen 5 PM CT Sunday, before any cash market.",
+        "simple": "Futures are contracts to buy or sell later at a price set today, and CME's trade almost around the clock. Sunday evening is the first price check after a weekend of news, so a gap up or down tells traders whether Friday's panic is spreading or fading. The VIX (the 'fear gauge', priced from S&P options) shows how big a swing traders expect.",
+        "source": "The Closing Print",
+        "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
+      },
+      {
+        "title": "Crowded 10Y long gets paid, but auction week can shake it",
+        "body": "Asset managers built a record ≈3M-contract net long in 10Y T-Note futures over Sep–Oct, and CME rates futures and options averaged a record 14.78M contracts/day in October. Eris SOFR swap futures hit a record 900K OI on Nov 2.",
+        "simple": "A net long means big funds have bet heavily that bond prices will rise (yields fall). Last week's rally paid them, but when everyone holds the same trade, a weak auction can trigger fast selling. Record volumes are good business for CME, which earns fees on every contract.",
+        "source": "CME Group (Rates Recap)",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-11-rates-recap.html"
+      },
+      {
+        "title": "Fed odds: sources disagree, so quote a range",
+        "body": "Kiplinger's FedWatch read shows Dec +25bp above 97%. A Stocktwits weekend preview cites ≈80%, and money markets carried ≈10% for 50bp earlier in the month. SOFR futures rallied with the 2Y but still price a December hike.",
+        "simple": "SOFR futures are bets on where a key overnight lending rate will be, and CME's FedWatch converts their prices into odds of each Fed move. The odds shift by the hour in volatile markets, so different snapshots show different numbers. Either way, traders still expect a hike.",
+        "source": "Stocktwits",
+        "url": "https://stocktwits.com/news-articles/markets/equity/stock-market-correction-or-crash-3-charts-for-the-week-ahead/cNGr4EOR9e1"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold's worst week since March: margin selling, not a thesis change",
+        "body": "Spot gold was ≈$3,543.60 late Friday (−2.3% d, −8.7% wk) after a low of $3,513.70, its lowest since Sep 2025. Analysts blame liquidation to cover equity margin calls, a dollar near 104 and ≈96% hike odds.",
+        "simple": "When stocks crash, funds sell whatever is still worth something to raise cash, and gold had big gains to sell. A strong dollar and high real interest rates also make gold, which pays no interest, less attractive. The open question is whether buyers step back in once the forced selling ends.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/news/article/2026-11-20/gold-heads-worst-week-eight-months-silver-slides-below-42-kitco-am-report"
+      },
+      {
+        "title": "Central-bank floor vs. ETF outflows",
+        "body": "Central banks bought 321t in Q3 (+42% y/y, vs a 227t 5-year quarterly average) and China added 26t in October to reach 2,435t. Last week, US gold-fund outflows were larger than that official demand.",
+        "simple": "Central banks have been steady gold buyers to diversify away from dollars, which has acted like a price floor. Last week, investors pulling money from gold funds sold faster than central banks bought. Whether official buying catches the price near $3,500 is the key question for the metals desk.",
+        "source": "Kitco",
+        "url": "https://www.kitco.com/news/article/2026-11-10/china-buys-gold-two-straight-years-central-bank-demand-remains-key-pillar"
+      },
+      {
+        "title": "Copper prices an AI-capex growth scare",
+        "body": "LME copper fell as much as 4% Friday to ≈$12,240/t, its lowest since March, and ≈8% on the week, two months after a record near $15,000. UBS sees AI fears spreading into a broader cross-asset growth scare.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a quick read on expected economic growth. It fell as traders worried the AI building boom will slow. That matters to miners and to banks that lend to industrial companies.",
+        "source": "ZeroHedge (UBS note)",
+        "url": "https://www.zerohedge.com/commodities/copper-slammed-ubs-sees-ai-fears-morphing-broader-growth-scare-across-assets"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Bank stocks' worst week since Apr 2025",
+      "body": "The KBW Bank Index fell as much as 7.7% on the week (another tally shows −9.5%) and printed a death cross. GS and MS each fell >10%. Bloomberg Intelligence blames macro risk, not credit.",
+      "simple": "Bank shares fell with the whole market because investors fear a slowdown will cut trading, deal and lending profits. A 'death cross' is a chart signal in which the 50-day average price falls below the 200-day average, which some traders read as a sign of more weakness. Analysts say loan books still look fine; this is fear about the economy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/bank-stocks-set-for-worst-week-since-april-2025-as-rout-deepens"
+    },
+    {
+      "title": "Anthropic's record IPO gives back its pop",
+      "body": "Anthropic priced 980M shares at $83 (above the $70–78 range) to raise ≈$81B, the largest US IPO, plus a $26B private placement. It closed day one at $97.17 (+17%), then fell back near $83 Friday.",
+      "simple": "An IPO is a company's first sale of shares to the public, and banks like Goldman and Morgan Stanley earn fees for running it. Selling a record amount of stock in a falling market was a feat for the banks. The quick fade back to the offer price shows how fast risk appetite turned.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"
+    },
+    {
+      "title": "Hancock Whitney–Trustmark $3.2B all-stock deal",
+      "body": "This creates a ≈$58B-asset Southeastern bank across six states. Close is expected late Q1 2027, pending approval.",
+      "simple": "Mid-size banks are merging to spread technology and compliance costs over more customers. Paying in stock rather than cash spares the buyer's capital. Deals like this keep moving even while bank stocks fall, which keeps M&A bankers busy.",
+      "source": "SEC filing (Hancock Whitney 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"
+    },
+    {
+      "title": "Midwest tuck-ins: First Capital buys First Bancorp of Indiana",
+      "body": "Corydon, IN-based First Capital will pay $33.2M in stock for $583M-asset First Bancorp of Indiana, with close expected in H1 2027. Ameris also agreed to buy ≈$1.2B Bank of Central Florida.",
+      "simple": "Small community banks are selling to slightly larger neighbors because running a bank alone has become expensive. For a commercial-banking recruit, this is the everyday M&A that fills regional bank pipelines.",
+      "source": "ABA Banking Journal",
+      "url": "https://bankingjournal.aba.com/2026/11/bank-acquisitions-announced-in-texas-indiana-minnesota/"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Five forces behind the S&P 500 correction",
+        "body": "CNBC lists the Anthropic IPO draining AI demand, Nvidia's turmoil (CEO exit, then the SEC report) and a Fed losing the inflation fight among the drivers. The S&P closed 11.6% below its record.",
+        "simple": "A correction is a 10%+ drop from a peak. Several worries hit at once: doubts about AI stocks, scandal at the biggest chipmaker and a Fed that keeps raising rates. Together they pushed investors to sell.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+      },
+      {
+        "title": "Treasury yields sharply lower as investors flee to havens",
+        "body": "The 10Y traded ≈4.97% mid-session and closed ≈4.91%. LPL's Gillum called it a 'classic flight-to-safety trade'.",
+        "simple": "When stocks fall hard, investors buy US government bonds because they are seen as the safest asset. All that buying lowers their yields.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/amp/2026/11/20/treasury-yields-bonds-inflation.html"
+      },
+      {
+        "title": "Waller opens the door to a half-point hike",
+        "body": "Waller sees a December hike as likely and floated 50bp. He later argued that 25bp must come with a January signal, or else 50bp. He is the only official publicly pushing 50bp.",
+        "simple": "A Fed governor is arguing for a bigger-than-normal rate increase to get ahead of inflation. Most of his colleagues prefer the usual quarter point, so a 50bp move would be a surprise.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+      },
+      {
+        "title": "What to watch next week after the AI washout",
+        "body": "A short week: PCE, GDP and the Beige Book all land Wednesday, plus Dell, HP and Deere earnings. Thanksgiving closes markets Thursday.",
+        "simple": "The key inflation report and growth data come out the day before the holiday. They will decide whether the selloff deepens or stabilizes.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "SEC examining Nvidia's accounting",
+        "body": "The WSJ first reported Nov 17 that the SEC was investigating Nvidia, tied to disclosures and Singapore customer Megaspeed. Reuters' Friday follow-up sent NVDA ≈−12% to −14% (one close cited $125.53) and ≈−23% on the week, its worst since 2008. A probe is not a finding.",
+        "simple": "The SEC polices how companies report their finances. Investors worry that Nvidia's huge Singapore sales may not be what they seemed, and the stock fell sharply on the news. Many SEC probes end with no charges.",
+        "source": "The Motley Fool (citing WSJ/Reuters)",
+        "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+      },
+      {
+        "title": "Huang out; Kress interim CEO",
+        "body": "The WSJ first reported the board was weighing Jensen Huang's removal. He resigned Nov 12, CFO Colette Kress is interim CEO, and Harvey Jones became Nvidia's first board chair.",
+        "simple": "Nvidia's founder left after a personal scandal with national-security angles. Losing a famous CEO creates uncertainty about strategy, which weighs on the stock.",
+        "source": "Al Jazeera (citing WSJ)",
+        "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
+      },
+      {
+        "title": "Ken Griffin sells 740 Park duplex for $58M",
+        "body": "Citadel's Griffin sold an Upper East Side unit to Jets owner Woody Johnson for $58M, per people familiar.",
+        "simple": "The Chicago-born hedge-fund billionaire, who moved Citadel to Miami, sold a pricey New York apartment. It is a small sign of where top-end wealth is moving.",
+        "source": "WSJ (via Magzter)",
+        "url": "https://www.magzter.com/stories/newspaper/The-Wall-Street-Journal/KEN-GRIFFIN-SELLS-MANHATTAN-DUPLEX"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Goolsbee: everything on the table in December",
+        "body": "Chicago Fed President Austan Goolsbee said all options are open for Dec 8–9 as inflation runs above 3%. He did not rule out a larger move or a pause.",
+        "simple": "Goolsbee runs the Chicago Fed, one of 12 regional Fed banks. His saying that 'everything' is possible shows officials are unsure how hard to push against inflation while markets fall.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-federal-reserve-austan-goolsbee-inflation-20261119/"
+      },
+      {
+        "title": "CME's Duffy sells 43% of his shares near a record",
+        "body": "CEO Terry Duffy sold 43% of his CME stake with shares near an all-time high. He hands the CEO role to Lynne Fitzpatrick on Mar 1, 2027 and becomes executive chairman.",
+        "simple": "CME, the Chicago exchange behind most US futures, has thrived on record trading in volatile markets. Executives often sell stock before stepping back from day-to-day roles, so the sale reads as succession planning rather than a warning.",
+        "source": "24/7 Wall St. / CME Group",
+        "url": "https://247wallst.com/investing/2026/11/20/cmes-ceo-just-sold-43-of-his-shares-near-a-record/"
+      },
+      {
+        "title": "Chicago Fed indexes headline the hometown calendar",
+        "body": "The Chicago Fed releases its National Activity Index (Oct) Monday and its National Financial Conditions Index Wednesday.",
+        "simple": "The activity index combines 85 economic measures into one number: above zero means above-trend growth. The financial conditions index shows how easy or hard it is to borrow. Both help show whether the stock crash is spilling into the real economy.",
+        "source": "Chicago Fed (release calendar)",
+        "url": "https://www.chicagofed.org/research/data/data-release-calendar"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Megaspeed under US investigation over China ties",
+        "body": "The NYT reported US officials are investigating Singapore's Megaspeed, a big Nvidia customer, over China ties. Commerce and DOJ have since confirmed a criminal export-control probe.",
+        "simple": "The US limits which advanced chips can be sold to China. Officials suspect this Singapore firm was a back door, which puts Nvidia's sales figures and reputation under a cloud.",
+        "source": "TheFly via TipRanks (citing NYT)",
+        "url": "https://www.tipranks.com/news/the-fly/megaspeed-investigated-by-u-s-officials-over-ties-to-china-ny-times-reports-thefly"
+      },
+      {
+        "title": "Deep-sea mining lease despite court ruling",
+        "body": "The administration leased 31.5M acres of the Pacific to a private deep-sea miner Thursday, despite a judge's ruling this week that the auction was illegal.",
+        "simple": "The seabed holds nickel, cobalt and copper that batteries and grids need. The government is pushing to secure those metals despite legal fights, which matters for long-run metals supply.",
+        "source": "FDD Overnight Brief (NYT-cited)",
+        "url": "https://www.fdd.org/overnight-brief/november-20-2026/"
+      },
+      {
+        "title": "Trump–Xi–Putin pledge on refined fuel supply",
+        "body": "One of four points the three leaders agreed on Thursday was to boost production and supply of refined petroleum products.",
+        "simple": "The leaders of the three biggest powers promised to produce more gasoline and diesel. Even a vague pledge like this can weigh on oil prices, which helps the inflation outlook.",
+        "source": "FDD Overnight Brief (NYT-cited)",
+        "url": "https://www.fdd.org/overnight-brief/november-20-2026/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Auction week as a sentiment gauge",
+      "point": "Treasury sells $183B of 2s/5s/7s into a ≈15–20bp front-end rally while Dec +25bp is still priced above 90%. Ask a rates trader: if the 5Y stops through on Tuesday, is that haven demand or a bet that December is the last hike? And does a 0.4% core PCE Wednesday flip the bull steepener into a bear flattener?"
+    },
+    {
+      "topic": "Gold as the ATM in a deleveraging",
+      "point": "Gold fell ≈8.7% in a risk-off week, the opposite of the textbook haven trade, because it was the liquid winner funds sold to meet margin calls while 10Y real yields reached ≈2.9%. With central banks buying 321t in Q3, the interview angle is whether official demand around $3,500 marks the end of forced selling."
+    },
+    {
+      "topic": "Capital markets in a correction",
+      "point": "The same week GS/MS ran a record ≈$81B Anthropic IPO, the KBW index fell up to 7.7% and the stock round-tripped to its $83 offer price. Fee pools were strong but valuations still followed market risk. Meanwhile small-bank M&A (Hancock–Trustmark $3.2B; First Capital–First Bancorp of Indiana $33.2M) kept moving, a good point for commercial banking conversations."
+    }
+  ],
+  "caveats": "Sunday edition: no trading since Friday, so market tiles are Friday's closes repeated from Saturday's brief. WebFetch was blocked for nearly every outlet this run, so new figures come from search snippets only. WSJ, NYT and Tribune are paywalled; the WSJ and NYT items carry over from Saturday because no newer digests were indexed. Dec-hike odds differ by source (≈80% to >97%). PCE consensus is Oxford Economics' forecast, and the PMI prior is from a single preview. No consensus was found for claims or the PMIs. A Treasury-Secretary comment urging an outside Nvidia CEO surfaced but could not be dated reliably, so it was left out.",
+  "updates": []
+}
