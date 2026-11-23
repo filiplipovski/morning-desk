@@ -11,83 +11,84 @@
     "Deals are still printing into the drawdown: CrowdStrike agreed to buy Zscaler in an all-stock deal worth ≈$43.9B (1.135 CRWD per ZS), the largest cybersecurity deal on record. Brookfield is buying PGP Glass from Blackstone for $1.7B. WSJ reports bond managers expect Anthropic's debt to be rated BB, one to two notches below investment grade, against ≈$900B of compute commitments.",
     "Week shape: Wednesday 7:30 AM CT brings Oct PCE (consensus 3.8% y/y headline, 3.2% core), Q3 GDP 2nd estimate (≈3.5–3.6% vs 3.4% adv.), durables and claims (≈201K), plus the 7Y and the Beige Book. Thursday is closed and Friday closes early. FOMC is Dec 8–9."
   ],
-  "markets_asof": "Midday ≈11:00 AM–12:15 PM CT (stocks from morning wraps; 2Y auction provisional)",
+  "markets_asof": "Close ≈3:00–3:15 PM CT (stocks CNBC close; yields/metals late-session, approximate)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,240",
-      "change": "≈+4.8%",
+      "value": "7,237.17",
+      "change": "+4.73%",
       "dir": "up",
-      "note": "Morning trade (AP); Fri close 6,910.39"
+      "note": "Best day since Apr 2025 (CNBC)"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "—",
-      "change": "≈+6.8–7%",
+      "value": "24,089.56",
+      "change": "+6.51%",
       "dir": "up",
-      "note": "NVDA ≈+28–33%"
+      "note": "NVDA $164.10, +30.7%"
     },
     {
       "label": "Dow",
-      "value": "49,239.91",
-      "change": "+2.27%",
+      "value": "≈49,550–49,700",
+      "change": "≈+2.9–3.2%",
       "dir": "up",
-      "note": "Opening print; no confirmed midday level"
+      "note": "+≈1,400–1,555 pts; sources differ"
     },
     {
       "label": "Russell 2000",
-      "value": "2,581.79",
-      "change": "—",
-      "dir": "flat",
-      "note": "Fri close; no live print confirmed"
+      "value": "≈2,667",
+      "change": "≈+3.3%",
+      "dir": "up",
+      "note": "Fri close 2,581.79"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.72%",
-      "change": "+≈10bp",
+      "value": "≈4.70–4.72%",
+      "change": "+≈6–10bp",
       "dir": "up",
-      "note": "2Y auction 4.700% high, 2.65x (provisional)"
+      "note": "Auction 4.700%, 2.65x, 0.3bp stop-through"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.96%",
-      "change": "+≈4bp",
+      "value": "≈4.94%",
+      "change": "+≈3bp",
       "dir": "up",
-      "note": "Bear flattening"
+      "note": "Reuters; bear flattener"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.32%",
+      "value": "≈5.33%",
       "change": "—",
-      "dir": "up",
-      "note": "CNBC print; sources differ on the change"
+      "dir": "flat",
+      "note": "No confirmed close"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈96–98%",
+      "change": "Dec +25bp ≈96%",
       "dir": "up",
-      "note": "FOMC Dec 8–9; Williams speaks PM"
+      "note": "FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "—",
-      "change": "firmer",
+      "value": "104.47",
+      "change": "+0.6%",
       "dir": "up",
-      "note": "Reuters: dollar up with yields"
+      "note": "19-month high (Reuters)"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,678",
-      "change": "≈+3.9%",
+      "value": "≈$3,634",
+      "change": "≈+2.5%",
       "dir": "up",
-      "note": "Off 14-month low"
+      "note": "Faded from ≈$3,678 midday"
     },
     {
-      "label": "Silver (spot)",
-      "value": "≈$43.78",
-      "change": "≈+6.0%",
-      "dir": "up"
+      "label": "Silver (COMEX Dec)",
+      "value": "$41.95",
+      "change": "+2.1%",
+      "dir": "up",
+      "note": "Spot ≈+3.6%"
     },
     {
       "label": "Copper (COMEX)",
@@ -98,17 +99,16 @@
     },
     {
       "label": "WTI",
-      "value": "≈$82.0",
-      "change": "≈−1.5%",
-      "dir": "down",
-      "note": "Fri close $83.98"
+      "value": "≈$83.1",
+      "change": "≈−0.6%",
+      "dir": "down"
     },
     {
       "label": "Brent",
-      "value": "≈$91.1",
-      "change": "≈−1.6%",
-      "dir": "down",
-      "note": "Fri close $92.57"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No confirmed late print; ≈$91.1 midday"
     }
   ],
   "calendar": [
@@ -402,6 +402,57 @@
   "caveats": "WebFetch was blocked for every outlet this run, so figures come from search snippets, and pre-market index futures are given as ranges because sources' timestamps differ; no futures index levels were found. WSJ, NYT and Tribune are paywalled: WSJ/NYT items come via MarketScreener/Newsquawk digests and secondary coverage, and the Tribune bucket uses the Sun-Times, Bond Buyer, CME notices and Yahoo. A third-party WSJ digest listing items like an ABB–Ziehl-Abegg deal and a Delta glitch could not be verified, so those were left out. Fed odds vary (≈93–96%). The 2Y change is unquantified because Friday's close differs by source (≈4.61–4.65%). Palladium quotes range from ≈$887 to ≈$932. The BILL/TPG announcement date is unconfirmed. Flash PMI and CFNAI consensus were not found.",
   "updates": [
     {
+      "at": "2026-11-23T21:17:38Z",
+      "label": "Close",
+      "headline": "Best day since April 2025: the S&P closed +4.73% at 7,237 and the Nasdaq +6.51% on Nvidia's +31%. But the bond market didn't join in: the 2Y held ≈+6–10bp near 4.7%, the dollar hit a 19-month high, and gold gave back about a third of its intraday bounce.",
+      "points": [
+        "Close (CNBC): S&P 500 7,237.17 (+4.73%), Nasdaq Comp 24,089.56 (+6.51%), both the best day since April 2025. Dow ≈+1,400–1,555 pts (≈+2.9–3.2%; sources differ), Russell 2000 ≈2,667 (+≈3.3%). NVDA closed $164.10 (+30.7%), still below its ≈$186 pre-scandal level; Melius upgraded to Buy with a $220 target.",
+        "Rates: 2Y ≈4.70–4.72% (+≈6–10bp), 10Y ≈4.94% (+≈3bp per Reuters), so the bear flattener held into the close. The $69B 2Y auction is now confirmed by a second source (investingLive): 4.700% high, 2.65x bid-to-cover vs 2.63x average, a 0.3bp stop-through, with a heavier direct take. FedWatch Dec +25bp ≈96%, and 50bp is priced out.",
+        "Dollar index 104.47 (+0.6%), a fresh 19-month high (Reuters). Hike pricing plus a risk-on bid is a rare combination, and it capped metals: gold ≈$3,634 (+2.5%, USAGold) vs ≈$3,678 at midday. COMEX Dec silver $41.95 (+2.1%), and spot silver ≈+3.6%. WTI ≈$83.1 (−≈0.6%). There was no fresh copper print.",
+        "Williams (NY Fed) is scheduled to speak at 3 PM CT, the last scheduled Fed remarks before the Nov 28 blackout. Nothing had crossed by publish time. On Nov 17 he said another hike is likely but rejected a 'dramatic' move, so expect the same message.",
+        "Tomorrow (Tue): Case-Shiller (8 AM CT); Conference Board consumer confidence at 9 AM CT (consensus ≈92.1–92.5 vs 91.7 prior); $70B 5Y auction at 12 PM CT; Dell earnings after the close (consensus EPS $6.63, revenue ≈$50.6B). The morning thesis held: the bounce gave the Fed cover, and the front end priced it."
+      ],
+      "simple": "Stocks had their best day in about a year and a half after Nvidia brought back its CEO. Bonds told a different story: short-term Treasury yields (the interest rate the government pays, which tracks expected Fed moves) stayed higher, because a calmer stock market makes it easier for the Fed to raise rates in December. The government's two-year note sale went smoothly, meaning investors still want to lend at these rates. A stronger dollar made gold, which is priced in dollars, more expensive for foreign buyers, so gold's rebound faded by the close.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63551516/stock-market-today-nvidia-jensen-huang-return-nasdaq-100-anthropic-crowdstrike"
+        },
+        {
+          "name": "Finviz",
+          "url": "https://finviz.com/stock?t=NVDA"
+        },
+        {
+          "name": "Yahoo Finance (Reuters)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/u-s-treasury-sells-69-billion-the-two-year-notes-at-a-high-yield-of-4-700"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-23-2026/"
+        },
+        {
+          "name": "Mugglehead",
+          "url": "https://mugglehead.com/comex-gold-silver-futures-rebound-nasdaq-november-23-2026/"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/cb-consumer-confidence-highlights-economic-data-due-tuesday-93CH-5046246"
+        },
+        {
+          "name": "TradingView (Seeking Alpha)",
+          "url": "https://www.tradingview.com/news/seekingalpha:ebf26127f094b:0-ny-fed-s-williams-sees-no-need-for-a-dramatic-rate-move/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-23T18:16:30Z",
       "label": "Midday",
       "headline": "The relief rally is holding (S&P ≈+4.8%, Nasdaq ≈+7%), but the front end isn't buying it: the 2Y is up ≈10bp to ≈4.72%, Dec +25bp odds are ≈96–98%, and gold and silver are bouncing hard off 14-month lows.",
@@ -492,5 +543,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T18:16:30Z"
+  "updatedAt": "2026-11-23T21:17:38Z"
 }
