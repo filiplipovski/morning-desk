@@ -11,104 +11,101 @@
     "Deals are still printing into the drawdown: CrowdStrike agreed to buy Zscaler in an all-stock deal worth ≈$43.9B (1.135 CRWD per ZS), the largest cybersecurity deal on record. Brookfield is buying PGP Glass from Blackstone for $1.7B. WSJ reports bond managers expect Anthropic's debt to be rated BB, one to two notches below investment grade, against ≈$900B of compute commitments.",
     "Week shape: Wednesday 7:30 AM CT brings Oct PCE (consensus 3.8% y/y headline, 3.2% core), Q3 GDP 2nd estimate (≈3.5–3.6% vs 3.4% adv.), durables and claims (≈201K), plus the 7Y and the Beige Book. Thursday is closed and Friday closes early. FOMC is Dec 8–9."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT Mon Nov 23 (index futures % vs Fri close; Russell is Fri close)",
+  "markets_asof": "Post-open ≈8:35–9:15 AM CT (stocks at open; yields pre-PMI; metals 10:06 GMT snapshot)",
   "markets": [
     {
-      "label": "S&P 500 fut",
-      "value": "—",
-      "change": "≈+1.9% to +2.8%",
+      "label": "S&P 500",
+      "value": "7,227.41",
+      "change": "+4.59%",
       "dir": "up",
-      "note": "Cash closed 6,910.39 Fri (−3.70%)"
+      "note": "At open (Reuters); Fri close 6,910.39"
     },
     {
-      "label": "Nasdaq-100 fut",
-      "value": "—",
-      "change": "≈+2.7% to +3.6%",
+      "label": "Nasdaq Comp",
+      "value": "≈23,889",
+      "change": "≈+5.6% to +7.3%",
       "dir": "up",
-      "note": "Nvidia ≈+9% pre-mkt; Anthropic ≈+5%"
+      "note": "NVDA ≈+30% on Huang reinstatement"
     },
     {
-      "label": "Dow fut",
-      "value": "—",
-      "change": "≈+1.5% to +2.0%",
+      "label": "Dow",
+      "value": "49,239.91",
+      "change": "+2.27%",
       "dir": "up",
-      "note": "Cash closed 48,147.33 Fri"
+      "note": "At open; Fri close 48,147.33"
     },
     {
       "label": "Russell 2000",
       "value": "2,581.79",
-      "change": "−2.76% Fri",
-      "dir": "down",
-      "note": "Friday close"
+      "change": "—",
+      "dir": "flat",
+      "note": "Fri close; no live print confirmed"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.689%",
-      "change": "biggest rise on curve",
+      "change": "+7bp",
       "dir": "up",
-      "note": "$69B auction 12 PM CT"
+      "note": "Pre-PMI; $69B auction 12 PM CT"
     },
     {
       "label": "UST 10Y",
-      "value": "4.959%",
-      "change": "+4bp",
+      "value": "≈4.94–4.96%",
+      "change": "+3–4bp",
       "dir": "up",
-      "note": "Fri close ≈4.92%"
+      "note": "Pre-PMI"
     },
     {
       "label": "UST 30Y",
       "value": "5.335%",
       "change": "+3bp",
-      "dir": "up"
+      "dir": "up",
+      "note": "Pre-market print"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈93–96%",
+      "change": "Dec +25bp ≈96%",
       "dir": "up",
-      "note": "From ≈88.6% Fri; 50bp ≈0%; FOMC Dec 8–9"
+      "note": "FOMC Dec 8–9; Williams speaks PM"
     },
     {
       "label": "Dollar index",
-      "value": "≈103.75",
-      "change": "−0.08%",
-      "dir": "down",
-      "note": "USD/JPY ≈159 from 158.51 low"
+      "value": "≈103.9",
+      "change": "—",
+      "dir": "flat"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,604",
-      "change": "≈+1.9% vs Fri",
+      "value": "≈$3,620",
+      "change": "≈+2.3%",
       "dir": "up",
-      "note": "Fri low $3,513.54, 14-mo low"
+      "note": "10:06 GMT"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$42.2–42.6",
-      "change": "≈+2.6% to +3.4%",
-      "dir": "up",
-      "note": "≈−21% on the month"
+      "value": "≈$42.63",
+      "change": "≈+3.4%",
+      "dir": "up"
     },
     {
-      "label": "Copper (LME 3M)",
-      "value": "≈$12,160/t",
-      "change": "≈−2.3% last session",
-      "dir": "down",
-      "note": "Intraday low $11,958.93, weakest since March"
+      "label": "Copper (COMEX)",
+      "value": "≈$5.53/lb",
+      "change": "≈+1.2%",
+      "dir": "up"
     },
     {
       "label": "WTI",
-      "value": "$83.57",
-      "change": "+0.19%",
-      "dir": "flat",
-      "note": "−5% last week"
+      "value": "≈$83.1–83.6",
+      "change": "≈flat",
+      "dir": "flat"
     },
     {
       "label": "Brent",
-      "value": "$92.67",
-      "change": "+0.11%",
+      "value": "≈$92.7",
+      "change": "≈+0.1%",
       "dir": "flat",
-      "note": "Gulf shipping attacks cap losses"
+      "note": "Asian-session print"
     }
   ],
   "calendar": [
@@ -400,5 +397,50 @@
     }
   ],
   "caveats": "WebFetch was blocked for every outlet this run, so figures come from search snippets, and pre-market index futures are given as ranges because sources' timestamps differ; no futures index levels were found. WSJ, NYT and Tribune are paywalled: WSJ/NYT items come via MarketScreener/Newsquawk digests and secondary coverage, and the Tribune bucket uses the Sun-Times, Bond Buyer, CME notices and Yahoo. A third-party WSJ digest listing items like an ABB–Ziehl-Abegg deal and a Delta glitch could not be verified, so those were left out. Fed odds vary (≈93–96%). The 2Y change is unquantified because Friday's close differs by source (≈4.61–4.65%). Palladium quotes range from ≈$887 to ≈$932. The BILL/TPG announcement date is unconfirmed. Flash PMI and CFNAI consensus were not found.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-23T15:18:56Z",
+      "label": "Post-open",
+      "headline": "Nvidia's board reversed course and reinstated Huang, so the rally is bigger than futures implied (Nasdaq ≈+5.6–7.3%, NVDA ≈+30%), while softer flash PMIs and a negative CFNAI give rates the first growth-cooling data of the week.",
+      "points": [
+        "Correction to the morning brief: the brief said Nvidia's board had no plans to rehire Huang. Instead it voted unanimously to reinstate him as CEO, president and director, effective immediately, after 'input from senior levels of the US government' (8-K). NVDA ≈+28–31% at the open. The board's investigation continues.",
+        "Open (Reuters via MarketScreener): S&P 500 +4.59% to 7,227.41, Nasdaq Comp +5.6% to +7.3%, Dow +2.27% to 49,239.91. That is roughly double the pre-market futures gain in the brief.",
+        "Flash PMIs (8:45 AM CT): services 54.7 vs 55.6 consensus (prior 56.1), mfg 54.5 in line (prior 54.9), composite 54.6 vs 55.9, the slowest since July. S&P Global still sees ≈3% Q4 GDP. CFNAI (7:30 AM) −0.06 vs revised +0.05; production was the drag at −0.07.",
+        "Rates: the last confirmed prints are pre-data, with 2Y ≈4.689% (+7bp) and 10Y ≈4.94–4.96%. FedWatch Dec +25bp ≈96% (from ≈92% Fri, per CNBC). I couldn't confirm the post-PMI yield move. NY Fed's Williams speaks this afternoon, and the $69B 2Y auction is at 12 PM CT.",
+        "Metals bounce continues (10:06 GMT snapshot): gold ≈$3,620 (+2.3%), silver ≈$42.63 (+3.4%), COMEX copper ≈$5.53/lb (+1.2%). DXY ≈103.9. WTI ≈$83, flat after three weekly declines."
+      ],
+      "simple": "Nvidia, the giant chipmaker whose shares had been dragging the market down, rehired its ousted founder as CEO. Its stock jumped about 30% and pulled the whole market up with it. At the same time, two surveys showed the economy cooling a little: a purchasing managers' index (a monthly poll of businesses, where above 50 means growth) slipped, and a Chicago Fed index of 85 indicators dipped just below its normal-growth line. That matters because the Fed is still expected to raise rates in December, and softer data is the main thing that could talk it out of hiking again after that.",
+      "sources": [
+        {
+          "name": "MarketScreener (Reuters)",
+          "url": "https://www.marketscreener.com/news/wall-st-opens-sharply-higher-after-nvidia-reinstates-jensen-huang-as-ceo-ce7851dada81f120"
+        },
+        {
+          "name": "SEC (Nvidia 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502"
+        },
+        {
+          "name": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/us-sp-global-services-pmi-flash-nov-547-vs-exp-556-prev-561"
+        },
+        {
+          "name": "QNC News",
+          "url": "https://qncnews.com/2026/11/23/chicago-fed-activity-index-slips-below-zero-in-october-as-factory-output-drags/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
+        },
+        {
+          "name": "Capital Street FX",
+          "url": "https://www.capitalstreetfx.com/market-analysis/daily-commodity-report-23-nov-2026/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-23T15:18:56Z"
 }
