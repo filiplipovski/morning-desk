@@ -1,0 +1,404 @@
+{
+  "date": "2026-11-23",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-23T12:22:55Z",
+  "headline": "Futures are clawing back Friday's rout (S&P ≈+2%, Nasdaq-100 ≈+3%, Nvidia ≈+9% pre-market on Trump's call to rehire Huang), but bonds read the bounce as cover for the Fed: Dec +25bp is back near 96% and the 2Y is leading yields higher into today's $69B auction.",
+  "summary": [
+    "Relief rally, not a reset: S&P futures ≈+1.9–2.8%, Nasdaq-100 ≈+2.7–3.6%, Dow ≈+1.5–2.0% depending on timestamp (CNBC). That follows Friday's S&P −3.70%, its 7th straight loss, which left it in a correction and the Nasdaq-100 near a bear market. Nvidia is ≈+9% pre-market after Trump urged its board to rehire Jensen Huang; the board says it has no plans to, and the SEC and California AG probes are still live.",
+    "Rates gave back some of the haven bid: 2Y ≈4.689% (largest rise on the curve), 10Y 4.959% (+4bp), 30Y 5.335% (+3bp). FedWatch's Dec 9 +25bp odds rebounded to ≈96% from ≈88.6% Friday (another read: 93.2%). 50bp is ≈0%. Bessent said on CBS Sunday the Fed risks overtightening; Gov. Cook said Friday that rates are too low for 3.8% PCE inflation.",
+    "Today's tests: Chicago Fed NAI 7:30 AM CT (prior 0.07), flash PMIs 8:45 AM, and $69B 2Y at noon CT. This is the first of $183B in 2s/5s/7s this week. A tail with the 2Y back near 4.7% would say dip buyers want a Fed-hike discount; a stop-through would say the haven bid survived the equity bounce.",
+    "Metals bounce with yields below 5% Friday: gold ≈$3,604 after a 14-month low of $3,513.54 Friday (−≈9% last week). Silver ≈$42.2–42.6 (+≈3%), still ≈−21% on the month. LME copper briefly broke $12,000 (low $11,958.93), its weakest since March, while China's Yangshan premium doubled to ≈$500/t in a week.",
+    "Deals are still printing into the drawdown: CrowdStrike agreed to buy Zscaler in an all-stock deal worth ≈$43.9B (1.135 CRWD per ZS), the largest cybersecurity deal on record. Brookfield is buying PGP Glass from Blackstone for $1.7B. WSJ reports bond managers expect Anthropic's debt to be rated BB, one to two notches below investment grade, against ≈$900B of compute commitments.",
+    "Week shape: Wednesday 7:30 AM CT brings Oct PCE (consensus 3.8% y/y headline, 3.2% core), Q3 GDP 2nd estimate (≈3.5–3.6% vs 3.4% adv.), durables and claims (≈201K), plus the 7Y and the Beige Book. Thursday is closed and Friday closes early. FOMC is Dec 8–9."
+  ],
+  "markets_asof": "Pre-market ≈6:15 AM CT Mon Nov 23 (index futures % vs Fri close; Russell is Fri close)",
+  "markets": [
+    {
+      "label": "S&P 500 fut",
+      "value": "—",
+      "change": "≈+1.9% to +2.8%",
+      "dir": "up",
+      "note": "Cash closed 6,910.39 Fri (−3.70%)"
+    },
+    {
+      "label": "Nasdaq-100 fut",
+      "value": "—",
+      "change": "≈+2.7% to +3.6%",
+      "dir": "up",
+      "note": "Nvidia ≈+9% pre-mkt; Anthropic ≈+5%"
+    },
+    {
+      "label": "Dow fut",
+      "value": "—",
+      "change": "≈+1.5% to +2.0%",
+      "dir": "up",
+      "note": "Cash closed 48,147.33 Fri"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,581.79",
+      "change": "−2.76% Fri",
+      "dir": "down",
+      "note": "Friday close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.689%",
+      "change": "biggest rise on curve",
+      "dir": "up",
+      "note": "$69B auction 12 PM CT"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.959%",
+      "change": "+4bp",
+      "dir": "up",
+      "note": "Fri close ≈4.92%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.335%",
+      "change": "+3bp",
+      "dir": "up"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec +25bp ≈93–96%",
+      "dir": "up",
+      "note": "From ≈88.6% Fri; 50bp ≈0%; FOMC Dec 8–9"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈103.75",
+      "change": "−0.08%",
+      "dir": "down",
+      "note": "USD/JPY ≈159 from 158.51 low"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,604",
+      "change": "≈+1.9% vs Fri",
+      "dir": "up",
+      "note": "Fri low $3,513.54, 14-mo low"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$42.2–42.6",
+      "change": "≈+2.6% to +3.4%",
+      "dir": "up",
+      "note": "≈−21% on the month"
+    },
+    {
+      "label": "Copper (LME 3M)",
+      "value": "≈$12,160/t",
+      "change": "≈−2.3% last session",
+      "dir": "down",
+      "note": "Intraday low $11,958.93, weakest since March"
+    },
+    {
+      "label": "WTI",
+      "value": "$83.57",
+      "change": "+0.19%",
+      "dir": "flat",
+      "note": "−5% last week"
+    },
+    {
+      "label": "Brent",
+      "value": "$92.67",
+      "change": "+0.11%",
+      "dir": "flat",
+      "note": "Gulf shipping attacks cap losses"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "7:30 AM",
+      "event": "Chicago Fed National Activity Index (Oct)",
+      "consensus": "—",
+      "prior": "0.07",
+      "why": "This Chicago Fed gauge combines 85 activity indicators. A negative print would back the growth-scare reading of last week's bull steepener, against a Fed that is still hiking."
+    },
+    {
+      "time": "8:45 AM",
+      "event": "S&P Global flash PMIs (Nov): mfg / services / composite",
+      "consensus": "—",
+      "prior": "Mfg ≈54.9 (one preview)",
+      "why": "This is the first survey after the equity rout. Firm services would make the Dec hike a lock; a drop would revive bets that the Fed stops after one."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$69B 2-year note auction",
+      "consensus": "WI ≈4.69%",
+      "prior": "—",
+      "why": "This is the most Fed-sensitive auction of the week. A tail versus when-issued means buyers demanded more for front-end risk with a hike priced in."
+    },
+    {
+      "time": "Pre-mkt",
+      "event": "CrowdStrike Q3 FY27 results + Zscaler deal",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A $43.9B all-stock deal in a correction tests whether ECM/M&A pipelines can hold up. It is also a read on how much equity investors will absorb as acquisition currency."
+    },
+    {
+      "time": "All day",
+      "event": "Japan closed (holiday)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Thin JGB and Tokyo liquidity overnight. The Nikkei fell 5.06% Friday, so Tuesday's reopen is a catch-up risk."
+    },
+    {
+      "time": "Tue 12:00 PM",
+      "event": "$70B 5-year note auction",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The belly is where real-money demand for duration shows up. It sits in the middle of the 2s/5s/7s supply."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "Oct PCE, Q3 GDP (2nd est.), durables, jobless claims",
+      "consensus": "PCE 3.8% y/y (0.3% m/m); core 3.2% y/y; GDP ≈3.5–3.6%; durables ≈0.4%; claims ≈201K",
+      "prior": "PCE 3.6%; core 3.1%; GDP 3.4%; durables 1.9%; claims 203K",
+      "why": "This is the print that decides whether Dec +25bp becomes 'one and done' or the start of a series. Cook has already pre-quoted 3.8%/3.2%."
+    },
+    {
+      "time": "Wed 12:00 PM",
+      "event": "$44B 7-year auction; Beige Book (1:00 PM)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 7Y caps $183B of supply. The Beige Book is the last Fed publication before the Nov 28 blackout."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "Next FOMC",
+      "consensus": "+25bp to 4.00–4.25% (≈93–96%)",
+      "prior": "3.75–4.00%",
+      "why": "Markets are pricing a hike into an equity correction. The January 2027 meeting already carries meaningful odds of another move."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Bounce in stocks pushes the front end back up",
+        "body": "The 2Y is ≈4.689% and led the curve higher, while the 10Y is 4.959% (+4bp) and the 30Y 5.335% (+3bp). That unwinds part of Friday's haven bid, which had taken the 10Y to ≈4.92%. This is a bear flattener: the risk-on move lets the market re-price a Fed that is still hiking.",
+        "simple": "A Treasury yield is the interest the government pays to borrow, and it rises when bond prices fall. Friday's panic sent money into Treasuries, which pushed yields down. This morning stocks are recovering, so that safety money is leaving, and short-term yields are rising fastest because they track what the Fed does next. That keeps borrowing costs for car loans, credit cards and bank funding high.",
+        "source": "CNBC / KuCoin wire flash",
+        "url": "https://www.kucoin.com/news/flash/us-treasury-yields-rise-on-monday-10-year-hits-4-959"
+      },
+      {
+        "title": "Bessent vs. Cook: the overtightening debate goes public",
+        "body": "On CBS Sunday, Bessent said many see a policy-error risk from overtightening, citing much tighter financial conditions. Gov. Cook said Friday that policy is too low for 3.8% headline and 3.2% core PCE, and that waiting risks falling behind the curve and needing bigger hikes later. She dissented in October's hold at 3.75–4.00%.",
+        "simple": "The Treasury Secretary runs government borrowing, and he is publicly telling the central bank not to raise rates too far. A Fed governor is saying the opposite: inflation near 4% needs higher rates now. Who wins sets mortgage rates, bank loan pricing and whether the stock slump turns into a recession.",
+        "source": "Yahoo Finance / Kitco (Reuters)",
+        "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/feds-cook-says-rate-hikes-needed-lower-high-inflation"
+      },
+      {
+        "title": "$183B of 2s/5s/7s meets a 2Y back near 4.7%",
+        "body": "Treasury sells $69B 2Y today, $70B 5Y Tue and $44B 7Y Wed. Since Jan 2, the 2Y has risen ≈116bp (≈3.47% to ≈4.63% at Friday's Treasury fix) and the 10Y ≈73bp, and 3-month bills trade above the top of the funds range.",
+        "simple": "An auction is how the government sells new debt. A tail means it had to pay more than expected to find buyers; a stop-through means demand was strong. With so much short-term debt coming at once, the results show whether investors still want Treasuries now that panic is fading.",
+        "source": "Treasury data via search summary",
+        "url": "https://finance.yahoo.com/economy/policy/articles/bessent-tells-fed-not-hike-133844800.html"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "FedWatch swings back to ≈96% for Dec +25bp",
+        "body": "CME FedWatch had a quarter-point hike on Dec 9 at ≈96.2% as of 6 AM ET, up from ≈88.6% Friday. Another read showed 93.2%, down from >99% last week, and 50bp is at ≈0%. For January 2027, one read shows a cumulative extra hike as more likely than not.",
+        "simple": "FedWatch converts fed funds futures prices (contracts that settle on the Fed's average rate) into odds for each meeting. The odds dipped Friday when stocks crashed, as traders bet the Fed might hold off, then rebounded as markets calmed. It's the cleanest real-time read of what the Fed is expected to do.",
+        "source": "KuCoin / Gate (citing CME FedWatch)",
+        "url": "https://www.kucoin.com/news/flash/fed-s-december-25-bp-hike-probability-drops-to-93-2"
+      },
+      {
+        "title": "Crowded 10Y long and record rates volume set up a volatile week",
+        "body": "October CME ADV hit a record 30M contracts (+15% y/y), with Treasury futures ADV +48%. Asset managers built a record ≈3M-contract net long in 10Y T-note futures, and the Treasury VIX hit a 7-month high of 140 on Oct 22. That long got paid last week and is exposed if yields keep backing up.",
+        "simple": "Average daily volume (ADV) counts how many futures contracts change hands each day; record volume means record fees for CME. A net long is a large one-way bet that bond prices will rise. When that many investors hold the same bet, a reversal can force them to sell together, which makes yields jump.",
+        "source": "CME Group Rates Recap / Yahoo Finance",
+        "url": "https://www.cmegroup.com/newsletters/rates-recap/2026-11-rates-recap.html"
+      },
+      {
+        "title": "Vol flush: VIX above 30, bitcoin breaks its summer floor",
+        "body": "The VIX spiked above 30 Friday on monthly opex as the Nasdaq erased its 2026 gain. Bitcoin broke its summer floor over the weekend, hitting a ≈2-year low, then recovered to ≈$60–61K, and Saxo frames Monday's bounce as relief rather than capitulation.",
+        "simple": "The VIX measures how much investors pay for options that protect against stock swings; above 30 signals fear. Opex is the monthly expiration of options, which can exaggerate moves. Bitcoin breaking support at the same time shows investors were dumping risky assets across the board, not just tech stocks.",
+        "source": "CNBC / Saxo",
+        "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold back above $3,600 after a margin-call week",
+        "body": "Spot gold is ≈$3,604 (Reuters) to ≈$3,623 this morning, up from Friday's $3,537.90 close and $3,513.54 low, its lowest since Sep 2025. It fell ≈9% last week, the worst since March. The bounce tracks the 10Y slipping below 5% Friday and a softer dollar (DXY ≈103.75).",
+        "simple": "Gold pays no interest, so it gets more attractive when bond yields fall and less attractive when they rise. Last week investors sold gold to raise cash for losses elsewhere. With yields below 5% and the panic easing, buyers are returning, but higher yields today could cap the rebound.",
+        "source": "FX Leaders / Business Recorder (Reuters)",
+        "url": "https://www.fxleaders.com/news/2026/11/23/gold-price-forecast-xau-usd-rebounds-above-3600-as-yields-drop-below-5/"
+      },
+      {
+        "title": "Silver outpaces gold on the rebound",
+        "body": "Silver is ≈$42.2 (Bloomberg spot, +2.6%) to ≈$42.6 (Trading Economics, +3.4%), versus ≈$41.1 Friday, but still ≈−21% over a month. Silver's higher beta to both industrial demand and precious-metals flows makes it the bigger swing in either direction.",
+        "simple": "Silver is both a precious metal and an industrial input, used in solar panels and electronics. That makes it swing harder than gold: it fell further during the selloff and is bouncing faster now. A 21% monthly drop is huge for a metal, so producers' and dealers' hedges are under stress.",
+        "source": "Trading Economics / Bloomberg",
+        "url": "https://tradingeconomics.com/commodity/copper"
+      },
+      {
+        "title": "Copper breaks $12,000 intraday as AI-capex fears spread",
+        "body": "LME 3M copper fell to ≈$11,958.93/t, its weakest since March, before closing ≈$12,162.50 (−2.33%). SHFE Dec settled 95,690 yuan/t. China's Yangshan import premium doubled to ≈$500/t in a week, which is pulling US inventory toward China.",
+        "simple": "Copper is wired into data centers and power grids, so doubts about AI spending hit it directly. The China premium is the extra Chinese buyers pay to import copper right now; when it doubles, physical demand there is tight even while futures prices fall. That gap makes a tradeable split between paper and physical markets.",
+        "source": "Shanghai Metals Market (SMM)",
+        "url": "https://news.metal.com/newscontent/TO72FI3IYOT7ZBYVP2GPU7JVTGWOONP3EJLMM3Y-us-fed-hawkish-expectations-disrupt-copper-prices-continue-to-consolidate-on-a-subdued-note-smm-copper-morning-meeting-minutes"
+      },
+      {
+        "title": "PGMs lag: platinum near 14-month lows",
+        "body": "GoldPrice.com shows platinum ≈$1,324.50 and palladium ≈$887 as of Sunday evening. Other dealer quotes put palladium nearer $930, so treat the palladium level as approximate. SMM had platinum at a 14-month low in the latest slide.",
+        "simple": "Platinum and palladium (PGMs, platinum-group metals) go mainly into car exhaust catalysts, so they trade more on auto and industrial demand than on fear. They aren't joining gold's bounce, which shows the selloff is about growth worries, not just forced selling.",
+        "source": "GoldPrice.com / SMM",
+        "url": "https://www.goldprice.com/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "CrowdStrike to buy Zscaler for ≈$43.9B in stock",
+      "body": "Each ZS share gets 1.135 CRWD shares, and both boards approved. The deal was announced with CrowdStrike's Q3 FY27 results. The combined company starts with >$10B ARR, and CrowdStrike says it adds >$185B of addressable market. Close is targeted for H2 of CrowdStrike's FY2028.",
+      "simple": "An all-stock deal pays with the buyer's own shares instead of cash, so Zscaler owners become CrowdStrike owners. Doing the largest cybersecurity deal ever during a market correction shows CEOs still see value. It also means big advisory fees for the banks running it.",
+      "source": "CrowdStrike 8-K (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+      "title": "Anthropic's debt seen landing in junk territory",
+      "body": "WSJ reports bond managers expect Moody's, S&P and Fitch to rate Anthropic BB, one to two notches below investment grade, despite its record ≈$81B IPO. Its ≈$900B of compute commitments are back-loaded, with about half starting in 2030, against ≈$96B of cash.",
+      "simple": "A credit rating grades how likely a borrower is to repay. Junk (high-yield) means many pension funds and insurers can't buy the bonds, so the company pays more to borrow. How the AI build-out gets financed is now a bond-market question, and that is a big fee pool for capital-markets desks.",
+      "source": "Seoul Economic Daily / MarketScreener (summarizing WSJ)",
+      "url": "https://en.sedaily.com/world/2026/11/23/anthropic-aces-ipo-but-faces-junk-rating-in-bond-market"
+    },
+    {
+      "title": "Brookfield buys PGP Glass from Blackstone for $1.7B",
+      "body": "Brookfield said Monday it will buy the Indian glass-packaging maker from Blackstone. It's a sponsor-to-sponsor exit while public markets are in a correction.",
+      "simple": "Private equity firms buy companies, improve them and sell them, often to other investment firms. A $1.7B sale between two of the biggest shows that private deal-making and lending continue even when stock markets are falling.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/brookfield-agrees-to-acquire-pgp-glass-from-blackstone-for-1-7-billion-126112300264_1.html"
+    },
+    {
+      "title": "TPG agrees to take BILL private for $6.0B; Bending Spoons buys Mailchimp for $3.68B",
+      "body": "BILL's proxy filing says TPG will pay all cash, valuing the company at $6.0B, with close expected H1 2027 (the filing's announcement date wasn't confirmed). Bending Spoons agreed Nov 21 to buy Mailchimp from Intuit for $3.68B.",
+      "simple": "A take-private uses cash, usually partly borrowed (leveraged loans), to buy a public company and delist it. These deals need bank financing, so they show whether lenders will still underwrite leveraged deals after last week's turmoil.",
+      "source": "SEC (BILL DEFA14A) / The Technology Express",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001786352/000119312526469402/d104066ddefa14a.htm"
+    },
+    {
+      "title": "Community-bank consolidation keeps closing",
+      "body": "ODNB Financial and National Capital Bancorp won shareholder approval and target a Dec 1 close. The OCC conditionally approved OakNorth's merger with Michigan's Community Unity Bank, giving it a US national charter. Mercantile expects to finish its Eastern Michigan Bank merger in Q1 2027.",
+      "simple": "Small banks merge to spread compliance and tech costs over a bigger balance sheet. Regulators approving these quickly means the merger pipeline is open. That matters for commercial-banking and FIG (financial institutions group) bankers who advise on these deals.",
+      "source": "PR Newswire / The Industry Spread",
+      "url": "https://www.prnewswire.com/news-releases/odnb-financial-corporation-and-national-capital-bancorp-inc-announce-receipt-of-shareholder-approvals-to-complete-merger-302946126.html"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures rally after Wall Street's nightmare week",
+        "body": "Dow futures were up >1.5% at 6:10 AM ET, with S&P and Nasdaq-100 futures outperforming; a 5:19 AM read had them +2.82% and +3.61%. Nvidia was +9.7% and Anthropic +5.1% pre-market.",
+        "simple": "Futures are contracts that trade before the stock market opens and signal where it will start. A 2–3% jump after a correction is big but common. The real test is whether buyers stay in once regular trading begins.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html"
+      },
+      {
+        "title": "Week ahead: correction, holiday hours, PCE",
+        "body": "The Dow and S&P each entered a correction Friday, the Nasdaq erased its 2026 gain and the VIX spiked above 30. This week has only three full sessions plus a Friday half-day, with PCE on Wednesday.",
+        "simple": "A correction is a 10% drop from a recent high. Holiday weeks have fewer traders, so prices can swing more than usual on the same news.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+      },
+      {
+        "title": "Trump urges Nvidia board to bring back Huang",
+        "body": "Trump posted that rehiring Jensen Huang would be best for Nvidia and the US, and shares jumped ≈7–9% pre-market toward ≈$135. The stock fell 19% in the three sessions after its Nov 17 close of $155.46. The board says it has no plans to reinstate him.",
+        "simple": "Nvidia makes most of the chips that power AI, so its stock moves the whole market. Investors are betting a political push could bring back the founder. Without a board decision, though, the regulatory probes are still the bigger risk.",
+        "source": "Tokenist / Yahoo Finance",
+        "url": "https://tokenist.com/nvidia-stock-trump-huang-return-bessent"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Bond managers expect Anthropic to be rated junk",
+        "body": "Several large bond funds expect a BB-range rating from all three agencies, one to two notches below IG. Roughly half of ≈$900B of commitments start in 2030, so the company needs an IG rating by then to fund cheaply.",
+        "simple": "Investment grade (IG) means a strong enough credit rating for conservative investors like pension funds to buy the bonds. Missing it raises borrowing costs, a real constraint for a company that has promised to spend close to a trillion dollars on data centers.",
+        "source": "MarketScreener EMEA Morning Briefing (summarizing WSJ)",
+        "url": "https://www.marketscreener.com/news/emea-morning-briefing-wall-street-expects-anthropic-s-debt-to-be-junk-ce785ed3d08bff26"
+      },
+      {
+        "title": "SEC enforcement examining Nvidia's accounting",
+        "body": "Reuters reported Friday that SEC enforcement staff are exploring potential accounting issues at Nvidia, alongside a federal look at whether investors were misled and a California AG probe. That set off Friday's −10.7% SOX day.",
+        "simple": "The SEC is the agency that polices stock markets. An accounting probe raises the question of whether a company's reported profits can be trusted, which is especially scary for the market's most important stock.",
+        "source": "ThinkMarkets (citing Reuters)",
+        "url": "https://www.thinkmarkets.com/en/market-news/us-futures-attempt-a-rebound-after-last-weeks-nvidia-led-sell-off/"
+      },
+      {
+        "title": "Bessent: Fed risks a policy mistake",
+        "body": "On Sunday, Bessent said tighter financial conditions and hawkish governor comments raise the risk of overtightening, 17 days before the Dec 9 decision. He didn't state a preferred outcome. He previously called hiking into a fading energy shock a mistake.",
+        "simple": "The Fed is meant to set rates independently, so a Treasury Secretary leaning on it is unusual. Markets watch whether this pressure changes the Fed's plans or just adds noise.",
+        "source": "FourWeekMBA / InvestingLive",
+        "url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Chicago's third CFO in a year quits; audit calls grow",
+        "body": "CFO Ashlee Gabrysch resigned Nov 13 after ≈3 months, saying she couldn't give complete and accurate statements on city finances. The 2027 gap is disputed ($882M vs the mayor's $662M), and the Council has until year-end to pass a budget. Comptroller Michael Belsky is acting CFO, and analysts warn of another downgrade.",
+        "simple": "A city CFO signs off on the numbers bond investors rely on. When one quits saying she couldn't vouch for them, investors worry about disclosure and charge Chicago more to borrow. Higher borrowing costs eventually mean higher taxes or fewer services.",
+        "source": "Chicago Sun-Times / Bond Buyer / WBEZ",
+        "url": "https://chicago.suntimes.com/city-hall/2026/11/13/ashlee-gabrysch-chief-financial-officer-resigns-chicago-mayor-brandon-johnson"
+      },
+      {
+        "title": "CME lists new gasoline and European dairy contracts today",
+        "body": "CME notices say new gasoline futures and European dairy futures and options list effective Sun Nov 22 for trade date Mon Nov 23, pending regulatory review. New iLink drop-copy tags also go live.",
+        "simple": "CME, the Chicago exchange, earns fees on every contract traded, so new products are how it grows. Gasoline and dairy contracts let refiners, farmers and food companies lock in prices ahead of time.",
+        "source": "CME Group notices",
+        "url": "https://www.cmegroup.com/notices.html"
+      },
+      {
+        "title": "CME volume: record October sets up a strong Q4",
+        "body": "CME averaged a record 30M contracts/day in October (+15% y/y), with Treasury futures +48%. Last week's cross-asset selloff and this week's auctions and PCE suggest November will be busy too; official numbers are due early December.",
+        "simple": "When markets are scary, more people hedge with futures, and CME collects a fee on each trade. Volatility that hurts investors tends to help exchange earnings.",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/options/articles/investors-reacting-cme-group-cme-141410793.html"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Bessent presses Nvidia on China chip sales",
+        "body": "The NYT reports Treasury is pressing Nvidia for answers on chip sales to China, and one outlet flags a Nov 25 deadline tied to the demands. A separate NYT piece says China's intelligence services targeted AI chips years before the Nvidia affair.",
+        "simple": "Selling advanced chips to China is restricted for national-security reasons. If Nvidia broke or skirted those rules, it could face penalties or lose sales. That is another overhang on top of the leadership and accounting questions.",
+        "source": "Newsquawk / MarketScreener digest (NYT)",
+        "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-november-2026"
+      },
+      {
+        "title": "Nvidia board holds the line on Huang",
+        "body": "Despite Trump's post, reports say the board has no plans to reinstate Huang, and Bessent said 'Jensen is on the outside now.' The NYT, citing US intelligence, reported contact between Alice Huang and a Chinese intelligence officer during the affair.",
+        "simple": "Boards, not presidents, pick CEOs. A standoff between the White House and Nvidia's directors adds uncertainty to a company that much of the stock market depends on.",
+        "source": "Yahoo Finance / Newsquawk (NYT)",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-jumps-as-dc-makes-stunning-u-turn-on-jensen-huang-113419437.html"
+      },
+      {
+        "title": "Markets: S&P in correction, Nasdaq near bear market",
+        "body": "Friday's selloff put the S&P in a correction and left the Nasdaq-100 near a bear market (−20%), with Nvidia slumping on the SEC report. Asia was mixed overnight, Tokyo was closed and the Nikkei had fallen 5.06% Friday.",
+        "simple": "A bear market is a 20% fall from the peak. Getting close to it in tech shows how concentrated the market is in a few AI stocks.",
+        "source": "Newsquawk (NYT digest)",
+        "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-november-2026"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Hiking into a correction",
+      "point": "The Fed is ≈93–96% priced to hike Dec 9 even with the S&P down ≈12% from its high. Bessent and Cook are publicly on opposite sides of that call. Ask how the desk trades it: the 2Y moves most on each equity swing, so 2s10s flatteners on risk-on days and steepeners on risk-off days have been the cleanest expression. Wednesday's 3.8%/3.2% PCE decides whether January stays live."
+    },
+    {
+      "topic": "Auction week as a positioning tell",
+      "point": "Asset managers carried a record ≈3M-contract 10Y futures long into a week with $183B of 2s/5s/7s. Watching tails versus stop-throughs, plus bid-to-cover and indirect share, shows you whether real money is adding duration on the bounce or using it to sell. That's a specific question to bring to a rates S&T contact."
+    },
+    {
+      "topic": "Physical vs. paper copper",
+      "point": "LME copper broke $12,000 intraday on AI-capex fears while China's Yangshan premium doubled to ≈$500/t in a week. When futures and physical diverge like that, inventory moves across arbitrage routes such as COMEX/LME/SHFE. It's a good way to show you understand metals beyond 'risk-on/risk-off.'"
+    }
+  ],
+  "caveats": "WebFetch was blocked for every outlet this run, so figures come from search snippets, and pre-market index futures are given as ranges because sources' timestamps differ; no futures index levels were found. WSJ, NYT and Tribune are paywalled: WSJ/NYT items come via MarketScreener/Newsquawk digests and secondary coverage, and the Tribune bucket uses the Sun-Times, Bond Buyer, CME notices and Yahoo. A third-party WSJ digest listing items like an ABB–Ziehl-Abegg deal and a Delta glitch could not be verified, so those were left out. Fed odds vary (≈93–96%). The 2Y change is unquantified because Friday's close differs by source (≈4.61–4.65%). Palladium quotes range from ≈$887 to ≈$932. The BILL/TPG announcement date is unconfirmed. Flash PMI and CFNAI consensus were not found.",
+  "updates": []
+}
