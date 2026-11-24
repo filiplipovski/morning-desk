@@ -11,111 +11,112 @@
     "Deals keep coming despite the drawdown: Sanofi is buying Insmed for $41B cash ($175/sh, ≈17.5% premium), Amazon is buying Decart AI's tech (reported ≈$7.5B), and CrowdStrike–Zscaler is $43.9B. Credit is cracking at the edges, though: for the week to Nov 20, IG spreads widened 10bp to 96 and HY 51bp to 367, and tech IG yields are above 6% for the first time since 2009 (Nuveen).",
     "Chicago angle: Allstate is reportedly cutting ≈5,000 jobs in an AI push (Crain's). Goolsbee last week wouldn't rule out a bigger December hike. CME's record October (30M ADV, Treasury futures and options +48%) is the backdrop for a volatile rates month."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT (futures % change from CNBC 6:52 AM ET; index values are Mon closes; yields CNBC early Tue; metals/oil overnight)",
+  "markets_asof": "Post-open ≈9:15 AM CT (indices: open prints + Yahoo intraday %; yields CNBC/TE mid-morning; metals Trading Economics; oil = pre-market, no fresh print)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,237.17",
-      "change": "Fut ≈−1.0%",
+      "value": "≈7,172 (open)",
+      "change": "≈−0.9% to −1.2%",
       "dir": "down",
-      "note": "Mon close +4.73%"
+      "note": "Mon close 7,237.17"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "24,089.56",
-      "change": "NQ fut ≈−2%",
+      "value": "≈23,746 (open)",
+      "change": "≈−1.4% to −1.8%",
       "dir": "down",
-      "note": "NVDA ≈−5% pre-mkt"
+      "note": "NVDA ≈−5%"
     },
     {
       "label": "Dow",
-      "value": "49,595.31",
-      "change": "Fut ≈−0.5%",
+      "value": "≈49,495 (open)",
+      "change": "≈−0.2% to −0.4%",
       "dir": "down",
-      "note": "Mon +1,447.98 (+3.01%)"
+      "note": "Mon close 49,595.31"
     },
     {
       "label": "Russell 2000",
       "value": "2,669.66",
-      "change": "+3.40% Mon",
-      "dir": "up",
-      "note": "Mon close"
+      "change": "—",
+      "dir": "flat",
+      "note": "Mon close; no intraday print found"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.660%",
+      "value": "≈4.66%",
       "change": "≈flat",
       "dir": "flat",
-      "note": "5Y auction 12 PM CT"
+      "note": "Pre-confidence; 5Y auction 12 PM CT"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.908%",
-      "change": "−1bp",
+      "value": "≈4.91–4.93%",
+      "change": "≈−1bp",
       "dir": "down",
-      "note": "CNBC"
+      "note": "CNBC / Trading Economics"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.285%",
-      "change": "lower",
-      "dir": "down"
+      "value": "≈5.29%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "CNBC"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈91–97%",
+      "change": "Dec +25bp ≈96%",
       "dir": "up",
       "note": "FOMC Dec 8–9"
     },
     {
       "label": "Dollar index",
-      "value": "≈104.37",
-      "change": "≈flat/up",
-      "dir": "flat",
-      "note": "Near 19-mo high"
+      "value": "<104.00",
+      "change": "lower",
+      "dir": "down",
+      "note": "Broke 104 after confidence (FXStreet)"
     },
     {
       "label": "Gold",
-      "value": "≈$3,621 (Dec fut)",
-      "change": "−0.84%",
+      "value": "≈$3,622",
+      "change": "lower",
       "dir": "down",
-      "note": "Spot ≈$3,645 in Asia"
+      "note": "Trading Economics"
     },
     {
       "label": "Silver",
-      "value": "≈$42.28",
-      "change": "—",
-      "dir": "flat",
-      "note": "Mon 7:45 AM ET spot; no Tue print"
-    },
-    {
-      "label": "Copper (LME)",
-      "value": "≈$12,000/t area",
+      "value": "≈$42.03",
       "change": "lower",
       "dir": "down",
-      "note": "Gave back Nvidia bounce (Bloomberg)"
+      "note": "vs ≈$43.11 Mon (Kitco)"
+    },
+    {
+      "label": "Copper (COMEX)",
+      "value": "≈$5.45/lb",
+      "change": "≈−3.3%",
+      "dir": "down",
+      "note": "Trading Economics"
     },
     {
       "label": "WTI",
       "value": "≈$79.18",
       "change": "≈−1.2%",
       "dir": "down",
-      "note": "Mon settle $80.17"
+      "note": "Pre-market; no fresh print"
     },
     {
       "label": "Brent",
       "value": "≈$88.28",
       "change": "≈−1.2%",
       "dir": "down",
-      "note": "Near 3-month low"
+      "note": "Pre-market; no fresh print"
     },
     {
-      "label": "VIX",
-      "value": "26.62",
-      "change": "−9.27 Mon",
-      "dir": "down",
-      "note": "MOVE 100.91 (−5.4)"
+      "label": "Consumer conf.",
+      "value": "103.3",
+      "change": "+11.4",
+      "dir": "up",
+      "note": "vs ≈92.5 est.; highest since Jan 2025"
     }
   ],
   "calendar": [
@@ -428,5 +429,46 @@
     }
   ],
   "caveats": "WSJ, NYT and Tribune stories come via other outlets' coverage or digest snippets, since the originals are paywalled and several sites (CNBC, MarketScreener) were blocked for direct fetch. Figures are from search summaries and may be approximate. Futures % changes are from one CNBC timestamp; FedWatch odds vary by snapshot (91–97%). No confirmed Tuesday prints for silver, PGMs, copper or the KBW index. NVDA Monday close per CNBC/Yahoo is $165.05 (+31.5%); last night's update had $164.10 (+30.7%).",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-24T15:17:33Z",
+      "label": "Post-open",
+      "headline": "Consumer confidence blew out to 103.3 (vs ≈92.5 consensus, highest since Jan 2025), but the tape ignored it: the Nvidia unwind has the S&P ≈−1% and Nasdaq ≈−1.5–1.8% after the open, and the dollar slipped under 104.",
+      "points": [
+        "Conference Board Nov: 103.3 vs ≈92.1–92.8 consensus and 91.9 prior (revised up from 91.7), a +11.4pt jump. Present Situation 132.8 (+13.7) and Expectations 83.6 (from 73.7), led by labor-market views. 12-month inflation expectations fell for a 2nd month but are still 5.7%.",
+        "Thesis check: the morning brief said a miss would feed 'hike once and stop'. The opposite happened. A strong consumer plus 5.7% inflation expectations keeps Dec +25bp locked (≈96%) and supports January pricing into Wednesday's PCE. Oddly, FXStreet has DXY breaking below 104.00 after the print, so the dollar is not trading this as hawkish yet.",
+        "Equities at the open: S&P 7,172.33 (−0.90%), Nasdaq 23,745.86 (−1.43%), Dow 49,494.60 (−0.20%). Later Yahoo reads show S&P ≈−1.2%, Nasdaq ≈−1.8%, Dow ≈−0.4%. NVDA is ≈−5 to −5.5%, with AMD, Micron and Broadcom also lower.",
+        "Earnings: ADI fell ≈8–10% pre-open (≈$350) on soft Q1 EPS guidance despite a record Q4, which weighed on analog/industrial chips. Medtronic EPS was $1.34 vs $1.33, but revenue of $9.4B missed $9.48B; the stock is ≈$98.50 vs a $100.72 prior close. Dollar Tree and Dick's were up pre-market.",
+        "Rates were steady going into the print: 2Y ≈4.66%, 10Y ≈4.91–4.93%, 30Y ≈5.29% (CNBC/Trading Economics). Metals and commodities are heavy: copper ≈$5.45/lb (−3.3%), gold ≈$3,622, silver ≈$42.0. The $70B 5Y auction at 12:00 PM CT is next. I couldn't confirm Case-Shiller (Sep) or the Richmond Fed prints."
+      ],
+      "simple": "Consumer confidence is a monthly survey of how good Americans feel about jobs and their finances. It jumped far more than expected, which normally means people keep spending. That makes it harder for the Fed to stop raising rates, because strong demand keeps inflation sticky. Stocks are falling anyway, because Monday's huge Nvidia-driven rally is being reversed, and that matters more to traders today than the survey does.",
+      "sources": [
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/us-cb-consumer-confidence-index-improves-to-1033-in-november-202611241512"
+        },
+        {
+          "name": "PR Newswire (Conference Board)",
+          "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-surged-in-november-302949447.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-analog-devices-stock-tumbling-today-93CH-5047890"
+        },
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/copper"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T15:17:33Z"
 }
