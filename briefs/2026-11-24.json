@@ -11,56 +11,63 @@
     "Deals keep coming despite the drawdown: Sanofi is buying Insmed for $41B cash ($175/sh, ≈17.5% premium), Amazon is buying Decart AI's tech (reported ≈$7.5B), and CrowdStrike–Zscaler is $43.9B. Credit is cracking at the edges, though: for the week to Nov 20, IG spreads widened 10bp to 96 and HY 51bp to 367, and tech IG yields are above 6% for the first time since 2009 (Nuveen).",
     "Chicago angle: Allstate is reportedly cutting ≈5,000 jobs in an AI push (Crain's). Goolsbee last week wouldn't rule out a bigger December hike. CME's record October (30M ADV, Treasury futures and options +48%) is the backdrop for a volatile rates month."
   ],
-  "markets_asof": "Post-open ≈9:15 AM CT (indices: open prints + Yahoo intraday %; yields CNBC/TE mid-morning; metals Trading Economics; oil = pre-market, no fresh print)",
+  "markets_asof": "Midday ≈11:00 AM–12:15 PM CT (indices: Benzinga/Yahoo/Motley Fool snapshots; 10Y Bloomberg; copper Reuters via MINING.COM; gold IndexBox/Kitco; some reads conflict)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,172 (open)",
-      "change": "≈−0.9% to −1.2%",
+      "value": "≈7,166",
+      "change": "≈−1.0%",
       "dir": "down",
       "note": "Mon close 7,237.17"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈23,746 (open)",
-      "change": "≈−1.4% to −1.8%",
+      "value": "≈23,549",
+      "change": "≈−2.2%",
       "dir": "down",
-      "note": "NVDA ≈−5%"
+      "note": "NDX ≈26,034 (≈−2.7%)"
     },
     {
       "label": "Dow",
-      "value": "≈49,495 (open)",
-      "change": "≈−0.2% to −0.4%",
-      "dir": "down",
-      "note": "Mon close 49,595.31"
+      "value": "≈49,783",
+      "change": "≈+0.4% to +0.8%",
+      "dir": "up",
+      "note": "Rotation out of AI"
     },
     {
       "label": "Russell 2000",
-      "value": "2,669.66",
-      "change": "—",
-      "dir": "flat",
-      "note": "Mon close; no intraday print found"
+      "value": "≈2,685",
+      "change": "≈+0.6%",
+      "dir": "up",
+      "note": "Benzinga; one earlier read −0.2%"
     },
     {
       "label": "UST 2Y",
       "value": "≈4.66%",
-      "change": "≈flat",
+      "change": "—",
       "dir": "flat",
-      "note": "Pre-confidence; 5Y auction 12 PM CT"
+      "note": "No fresh midday print"
+    },
+    {
+      "label": "UST 5Y auction",
+      "value": "4.719%",
+      "change": "0.3bp tail",
+      "dir": "flat",
+      "note": "BTC 2.37x vs 2.31x avg"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.91–4.93%",
+      "value": "≈4.91%",
       "change": "≈−1bp",
       "dir": "down",
-      "note": "CNBC / Trading Economics"
+      "note": "Bloomberg via BNN"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.29%",
-      "change": "≈flat",
+      "change": "—",
       "dir": "flat",
-      "note": "CNBC"
+      "note": "Morning CNBC level; no fresh print"
     },
     {
       "label": "Fed funds",
@@ -71,52 +78,45 @@
     },
     {
       "label": "Dollar index",
-      "value": "<104.00",
-      "change": "lower",
-      "dir": "down",
-      "note": "Broke 104 after confidence (FXStreet)"
+      "value": "≈104",
+      "change": "mixed",
+      "dir": "flat",
+      "note": "Reads conflict: <104 (FXStreet) vs 104.3 (Investing.com)"
     },
     {
       "label": "Gold",
-      "value": "≈$3,622",
-      "change": "lower",
+      "value": "≈$3,600",
+      "change": "≈−1%",
       "dir": "down",
-      "note": "Trading Economics"
+      "note": "Later read ≈$3,566"
     },
     {
       "label": "Silver",
-      "value": "≈$42.03",
+      "value": "≈$42.04",
       "change": "lower",
       "dir": "down",
-      "note": "vs ≈$43.11 Mon (Kitco)"
+      "note": "Kitco 8:37 AM ET; no midday print"
     },
     {
-      "label": "Copper (COMEX)",
-      "value": "≈$5.45/lb",
-      "change": "≈−3.3%",
+      "label": "Copper (COMEX Dec)",
+      "value": "$5.437/lb",
+      "change": "−3.5%",
       "dir": "down",
-      "note": "Trading Economics"
+      "note": "LME 3M ≈$12,054/t"
     },
     {
       "label": "WTI",
-      "value": "≈$79.18",
-      "change": "≈−1.2%",
+      "value": "≈$79.2–79.7",
+      "change": "≈−0.3% to −1.2%",
       "dir": "down",
-      "note": "Pre-market; no fresh print"
+      "note": "Sources conflict"
     },
     {
       "label": "Brent",
-      "value": "≈$88.28",
-      "change": "≈−1.2%",
+      "value": "≈$88.3–89.1",
+      "change": "≈−0.3% to −1.2%",
       "dir": "down",
-      "note": "Pre-market; no fresh print"
-    },
-    {
-      "label": "Consumer conf.",
-      "value": "103.3",
-      "change": "+11.4",
-      "dir": "up",
-      "note": "vs ≈92.5 est.; highest since Jan 2025"
+      "note": "Sources conflict"
     }
   ],
   "calendar": [
@@ -431,6 +431,53 @@
   "caveats": "WSJ, NYT and Tribune stories come via other outlets' coverage or digest snippets, since the originals are paywalled and several sites (CNBC, MarketScreener) were blocked for direct fetch. Figures are from search summaries and may be approximate. Futures % changes are from one CNBC timestamp; FedWatch odds vary by snapshot (91–97%). No confirmed Tuesday prints for silver, PGMs, copper or the KBW index. NVDA Monday close per CNBC/Yahoo is $165.05 (+31.5%); last night's update had $164.10 (+30.7%).",
   "updates": [
     {
+      "at": "2026-11-24T18:17:42Z",
+      "label": "Midday",
+      "headline": "The $70B 5Y auction went well (4.719%, a 0.3bp tail against a 0.9bp average, 2.37x cover), so bonds are holding steady. Stocks have split: the Dow and small caps are green while the AI trade breaks. NVDA is ≈−7% and Anthropic has fallen below its $83 IPO price.",
+      "points": [
+        "5Y auction: high yield 4.719%, down from 4.845% in October. The 0.3bp tail is under the 0.9bp average, and bid-to-cover was 2.37x vs a 2.31x average. Indirects took 54.3% (avg ≈61.9%), directs 36.7% (avg ≈25.5%) and dealers 9.0% (avg ≈12.6%). Weak foreign demand was offset by strong domestic real-money bids. Monday's 2Y stopped through, and today's result suggests supply is not the problem going into Wednesday's $44B 7Y.",
+        "Equities rotated rather than sold off broadly. Around 11 AM–12 PM CT: S&P ≈7,166 (≈−1.0%), Nasdaq Comp ≈23,549 (≈−2.2%), Nasdaq-100 ≈26,034 (≈−2.7%). The Dow is ≈+0.4% to +0.8% (≈49,783) and the Russell 2000 is ≈+0.6% (≈2,685) (Benzinga/Yahoo/Motley Fool). NVDA is ≈−7% (≈$153, ≈$267B of value lost) and SMH is ≈−7%.",
+        "Thesis check: the morning headline said the Huang rally was unwinding. That's right for the Nasdaq, but the Dow is up on the day, so it is not a broad risk-off move. Anthropic (ANT) trading below its $83 IPO price less than a week after the record debut is a negative read-through for the ECM pipeline (equity capital markets, meaning new stock sales) into 2027.",
+        "Rates and the Fed: 10Y ≈4.91%, down ≈1bp from 4.92% on Monday (Bloomberg via BNN). I found no fresh 2Y or 30Y prints. Strong confidence (103.3) has not moved Dec +25bp pricing off ≈96%. Metals are weaker: spot gold ≈$3,600 (≈−1%) after the confidence beat, and one later read shows ≈$3,566. COMEX copper Dec is $5.437 (−3.5%), with LME 3M ≈$12,054/t after briefly trading below $12k. Copper is ≈−16% for November and ≈21% below its September record.",
+        "Still to come: Dell and HP report after the close. Wednesday at 7:30 AM CT brings PCE, GDP and claims, then the 7Y at noon and the Beige Book at 1 PM. Oil is little changed from the morning, with WTI ≈$79–80 and Brent ≈$88–89 in conflicting reads. Dollar reads also conflict: FXStreet had DXY under 104, while Investing.com cites a 19-month high of ≈104.3."
+      ],
+      "simple": "An auction is how the government borrows: it sells new bonds to investors, and a 'tail' means it had to pay a little more interest than traders expected. Today the tail was smaller than usual, so demand for U.S. debt was fine and borrowing costs like mortgage rates didn't get pushed higher. Meanwhile, money is leaving the AI stocks that soared Monday and moving into old-economy companies, which is why the Nasdaq is falling while the Dow rises.",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63596550/stock-market-today-anthropic-below-ipo-price-nvidia-record-rally-reversal"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/the-us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-4-719/"
+        },
+        {
+          "name": "Helious (auction data)",
+          "url": "https://helious.io/news/auc-91282CRZ6-2026-11-24/5-year-note-auction-in-line"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price/"
+        },
+        {
+          "name": "MINING.COM",
+          "url": "https://mining.com/copper-price-erases-nvidia-rebound-as-investors-steer-clear-of-metals"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://www.indexbox.io/blog/gold-slips-as-consumer-confidence-surges-past-forecasts/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-24T15:17:33Z",
       "label": "Post-open",
       "headline": "Consumer confidence blew out to 103.3 (vs ≈92.5 consensus, highest since Jan 2025), but the tape ignored it: the Nvidia unwind has the S&P ≈−1% and Nasdaq ≈−1.5–1.8% after the open, and the dollar slipped under 104.",
@@ -470,5 +517,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T15:17:33Z"
+  "updatedAt": "2026-11-24T18:17:42Z"
 }
