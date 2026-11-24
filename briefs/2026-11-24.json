@@ -1,0 +1,432 @@
+{
+  "date": "2026-11-24",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-24T12:22:03Z",
+  "headline": "The Huang rally is unwinding: Nasdaq-100 futures are ≈−2% and NVDA ≈−5% pre-market. Bonds are steady (2Y ≈4.66%, 10Y ≈4.91%) as Williams' 'act over time' keeps Dec +25bp near-certain but no bigger, so today's $70B 5Y auction and Wednesday's PCE now carry the tape.",
+  "summary": [
+    "Monday was a one-day squeeze, not a bottom: futures at 6:52 AM ET had the S&P ≈−1%, Nasdaq-100 ≈−2% and Dow ≈−0.5% (CNBC). NVDA is ≈−5% pre-market (≈$156) after closing +31.5% at $165.05. Monday's confirmed closes were Dow 49,595.31 (+3.01%) and Russell 2000 2,669.66 (+3.40%). WSJ reports Huang told the board about more affairs before it reinstated him, and Goldman calls his return 'not a clearing event'.",
+    "Rates are calm: 10Y ≈4.908% (−1bp), 2Y ≈4.660%, 30Y ≈5.285% (CNBC). In the Bronx on Monday, NY Fed's Williams said inflation is too high but the Fed should act 'over time' and nothing calls for 'dramatic action', which argues against 50bp. FedWatch Dec +25bp ≈91–97% depending on the snapshot (≈96% / 50bp ≈4% in one read). January is priced for another move, with cumulative +50bp ≈60–65%.",
+    "Today's tests: Conference Board confidence 9:00 AM CT (consensus ≈92.1–92.8 vs 91.7) and the $70B 5Y at 12:00 PM CT. October's 5Y tailed 0.2bp, and Monday's 2Y stopped through 0.3bp. Dell and HP report after the close. Wednesday at 7:30 AM CT brings PCE (consensus 3.8% headline / 3.2% core y/y), GDP and claims, all ahead of a Thanksgiving close Thursday.",
+    "Metals are going nowhere: spot gold ≈$3,645 in Asia, but Dec futures are ≈$3,621 (−0.8%), rejected near $3,651 with $3,700 as the cap. Natixis warns of ≈$3,340 by January if central-bank and ETF demand fade, and Goldman cut its end-2027 target to $4,650. Copper gave back the Nvidia bounce and is back toward $12,000/t on the LME, and lead hit a 4-year low. Oil is weak: WTI ≈$79.2 and Brent ≈$88.3, both down >1%.",
+    "Deals keep coming despite the drawdown: Sanofi is buying Insmed for $41B cash ($175/sh, ≈17.5% premium), Amazon is buying Decart AI's tech (reported ≈$7.5B), and CrowdStrike–Zscaler is $43.9B. Credit is cracking at the edges, though: for the week to Nov 20, IG spreads widened 10bp to 96 and HY 51bp to 367, and tech IG yields are above 6% for the first time since 2009 (Nuveen).",
+    "Chicago angle: Allstate is reportedly cutting ≈5,000 jobs in an AI push (Crain's). Goolsbee last week wouldn't rule out a bigger December hike. CME's record October (30M ADV, Treasury futures and options +48%) is the backdrop for a volatile rates month."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT (futures % change from CNBC 6:52 AM ET; index values are Mon closes; yields CNBC early Tue; metals/oil overnight)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,237.17",
+      "change": "Fut ≈−1.0%",
+      "dir": "down",
+      "note": "Mon close +4.73%"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "24,089.56",
+      "change": "NQ fut ≈−2%",
+      "dir": "down",
+      "note": "NVDA ≈−5% pre-mkt"
+    },
+    {
+      "label": "Dow",
+      "value": "49,595.31",
+      "change": "Fut ≈−0.5%",
+      "dir": "down",
+      "note": "Mon +1,447.98 (+3.01%)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,669.66",
+      "change": "+3.40% Mon",
+      "dir": "up",
+      "note": "Mon close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.660%",
+      "change": "≈flat",
+      "dir": "flat",
+      "note": "5Y auction 12 PM CT"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.908%",
+      "change": "−1bp",
+      "dir": "down",
+      "note": "CNBC"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.285%",
+      "change": "lower",
+      "dir": "down"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec +25bp ≈91–97%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈104.37",
+      "change": "≈flat/up",
+      "dir": "flat",
+      "note": "Near 19-mo high"
+    },
+    {
+      "label": "Gold",
+      "value": "≈$3,621 (Dec fut)",
+      "change": "−0.84%",
+      "dir": "down",
+      "note": "Spot ≈$3,645 in Asia"
+    },
+    {
+      "label": "Silver",
+      "value": "≈$42.28",
+      "change": "—",
+      "dir": "flat",
+      "note": "Mon 7:45 AM ET spot; no Tue print"
+    },
+    {
+      "label": "Copper (LME)",
+      "value": "≈$12,000/t area",
+      "change": "lower",
+      "dir": "down",
+      "note": "Gave back Nvidia bounce (Bloomberg)"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$79.18",
+      "change": "≈−1.2%",
+      "dir": "down",
+      "note": "Mon settle $80.17"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$88.28",
+      "change": "≈−1.2%",
+      "dir": "down",
+      "note": "Near 3-month low"
+    },
+    {
+      "label": "VIX",
+      "value": "26.62",
+      "change": "−9.27 Mon",
+      "dir": "down",
+      "note": "MOVE 100.91 (−5.4)"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: Best Buy (out), Medtronic, Analog Devices, Dick's, Abercrombie",
+      "consensus": "ADI EPS ≈$3.89; DKS ≈$2.71; ANF ≈$2.16",
+      "prior": "—",
+      "why": "Best Buy already beat and raised (comps +6.1%). Retail prints read on the consumer heading into Black Friday, and ADI is a read on industrial and auto chip demand."
+    },
+    {
+      "time": "8:00 AM",
+      "event": "S&P Case-Shiller 20-city (Sep) / FHFA HPI",
+      "consensus": "20-city ≈2.7% y/y",
+      "prior": "2.7% y/y",
+      "why": "Home prices feed shelter inflation with a lag. Flat prices with 10Y yields near 4.9% point to stalled housing turnover."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Conference Board consumer confidence (Nov)",
+      "consensus": "≈92.1–92.8",
+      "prior": "91.7",
+      "why": "This is the first sentiment read since the equity correction. A miss would feed the case that the Fed hikes once and stops."
+    },
+    {
+      "time": "9:00 AM",
+      "event": "Richmond Fed manufacturing (Nov)",
+      "consensus": "—",
+      "prior": "−2",
+      "why": "A regional factory gauge. It follows Monday's soft PMIs and the negative CFNAI."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$70B 5-year note auction",
+      "consensus": "WI —",
+      "prior": "Oct tailed 0.2bp",
+      "why": "The belly is where real-money duration demand shows up. The 2Y stopped through on Monday, and a 5Y tail would show buyers fading the bounce in yields."
+    },
+    {
+      "time": "After close",
+      "event": "Dell, HP Inc earnings",
+      "consensus": "Dell EPS ≈$6.62, rev ≈$49.3B; HPQ EPS ≈$0.75, rev ≈$15.4B",
+      "prior": "—",
+      "why": "Dell's AI-server backlog (≈$95B noted) tests whether AI capex holds up now that the Nvidia drama is over."
+    },
+    {
+      "time": "Wed 7:30 AM",
+      "event": "Oct PCE, Q3 GDP (2nd est.), durables, jobless claims",
+      "consensus": "PCE 3.8% y/y (0.3% m/m); core 3.2% y/y (0.3% m/m); GDP ≈3.4–3.5%",
+      "prior": "PCE 3.6%; core 3.1%; GDP 3.4% adv.",
+      "why": "This decides whether January stays live after a near-certain December hike. Cook has already previewed 3.8% and 3.2%."
+    },
+    {
+      "time": "Wed 12:00 PM",
+      "event": "$44B 7-year auction; Beige Book 1:00 PM",
+      "consensus": "—",
+      "prior": "—",
+      "why": "The 7Y is the last of $183B in coupon supply this week. The Beige Book is the last Fed publication before the blackout."
+    },
+    {
+      "time": "Thu / Fri",
+      "event": "Thanksgiving: markets closed Thu; early close Fri",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Thin liquidity Friday. Positioning into the Dec 8–9 FOMC gets set Wednesday."
+    },
+    {
+      "time": "Dec 8–9",
+      "event": "FOMC",
+      "consensus": "+25bp to 4.00–4.25% (≈91–97%)",
+      "prior": "3.75–4.00%",
+      "why": "Markets are pricing a hike into a correction. January cumulative +50bp is priced at ≈60–65%."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Williams: hike 'over time', not dramatically",
+        "body": "In the Bronx Monday, Williams said inflation is too high and the Fed has 'work to do', but should act over time and nothing calls for dramatic action. The 10Y is ≈4.908% (−1bp) and the 2Y ≈4.660% early Tuesday, after Monday's ≈4.694%/4.936% (Dow Jones).",
+        "simple": "The NY Fed president is one of the Fed's most influential voices. He's saying the Fed will keep raising rates (the cost of borrowing) but in small steps, which is why markets bet on a 0.25% hike and not 0.50%. Short-term Treasury yields, which track Fed expectations most closely, stopped rising on the comments.",
+        "source": "NY Fed / CNBC",
+        "url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil261123"
+      },
+      {
+        "title": "Curve flattens into PCE; Dec hike ≈91–97% priced",
+        "body": "FedWatch snapshots range from 91.4% to 97.8% for +25bp on Dec 9, with 50bp ≈4%. January cumulative odds put ≈60–65% on a total of +50bp. Investing.com flags the curve flattening into Wednesday's PCE (3.8% headline / 3.2% core expected).",
+        "simple": "A 'flattening curve' means short-term yields are rising relative to long-term ones. That usually happens when markets expect the Fed to tighten and growth to slow later. If PCE (the Fed's preferred inflation gauge) comes in hot, traders will price more hikes after December. That would push up borrowing costs on everything from car loans to bank funding.",
+        "source": "Investing.com / Longbridge",
+        "url": "https://www.investing.com/news/economy-news/bond-market-flattening-and-wednesdays-pce-test-for-ratehike-pricing-93CH-5046275"
+      },
+      {
+        "title": "Global yields ease: JGB 10Y at 2-week low as oil falls",
+        "body": "Japan's 10Y JGB fell to 2.715%, a two-week low, and the 20Y and 30Y each dropped ≈4bp as oil eased. The Bund 10Y is ≈3.266%.",
+        "simple": "JGBs are Japanese government bonds. When yields abroad fall, foreign bonds become less attractive next to Treasuries, which helps cap US yields. Cheaper oil lowers inflation expectations everywhere, so it is a quiet tailwind for bonds globally.",
+        "source": "NewsBytes / Newsquawk",
+        "url": "https://www.newsbytesapp.com/news/business/japans-10-year-jgb-hits-2-week-low-as-oil-eases-inflation/tldr"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Vol crush: VIX −26% in a day, MOVE back near 100",
+        "body": "The VIX closed 26.62 Monday, down 9.27 from Friday's 35.89. The MOVE index (Treasury implied vol) fell 5.4 to 100.91. With futures red again today, short-vol sellers who stepped in Monday are being tested.",
+        "simple": "The VIX measures how big a move options traders expect in stocks. The MOVE does the same for Treasuries. Both fell sharply as Monday's panic eased, but levels above 25 and 100 are still elevated. Hedging is still expensive, and banks' trading desks earn more when clients pay up for protection.",
+        "source": "Yahoo Finance / Capp Notes",
+        "url": "https://finance.yahoo.com/quote/%5EMOVE/"
+      },
+      {
+        "title": "CME rates complex running hot into FOMC",
+        "body": "CME's October ADV was a record 30M contracts (+15% y/y), with Treasury futures and options +48%. No new volume or OI records have been published for November yet. The CFTC TFF report as of Nov 17 is out, but leveraged-fund detail couldn't be confirmed.",
+        "simple": "ADV is average daily volume, the number of futures and options contracts traded per day. A Fed that has switched from cutting to hiking sends investors to CME's SOFR and Treasury futures to hedge, which drives exchange revenue. Watching that volume tells you how anxious money managers are about rates.",
+        "source": "CME Group (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-declares-quarterly-dividend-302930943.html"
+      },
+      {
+        "title": "Nasdaq-100 futures lead the reversal",
+        "body": "NQ was ≈−2% at 6:52 AM ET versus ≈−1% for ES, so tech is giving back more than the broad market. NVDA is ≈−5% (≈$156) after adding >$1T in market value Monday. Micron, Marvell, AMD and Arm are each down >3% pre-market.",
+        "simple": "NQ and ES are CME's futures on the Nasdaq-100 and S&P 500. They trade nearly around the clock and show where stocks will open. A one-day squeeze that reverses the next morning suggests Monday was short-covering rather than new buying. Short-covering is traders who bet on declines buying back.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold rejected at $3,651; Natixis warns of $3,340",
+        "body": "Dec gold futures are ≈$3,621 (−0.84%) after a $3,651.40 settle. Spot touched ≈$3,645 in Asia, and FXStreet sees $3,700 capping the rebound. Natixis sees ≈$3,340 by January if central-bank demand falls 25%, ETFs shed 20t a month and bar demand drops 10%. Goldman cut its end-2027 target to $4,650 from $4,800, its second cut this month.",
+        "simple": "Gold pays no interest. When the Fed raises rates and the dollar is strong, holding gold costs more relative to bonds, so prices struggle. Banks lowering their targets signals the big multi-year gold rally may be pausing. Central-bank buying is the main support left.",
+        "source": "Kitco / FX Leaders",
+        "url": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340"
+      },
+      {
+        "title": "Copper hands back the Nvidia bounce",
+        "body": "LME 3M copper hit $11,948 Monday, the lowest since Mar 24, before bouncing; COMEX rose as much as 5.5% intraday. Tuesday it slid back toward $12,000/t (Bloomberg). ING calls it a financial-flow move rather than weaker fundamentals. Lead hit a 4-year low.",
+        "simple": "Copper is used in wiring, power grids and data centers, so it trades partly as an 'AI and growth' bet. ING's view is that the drop comes from investors cutting risk, not from factories buying less. Physical buyers (for example Chinese importers paying higher premiums) can see that as a buying window.",
+        "source": "Bloomberg / FXStreet (ING)",
+        "url": "https://www.fxstreet.com/analysis/the-commodities-feed-oil-extends-losses-while-copper-gives-back-nvidia-bounce-202611240840"
+      },
+      {
+        "title": "China extends pause on minerals curbs; PBoC keeps buying gold",
+        "body": "China extended its suspension of US-specific export curbs on gallium, germanium and antimony by two months to Jan 27, 2027, ahead of Xi's US visit. Separately, the PBoC added ≈830k oz of gold in October, its 24th straight month, to 78.30M oz.",
+        "simple": "Gallium and germanium are minor metals used in chips and military gear, and China dominates their supply. The extension lowers near-term supply-shock risk. China's central bank buying gold every month is a steady source of demand, part of a long-run shift of reserves away from the dollar.",
+        "source": "Benzinga / Equedia",
+        "url": "https://www.benzinga.com/news/politics/26/11/63571908/china-extends-suspension-of-critical-mineral-export-curbs-on-us-by-2-months-as-trump-xi-trade-truce-holds"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Sanofi to buy Insmed for $41B cash",
+      "body": "Sanofi agreed to pay $175/share in cash for Insmed, a ≈17.5% premium, for about $41B. It's the second $40B+ deal in two days after CrowdStrike–Zscaler ($43.9B, all-stock).",
+      "simple": "A cash deal this size usually means the buyer borrows. That creates big bridge-loan and bond-issuance mandates for banks' capital-markets teams, plus advisory fees. Megadeals during a stock correction show CEOs still have confidence and access to financing.",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163"
+    },
+    {
+      "title": "Credit spreads widen; tech IG yields top 6%",
+      "body": "For the week to Nov 20, IG spreads widened 10bp to 96 and HY 51bp to 367 (Nuveen). Tech investment-grade yields are above 6%, the highest since 2009. WSJ reports Anthropic's debt is expected at BB from the major agencies, following KBRA's BB+.",
+      "simple": "A credit spread is the extra yield a company pays over Treasuries. Wider spreads mean investors want more compensation for default risk. AI-related borrowing is getting pricier and some of it is junk-rated (below investment grade). That raises funding costs for the data-center buildout and creates work for debt capital-markets desks.",
+      "source": "Nuveen / WSJ via Yahoo",
+      "url": "https://www.nuveen.com/en-us/insights/fixed-income/fixed-income-weekly-commentary"
+    },
+    {
+      "title": "Banks bounce after worst week since April 2025",
+      "body": "Bank stocks recovered Monday after the KBW Bank Index fell 9.5% in the week to Nov 20. Citizens and Truist each rose >2% on Baird upgrades to outperform. The comment period on the FDIC's proposed bank-merger rule closed Nov 23, and Better Markets argued it threatens community banks.",
+      "simple": "Higher short-term rates can lift bank lending margins, but they also raise deposit costs and loan-loss risk if the economy slows, which is why bank stocks sold off. The FDIC merger rule decides how easily regional banks can combine. That matters for the commercial-banking consolidation wave.",
+      "source": "CNBC / Seeking Alpha / Better Markets",
+      "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "title": "IPO window pauses for Thanksgiving; gold carve-out up next",
+      "body": "Nothing is pricing this week. Next in line are American Barrick Gold (≈$6B gold carve-out) and Core Specialty (≈$250M), after Anthropic's record $81.3B IPO (Renaissance Capital).",
+      "simple": "IPOs are how companies first sell shares to the public, with banks underwriting them for fees. A big gold-mining carve-out (a parent selling part of a unit) coming right as gold sells off will test investor appetite for metals equities.",
+      "source": "Renaissance Capital",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/122810/us-ipo-week-ahead-ipo-calendar-takes-a-thanksgiving-break-after"
+    },
+    {
+      "title": "Private credit: dispersion and defaults rising",
+      "body": "Lenders are pricing similar borrowers ≈275bp apart, and the NAIC is scrutinizing insurers' private-credit exposure. Houlihan Lokey's Q3 size-weighted default rate rose to 1.5% from 0.8%.",
+      "simple": "Private credit is lending by funds rather than banks, and it has grown into a multi-trillion-dollar competitor to commercial banks. Rising defaults and inconsistent pricing suggest underwriting is uneven. Regulators are watching insurers that buy these loans. Banks lend to these funds too, so problems can loop back.",
+      "source": "Max's Digest",
+      "url": "https://maxsdigest.substack.com/p/maxs-digest-monday-november-23-2026"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Futures turn red as Huang effect fades",
+        "body": "At 6:52 AM ET, Dow futures were −0.5%, S&P −1% and Nasdaq-100 −2%, one day after the S&P's +4.7%, best session since April 2025.",
+        "simple": "Futures show where stocks will open. Investors are locking in Monday's gains, which suggests the market doesn't yet believe the correction is over.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html"
+      },
+      {
+        "title": "Nvidia slides >5% after its record one-day gain",
+        "body": "NVDA is ≈−5.4% pre-market after closing +31.5% at $165.05 Monday. It is still ≈31% below its Oct 6 high. Goldman calls Huang's return 'not a clearing event'.",
+        "simple": "A 'clearing event' is something that resolves uncertainty for good. Goldman is saying the CEO's return doesn't end the governance and regulatory questions, so the stock may stay volatile.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+      },
+      {
+        "title": "Best Buy beats and raises",
+        "body": "FQ3 revenue rose 5.8% to $10.24B against $9.90B expected, comps were +6.1% (best in five years) and adj. EPS was $1.62. FY guidance is now revenue $43.0–43.3B, comps +3.4–4.0% and EPS $6.90–7.05. Shares ≈+3% pre-market.",
+        "simple": "Comparable sales compare stores open at least a year, which strips out new openings. Best Buy credits AI-driven gadget upgrades, a sign consumers are still spending on electronics heading into the holidays.",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/best-buy-leans-on-aidriven-gadget-update-cycle-to-lift-annual-targets-5047828"
+      },
+      {
+        "title": "After-hours: Agilent jumps, Zoom initiates dividend, HPE slips",
+        "body": "Agilent EPS was $1.86 against $1.73 expected on ≈$2.04B revenue (+9.6%), and the stock rose ≈7–8%. Zoom's adj. EPS was $1.59 against $1.49 on $1.29B revenue, and it declared its first $0.25 dividend. HPE fell despite guidance above estimates.",
+        "simple": "A first dividend means a company expects to keep generating spare cash. That's typical of mature tech names whose growth has slowed, like Zoom after its pandemic boom.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Huang disclosed more affairs before reinstatement",
+        "body": "Per WSJ, Huang told the board about affairs beyond the two already reported during Sunday's meeting. The board found a code-of-conduct violation but still voted unanimously to reinstate him, and an independent probe continues.",
+        "simple": "Boards weigh a CEO's misconduct against what losing him would cost the company. This board decided the stock-value risk of losing him outweighed the conduct issue. That leaves governance questions open for investors.",
+        "source": "WSJ via OfficeChai",
+        "url": "https://officechai.com/ai/jensen-huang-disclosed-additional-affairs-beyond-the-two-reported-before-his-reinstatement-wsj-reports/"
+      },
+      {
+        "title": "Anthropic debt headed for junk ratings",
+        "body": "Bond managers expect BB ratings from Moody's, S&P and Fitch, following KBRA's BB+. Anthropic is valued at ≈$1.18T after listing.",
+        "simple": "BB is 'high-yield' or junk, meaning a higher default risk than investment-grade companies. Even a trillion-dollar AI company pays junk-level rates because its spending commitments are huge relative to its cash flow.",
+        "source": "WSJ via Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-faces-junk-rating-could-233300695.html"
+      },
+      {
+        "title": "Pentagon courts GM and Ford for drone production",
+        "body": "The Pentagon is in early talks with GM and Ford to mass-produce military drones, and sees a $20–30B-a-year market. Officials have also met Magna. Nothing is final.",
+        "simple": "The military wants carmakers' factory scale to build cheap drones quickly, as in WWII-era conversions. For automakers it could be a new government revenue stream.",
+        "source": "WSJ via Anadolu",
+        "url": "https://www.aa.com.tr/en/americas/pentagon-in-talks-with-general-motors-ford-to-boost-military-drone-production-report/4135749"
+      },
+      {
+        "title": "China extends minerals-curb pause to Jan 27",
+        "body": "China pushed back US-specific curbs on gallium, germanium and antimony by two months. The military end-user ban stays, ahead of Xi's US visit next month.",
+        "simple": "This keeps the US–China trade truce intact for now. Chipmakers and defense suppliers avoid a near-term shortage of key inputs.",
+        "source": "Benzinga (in WSJ digest)",
+        "url": "https://www.benzinga.com/news/politics/26/11/63571908/china-extends-suspension-of-critical-mineral-export-curbs-on-us-by-2-months-as-trump-xi-trade-truce-holds"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Allstate reportedly plans ≈5,000 job cuts",
+        "body": "The Northbrook insurer is reportedly planning ≈5,000 job cuts as it speeds up its AI push. The company is not commenting.",
+        "simple": "Insurers handle a lot of paperwork-heavy claims and service work that AI can automate. Cuts this size at a major suburban employer matter for the Chicago job market.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/news/ccb-allstate-job-cuts-reports-20261123/"
+      },
+      {
+        "title": "Chicago Fed activity index dips below zero",
+        "body": "The October CFNAI was −0.06, down from a revised +0.05, with production at −0.07. Goolsbee said last week he wouldn't rule out a larger December hike, calling inflation 'stuck'.",
+        "simple": "The CFNAI combines 85 indicators. Zero means the economy is growing at its normal pace, so slightly negative means a bit below trend. Chicago's Fed president is still hawkish, meaning focused on fighting inflation, even as activity cools.",
+        "source": "QNC News / Quartz",
+        "url": "https://qncnews.com/2026/11/23/chicago-fed-activity-index-slips-below-zero-in-october-as-factory-output-drags/"
+      },
+      {
+        "title": "Illinois hemp firms lose bid to block THC ban",
+        "body": "Judge Martha Pacold denied a TRO against Illinois' THC-product ban. The parties return to court in December.",
+        "simple": "A TRO is a temporary restraining order, an emergency pause on a law. Without it, hemp retailers must comply now, which threatens small businesses that sell these products.",
+        "source": "Chicago Tribune via Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/illinois-hemp-businesses-lose-bid-005400934.html"
+      },
+      {
+        "title": "FAA staffing ground stop hits O'Hare as holiday rush starts",
+        "body": "Arrivals were halted ≈10:40 AM–12:15 PM Monday for staffing. United expects ≈640,000 O'Hare departures Nov 19–Dec 1, with Chicago bookings +5% y/y.",
+        "simple": "Air-traffic controller shortages force flights to pause. That ripples into delays nationwide because O'Hare is a hub for United, a Chicago-HQ company.",
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/news/2026/11/23/ground-stop-issued-at-ohare-airport-during-busy-holiday-travel-week"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Trump had Vance vouch for Huang to Nvidia's board",
+        "body": "Per NYT, Trump tasked JD Vance with assuring Huang and the board that Huang wasn't a national-security risk and didn't face chip-smuggling charges.",
+        "simple": "The White House directly shaped a private company's leadership decision. That is unusual, and it raises questions about government influence over the world's most valuable chipmaker.",
+        "source": "NYT via Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+      },
+      {
+        "title": "Republicans break with Trump over Huang",
+        "body": "Senators Cramer, Curtis, Cornyn and Ricketts questioned the reinstatement, as did the chairs of the House Intelligence, Foreign Affairs and China committees. Trump told CNBC the critics will come around.",
+        "simple": "Lawmakers in the president's own party pushing back raises the odds of hearings or chip-export scrutiny. That's an ongoing risk for Nvidia's stock.",
+        "source": "NYT via Newsweek",
+        "url": "https://www.newsweek.com/republicans-trump-jensen-huang-nvidia-return-full-list-12758845"
+      },
+      {
+        "title": "Iranian cyberattacks on tankers probed; oil near 3-month low",
+        "body": "US investigators are probing suspected Iranian cyberattacks on up to 50 tankers carrying explosive cargo. Brent is still near a three-month low (≈$88–89).",
+        "simple": "Normally a threat to shipping would push oil up. Prices are falling anyway, which suggests traders see enough supply or weak demand to absorb the risk.",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Gradualism vs. a 50bp hike",
+      "point": "Williams' 'act over time' took 50bp off the table for December while leaving January live (≈60–65% priced for +50bp cumulative). Ask a rates trader whether SOFR futures are over-pricing the Fed's 2027 path. Ask too whether Wednesday's PCE (3.8%/3.2% expected) is more likely to steepen the curve via the front end or via term premium in 30s at ≈5.29%."
+    },
+    {
+      "topic": "Vol after the squeeze",
+      "point": "The VIX fell 26% in one session to 26.6 while the MOVE only dropped to ≈101, so rates vol is stickier than equity vol in a hiking cycle. That gap matters for options desks: clients keep paying for Treasury and SOFR options protection even after stocks calm down, which supports CME rates volume after a record October."
+    },
+    {
+      "topic": "Gold's crowded unwind",
+      "point": "Gold is ≈$3,620 with Natixis calling $3,340 and Goldman cutting to $4,650 for 2027. Meanwhile the PBoC added gold for a 24th straight month. Frame it as official-sector buyers versus macro funds unwinding: real yields and a 104 DXY drive the marginal price, and central banks set the floor. American Barrick's ≈$6B IPO is the capital-markets test of that view."
+    }
+  ],
+  "caveats": "WSJ, NYT and Tribune stories come via other outlets' coverage or digest snippets, since the originals are paywalled and several sites (CNBC, MarketScreener) were blocked for direct fetch. Figures are from search summaries and may be approximate. Futures % changes are from one CNBC timestamp; FedWatch odds vary by snapshot (91–97%). No confirmed Tuesday prints for silver, PGMs, copper or the KBW index. NVDA Monday close per CNBC/Yahoo is $165.05 (+31.5%); last night's update had $164.10 (+30.7%).",
+  "updates": []
+}
