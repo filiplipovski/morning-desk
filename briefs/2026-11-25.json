@@ -11,105 +11,105 @@
     "Metals are getting hit by a hawkish Fed and a firm dollar (DXY ≈104.5, near a 19-month high). Spot gold fell ≈2% Tuesday and is ≈$3,511 this morning, having failed again at $3,700. Silver is ≈$39.72 (−$2.84 vs this time Tuesday) after COMEX −5.7%. LME copper is $11,703/t (−1.0%), its lowest since Dec 18, 2025, even as China's import premium hit a record $360/t.",
     "Earnings beats aren't being rewarded. Dell beat (adj. EPS $9.45 vs $6.59, revenue $54.94B vs $49.32B, plus a $25B buyback) and still fell ≈7.5% pre-market. Workday is ≈−10% on soft subscription guidance and Autodesk ≈−4%. On the deal side, Sanofi–Insmed ($41B cash) is the week's headline M&A, and the KBW bank index has formed a 'death cross'."
   ],
-  "markets_asof": "Pre-market ≈6:15 AM CT (indices/NVDA = Tue close; yields, metals = Wed morning)",
+  "markets_asof": "≈8:45 AM CT (index levels at the open; yields ≈7:50 AM)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "7,201.09",
-      "change": "−0.50%",
+      "value": "≈7,060",
+      "change": "≈−1.95%",
       "dir": "down",
-      "note": "Tue close; futures ≈−1.2% Wed"
+      "note": "At open; vs 7,201.09 Tue close"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "23,733.54",
-      "change": "−1.48%",
+      "value": "≈22,950",
+      "change": "≈−3.3%",
       "dir": "down",
-      "note": "Tue close; NDX −1.99%; NQ futures ≈−2%"
+      "note": "At open; NDX fut −3.06% pre-bell"
     },
     {
       "label": "Dow",
-      "value": "50,018.70",
-      "change": "+0.85%",
-      "dir": "up",
-      "note": "First close >50k; futures ≈−0.6%"
+      "value": "49,469.86",
+      "change": "−1.10%",
+      "dir": "down",
+      "note": "At open; back below 50k"
     },
     {
       "label": "NVDA",
-      "value": "$155.38",
-      "change": "−5.86%",
+      "value": "—",
+      "change": "≈−6%",
       "dir": "down",
-      "note": "SOX −7.88%; ≈−35% from Oct peak"
+      "note": "Pre-mkt; Micron −8%"
     },
     {
-      "label": "Dell (pre-mkt)",
+      "label": "Dell",
       "value": "—",
       "change": "≈−7.5%",
       "dir": "down",
-      "note": "Despite EPS $9.45 vs $6.59 est."
+      "note": "Pre-mkt, morning read"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.63%",
+      "value": "≈4.61–4.63%",
       "change": "≈−4bp",
       "dir": "down",
-      "note": "CNBC pre-data"
+      "note": "Intraday reads vary"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.87%",
-      "change": "≈−3bp",
+      "value": "≈4.84%",
+      "change": "≈−6bp",
       "dir": "down",
-      "note": "Tradeweb read 4.846%"
+      "note": "≈7:50 AM CT, post-PCE"
     },
     {
       "label": "UST 30Y",
-      "value": "≈5.27%",
+      "value": "—",
       "change": "—",
       "dir": "down",
-      "note": "CNBC pre-data"
+      "note": "No reliable post-PCE read"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec +25bp ≈99.8%",
+      "change": "Dec hike ≈97%",
       "dir": "up",
-      "note": "FOMC Dec 8–9"
+      "note": "Jan follow-up ≈63% (FedWatch)"
     },
     {
-      "label": "Gold (spot)",
-      "value": "≈$3,511",
-      "change": "≈−1.2%",
+      "label": "Core PCE y/y",
+      "value": "3.3%",
+      "change": "+0.2pp",
+      "dir": "up",
+      "note": "vs 3.2% est.; m/m 0.3% in line"
+    },
+    {
+      "label": "Gold (COMEX)",
+      "value": "<$3,500",
+      "change": "≈−2.4%",
       "dir": "down",
-      "note": "vs ≈$3,554 Tue eve (Kitco); Tue ≈−2%"
+      "note": "Near 14–15-month low"
     },
     {
-      "label": "Silver (spot)",
-      "value": "≈$39.72",
-      "change": "−$2.84",
+      "label": "Silver",
+      "value": "≈$38.7–39.4",
+      "change": "≈−4%",
       "dir": "down",
-      "note": "vs same time Tue (Fortune)"
+      "note": "Sources conflict on level"
     },
     {
-      "label": "LME copper",
-      "value": "$11,703/t",
-      "change": "−1.04%",
+      "label": "COMEX copper",
+      "value": "≈$5.32–5.35/lb",
+      "change": "≈−0.4 to −1.5%",
       "dir": "down",
-      "note": "Lowest since Dec 18, 2025; COMEX $5.45/lb Tue"
+      "note": "Sources conflict"
     },
     {
-      "label": "WTI",
-      "value": "≈$80–82",
+      "label": "Brent",
+      "value": "≈$83–91",
       "change": "—",
       "dir": "flat",
-      "note": "Sources conflict; Brent ≈$87–91"
-    },
-    {
-      "label": "Dollar index",
-      "value": "≈104.5",
-      "change": "—",
-      "dir": "up",
-      "note": "Tue; near 19-month high"
+      "note": "Sources conflict; treat as unreliable"
     }
   ],
   "calendar": [
@@ -401,5 +401,50 @@
     }
   ],
   "caveats": "WSJ, NYT and Tribune are paywalled; their items come from press digests (Boursorama/MarketScreener, rallies.ai) and Crain's or other outlets' coverage, and some Tribune/NYT items are from last week. Index levels are Tuesday closes. Futures, Treasury yields and metals are pre-market snapshots that differ by source, and Tuesday's Treasury closing prints conflict. Oil and DXY lack confirmed fresh prints. SOFR-implied rates are our arithmetic from a Nov 20 CME quote. Allstate's job-cut figure is unconfirmed. Deere's consensus wasn't found.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-25T15:17:25Z",
+      "label": "Post-open",
+      "headline": "PCE confirmed the morning's hawkish risk (core 3.3% y/y vs 3.2% est.) and Q3 GDP was revised up to 4.3%, yet stocks gapped lower on tariffs and AI while Treasuries kept rallying, which leaves this as a growth-scare tape, not an inflation tape.",
+      "points": [
+        "Oct PCE: headline +0.3% m/m, 3.8% y/y (in line; prior 3.6%). Core +0.3% m/m (in line), but 3.3% y/y vs 3.2% est. and 3.1% prior, its third straight 0.3% monthly print. Q3 GDP 2nd est. was 4.3% saar vs ≈3.5% est. (advance revised up 0.9pp, per BEA).",
+        "Claims and durables are single-source and unconfirmed: initial claims 189K (vs ≈200K est., 202K prior), headline durables +0.2% (vs 0.5% est.), core capex orders +1.2%.",
+        "At the open, S&P ≈−1.95% (≈7,060), Nasdaq Comp ≈−3.3%, Dow −1.10% (49,469.86, giving back yesterday's 50k close). Before the bell, NDX futures were −3.06% (25,472), NVDA ≈−6% and Micron −8%. The S&P is moving in and out of correction territory (−10% from peak).",
+        "Rates: the 10Y is ≈4.84% (≈−6bp at 7:50 CT), so the hot core didn't reverse the bid. FedWatch has the Dec 9 hike at ≈97% (≈99.8% this morning) and a January follow-up at ≈63%. Metals are still falling: COMEX gold ≈−2.4% (spot near 14–15-month lows, sub-$3,500 prints) and silver ≈−4% (≈$38.7–39.4).",
+        "Ahead: the $44B 7Y auction at noon CT is the main event. Hot core plus a 4.3% GDP print argues for a concession, but haven flows argue for a stop-through. Beige Book at 1 PM CT."
+      ],
+      "simple": "PCE is the price gauge the Fed watches most. The 'core' version leaves out food and energy, and it is still rising at more than 3% a year, well above the Fed's 2% goal. Normally that would push bond yields (the interest rate the government pays to borrow) higher. Instead, investors are buying bonds because new tariffs and a slump in AI chip stocks have them worried about growth. Lower yields can help borrowers, but the Fed still looks set to raise rates in December, which keeps loan costs high for households and banks.",
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://www.morningstar.com/economy/october-pce-report-pce-inflation-index-up-38-line-with-expectations"
+        },
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/news/us-october-pce-core-inflation-m-m-vs-0-3-expected/"
+        },
+        {
+          "name": "BEA",
+          "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469"
+        },
+        {
+          "name": "Chip Dispatch",
+          "url": "https://chipdispatch.com/articles/nasdaq-100-futures-slide-3-as-chip-stocks-tariffs-and-hot-pce-collide"
+        },
+        {
+          "name": "Upstox (metals)",
+          "url": "https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-25-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-us-pce-inflation-data-in-focus-check-silver-prices-today/liveblog-203915/"
+        },
+        {
+          "name": "The Blye Sheet",
+          "url": "https://theblyesheet.substack.com/p/the-blye-sheet-before-the-bell-november-4f0"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-25T15:17:25Z"
 }
