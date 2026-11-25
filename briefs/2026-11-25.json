@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-25",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-25T12:19:57Z",
+  "headline": "Tariffs are back on top of the AI unwind. Nasdaq-100 futures are ≈−2% and S&P ≈−1.2% on a WSJ report of Section 301 duties against 16 economies, but Treasuries are rallying (10Y ≈4.87%, 2Y ≈4.63%, both −3 to −4bp) into the 7:30 AM CT PCE. That print decides whether the Fed keeps hiking after a December move that is now fully priced.",
+  "summary": [
+    "Tuesday ended as a rotation: the Dow closed above 50,000 for the first time (50,018.70, +0.85%), while the S&P fell 0.50% to 7,201.09 (its 8th loss in 9 sessions) and the Nasdaq Composite 1.48% to 23,733.54. NVDA fell 5.86% to $155.38 and the SOX 7.88%. S&P breadth was positive (346 up, 154 down), so this is a tech de-rating, not broad liquidation (Yahoo Finance, StartupFortune).",
+    "Overnight, the trade story came back. WSJ reports USTR Greer could announce Section 301 'excess capacity' tariffs on 16 economies (China, EU, Japan, Korea, Mexico, India, Vietnam, Taiwan and others) as soon as this week. The duties would replace those the Supreme Court struck down, with the EU, Japan and Korea capped near 15% and China hit hardest. Futures at the Reuters Morning Bid: Nasdaq ≈−2%, S&P >−1%, Dow ≈−0.6%.",
+    "Bonds are trading the growth scare, not the inflation scare. Pre-data, the 10Y was ≈4.87% (−3bp), the 2Y ≈4.63% (−4bp) and the 30Y ≈5.27% (CNBC), so 2s10s is ≈24bp. Tuesday's close prints conflict (one wire has the 2Y +3.6bp to 4.683% and the 10Y at 4.938%), so treat the moves as approximate. The Dec 8–9 hike is ≈99.8% priced (Benzinga). The live question is January.",
+    "7:30 AM CT is the heaviest data hour of the month. October PCE: consensus 0.3% m/m and 3.8% y/y headline (prior 0.5% / 3.6%), core 0.3% / 3.2% (prior 3.1%), with some desks at 3.3% core. Also out: Q3 GDP 2nd estimate (≈3.4–3.5% saar), claims (≈200K vs 203K) and durables. The $44B 7Y auction is at noon and the Beige Book at 1 PM. Markets are closed Thursday.",
+    "Metals are getting hit by a hawkish Fed and a firm dollar (DXY ≈104.5, near a 19-month high). Spot gold fell ≈2% Tuesday and is ≈$3,511 this morning, having failed again at $3,700. Silver is ≈$39.72 (−$2.84 vs this time Tuesday) after COMEX −5.7%. LME copper is $11,703/t (−1.0%), its lowest since Dec 18, 2025, even as China's import premium hit a record $360/t.",
+    "Earnings beats aren't being rewarded. Dell beat (adj. EPS $9.45 vs $6.59, revenue $54.94B vs $49.32B, plus a $25B buyback) and still fell ≈7.5% pre-market. Workday is ≈−10% on soft subscription guidance and Autodesk ≈−4%. On the deal side, Sanofi–Insmed ($41B cash) is the week's headline M&A, and the KBW bank index has formed a 'death cross'."
+  ],
+  "markets_asof": "Pre-market ≈6:15 AM CT (indices/NVDA = Tue close; yields, metals = Wed morning)",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,201.09",
+      "change": "−0.50%",
+      "dir": "down",
+      "note": "Tue close; futures ≈−1.2% Wed"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "23,733.54",
+      "change": "−1.48%",
+      "dir": "down",
+      "note": "Tue close; NDX −1.99%; NQ futures ≈−2%"
+    },
+    {
+      "label": "Dow",
+      "value": "50,018.70",
+      "change": "+0.85%",
+      "dir": "up",
+      "note": "First close >50k; futures ≈−0.6%"
+    },
+    {
+      "label": "NVDA",
+      "value": "$155.38",
+      "change": "−5.86%",
+      "dir": "down",
+      "note": "SOX −7.88%; ≈−35% from Oct peak"
+    },
+    {
+      "label": "Dell (pre-mkt)",
+      "value": "—",
+      "change": "≈−7.5%",
+      "dir": "down",
+      "note": "Despite EPS $9.45 vs $6.59 est."
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.63%",
+      "change": "≈−4bp",
+      "dir": "down",
+      "note": "CNBC pre-data"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.87%",
+      "change": "≈−3bp",
+      "dir": "down",
+      "note": "Tradeweb read 4.846%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.27%",
+      "change": "—",
+      "dir": "down",
+      "note": "CNBC pre-data"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec +25bp ≈99.8%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,511",
+      "change": "≈−1.2%",
+      "dir": "down",
+      "note": "vs ≈$3,554 Tue eve (Kitco); Tue ≈−2%"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$39.72",
+      "change": "−$2.84",
+      "dir": "down",
+      "note": "vs same time Tue (Fortune)"
+    },
+    {
+      "label": "LME copper",
+      "value": "$11,703/t",
+      "change": "−1.04%",
+      "dir": "down",
+      "note": "Lowest since Dec 18, 2025; COMEX $5.45/lb Tue"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$80–82",
+      "change": "—",
+      "dir": "flat",
+      "note": "Sources conflict; Brent ≈$87–91"
+    },
+    {
+      "label": "Dollar index",
+      "value": "≈104.5",
+      "change": "—",
+      "dir": "up",
+      "note": "Tue; near 19-month high"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Pre-mkt",
+      "event": "Earnings: Deere (Moline, IL)",
+      "consensus": "—",
+      "prior": "—",
+      "why": "A read on farm and construction capex, and on what tariffs do to an Illinois exporter, landing on the day Section 301 headlines return."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "PCE price index (Oct)",
+      "consensus": "Headline 0.3% m/m, 3.8% y/y; core 0.3% m/m, 3.2% y/y",
+      "prior": "0.5% / 3.6%; core 3.1% y/y",
+      "why": "This is the Fed's target gauge and the last one before the Dec 8–9 FOMC. A 3.3%+ core makes January a live hike; an in-line print lets the front end keep today's rally."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Q3 GDP, 2nd estimate",
+      "consensus": "≈3.4–3.5% saar",
+      "prior": "Sources conflict",
+      "why": "Strong growth plus 3%+ core inflation is the hawkish mix. It shows whether the economy can absorb more hikes."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Initial jobless claims (wk to Nov 21)",
+      "consensus": "≈200–201K",
+      "prior": "203K (continuing 1.763M)",
+      "why": "The labor market is still tight, so claims near 200K give the Fed no reason to stop. The data is pulled forward by Thanksgiving."
+    },
+    {
+      "time": "7:30 AM",
+      "event": "Durable goods (Oct)",
+      "consensus": "Core ≈0.5%",
+      "prior": "Core 0.5%",
+      "why": "A capex proxy. AI-server orders have propped it up, and the AI trade is now cracking."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "$44B 7-year note auction",
+      "consensus": "WI ≈4.8% area",
+      "prior": "5Y Tue: 4.719%, 0.3bp tail, 2.37x",
+      "why": "This is the last coupon supply before the holiday. A tail after a PCE beat would steepen the belly selloff, while a stop-through confirms real-money demand at these yields."
+    },
+    {
+      "time": "1:00 PM",
+      "event": "Fed Beige Book",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Anecdotes on pricing power and hiring, which the Fed will use to judge December and January."
+    },
+    {
+      "time": "TBD",
+      "event": "USTR Section 301 'excess capacity' tariff announcement (reported)",
+      "consensus": "Rates undisclosed; ≈15% cap for EU/Japan/Korea",
+      "prior": "IEEPA tariffs struck down earlier in 2026",
+      "why": "A new tariff round is a stagflation shock: higher goods prices for the Fed to fight and slower growth for equities. It is the main tail risk for the holiday tape."
+    },
+    {
+      "time": "Thu–Fri",
+      "event": "Thanksgiving: markets closed Thu; early close Fri",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Liquidity will be thin into month-end and index rebalancing, so moves can be outsized."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Front end rallies into PCE as tariff headlines hit growth",
+        "body": "Pre-data, the 2Y was ≈4.63% (−4bp), the 10Y ≈4.87% (−3bp) and the 30Y ≈5.27% (CNBC). Tradeweb snapshots had the 10Y at 4.846% and the 2Y at 4.623%. The curve is bull-flattening slightly at the short end even though a December hike is ≈fully priced, a sign the market is fading the depth of the cycle rather than December itself.",
+        "simple": "A yield is the interest rate a bond pays, and it falls when investors buy the bond. Investors are buying Treasuries this morning because new tariffs could slow the economy, and a weaker economy usually means the Fed stops raising rates sooner. That eases the pressure on mortgage and loan rates at the margin.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+      },
+      {
+        "title": "$44B 7Y closes out holiday-week supply",
+        "body": "After the 2Y stopped through 0.3bp Monday and the 5Y tailed 0.3bp Tuesday (4.719%, 2.37x cover), the 7Y at noon CT comes 4.5 hours after PCE. Analysts flag the combination of data and supply as a volatility risk for the belly.",
+        "simple": "The Treasury borrows by auctioning notes. A 'tail' means it had to pay a bit more than expected (weak demand), and a 'stop-through' means it paid less (strong demand). Selling $44B right after a key inflation report tests whether investors still want US debt at almost 5%.",
+        "source": "Longbridge",
+        "url": "https://longbridge.com/en/news/306760936"
+      },
+      {
+        "title": "JGBs follow Treasuries and cheaper oil lower in yield",
+        "body": "Japan's 10Y fell ≈6.5–7bp to ≈2.72% Tuesday and the 5Y 5.5bp to 2.125%. That move tracked USTs and softer crude rather than BoJ cues, after the 10Y touched ≈2.87% on Nov 13. Global duration is trading as one block off US Fed pricing.",
+        "simple": "Japan's government bonds now pay over 2.7%, far above where they sat for most of the last decade. When US yields fall, Japanese yields tend to follow. That matters because Japanese investors are big buyers of US bonds, and higher yields at home could pull their money back.",
+        "source": "briefs.co",
+        "url": "https://www.briefs.co/news/jgbs-climb-even-as-nikkei-jumps-on-nvidia-leadership-twist/"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME posts all-time volume record, led by Treasury futures",
+        "body": "CME cleared 71.46M contracts on Nov 23, beating the 67.1M record from Feb 25, 2025. Treasury futures hit a record 41.38M (≈10% above the prior high) and total interest-rate futures and options were 50.92M, the 2nd-highest ever. Duffy cites simultaneous equity and rate volatility.",
+        "simple": "Futures are contracts to buy or sell something at a set price later. Banks and funds use them to hedge, or protect against, swings in rates. Record trading means big institutions are scrambling to adjust their bets on where interest rates go, which is good for CME's revenue.",
+        "source": "Investing.com (CME release)",
+        "url": "https://ca.investing.com/news/stock-market-news/cme-group-sets-singleday-volume-record-of-715m-contracts-93CH-4978793"
+      },
+      {
+        "title": "SOFR strip prices December done and January live",
+        "body": "One-month SOFR futures last traded 95.905 for Dec and 95.805 for Jan (CME, Nov 20), implying ≈4.10% and ≈4.20% average SOFR (our arithmetic, 100 minus price). Benzinga cites ≈99.8% odds of a December hike. A hot core PCE would pressure the Jan/Mar contracts. A soft one, plus tariffs, would bull-steepen the strip.",
+        "simple": "SOFR is the overnight rate banks pay to borrow cash against Treasuries. Its futures price as 100 minus the expected rate, so traders can read the market's forecast straight off the screen. Right now that forecast says one more Fed hike in December, with a good chance of another early next year.",
+        "source": "CME Group",
+        "url": "https://www.cmegroup.com/markets/interest-rates/stirs/one-month-sofr/quotes"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold breaks lower on hike pricing, $3,700 caps",
+        "body": "Spot fell ≈2% Tuesday to ≈$3,557 (CNBC) and was ≈$3,511 at 6:45 AM ET (Fortune). The 10Y real yield is ≈2.89% and DXY ≈104.5, near a 19-month high (Investorideas), after another failed retest of $3,700.",
+        "simple": "Gold pays no interest. When the 'real yield' (a bond's interest rate minus inflation) is high, owning gold costs you more, so its price tends to fall. A stronger dollar also makes gold pricier for foreign buyers. Both are working against it right now.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/gold-bargain-buying-us-inflation-data.html"
+      },
+      {
+        "title": "Silver flushes ≈6% as solar demand sours",
+        "body": "COMEX silver fell 5.71% and SHFE 6.77% in one session. Spot is ≈$39.72, down $2.84 from Tuesday morning. Deutsche Bank sees solar silver use down >20% this year (China −33%), which erodes the industrial leg that drove the rally.",
+        "simple": "Silver is both a precious metal and an industrial input, especially for solar panels. When solar makers use less of it, one major source of demand disappears just as higher rates hurt its investment appeal. That is why it falls about twice as hard as gold.",
+        "source": "SMM",
+        "url": "https://news.metal.com/newscontent/BKSHXJ65GFRYSFIYZ7IJF6YYM5GIZMCYPP7L4JY-copper-tin-and-silver-plummet-us-dollar-pulls-back-metals-mostly-fall-shfe-copper-breaks-below-90000-aluminum-zinc-nickel-and-gold-lead-declines-overnight-market"
+      },
+      {
+        "title": "Copper: paper rout, physical bid",
+        "body": "LME 3M copper was $11,703/t (−1.04%) at 07:25 GMT, after touching $11,682, the lowest since Dec 18, 2025. COMEX settled ≈$5.45/lb Tuesday (−3.3%). Meanwhile China's import premium hit a record $360/t, which suggests forced liquidation by funds rather than a collapse in end-demand.",
+        "simple": "Copper goes into wiring, power grids and data centers, so its price is a read on growth. Futures are falling as speculators exit the AI trade, but Chinese buyers are paying record premiums for actual metal. That gap usually means the selling is driven by finance, not by real demand.",
+        "source": "investingLive / The Edge",
+        "url": "https://investinglive.com/commodities/copper-sends-two-signals-a-20-slide-on-the-lme-record-premiums-in-china/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Sanofi to buy Insmed for $41B cash",
+      "body": "Per the WSJ, the deal is ≈$175/share, a ≈17.5% premium. It is one of 2026's largest all-cash pharma deals, aimed at refilling Sanofi's pipeline before a major patent cliff. That means big acquisition-financing and advisory fees despite the equity drawdown.",
+      "simple": "An all-cash deal means Sanofi pays with money, not its own stock, so it will likely borrow tens of billions through bank loans and bonds. Banks earn fees for advising and for arranging that debt. Big deals are still getting done even as stocks wobble.",
+      "source": "WSJ via Boursorama press digest",
+      "url": "https://www.boursorama.com/bourse/actualites/presse-wall-street-journal-25-novembre-b322e7adb6397a3b05a962cb3ad25d3b"
+    },
+    {
+      "title": "KBW bank index flashes a 'death cross'",
+      "body": "The 24-member KBW index fell as much as 7.7% last week, its worst since April 2025. Goldman and Morgan Stanley fell >10% each despite top roles on Anthropic's IPO, and Anthropic is now trading below its $83 offer price. The drivers cited were AI-unwind and cybersecurity fears.",
+      "simple": "A 'death cross' is when a stock's 50-day average price falls below its 200-day average, a chart signal traders read as bearish. Investors worry that IPO and trading revenue will dry up if the AI trade keeps unwinding. Bank stocks are falling even though the banks just earned large fees.",
+      "source": "Bloomberg / Quartz",
+      "url": "https://qz.com/bank-stocks-worst-week-april-2025-kbw-index-112026"
+    },
+    {
+      "title": "Dell beats big, buys back $25B, stock still falls",
+      "body": "Adj. EPS was $9.45 vs $6.59 and revenue $54.94B vs $49.32B, on AI-server strength. Dell authorized a $25B repurchase, yet shares were ≈−7.5% pre-market. Investors are selling AI hardware into strength regardless of results.",
+      "simple": "A buyback is when a company uses cash to purchase its own shares, which usually supports the price. Dell earned far more than expected and the stock still dropped, which shows how nervous investors are about AI spending lasting. That mood also hits banks that underwrite tech deals.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+    },
+    {
+      "title": "Credit union buys a community bank: Liberty Bank deal",
+      "body": "Family Savings Credit Union signed a purchase-and-assumption deal for Liberty Bank (First Bancorporation of Geraldine, AL). The combined institution would have ≈$1.5B in assets, with closing targeted for Q3 2027. Credit union–bank deals remain a steady channel of small-bank consolidation, alongside Hancock Whitney–Trustmark ($3.2B stock, Nov 12).",
+      "simple": "Credit unions are tax-exempt, member-owned lenders, and they increasingly buy small banks to grow. In a 'purchase and assumption' deal, the buyer takes over the bank's loans and deposits rather than its stock. For customers, the branch usually stays but the name and owner change.",
+      "source": "Olsen Palmer",
+      "url": "https://www.olsenpalmer.com/news-archive/liberty-bank-has-agreed-to-be-acquired"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Treasury yields fall ahead of key inflation signal",
+        "body": "The 10Y was ≈4.87% (−3bp) and the 2Y ≈4.63% (−4bp) pre-PCE. Dow Jones consensus for headline PCE is 0.3% m/m.",
+        "simple": "Bond prices rose and their yields fell as investors positioned for today's inflation report. Lower yields feed through to borrowing costs over time.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+      },
+      {
+        "title": "Dell earnings beat on AI strength, $25B buyback",
+        "body": "Revenue was $54.94B vs $49.32B est. and adj. EPS $9.45 vs $6.59, but shares are lower pre-market.",
+        "simple": "Dell sells the servers that run AI. It sold far more than expected, but investors worry demand has peaked, so they sold the stock anyway.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+      },
+      {
+        "title": "Gold falls 2% on hawkish Fed bets",
+        "body": "Spot fell to ≈$3,557 Tuesday as FedWatch moved to full pricing of a December hike, with PCE in focus.",
+        "simple": "Gold drops when interest rates are expected to rise, because bonds and savings start paying more and gold pays nothing.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/gold-bargain-buying-us-inflation-data.html"
+      },
+      {
+        "title": "After-hours movers: HP beats, Workday sinks",
+        "body": "HP had Q4 revenue of $16.00B vs $15.42B and adj. EPS of $0.83 vs $0.75. Workday fell >7% late (≈−10% pre-market) on a soft subscription outlook, and Autodesk is ≈−4%.",
+        "simple": "Several tech companies beat forecasts but gave cautious outlooks. Right now investors care more about the outlook than the past quarter.",
+        "source": "CNBC / SiliconANGLE",
+        "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "White House readies Section 301 tariffs on 16 economies",
+        "body": "USTR Greer could announce duties as soon as this week, framed around 'excess industrial capacity'. They would replace tariffs the Supreme Court struck down, with ≈15% caps for the EU, Japan and Korea and the steepest rates on China.",
+        "simple": "Section 301 is a trade law that lets the president tax imports from countries judged to trade unfairly. After the courts threw out the last round of tariffs, this is a new legal route back to them. Tariffs raise prices for importers and consumers.",
+        "source": "WSJ via The Fiscal Times",
+        "url": "https://www.thefiscaltimes.com/2026/11/24/Trump-Readies-New-Tariff-Hikes-Dozens-Countries"
+      },
+      {
+        "title": "Sanofi agrees to buy Insmed for $41B",
+        "body": "It is an all-cash purchase to bolster the pipeline ahead of a key patent expiry.",
+        "simple": "A patent cliff is when a drugmaker's best-selling medicine loses patent protection and cheap generics arrive. Buying a company with new drugs replaces that lost revenue.",
+        "source": "WSJ via Boursorama press digest",
+        "url": "https://www.boursorama.com/bourse/actualites/presse-wall-street-journal-25-novembre-b322e7adb6397a3b05a962cb3ad25d3b"
+      },
+      {
+        "title": "Huang apologizes to Nvidia staff at all-hands",
+        "body": "At Tuesday's HQ meeting, the reinstated CEO apologized and told employees he is in therapy. The stock fell 5.86% the same day.",
+        "simple": "Nvidia's leadership drama adds uncertainty to the most important stock in the AI trade, and that uncertainty spills into the whole market.",
+        "source": "WSJ via Boursorama press digest",
+        "url": "https://www.boursorama.com/bourse/actualites/presse-wall-street-journal-25-novembre-b322e7adb6397a3b05a962cb3ad25d3b"
+      },
+      {
+        "title": "Shein to pay $100M to settle FTC claims",
+        "body": "The settlement resolves allegations of deceptive customer-service practices.",
+        "simple": "The FTC is the US consumer-protection regulator. A $100M settlement is small for Shein but shows regulators going after fast-growing Chinese retailers.",
+        "source": "WSJ via MarketScreener",
+        "url": "https://www.marketscreener.com/news/shein-to-pay-100-million-to-settle-ftc-deceptive-practice-allegations-ce7851dbd18ff623"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group sets all-time daily volume record",
+        "body": "71.46M contracts on Nov 23, with Treasury futures at a record 41.38M and rates F&O at 50.92M.",
+        "simple": "Chicago's exchange makes money per contract traded. Wild swings in stocks and rates send hedgers to its markets, so market turmoil is good business for CME.",
+        "source": "Investing.com (CME release)",
+        "url": "https://ca.investing.com/news/stock-market-news/cme-group-sets-singleday-volume-record-of-715m-contracts-93CH-4978793"
+      },
+      {
+        "title": "Goolsbee keeps a bigger December hike on the table",
+        "body": "The Chicago Fed president said all options are open for Dec 8–9 and would not rule out more than 25bp. He earlier called October CPI 'borderline disturbing'. (Last week; context for today's PCE.)",
+        "simple": "Chicago's Fed president votes on rates. If even a usually moderate official is open to a larger hike, inflation is worrying the Fed more than markets assume.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-federal-reserve-austan-goolsbee-inflation-20261119/"
+      },
+      {
+        "title": "Allstate reportedly plans cuts of up to 10% of staff",
+        "body": "The Northbrook insurer is restructuring around AI and used AI to write 12M+ lines of code in Q3 (3.6x Q1). Allstate hasn't commented and the figure is unconfirmed.",
+        "simple": "One of the Chicago area's biggest employers is reportedly cutting jobs as AI takes over some work. That's an early look at how AI could reshape white-collar employment locally.",
+        "source": "Repairer Driven News (citing P&C Specialist)",
+        "url": "https://www.repairerdrivennews.com/?p=275953"
+      },
+      {
+        "title": "Illinois among states seeking delay of Medicaid work rules",
+        "body": "States want the federal government to push back the Jan. 1 start for work verification on new and renewing enrollees.",
+        "simple": "The new federal rules require some Medicaid recipients to prove they work. States say they aren't ready, which affects hospital finances and Illinois' budget.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/health-care/ccb-medicaid-work-requirements-20261124/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Huang apologizes; DOJ calls Nvidia a 'good corporate citizen'",
+        "body": "The NYT business pages led with Huang's apology to staff over code-of-conduct violations, while AG Todd Blanche publicly backed Nvidia.",
+        "simple": "The Justice Department signaling it isn't targeting Nvidia lowers one legal risk for the company, even as the CEO controversy continues.",
+        "source": "NYT via rallies.ai digest",
+        "url": "https://rallies.ai/news/new-york-times-business-news-highlights-nvidia-openai-and-newspaper-purchase-bd0ea5b82d5f1ec2"
+      },
+      {
+        "title": "Ex-OpenAI engineer freed on $1M bond",
+        "body": "A judge released the former engineer, who is accused of secretly recording confidential meetings.",
+        "simple": "The case is about protecting trade secrets at AI labs, which are now among the most valuable private and public companies.",
+        "source": "NYT via rallies.ai digest",
+        "url": "https://rallies.ai/news/new-york-times-business-news-highlights-nvidia-openai-and-newspaper-purchase-bd0ea5b82d5f1ec2"
+      },
+      {
+        "title": "Fed officials saw more hikes likely needed",
+        "body": "Minutes covered last week showed broad agreement that further increases would probably be needed, even though rates were held in October.",
+        "simple": "The Fed is in a hiking cycle to fight inflation. The minutes show most officials expect to keep going, which is why markets price December as a near-certainty.",
+        "source": "NYT via rallies.ai digest (Nov 19)",
+        "url": "https://rallies.ai/news/press-digest-new-york-times-business-news-november-19-85b3c7c21621e3bd"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Tariffs + a hiking Fed = a stagflation curve",
+      "point": "Section 301 headlines pushed the 2Y down ≈4bp to ≈4.63% even with a December hike ≈fully priced. The market is fading the depth of the cycle (January/March), not December. The trade to discuss is whether 2s10s (≈24bp) steepens on growth fear or flattens if PCE core prints 3.3%. For a rates desk, the next move in the curve depends more on PCE than on the tariff headline."
+    },
+    {
+      "topic": "Volatility is CME's best product",
+      "point": "CME's record 71.46M-contract day (Treasury futures 41.38M, ≈10% above the prior record) came during an equity drawdown and a Fed hiking cycle. Exchange revenue is effectively long volatility, which is a good angle for a CME Fellow. It also shows why clients are hedging with futures rather than cash bonds when dealer balance sheets are tight."
+    },
+    {
+      "topic": "Copper's paper-vs-physical split",
+      "point": "LME copper is ≈$11,700/t, an 11-month low and ≈20% off the highs, yet China's import premium is a record $360/t. That points to CTA/fund liquidation tied to the AI unwind rather than an end-demand collapse. For a metals desk, a widening physical premium against a falling futures price is a classic setup for spreads and a sign of a possible bottom."
+    }
+  ],
+  "caveats": "WSJ, NYT and Tribune are paywalled; their items come from press digests (Boursorama/MarketScreener, rallies.ai) and Crain's or other outlets' coverage, and some Tribune/NYT items are from last week. Index levels are Tuesday closes. Futures, Treasury yields and metals are pre-market snapshots that differ by source, and Tuesday's Treasury closing prints conflict. Oil and DXY lack confirmed fresh prints. SOFR-implied rates are our arithmetic from a Nov 20 CME quote. Allstate's job-cut figure is unconfirmed. Deere's consensus wasn't found.",
+  "updates": []
+}
