@@ -11,105 +11,105 @@
     "Metals are getting hit by a hawkish Fed and a firm dollar (DXY ≈104.5, near a 19-month high). Spot gold fell ≈2% Tuesday and is ≈$3,511 this morning, having failed again at $3,700. Silver is ≈$39.72 (−$2.84 vs this time Tuesday) after COMEX −5.7%. LME copper is $11,703/t (−1.0%), its lowest since Dec 18, 2025, even as China's import premium hit a record $360/t.",
     "Earnings beats aren't being rewarded. Dell beat (adj. EPS $9.45 vs $6.59, revenue $54.94B vs $49.32B, plus a $25B buyback) and still fell ≈7.5% pre-market. Workday is ≈−10% on soft subscription guidance and Autodesk ≈−4%. On the deal side, Sanofi–Insmed ($41B cash) is the week's headline M&A, and the KBW bank index has formed a 'death cross'."
   ],
-  "markets_asof": "≈8:45 AM CT (index levels at the open; yields ≈7:50 AM)",
+  "markets_asof": "≈12:00 PM CT (index levels approximate; yields late morning)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,060",
-      "change": "≈−1.95%",
+      "value": "≈7,120",
+      "change": "≈−1.1%",
       "dir": "down",
-      "note": "At open; vs 7,201.09 Tue close"
+      "note": "Later midday snapshot; low ≈7,015 (−2.6%)"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "≈22,950",
-      "change": "≈−3.3%",
+      "value": "—",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "At open; NDX fut −3.06% pre-bell"
+      "note": "Was −3.8% (22,832) near 11 AM CT"
     },
     {
       "label": "Dow",
-      "value": "49,469.86",
-      "change": "−1.10%",
+      "value": "≈49,970",
+      "change": "≈−0.1%",
       "dir": "down",
-      "note": "At open; back below 50k"
+      "note": "Was −1.35% (49,346) late morning"
     },
     {
       "label": "NVDA",
       "value": "—",
-      "change": "≈−6%",
+      "change": "≈−7%",
       "dir": "down",
-      "note": "Pre-mkt; Micron −8%"
+      "note": "Was −8% at worst"
     },
     {
-      "label": "Dell",
-      "value": "—",
-      "change": "≈−7.5%",
-      "dir": "down",
-      "note": "Pre-mkt, morning read"
+      "label": "7Y auction",
+      "value": "4.708%",
+      "change": "+1.0bp tail",
+      "dir": "up",
+      "note": "BTC 2.43; indirects 58.2%"
     },
     {
       "label": "UST 2Y",
-      "value": "≈4.61–4.63%",
+      "value": "≈4.62%",
       "change": "≈−4bp",
       "dir": "down",
-      "note": "Intraday reads vary"
+      "note": "Pre-PCE read; no reliable midday print"
     },
     {
       "label": "UST 10Y",
-      "value": "≈4.84%",
-      "change": "≈−6bp",
+      "value": "≈4.82–4.84%",
+      "change": "≈−7 to −10bp",
       "dir": "down",
-      "note": "≈7:50 AM CT, post-PCE"
+      "note": "Near 2.5-month low"
     },
     {
       "label": "UST 30Y",
       "value": "—",
       "change": "—",
       "dir": "down",
-      "note": "No reliable post-PCE read"
+      "note": "No reliable read"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈97%",
       "dir": "up",
-      "note": "Jan follow-up ≈63% (FedWatch)"
+      "note": "FOMC Dec 8–9"
     },
     {
       "label": "Core PCE y/y",
       "value": "3.3%",
       "change": "+0.2pp",
       "dir": "up",
-      "note": "vs 3.2% est.; m/m 0.3% in line"
+      "note": "vs 3.2% est."
     },
     {
-      "label": "Gold (COMEX)",
-      "value": "<$3,500",
-      "change": "≈−2.4%",
+      "label": "Gold (spot)",
+      "value": "≈$3,476–3,499",
+      "change": "≈−2.2%",
       "dir": "down",
-      "note": "Near 14–15-month low"
+      "note": "Broke $3,500"
     },
     {
       "label": "Silver",
-      "value": "≈$38.7–39.4",
+      "value": "≈$39.0–39.6",
       "change": "≈−4%",
       "dir": "down",
       "note": "Sources conflict on level"
     },
     {
       "label": "COMEX copper",
-      "value": "≈$5.32–5.35/lb",
-      "change": "≈−0.4 to −1.5%",
-      "dir": "down",
-      "note": "Sources conflict"
+      "value": "—",
+      "change": "—",
+      "dir": "flat",
+      "note": "No reliable midday read"
     },
     {
       "label": "Brent",
-      "value": "≈$83–91",
+      "value": "—",
       "change": "—",
       "dir": "flat",
-      "note": "Sources conflict; treat as unreliable"
+      "note": "No reliable midday read"
     }
   ],
   "calendar": [
@@ -403,6 +403,53 @@
   "caveats": "WSJ, NYT and Tribune are paywalled; their items come from press digests (Boursorama/MarketScreener, rallies.ai) and Crain's or other outlets' coverage, and some Tribune/NYT items are from last week. Index levels are Tuesday closes. Futures, Treasury yields and metals are pre-market snapshots that differ by source, and Tuesday's Treasury closing prints conflict. Oil and DXY lack confirmed fresh prints. SOFR-implied rates are our arithmetic from a Nov 20 CME quote. Allstate's job-cut figure is unconfirmed. Deere's consensus wasn't found.",
   "updates": [
     {
+      "at": "2026-11-25T18:17:04Z",
+      "label": "Midday",
+      "headline": "Stocks pared about half the opening rout and Treasuries held a ≈7–10bp rally, but the 7Y auction tailed and USTR made its tariffs official as a proposal (14 of 16 economies, final no earlier than Jan 25). The growth-scare bid in bonds is intact, but dip-buyers are not paying up for duration.",
+      "points": [
+        "$44B 7Y: high yield 4.708% vs 4.698% WI, a 1.0bp tail. Bid-to-cover 2.43 (prior 2.465, ≈2.48 avg). Indirects 58.2%, directs 33.2%, dealers 8.6%. The yield is ≈19bp below October's 4.894% stop. Takeaway: buyers took the supply after the rally but wouldn't chase it.",
+        "10Y ≈4.82–4.84% (≈−7 to −10bp, near a 2.5-month low; CNN, Kalkine). No reliable midday 2Y or 30Y print, so treat the 2Y tile as the pre-PCE level. Dec 9 hike still ≈97% priced.",
+        "Midday snapshots ranged from S&P −2.6% (7,015) and Nasdaq −3.8% near 11 AM CT to a later S&P ≈−1.1%, Nasdaq ≈−2%, Dow ≈−0.1%. NVDA ≈−7% after trading down 8%. Selling is concentrated in chips.",
+        "Tariffs: USTR found excess-capacity policies at 14 of the 16 economies it probed (Mexico and Norway spared for now). Proposed rates are up to 20% on many Chinese goods and 15% for EU/Japan/Korea, adjusted for existing duties. Hearings are in January, with no effective date. The morning calendar's '16 economies' should read 14 targeted.",
+        "Metals are still offered: spot gold ≈$3,476–3,499 (≈−2.2%, through $3,500), silver ≈$39.0–39.6 (≈−4%). Beige Book at 1 PM CT is next. Then markets close Thursday and close early Friday."
+      ],
+      "simple": "A Treasury auction is the government selling new bonds. A 'tail' means it had to pay a slightly higher yield (interest rate) than the market expected to attract enough buyers, a mild sign of weak demand. Investors are still buying bonds as a safe place to park money while AI stocks fall. They just aren't eager enough to accept much lower rates. The tariffs are only a proposal for now, so the price hit to consumers wouldn't arrive before late January at the earliest.",
+      "sources": [
+        {
+          "name": "Bloomingbit (7Y auction)",
+          "url": "https://en.bloomingbit.io/feed/news/125234"
+        },
+        {
+          "name": "Helious (7Y auction)",
+          "url": "https://helious.io/news/auc-91282CSA0-2026-11-25/7-year-note-auction-in-line"
+        },
+        {
+          "name": "Kalkine (10Y)",
+          "url": "https://kalkine.com/news/general-news/us-10-year-treasury-yield-falls-nearly-10-basis-points-to-484-nearing-a-25-month-low-as-ai-selloff-and-tariffs-drive-haven-demand"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return"
+        },
+        {
+          "name": "Motley Fool (midday)",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-midday-nov-25-nasdaq-plunges-4-as-ai-sell-off-deepens-and-inflation-remains-stubborn/"
+        },
+        {
+          "name": "The Library (midday)",
+          "url": "https://thelibraryestate.com/united-states-markets-midday-update-indexes-pare-steep-early-losses-as-selling-stays-concentrated-in-chips-nov-25-2026/"
+        },
+        {
+          "name": "Euronews (tariffs)",
+          "url": "https://www.euronews.com/2026/11/25/us-proposes-new-tariffs-on-14-major-trading-partners-the-eu-included"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-25-2026/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-25T15:17:25Z",
       "label": "Post-open",
       "headline": "PCE confirmed the morning's hawkish risk (core 3.3% y/y vs 3.2% est.) and Q3 GDP was revised up to 4.3%, yet stocks gapped lower on tariffs and AI while Treasuries kept rallying, which leaves this as a growth-scare tape, not an inflation tape.",
@@ -446,5 +493,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T15:17:25Z"
+  "updatedAt": "2026-11-25T18:17:04Z"
 }
