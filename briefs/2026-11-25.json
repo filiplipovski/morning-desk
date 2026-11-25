@@ -11,105 +11,110 @@
     "Metals are getting hit by a hawkish Fed and a firm dollar (DXY ≈104.5, near a 19-month high). Spot gold fell ≈2% Tuesday and is ≈$3,511 this morning, having failed again at $3,700. Silver is ≈$39.72 (−$2.84 vs this time Tuesday) after COMEX −5.7%. LME copper is $11,703/t (−1.0%), its lowest since Dec 18, 2025, even as China's import premium hit a record $360/t.",
     "Earnings beats aren't being rewarded. Dell beat (adj. EPS $9.45 vs $6.59, revenue $54.94B vs $49.32B, plus a $25B buyback) and still fell ≈7.5% pre-market. Workday is ≈−10% on soft subscription guidance and Autodesk ≈−4%. On the deal side, Sanofi–Insmed ($41B cash) is the week's headline M&A, and the KBW bank index has formed a 'death cross'."
   ],
-  "markets_asof": "≈12:00 PM CT (index levels approximate; yields late morning)",
+  "markets_asof": "3:30 PM CT (Wed close; metals intraday, sources conflict)",
   "markets": [
     {
       "label": "S&P 500",
-      "value": "≈7,120",
-      "change": "≈−1.1%",
+      "value": "7,182.78",
+      "change": "−0.25%",
       "dir": "down",
-      "note": "Later midday snapshot; low ≈7,015 (−2.6%)"
+      "note": "Low was −3.2% intraday"
     },
     {
       "label": "Nasdaq Comp",
-      "value": "—",
-      "change": "≈−2%",
+      "value": "23,585.80",
+      "change": "−0.62%",
       "dir": "down",
-      "note": "Was −3.8% (22,832) near 11 AM CT"
+      "note": "Low was −4.6%"
     },
     {
       "label": "Dow",
-      "value": "≈49,970",
-      "change": "≈−0.1%",
-      "dir": "down",
-      "note": "Was −1.35% (49,346) late morning"
+      "value": "50,182.95",
+      "change": "+0.33%",
+      "dir": "up",
+      "note": "Recovered a ≈2% intraday drop"
     },
     {
       "label": "NVDA",
       "value": "—",
-      "change": "≈−7%",
+      "change": "≈−4%",
       "dir": "down",
       "note": "Was −8% at worst"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.637%",
+      "change": "−4.6bp",
+      "dir": "down",
+      "note": "NY close (Longbridge)"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.846%",
+      "change": "≈−6 to −8bp",
+      "dir": "down",
+      "note": "Other prints 4.82–4.86%"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.240%",
+      "change": "−8.1bp",
+      "dir": "down"
+    },
+    {
+      "label": "2s10s",
+      "value": "+21.1bp",
+      "change": "−3.0bp",
+      "dir": "down",
+      "note": "Bull flattener"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈98%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9"
     },
     {
       "label": "7Y auction",
       "value": "4.708%",
       "change": "+1.0bp tail",
       "dir": "up",
-      "note": "BTC 2.43; indirects 58.2%"
+      "note": "BTC 2.43"
     },
     {
-      "label": "UST 2Y",
-      "value": "≈4.62%",
-      "change": "≈−4bp",
+      "label": "Gold (COMEX)",
+      "value": "≈$3,477–3,537",
+      "change": "≈−2%",
       "dir": "down",
-      "note": "Pre-PCE read; no reliable midday print"
-    },
-    {
-      "label": "UST 10Y",
-      "value": "≈4.82–4.84%",
-      "change": "≈−7 to −10bp",
-      "dir": "down",
-      "note": "Near 2.5-month low"
-    },
-    {
-      "label": "UST 30Y",
-      "value": "—",
-      "change": "—",
-      "dir": "down",
-      "note": "No reliable read"
-    },
-    {
-      "label": "Fed funds",
-      "value": "3.75–4.00%",
-      "change": "Dec hike ≈97%",
-      "dir": "up",
-      "note": "FOMC Dec 8–9"
-    },
-    {
-      "label": "Core PCE y/y",
-      "value": "3.3%",
-      "change": "+0.2pp",
-      "dir": "up",
-      "note": "vs 3.2% est."
-    },
-    {
-      "label": "Gold (spot)",
-      "value": "≈$3,476–3,499",
-      "change": "≈−2.2%",
-      "dir": "down",
-      "note": "Broke $3,500"
+      "note": "No settle found; sources conflict"
     },
     {
       "label": "Silver",
-      "value": "≈$39.0–39.6",
-      "change": "≈−4%",
+      "value": "≈$39.0–40.4",
+      "change": "≈−4 to −5%",
       "dir": "down",
-      "note": "Sources conflict on level"
+      "note": "No settle found"
     },
     {
       "label": "COMEX copper",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No reliable midday read"
+      "value": "≈$5.25/lb",
+      "change": "≈−2.1%",
+      "dir": "down",
+      "note": "Midday NY; 2026 low"
     },
     {
       "label": "Brent",
-      "value": "—",
-      "change": "—",
-      "dir": "flat",
-      "note": "No reliable midday read"
+      "value": "$94.61",
+      "change": "+3.5%",
+      "dir": "up",
+      "note": "Houthi refinery-attack claim"
+    },
+    {
+      "label": "WTI",
+      "value": "$83.68",
+      "change": "+2.0%",
+      "dir": "up"
     }
   ],
   "calendar": [
@@ -403,6 +408,53 @@
   "caveats": "WSJ, NYT and Tribune are paywalled; their items come from press digests (Boursorama/MarketScreener, rallies.ai) and Crain's or other outlets' coverage, and some Tribune/NYT items are from last week. Index levels are Tuesday closes. Futures, Treasury yields and metals are pre-market snapshots that differ by source, and Tuesday's Treasury closing prints conflict. Oil and DXY lack confirmed fresh prints. SOFR-implied rates are our arithmetic from a Nov 20 CME quote. Allstate's job-cut figure is unconfirmed. Deere's consensus wasn't found.",
   "updates": [
     {
+      "at": "2026-11-25T21:16:58Z",
+      "label": "Close",
+      "headline": "Stocks reversed the opening crash into the holiday: the Dow closed green and the S&P finished only −0.25% after trading −3.2%. Treasuries still ended with a bull flattening (30Y −8bp, 2s10s ≈+21bp), and oil jumped while metals stayed heavy. The growth scare eased in equities but not in bonds or metals.",
+      "points": [
+        "Close: Dow +0.33% to 50,182.95, S&P −0.25% to 7,182.78, Nasdaq −0.62% to 23,585.80. Intraday lows were S&P −3.2% and Nasdaq −4.6%, so the index recovered roughly 3pp. NVDA finished ≈−4% (low −8%). Business Upturn's closing levels differ slightly: S&P 7,183.40, Nasdaq 23,566.51.",
+        "Rates at the NY close (Longbridge): 2Y 4.637% (−4.6bp), 10Y 4.846%, 30Y 5.240% (−8.1bp). 2s10s narrowed 3bp to ≈+21bp. Long-end buying outran the front end even with core PCE at 3.3% and a tailed 7Y. Dec 9 hike ≈98% priced.",
+        "Beige Book: 8 of 12 districts grew slightly to moderately and 4 were flat, one fewer growing district than October. Wages picked up from 'modest' to 'moderate'. Prices rose moderately, with tariffs, energy, insurance and health care cited, and firms expect further increases. Consumers are selective and housing is weaker. It gives doves little to work with ahead of December.",
+        "Commodities: Brent +3.5% to $94.61 and WTI +2.0% to $83.68 after a Houthi claim of an attack on a Saudi refinery (CNBC). EIA crude stocks rose 1.1M bbl to 418.9M. Gold ≈−2% and silver ≈−4 to −5%, with no clean settlement found. COMEX copper ≈$5.25/lb (−2.1%, 2026 low) and copper miners fell up to 10%.",
+        "Correction to the morning: the 'thin holiday tape' worked in both directions, and dip-buyers erased most of the tariff/AI loss. Next: markets are closed Thursday. Friday is a 12 PM CT early close for stocks and an early close for bonds, into month-end rebalancing. No major data until the post-holiday week."
+      ],
+      "simple": "Stocks fell hard in the morning, then buyers stepped in and erased most of the loss by the close. Bonds still rallied, which pushed yields (the interest the government pays to borrow) down, especially on 30-year debt. That suggests big investors remain worried about longer-term growth even though stocks bounced. The Fed's Beige Book, a survey of businesses across its 12 regional banks, said prices and wages are still rising, so a December rate hike looks all but certain. That keeps borrowing costs high for mortgages, car loans and bank customers.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (close)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        },
+        {
+          "name": "Business Upturn",
+          "url": "https://businessupturn.com/usa/money/us-markets/us-stocks-mixed-at-close-as-nasdaq-falls-and-dow-inches-higher/"
+        },
+        {
+          "name": "Longbridge (yields)",
+          "url": "https://longbridge.com/en/news/306824440"
+        },
+        {
+          "name": "investingLive (Beige Book)",
+          "url": "https://investinglive.com/central-banks/beige-book-eight-of-12-districts-report-growth-as-wage-pressures-pick-up/"
+        },
+        {
+          "name": "The Private Banker (Beige Book)",
+          "url": "https://leprivatebanker.com/2026/11/25/feds-beige-book-shows-wages-rising-at-a-moderate-pace-up-from-modest-as-four-of-12-districts-report-no-growth/"
+        },
+        {
+          "name": "CNBC (oil)",
+          "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+        },
+        {
+          "name": "MINING.COM (copper)",
+          "url": "https://www.mining.com/copper-price-sinks-to-2026-low-as-mining-stocks-brace-for-further-losses/"
+        },
+        {
+          "name": "The Private Banker (metals)",
+          "url": "https://leprivatebanker.com/2026/11/25/silver-sinks-5-and-gold-falls-2-as-metals-rout-resumes-with-copper-miners-down-as-much-as-10/"
+        }
+      ]
+    },
+    {
       "at": "2026-11-25T18:17:04Z",
       "label": "Midday",
       "headline": "Stocks pared about half the opening rout and Treasuries held a ≈7–10bp rally, but the 7Y auction tailed and USTR made its tariffs official as a proposal (14 of 16 economies, final no earlier than Jan 25). The growth-scare bid in bonds is intact, but dip-buyers are not paying up for duration.",
@@ -493,5 +545,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T18:17:04Z"
+  "updatedAt": "2026-11-25T21:16:58Z"
 }
