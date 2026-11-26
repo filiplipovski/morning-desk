@@ -11,21 +11,21 @@
     "Commodities: Brent is ≈$95.3 (+0.7%) and WTI ≈$84.4 after the Houthis claimed a strike on Saudi Arabia's Ras Tanura and reports of tankers hitting mines in Hormuz. Brent is still ≈25% lower month-to-date, and OPEC+ meets Nov 29. Spot gold is bouncing, at ≈$3,550–3,580 after trading below $3,500 Wednesday (lowest since Aug 2025), and silver is ≈$41.7. CME's margin increase (gold 5→6%, silver 8→9%) is a headwind for leveraged longs. LME copper briefly retook $12,000 overnight on the tariff relief.",
     "Today's schedule: no US cash trading and no CME settlements. CME equity and rates futures halt at 12:00 PM CT, and metals and energy at 1:30 PM CT. Friday is a half-day (NYSE 12:00 PM CT close, early bond close) into month-end. Next week brings ISM (Tue/Thu), JOLTS and November payrolls (Fri Dec 4, prior 165K), the last major data before the FOMC."
   ],
-  "markets_asof": "9:15 AM CT Thu (Thanksgiving): US stocks and Treasuries at Wed close; futures, Europe and commodities live",
+  "markets_asof": "12:15 PM CT Thu (Thanksgiving): US cash at Wed close; Europe late-session; futures/commodities live",
   "markets": [
     {
       "label": "S&P 500",
       "value": "7,182.78",
       "change": "−0.25%",
       "dir": "down",
-      "note": "Wed close; futures ≈+0.7% Thu (Globex)"
+      "note": "Wed close; futures ≈+0.5–0.7% (≈7,247) into 12 PM CT halt"
     },
     {
       "label": "Nasdaq Comp",
       "value": "23,585.80",
       "change": "−0.62%",
       "dir": "down",
-      "note": "Wed close; NDX briefly ≈−20% from Oct high"
+      "note": "Wed close; cash closed Thu"
     },
     {
       "label": "Dow",
@@ -36,80 +36,80 @@
     },
     {
       "label": "STOXX 600",
-      "value": "≈634.9",
-      "change": "+1.4%",
+      "value": "—",
+      "change": "≈+2.0%",
       "dir": "up",
-      "note": "Thu; DAX/CAC +1.7%, FTSE +1.4%"
+      "note": "Late session; DAX ≈+2.1–2.3%, FTSE ≈+1.6%"
     },
     {
       "label": "UST 2Y",
       "value": "4.637%",
       "change": "−4.6bp",
       "dir": "down",
-      "note": "Wed NY close; cash closed Thu"
+      "note": "Wed close; cash closed Thu"
     },
     {
       "label": "UST 10Y",
       "value": "4.846%",
-      "change": "≈−6 to −8bp",
-      "dir": "down",
-      "note": "Wed NY close"
+      "change": "futures ≈+2bp",
+      "dir": "up",
+      "note": "Wed close; Thu futures imply small bear steepening"
     },
     {
       "label": "UST 30Y",
       "value": "5.240%",
       "change": "−8.1bp",
       "dir": "down",
-      "note": "Wed NY close"
+      "note": "Wed close"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
-      "change": "Dec hike ≈98%",
+      "change": "Dec hike ≈97–98%",
       "dir": "up",
-      "note": "FOMC Dec 8–9; Jan odds 41–56%"
+      "note": "FOMC Dec 8–9"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,571–3,594",
-      "change": "Mixed quotes",
-      "dir": "flat",
-      "note": "Spot −0.3% vs futures +1.7%; above <$3,500 low"
+      "value": "≈$3,570–3,579",
+      "change": "≈−0.5%",
+      "dir": "down",
+      "note": "Futures ≈$3,600 (+1.8%); quotes differ"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$41.7",
-      "change": "+1.4%",
+      "value": "≈$42.3",
+      "change": "+1.1%",
       "dir": "up",
-      "note": "≈−41% YTD (FXStreet)"
+      "note": "Gold/silver ratio ≈85"
     },
     {
       "label": "LME copper 3M",
-      "value": "≈$11,958/t",
-      "change": "+2.65%",
+      "value": "≈$12,000/t",
+      "change": "up to +3.4%",
       "dir": "up",
-      "note": "0335 GMT; briefly >$12,000"
+      "note": "Session high $12,047"
     },
     {
       "label": "Brent",
-      "value": "≈$90–95",
-      "change": "Up",
-      "dir": "up",
-      "note": "Quotes vary by contract month; Gulf risk"
+      "value": "≈$91.6–93.8",
+      "change": "−0.9% to −3.2%",
+      "dir": "down",
+      "note": "Reversed the morning gain; OPEC+ Sun"
     },
     {
       "label": "WTI",
-      "value": "≈$84.6",
-      "change": "+1.1%",
-      "dir": "up",
-      "note": "Thu morning"
+      "value": "≈$83.3",
+      "change": "Down",
+      "dir": "down",
+      "note": "No settlement Thu"
     },
     {
-      "label": "Dollar index",
-      "value": "≈104",
-      "change": "Range-bound",
+      "label": "USD/JPY",
+      "value": "≈159.3",
+      "change": "Flat",
       "dir": "flat",
-      "note": "Seen 103.50–104.50; no fresh print"
+      "note": "Close to 160, where Japan has intervened before"
     }
   ],
   "calendar": [
@@ -396,6 +396,45 @@
   "caveats": "US cash markets are closed today, so stock and Treasury levels are Wednesday's NY close. Globex futures prints for Thursday weren't confirmed by two sources and are left out. Gold, silver and copper are intraday Asia/Europe snapshots that differ by source, there's no fresh DXY print, and the Brent/WTI quote is from 9:13 AM UAE time. January Fed hike odds conflict (≈41% vs ≈56%). WSJ and NYT items come via secondary outlets (TMGM, AND Magazine, Yahoo, Just Security, 15 Minute News), and the Tribune bucket uses Crain's, the Sun-Times and wire coverage of Chicago/Illinois companies. CNBC's global-rally item is a section headline. WebFetch was blocked in this run, so details come from search snippets.",
   "updates": [
     {
+      "at": "2026-11-26T18:17:03Z",
+      "label": "Midday",
+      "headline": "Europe ended its session up ≈2% on the tariff relief, but oil has turned lower and Treasury futures are leaning bear-steeper. That cuts against the morning's 'oil up, bonds bid' setup heading into Friday's half-day.",
+      "points": [
+        "Europe's late session was strong. STOXX 600 ≈+2.0%, DAX ≈+2.1–2.3% (≈25,270), FTSE 100 ≈+1.6% (≈10,592), IBEX +2.6% and FTSE MIB +2.7%, with banks and tech leading. That beats the +1.4% in the morning tiles. S&P futures held at ≈+0.5–0.7% (≈7,247) before CME's 12:00 PM CT halt.",
+        "The morning brief had oil up; it has since reversed. Brent ≈$93.8 (−0.9%) in one report and ≈$91.6 (−3.2%) in another, with WTI ≈$83.3 (it was ≈$84.6 at the post-open). The market cares more about a supply glut ahead of Sunday's OPEC+ meeting than about Iran's claim that two tankers hit mines in Hormuz. PVM puts the new Brent range at $88–97. There is no WTI settlement today.",
+        "Rates: Treasury futures imply the 10Y is about +2bp from Wednesday's 4.846%, a small bear steepener that undoes part of Wednesday's rally. The ECB account showed a large group was ready to hike in October and the only open question was timing. That locks in a Dec 17 +25bp to 2.75% and keeps global long-end yields supported. Fed Dec-hike odds are unchanged at ≈97–98%.",
+        "Metals: the gold quotes still disagree. Spot ≈$3,570–3,579 (−0.5%) vs futures ≈$3,600 (+1.8%), so treat the futures-spot gap with caution. Silver ≈$42.3 (+1.1%), with the gold/silver ratio ≈85. LME copper hit $12,047 (+3.4%) at its peak, though UBS calls it a technical holiday bounce, not a trend change.",
+        "There has been no new bank, deal or Fed-speaker news since the morning. Dollar flat; USD/JPY ≈159.3, close to the 160 level where Japan has intervened before."
+      ],
+      "simple": "European stocks rallied hard because investors decided the new US tariffs (taxes on imports) are milder than feared. Oil, meanwhile, fell: traders worry there is more crude than buyers, and that outweighs the danger to Persian Gulf shipping. Bond futures point to slightly higher US interest rates. Europe's central bank also signaled it is likely to raise rates in December, which helps keep borrowing costs high worldwide, including on mortgages and the loans banks make.",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/ecb-already-had-large-support-for-rate-hike-in-oct-accounts-show-5052492"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-214-5052639"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/article-oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine/"
+        },
+        {
+          "name": "USAGold",
+          "url": "https://www.usagold.com/daily-precious-metals-market-report-november-26-2026/"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html"
+        },
+        {
+          "name": "ZeroHedge",
+          "url": "https://www.zerohedge.com/markets/futures-extend-thanksgiving-turnaround-nasdaq-dodges-bear-market-oil-climbs-houthi-strikes"
+        }
+      ]
+    },
+    {
       "at": "2026-11-26T15:17:34Z",
       "label": "Post-open",
       "headline": "No US open today. The holiday tape abroad has extended the relief rally: S&P futures are ≈+0.7%, the DAX and CAC ≈+1.7% and WTI ≈+1%, but there is no new data and cash Treasuries are still shut, so the morning thesis stands untested.",
@@ -423,5 +462,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T15:17:34Z"
+  "updatedAt": "2026-11-26T18:17:03Z"
 }
