@@ -11,14 +11,14 @@
     "Commodities: Brent is ≈$95.3 (+0.7%) and WTI ≈$84.4 after the Houthis claimed a strike on Saudi Arabia's Ras Tanura and reports of tankers hitting mines in Hormuz. Brent is still ≈25% lower month-to-date, and OPEC+ meets Nov 29. Spot gold is bouncing, at ≈$3,550–3,580 after trading below $3,500 Wednesday (lowest since Aug 2025), and silver is ≈$41.7. CME's margin increase (gold 5→6%, silver 8→9%) is a headwind for leveraged longs. LME copper briefly retook $12,000 overnight on the tariff relief.",
     "Today's schedule: no US cash trading and no CME settlements. CME equity and rates futures halt at 12:00 PM CT, and metals and energy at 1:30 PM CT. Friday is a half-day (NYSE 12:00 PM CT close, early bond close) into month-end. Next week brings ISM (Tue/Thu), JOLTS and November payrolls (Fri Dec 4, prior 165K), the last major data before the FOMC."
   ],
-  "markets_asof": "Wed close for US stocks and Treasuries (NY close); oil, metals and Europe as of Thu morning, holiday trade",
+  "markets_asof": "9:15 AM CT Thu (Thanksgiving): US stocks and Treasuries at Wed close; futures, Europe and commodities live",
   "markets": [
     {
       "label": "S&P 500",
       "value": "7,182.78",
       "change": "−0.25%",
       "dir": "down",
-      "note": "Wed close; low −3.2% intraday"
+      "note": "Wed close; futures ≈+0.7% Thu (Globex)"
     },
     {
       "label": "Nasdaq Comp",
@@ -39,7 +39,7 @@
       "value": "≈634.9",
       "change": "+1.4%",
       "dir": "up",
-      "note": "Thu morning; banks, tech lead"
+      "note": "Thu; DAX/CAC +1.7%, FTSE +1.4%"
     },
     {
       "label": "UST 2Y",
@@ -71,10 +71,10 @@
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,550–3,580",
-      "change": "Rebound from <$3,500",
-      "dir": "up",
-      "note": "Lowest since Aug 2025 on Wed"
+      "value": "≈$3,571–3,594",
+      "change": "Mixed quotes",
+      "dir": "flat",
+      "note": "Spot −0.3% vs futures +1.7%; above <$3,500 low"
     },
     {
       "label": "Silver (spot)",
@@ -92,16 +92,17 @@
     },
     {
       "label": "Brent",
-      "value": "$95.31",
-      "change": "+0.7%",
+      "value": "≈$90–95",
+      "change": "Up",
       "dir": "up",
-      "note": "Ras Tanura strike claim"
+      "note": "Quotes vary by contract month; Gulf risk"
     },
     {
       "label": "WTI",
-      "value": "$84.37",
-      "change": "+0.8%",
-      "dir": "up"
+      "value": "≈$84.6",
+      "change": "+1.1%",
+      "dir": "up",
+      "note": "Thu morning"
     },
     {
       "label": "Dollar index",
@@ -393,5 +394,34 @@
     }
   ],
   "caveats": "US cash markets are closed today, so stock and Treasury levels are Wednesday's NY close. Globex futures prints for Thursday weren't confirmed by two sources and are left out. Gold, silver and copper are intraday Asia/Europe snapshots that differ by source, there's no fresh DXY print, and the Brent/WTI quote is from 9:13 AM UAE time. January Fed hike odds conflict (≈41% vs ≈56%). WSJ and NYT items come via secondary outlets (TMGM, AND Magazine, Yahoo, Just Security, 15 Minute News), and the Tribune bucket uses Crain's, the Sun-Times and wire coverage of Chicago/Illinois companies. CNBC's global-rally item is a section headline. WebFetch was blocked in this run, so details come from search snippets.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-26T15:17:34Z",
+      "label": "Post-open",
+      "headline": "No US open today. The holiday tape abroad has extended the relief rally: S&P futures are ≈+0.7%, the DAX and CAC ≈+1.7% and WTI ≈+1%, but there is no new data and cash Treasuries are still shut, so the morning thesis stands untested.",
+      "points": [
+        "Equities: S&P 500 futures ≈+0.7% in thin Globex trade (Globe and Mail). Europe is extending the morning move: DAX +1.7%, CAC 40 +1.7% and FTSE 100 +1.4% (Investing.com). Treat the futures gain as a weak signal for Friday's half-day open.",
+        "Rates: no cash Treasury market and no US data. Wednesday's levels (2Y 4.637%, 10Y 4.846%, 30Y 5.240%) remain the reference. ZN/ZB futures halt at 12:00 PM CT with no settlement, and Dec-hike odds are unchanged at ≈97–98%.",
+        "Oil: WTI ≈$84.6 (+1.1%) on the Gulf risk premium. Reported Brent quotes range from ≈$90–91 to the ≈$95 in the morning tiles. That gap is most likely a contract-month difference, not a $4 move, so treat the Brent tile as approximate.",
+        "Gold: sources disagree. One quote has spot at ≈$3,571 (−0.3%), another has futures ≈$3,594 (+1.7%). Either way it is holding above Wednesday's sub-$3,500 low, but there is no confirmed new high. The metals halt is at 1:30 PM CT.",
+        "Nothing new has broken on banks, deals or Fed speakers since the morning brief. The next real catalysts are Friday's month-end half-day and the OPEC+ meeting on Sunday."
+      ],
+      "simple": "Futures are contracts that let traders bet on where a market will be later, and they keep trading on holidays when the stock exchanges are closed. Today they point to a modestly higher Friday open, and European stocks are up too, because investors think the new US tariffs are milder than feared. Holiday trading is thin, though: few buyers and sellers means small trades move prices a lot, so today's moves can easily reverse once the full US market returns.",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5005394"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/indices/IQY/pressreleases/9014157/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://newsweek.com/stock-market-thanksgiving-2026-12761725"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-26T15:17:34Z"
 }
