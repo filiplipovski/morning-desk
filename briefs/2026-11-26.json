@@ -11,14 +11,14 @@
     "Commodities: Brent is ≈$95.3 (+0.7%) and WTI ≈$84.4 after the Houthis claimed a strike on Saudi Arabia's Ras Tanura and reports of tankers hitting mines in Hormuz. Brent is still ≈25% lower month-to-date, and OPEC+ meets Nov 29. Spot gold is bouncing, at ≈$3,550–3,580 after trading below $3,500 Wednesday (lowest since Aug 2025), and silver is ≈$41.7. CME's margin increase (gold 5→6%, silver 8→9%) is a headwind for leveraged longs. LME copper briefly retook $12,000 overnight on the tariff relief.",
     "Today's schedule: no US cash trading and no CME settlements. CME equity and rates futures halt at 12:00 PM CT, and metals and energy at 1:30 PM CT. Friday is a half-day (NYSE 12:00 PM CT close, early bond close) into month-end. Next week brings ISM (Tue/Thu), JOLTS and November payrolls (Fri Dec 4, prior 165K), the last major data before the FOMC."
   ],
-  "markets_asof": "12:15 PM CT Thu (Thanksgiving): US cash at Wed close; Europe late-session; futures/commodities live",
+  "markets_asof": "3:15 PM CT Thu (Thanksgiving): US cash at Wed close; Europe closed; CME futures halted until 5 PM CT",
   "markets": [
     {
       "label": "S&P 500",
       "value": "7,182.78",
       "change": "−0.25%",
       "dir": "down",
-      "note": "Wed close; futures ≈+0.5–0.7% (≈7,247) into 12 PM CT halt"
+      "note": "Wed close; futures ≈+0.5–0.7% (≈7,247) at 12 PM CT halt; Globex reopens 5 PM CT"
     },
     {
       "label": "Nasdaq Comp",
@@ -39,7 +39,7 @@
       "value": "—",
       "change": "≈+2.0%",
       "dir": "up",
-      "note": "Late session; DAX ≈+2.1–2.3%, FTSE ≈+1.6%"
+      "note": "Closed ≈+2%; DAX ≈+2.1–2.3%, FTSE ≈+1.6% (final prints unconfirmed)"
     },
     {
       "label": "UST 2Y",
@@ -71,17 +71,17 @@
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,570–3,579",
-      "change": "≈−0.5%",
-      "dir": "down",
-      "note": "Futures ≈$3,600 (+1.8%); quotes differ"
+      "value": "≈$3,564–3,598",
+      "change": "Mixed; short-covering",
+      "dir": "flat",
+      "note": "Tested $3,600 resistance; COMEX halted 1:30 PM CT, no settle"
     },
     {
       "label": "Silver (spot)",
       "value": "≈$42.3",
       "change": "+1.1%",
       "dir": "up",
-      "note": "Gold/silver ratio ≈85"
+      "note": "Gold/silver ratio ≈85; metals halt 1:30 PM CT"
     },
     {
       "label": "LME copper 3M",
@@ -95,7 +95,7 @@
       "value": "≈$91.6–93.8",
       "change": "−0.9% to −3.2%",
       "dir": "down",
-      "note": "Reversed the morning gain; OPEC+ Sun"
+      "note": "Range ≈$88–97 (PVM); OPEC+ Sun; no WTI settle Thu"
     },
     {
       "label": "WTI",
@@ -396,6 +396,37 @@
   "caveats": "US cash markets are closed today, so stock and Treasury levels are Wednesday's NY close. Globex futures prints for Thursday weren't confirmed by two sources and are left out. Gold, silver and copper are intraday Asia/Europe snapshots that differ by source, there's no fresh DXY print, and the Brent/WTI quote is from 9:13 AM UAE time. January Fed hike odds conflict (≈41% vs ≈56%). WSJ and NYT items come via secondary outlets (TMGM, AND Magazine, Yahoo, Just Security, 15 Minute News), and the Tribune bucket uses Crain's, the Sun-Times and wire coverage of Chicago/Illinois companies. CNBC's global-rally item is a section headline. WebFetch was blocked in this run, so details come from search snippets.",
   "updates": [
     {
+      "at": "2026-11-26T21:20:00Z",
+      "label": "Close",
+      "headline": "Thanksgiving ended with no US price discovery past noon. Europe closed ≈+2% and gold's bounce toward $3,600 was short-covering, not new buying, so the hike-into-slowdown thesis heads into Friday's half-day untested.",
+      "points": [
+        "Gold: spot traded ≈$3,564–3,598 before COMEX's 1:30 PM CT halt. It tested $3,600 resistance (falling trendline plus moving average ≈$3,601–3,605) but didn't clear it. Tastylive's Ilya Spivak (via Reuters) put the move down to shorts closing before the long weekend while other holders kept selling to raise cash, and TD Securities says it is too early to call a bottom. There is no settlement today.",
+        "Europe closed near its highs, with STOXX 600 ≈+2%, DAX ≈+2.1–2.3% and FTSE ≈+1.6%. I couldn't confirm final closing prints, so the tiles carry the late-session levels.",
+        "Rates: there has been no cash Treasury trade since Wednesday (2Y 4.637%, 10Y 4.846%, 30Y 5.240%). The last futures before the noon halt implied a 10Y ≈+2bp bear steepener. Dec 9 hike odds are ≈97–98%, unchanged on the day, with no Fed speakers or auctions.",
+        "Nothing new on oil, banks or deals since midday: Brent is still in the $88–97 range ahead of Sunday's OPEC+ meeting.",
+        "Tomorrow (Fri): NYSE closes at 12 PM CT and SIFMA recommends an early bond close. Month-end index extension can move the long end on flows. Globex reopens at 5 PM CT tonight, and that is the first real read on the tariff-relief move."
+      ],
+      "simple": "US markets were closed for the holiday, so nothing meaningful changed this afternoon. Gold rose toward $3,600 mainly because traders who had bet on further falls bought it back to close those bets (short-covering), not because new buyers arrived, so the rise may not last. The real test comes Friday, a shortened trading day, and month-end portfolio rebalancing then can push bond prices around regardless of the news.",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/analysis/gold-tags-3427-on-hot-pce-then-snaps-back-trap-200692371"
+        },
+        {
+          "name": "FX Leaders",
+          "url": "https://www.fxleaders.com/news/2026/11/26/gold-price-forecast-xau-usd-tests-3600-on-thanksgiving-short-covering/"
+        },
+        {
+          "name": "The Library Estate",
+          "url": "https://thelibraryestate.com/precious-metals-daily-briefing-gold-steadies-near-one-year-lows-in-thin-thanksgiving-trade-as-fed-hike-bets-hold-nov-26-2026/"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/ftse-others-bounce-in-quiet-trading-202611261722"
+        }
+      ]
+    },
+    {
       "at": "2026-11-26T18:17:03Z",
       "label": "Midday",
       "headline": "Europe ended its session up ≈2% on the tariff relief, but oil has turned lower and Treasury futures are leaning bear-steeper. That cuts against the morning's 'oil up, bonds bid' setup heading into Friday's half-day.",
@@ -462,5 +493,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T18:17:03Z"
+  "updatedAt": "2026-11-26T21:20:00Z"
 }
