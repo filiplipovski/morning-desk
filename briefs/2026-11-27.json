@@ -11,105 +11,105 @@
     "Today's tape is a half-day with no data. NYSE closes at 12:00 PM CT, CME equity futures at 12:15 PM CT, and SIFMA recommends a 1:00 PM CT bond close. Month-end index extension favors the long end late in the session. The Fed's pre-FOMC blackout starts Saturday, so next week's ISM (Tue), ADP (Wed) and November payrolls (Fri, consensus ≈90K vs 165K prior, UR 4.1%) will move pricing without any Fed speakers to push back.",
     "Abroad: the Nikkei is ≈+2%, the Kospi leads Asia and the STOXX 600 is +0.9% at 642.65 (tech +2.3%, miners +3.5%). Tokyo core CPI was 2.9%, a 16-month high but below the 3.0% consensus, and USD/JPY ≈159.4–159.6 is pressing toward the 160 intervention zone ahead of the Dec 17–18 BoJ meeting. The dollar is flat but headed for a third monthly gain."
   ],
-  "markets_asof": "12:20 PM CT Fri. Equities are half-day closing prints; bonds close 1:00 PM CT; commodities intraday",
+  "markets_asof": "Fri close: equities 12:00 PM CT, bonds 1:00 PM CT; commodities late intraday",
   "markets": [
     {
       "label": "S&P 500",
       "value": "7,298.34",
       "change": "+1.61%",
       "dir": "up",
-      "note": "Half-day close; Wed 7,182.78; week ≈+1.7% (Yahoo)"
+      "note": "Half-day close (Yahoo lists 7,297.49); weekly tallies conflict"
     },
     {
       "label": "Nasdaq Comp",
       "value": "24,129.50",
       "change": "+2.31%",
       "dir": "up",
-      "note": "Chips led (MU ≈+6–7%); NVDA ended modestly higher"
+      "note": "Chips led; still on pace for worst November since 2008"
     },
     {
       "label": "Dow",
-      "value": "≈50,690–50,780",
-      "change": "≈+1.0–1.2%",
+      "value": "50,774.94",
+      "change": "+1.18%",
       "dir": "up",
-      "note": "Range derived from Wed 50,182.95 and reported +510 pts (Airnews) / +1.2% (Yahoo)"
+      "note": "+591.99 pts (BigGo)"
     },
     {
       "label": "Russell 2000",
-      "value": "≈2,728",
-      "change": "≈+0.9%",
+      "value": "≈2,750",
+      "change": "+1.71%",
       "dir": "up",
-      "note": "Intraday snapshot; no confirmed close"
+      "note": "Single source (Yahoo snapshot)"
     },
     {
       "label": "UST 2Y",
-      "value": "4.693%",
-      "change": "+6bp",
+      "value": "4.699%",
+      "change": "≈+6bp",
       "dir": "up",
-      "note": "Tradeweb via WSJ/Reuters"
+      "note": "CNBC, bond close 1:00 PM CT"
     },
     {
       "label": "UST 10Y",
-      "value": "4.921%",
-      "change": "+7.4bp",
+      "value": "≈4.93%",
+      "change": "+8bp",
       "dir": "up",
-      "note": "Tradeweb via WSJ; bond early close 1:00 PM CT"
+      "note": "CNBC; Investing.com 4.914%"
     },
     {
       "label": "UST 30Y",
       "value": "≈5.32%",
       "change": "≈+7bp",
       "dir": "up",
-      "note": "MarketScreener cash quote 5.318%"
+      "note": "CNBC"
     },
     {
       "label": "Fed funds",
       "value": "3.75–4.00%",
       "change": "Dec hike ≈99%",
       "dir": "up",
-      "note": "FOMC Dec 8–9; blackout starts Sat"
+      "note": "FOMC Dec 8–9; blackout from Sat"
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,650–3,679",
-      "change": "≈+2.3–2.7%",
+      "value": "≈$3,644–3,679",
+      "change": "≈+2.3–3.1%",
       "dir": "up",
-      "note": "Swissquote / Bloomberg prints; Wed low ≈$3,425–3,446"
+      "note": "3rd straight monthly loss >5%"
     },
     {
       "label": "Silver (spot)",
-      "value": "≈$44.2–44.4",
-      "change": "≈+6.5–6.9%",
+      "value": "≈$43.6–44.3",
+      "change": "≈+6.6–8.9%",
       "dir": "up",
-      "note": "vs $41.56 Thu"
+      "note": "Quotes conflict"
     },
     {
-      "label": "LME copper",
-      "value": "≈$12,444/t",
-      "change": "≈+4.7%",
+      "label": "COMEX copper",
+      "value": "$5.53/lb",
+      "change": "+3.78%",
       "dir": "up",
-      "note": "SP Angel, vs $11,885 prior; COMEX ≈+4.8%"
+      "note": "LME ≈$12,440–12,600/t"
     },
     {
       "label": "Brent",
-      "value": "≈$95.2–97.9",
-      "change": "Mixed",
-      "dir": "flat",
-      "note": "Reuters $95.20 (−$1.42) at 9:16 AM CT vs $97.95 early Europe; OPEC+ Sun"
+      "value": "≈$94.15",
+      "change": "≈−2.5%",
+      "dir": "down",
+      "note": "11:15 AM CT vs $96.57 Thu settle; OPEC+ Sun"
     },
     {
       "label": "WTI",
-      "value": "≈$83.7–86.2",
-      "change": "Mixed",
-      "dir": "flat",
-      "note": "Quotes conflict; Wed settle $83.68"
+      "value": "<$83",
+      "change": "Lower",
+      "dir": "down",
+      "note": "11:15 AM CT; no confirmed settle"
     },
     {
       "label": "Dollar",
       "value": "DXY ≈103.8",
       "change": "Steady",
       "dir": "flat",
-      "note": "USD/JPY ≈159.5, just under the 160 intervention zone"
+      "note": "No fresh print; USD/JPY ≈159.5"
     }
   ],
   "calendar": [
@@ -417,6 +417,49 @@
   "caveats": "WebFetch was blocked (CNBC, AOL, Business Standard), so figures come from search snippets of the cited outlets. Index changes are pre-market futures (Forbes early print vs later Reuters numbers differ), and stock levels are Wednesday's close. Treasury yields are early-Friday prints from Saxo, while Bloomberg had the 10Y at 4.90%. Gold, silver, PGM and Brent levels vary by timestamp and contract, so ranges are shown. DXY ≈103.7 is single-source. ISM (≈55.1) and ADP (≈86K) consensus are single-source. WSJ and NYT items come via Reuters press digests (Boursorama) and secondary outlets. The Tribune bucket uses Bond Buyer, the Sun-Times and other coverage of Chicago companies. No Russell 2000 or KBW bank index print was available pre-market.",
   "updates": [
     {
+      "at": "2026-11-27T21:17:27Z",
+      "label": "Close",
+      "headline": "Black Friday closed as a clean risk-on/bonds-off day. The Dow rose 592 points to 50,775, the Russell 2000 gained 1.7%, and the 10Y finished ≈4.93% (+8bp) at the 1 PM CT bond close. With Dec 9 hike pricing near 99%, the morning's bear-steepener thesis held.",
+      "points": [
+        "Final equity closes: Dow 50,774.94 (+591.99, +1.18%), which replaces the Midday tile's estimated range. S&P 500 +1.6% (7,298.34; Yahoo lists 7,297.49) and Nasdaq 24,129.50 (+2.31%). The Russell 2000 closed ≈2,750 (+1.71%, single Yahoo snapshot), well above the ≈2,728 Midday print. Outlets disagree on the weekly tallies: Yahoo has the S&P +1.7%, while others claim +5.6%. Treat the weekly figures as unconfirmed.",
+        "Rates at the bond close (CNBC): 10Y ≈4.93% (+8bp+), 2Y 4.699% (+≈6bp), 30Y ≈5.32%. Month-end index extension didn't cap the long end. The 10Y is still ≈20bp below its Nov 13 high of ≈5.15%, so November ends with a high-level range, not a breakout. CME FedWatch has only ≈0.6% odds of no change on Dec 9. With the Fed in blackout from Saturday, next Friday's payrolls (≈90K consensus) is the next catalyst for January pricing.",
+        "Metals held their rebound into the close: gold ≈$3,644–3,679 (+2.3–3.1%; Investing.com prints $3,643.80 +3.05%), silver ≈$43.6–44.3 (+6.6–8.9%, quotes conflict), and COMEX copper $5.53/lb (+3.8%) with LME ≈$12,440–12,600/t. Gold still closes a third straight monthly loss of >5%, and copper is trading as a high-beta AI-capex proxy.",
+        "Oil faded into OPEC+: Brent ≈$94.15 and WTI below $83 at 11:15 AM CT (Middle East Monitor), down from $97.95 early in Europe and Thursday's $96.57 settle. No confirmed NYMEX settle was found. Brent's first weekly gain of November is now marginal. Sources expect Sunday's OPEC+ meeting to hold Q1 2027 output flat.",
+        "Next up: nothing scheduled Monday Nov 30 beyond month-end rebalancing, then Tue Dec 1 ISM Manufacturing (≈55.1 consensus vs 55.5) and JOLTS (prior 7.52M), Wed ADP (≈86K) and Fri payrolls. No bank M&A or capital-markets headlines crossed during the session."
+      ],
+      "simple": "Stocks finished the shortened day solidly higher, with small companies joining the tech rally. Bonds sold off: when investors move money from safe government bonds into stocks, bond prices drop and yields (the interest rate the bond pays) rise. The 10-year yield, which sets the tone for mortgage and business-loan rates, ended near 4.93%. Markets are almost certain the Fed raises its rate on Dec 9, so next week's jobs data will decide whether traders expect another hike in January.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/96a6dd9c-dfde-447d-9fba-83a4a62a0c21"
+        },
+        {
+          "name": "Yahoo Finance (live blog)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108"
+        },
+        {
+          "name": "Proactive Investors",
+          "url": "https://www.proactiveinvestors.com/companies/news/1102300/gold-rebounds-above-us-3-650-after-brutal-sell-off-as-copper-and-silver-suffer-heavy-losses-1102300.html"
+        },
+        {
+          "name": "Middle East Monitor",
+          "url": "https://middleeastmonitor.com/20261127-oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting"
+        },
+        {
+          "name": "Quackonomist (CME FedWatch)",
+          "url": "https://quackonomist.substack.com/p/quackonomist-pre-market-27-nov-2026"
+        }
+      ]
+    },
+    {
       "at": "2026-11-27T18:17:26Z",
       "label": "Midday",
       "headline": "The fade didn't last. Cash stocks closed the half-day near their highs, with the S&P +1.6% at 7,298 and the Nasdaq +2.3% at 24,130 as chips led and Nvidia clawed back to a small gain. Bonds still sold off, with the 10Y ≈4.92% and the 2Y ≈4.69%.",
@@ -503,5 +546,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T18:17:26Z"
+  "updatedAt": "2026-11-27T21:17:27Z"
 }
