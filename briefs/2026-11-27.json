@@ -11,28 +11,35 @@
     "Today's tape is a half-day with no data. NYSE closes at 12:00 PM CT, CME equity futures at 12:15 PM CT, and SIFMA recommends a 1:00 PM CT bond close. Month-end index extension favors the long end late in the session. The Fed's pre-FOMC blackout starts Saturday, so next week's ISM (Tue), ADP (Wed) and November payrolls (Fri, consensus ≈90K vs 165K prior, UR 4.1%) will move pricing without any Fed speakers to push back.",
     "Abroad: the Nikkei is ≈+2%, the Kospi leads Asia and the STOXX 600 is +0.9% at 642.65 (tech +2.3%, miners +3.5%). Tokyo core CPI was 2.9%, a 16-month high but below the 3.0% consensus, and USD/JPY ≈159.4–159.6 is pressing toward the 160 intervention zone ahead of the Dec 17–18 BoJ meeting. The dollar is flat but headed for a third monthly gain."
   ],
-  "markets_asof": "Pre-market ≈6:20 AM CT Fri; stock levels are Wed close, changes are futures",
+  "markets_asof": "≈9:15 AM CT Fri, intraday. Index values are Wed close, changes are intraday. Some tiles carried over from pre-market (see notes)",
   "markets": [
     {
       "label": "S&P 500",
       "value": "7,182.78",
-      "change": "fut ≈+1.7–2.0%",
+      "change": "≈+0.7% to +1.1%",
       "dir": "up",
-      "note": "Wed cash close; ESZ6 up 1.73% (Forbes) to ≈2% (Reuters) pre-market"
+      "note": "Value is Wed close; change is intraday after the open (Yahoo/others), pared from the ≈+1.7–2.0% futures gap"
     },
     {
-      "label": "Nasdaq 100 fut",
-      "value": "26,714.50",
-      "change": "+2.35%",
+      "label": "Nasdaq Comp",
+      "value": "23,585.80",
+      "change": "≈+0.8% to +1.4%",
       "dir": "up",
-      "note": "Forbes early print; Reuters ≈+2.8% later; NDX on track for worst month since Dec 2022"
+      "note": "Value is Wed close; NVDA turned negative on reports of a Southeast Asia shipment pause"
     },
     {
       "label": "Dow",
       "value": "50,182.95",
-      "change": "fut ≈+1.3%",
+      "change": "≈+0.6% to +0.9%",
       "dir": "up",
-      "note": "Wed cash close; YM +1.29% pre-market"
+      "note": "Value is Wed close; change is intraday after the open"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,704.06",
+      "change": "+0.71%",
+      "dir": "up",
+      "note": "Intraday snapshot (Yahoo)"
     },
     {
       "label": "STOXX 600",
@@ -46,21 +53,21 @@
       "value": "4.685%",
       "change": "+4bp",
       "dir": "up",
-      "note": "Saxo, early Fri vs Wed close 4.637%"
+      "note": "No fresh intraday print; this is Saxo's pre-market level"
     },
     {
       "label": "UST 10Y",
-      "value": "4.918%",
-      "change": "+7bp",
-      "dir": "up",
-      "note": "Saxo; Bloomberg 4.90%; bear steepener as equities rally"
+      "value": "≈4.85–4.89%",
+      "change": "off the 4.918% pre-mkt high",
+      "dir": "down",
+      "note": "JournalArta 4.848%, Yahoo 4.892%; still above Wed close 4.846% on the Yahoo print"
     },
     {
       "label": "UST 30Y",
       "value": "5.305%",
       "change": "+6bp",
       "dir": "up",
-      "note": "Saxo; 2s30s ≈62bp"
+      "note": "No fresh intraday print; this is Saxo's pre-market level"
     },
     {
       "label": "Fed funds",
@@ -71,17 +78,17 @@
     },
     {
       "label": "Gold (spot)",
-      "value": "≈$3,640–3,665",
-      "change": "+2.7% to +3.2%",
+      "value": "≈$3,639",
+      "change": "≈+2.9%",
       "dir": "up",
-      "note": "Feb COMEX ≈$3,708 (+4%); still ≈−6% MTD"
+      "note": "Indian outlets' print; no confirmed US-hours quote"
     },
     {
       "label": "Silver (spot)",
       "value": "≈$44.4",
-      "change": "+6.9%",
+      "change": "≈+3% to +7%",
       "dir": "up",
-      "note": "FXStreet; −37% YTD; gold/silver ratio ≈82"
+      "note": "Quotes conflict (COMEX $41.6–43.5 vs spot ≈$44.4 pre-mkt); unconfirmed"
     },
     {
       "label": "LME copper 3M",
@@ -92,24 +99,24 @@
     },
     {
       "label": "Brent",
-      "value": "≈$96.6–97.6",
-      "change": "≈+1%",
+      "value": "$96.75",
+      "change": "Up",
       "dir": "up",
-      "note": "First weekly gain in 5; Jan contract expires Mon; OPEC+ Sun"
+      "note": "12:01 UTC (OilPriceAPI); OPEC+ meets Sun"
     },
     {
       "label": "WTI",
-      "value": "≈$85.8",
-      "change": "Up",
+      "value": "$85.26",
+      "change": "≈+1.9% vs Wed settle",
       "dir": "up",
-      "note": "Last settle $83.68 (Wed)"
+      "note": "12:01 UTC (OilPriceAPI); last settle $83.68 Wed"
     },
     {
       "label": "Dollar",
       "value": "DXY ≈103.7",
       "change": "Flat",
       "dir": "flat",
-      "note": "USD/JPY ≈159.4–159.6, near the 160 intervention zone; third monthly gain"
+      "note": "USD/JPY slipped toward 159.00 on BoJ Dec-hike bets (FXStreet); DXY not re-checked"
     }
   ],
   "calendar": [
@@ -415,5 +422,46 @@
     }
   ],
   "caveats": "WebFetch was blocked (CNBC, AOL, Business Standard), so figures come from search snippets of the cited outlets. Index changes are pre-market futures (Forbes early print vs later Reuters numbers differ), and stock levels are Wednesday's close. Treasury yields are early-Friday prints from Saxo, while Bloomberg had the 10Y at 4.90%. Gold, silver, PGM and Brent levels vary by timestamp and contract, so ranges are shown. DXY ≈103.7 is single-source. ISM (≈55.1) and ADP (≈86K) consensus are single-source. WSJ and NYT items come via Reuters press digests (Boursorama) and secondary outlets. The Tribune bucket uses Bond Buyer, the Sun-Times and other coverage of Chicago companies. No Russell 2000 or KBW bank index print was available pre-market.",
-  "updates": []
+  "updates": [
+    {
+      "at": "2026-11-27T15:17:08Z",
+      "label": "Post-open",
+      "headline": "The opening gap faded fast. Nvidia flipped from +2% to roughly −2% to −4% on reports it paused AI-server shipments to four Southeast Asian countries, the indexes pared to under +1%, and the 10Y eased back to ≈4.85–4.89% from the 4.92% pre-market high.",
+      "points": [
+        "Gains pared: Yahoo's live blog had the Dow +0.9%, S&P +1.1% and Nasdaq +1.4% after the first half hour, then all three at less than +1%. Other snapshots show Dow ≈+0.6–0.7%, S&P ≈+0.7% and Nasdaq ≈+0.8%, well short of the ≈+1.7–2.0% S&P and ≈+2.4–2.8% Nasdaq futures gaps in the morning brief.",
+        "NVDA reversed: +2% at the open, then −2% (Yahoo) and close to −4% (JournalArta). The FT and WSJ report Nvidia told partners such as Dell and Super Micro to pause AI-server shipments to Malaysia, Singapore, Thailand and Indonesia indefinitely while it checks compliance with new US license rules aimed at Chinese access through regional data centers. Nvidia hasn't commented. That undercuts the brief's 'NVDA +4% premarket' line.",
+        "Rates: the 10Y is ≈4.85–4.89% (JournalArta 4.848%; Yahoo 4.892%), down from Saxo's 4.918% pre-market print. Risk-off in tech plus month-end index extension is pulling the long end back. There's no fresh 2Y/30Y print, and Dec 9 +25bp pricing (≈99%) has no reported change. The morning's 'bear steepener' call now looks overstated.",
+        "Russell 2000 ≈2,704 (+0.71%, Yahoo snapshot), so small caps are holding better than mega-cap tech. Oil is firm into Sunday's OPEC+ meeting: Brent $96.75 and WTI $85.26 at 12:01 UTC (OilPriceAPI). USD/JPY slipped toward 159.00 on BoJ December-hike bets (FXStreet).",
+        "Metals: no fresh US-hours print was found. Indian outlets had spot gold ≈$3,639 (+2.9%) on the rebound from Wednesday's 15-month low. COMEX silver quotes conflict ($41.6 vs ≈$43.5), so the pre-market ≈$44.4 tile is unconfirmed. Cash equities close at 12:00 PM CT, bonds at 1:00 PM CT."
+      ],
+      "simple": "Stocks opened strongly after Thanksgiving, but the excitement faded within about 30 minutes. Nvidia, the giant AI-chip maker, reportedly stopped shipping some AI servers to four Southeast Asian countries while it checks it is following US export rules (limits on selling advanced tech abroad). That revives worries about its sales, and because Nvidia is such a big part of the market, it dragged the indexes. When stocks wobble, investors move money back into safe US government bonds. That pushes bond prices up and their yields (the interest they pay) down, which is why the 10-year yield gave back some of its early rise.",
+      "sources": [
+        {
+          "name": "Yahoo Finance (live blog)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+        },
+        {
+          "name": "JournalArta",
+          "url": "https://journalarta.com/en/2026/11/27/sp-500-nasdaq-and-dow-open-higher-on-black-friday-as-tech-and-china-rally-lift-mood/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "name": "Forbes Middle East",
+          "url": "https://www.forbesmiddleeast.com/innovation/technology/nvidia-reportedly-halts-ai-chip-shipments-to-southeast-asia-as-us-tightens-china-curbs"
+        },
+        {
+          "name": "OilPriceAPI",
+          "url": "https://www.oilpriceapi.com/oil-prices-today"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/news/wti-oil-flits-with-the-8500-as-tensions-in-the-middle-east-threaten-supply-202611271134"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-27T15:17:08Z"
 }
