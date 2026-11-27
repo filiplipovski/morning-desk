@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-27",
+  "edition": "Morning edition",
+  "generatedAt": "2026-11-27T12:20:57Z",
+  "headline": "Risk is back for the half-day: Nasdaq futures are up 2.4–2.8% and gold ≈+3%, but the 10Y's ≈7bp rise to 4.92% shows bonds still expect the Fed to hike on Dec 9 whatever stocks do.",
+  "summary": [
+    "Post-Thanksgiving relief rally. Nasdaq 100 futures were +2.35% at 26,714.50 early (Forbes), with Reuters putting Nasdaq futures at ≈+2.8% and S&P futures at ≈+1.7–2.0%. Nvidia and Anthropic are ≈+4% premarket, and Anthropic is back above its $83 IPO price. The bounce comes off a bad month: the S&P is ≈8% below its Oct 6 record, the Nasdaq Composite is down >14%, the VIX is ≈28 and MSCI All-World is −5% MTD. Strategists are calling it technical, not a resolution of the AI-capex doubts.",
+    "Rates sold off as money rotated back into stocks. Cash Treasuries reopened with the 2Y ≈4.685% (+4bp), 10Y ≈4.918% (+7bp) and 30Y ≈5.305% (+6bp) per Saxo; Bloomberg has the 10Y at 4.90%. That bear-steepening reverses most of Wednesday's post-PCE bull flattener. Futures price a Dec 9 +25bp at ≈99% (Reuters) and a January follow-up at ≈63% (FedWatch via Fox Business), so funds go from 3.75–4.00% to 4.00–4.25%.",
+    "Metals ripped on short-covering. Spot gold is ≈$3,640–3,665 (+2.7–3.2%) and Feb COMEX ≈$3,708 (+4%), after Wednesday's 15-month low below $3,500. Silver is ≈$44.4 (+7%, still −37% YTD) and LME copper ≈$12,300 (+3.8%). Gold is still on track for a third straight monthly loss of >6%, and HSBC warns that another equity leg lower could take it below $3,400.",
+    "Oil is rising into Sunday's OPEC+ meeting. Brent ≈$96.6–97.6 is set for its first weekly gain in five, after a sub-$90 low on Monday and the Houthi strike on a Saudi refinery. WTI is ≈$85.8. The Jan Brent contract expires Monday, and OPEC+ sets 2027 quotas amid a fight over capacity with Iraq and Kazakhstan.",
+    "Today's tape is a half-day with no data. NYSE closes at 12:00 PM CT, CME equity futures at 12:15 PM CT, and SIFMA recommends a 1:00 PM CT bond close. Month-end index extension favors the long end late in the session. The Fed's pre-FOMC blackout starts Saturday, so next week's ISM (Tue), ADP (Wed) and November payrolls (Fri, consensus ≈90K vs 165K prior, UR 4.1%) will move pricing without any Fed speakers to push back.",
+    "Abroad: the Nikkei is ≈+2%, the Kospi leads Asia and the STOXX 600 is +0.9% at 642.65 (tech +2.3%, miners +3.5%). Tokyo core CPI was 2.9%, a 16-month high but below the 3.0% consensus, and USD/JPY ≈159.4–159.6 is pressing toward the 160 intervention zone ahead of the Dec 17–18 BoJ meeting. The dollar is flat but headed for a third monthly gain."
+  ],
+  "markets_asof": "Pre-market ≈6:20 AM CT Fri; stock levels are Wed close, changes are futures",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,182.78",
+      "change": "fut ≈+1.7–2.0%",
+      "dir": "up",
+      "note": "Wed cash close; ESZ6 up 1.73% (Forbes) to ≈2% (Reuters) pre-market"
+    },
+    {
+      "label": "Nasdaq 100 fut",
+      "value": "26,714.50",
+      "change": "+2.35%",
+      "dir": "up",
+      "note": "Forbes early print; Reuters ≈+2.8% later; NDX on track for worst month since Dec 2022"
+    },
+    {
+      "label": "Dow",
+      "value": "50,182.95",
+      "change": "fut ≈+1.3%",
+      "dir": "up",
+      "note": "Wed cash close; YM +1.29% pre-market"
+    },
+    {
+      "label": "STOXX 600",
+      "value": "642.65",
+      "change": "+0.9%",
+      "dir": "up",
+      "note": "08:12 GMT; tech +2.3%, miners +3.5%; heading for weekly gain"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "4.685%",
+      "change": "+4bp",
+      "dir": "up",
+      "note": "Saxo, early Fri vs Wed close 4.637%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "4.918%",
+      "change": "+7bp",
+      "dir": "up",
+      "note": "Saxo; Bloomberg 4.90%; bear steepener as equities rally"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "5.305%",
+      "change": "+6bp",
+      "dir": "up",
+      "note": "Saxo; 2s30s ≈62bp"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec hike ≈99%",
+      "dir": "up",
+      "note": "FOMC Dec 8–9; Jan follow-up ≈63% (FedWatch via Fox Business)"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,640–3,665",
+      "change": "+2.7% to +3.2%",
+      "dir": "up",
+      "note": "Feb COMEX ≈$3,708 (+4%); still ≈−6% MTD"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$44.4",
+      "change": "+6.9%",
+      "dir": "up",
+      "note": "FXStreet; −37% YTD; gold/silver ratio ≈82"
+    },
+    {
+      "label": "LME copper 3M",
+      "value": "≈$12,300/t",
+      "change": "+3.8%",
+      "dir": "up",
+      "note": "Business Recorder; SMM $12,297 at 11 AM Shanghai"
+    },
+    {
+      "label": "Brent",
+      "value": "≈$96.6–97.6",
+      "change": "≈+1%",
+      "dir": "up",
+      "note": "First weekly gain in 5; Jan contract expires Mon; OPEC+ Sun"
+    },
+    {
+      "label": "WTI",
+      "value": "≈$85.8",
+      "change": "Up",
+      "dir": "up",
+      "note": "Last settle $83.68 (Wed)"
+    },
+    {
+      "label": "Dollar",
+      "value": "DXY ≈103.7",
+      "change": "Flat",
+      "dir": "flat",
+      "note": "USD/JPY ≈159.4–159.6, near the 160 intervention zone; third monthly gain"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Overnight",
+      "event": "Tokyo CPI (Nov): core ex-fresh food",
+      "consensus": "3.0%",
+      "prior": "Headline 2.7% (rev.)",
+      "why": "Core came in at 2.9%, a 16-month high but below consensus, and headline was 2.8%. The BoJ Dec 17–18 hike is still the base case, but the miss kept USD/JPY ≈159.5, close to where Japan has intervened before."
+    },
+    {
+      "time": "8:30 AM",
+      "event": "NYSE/Nasdaq open (half-day)",
+      "consensus": "—",
+      "prior": "S&P −0.25% Wed",
+      "why": "Thin liquidity on a +2% gap is where short-covering overshoots. Check whether NVDA holds +4% once cash trading opens."
+    },
+    {
+      "time": "12:00 PM",
+      "event": "NYSE/Nasdaq early close; CME equity index futures close 12:15 PM",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This is the last equity print of November and sets the monthly bars. The Nasdaq 100 is on track for its worst month since Dec 2022."
+    },
+    {
+      "time": "1:00 PM",
+      "event": "SIFMA-recommended early bond close; month-end index extension",
+      "consensus": "—",
+      "prior": "10Y 4.846% Wed",
+      "why": "Index funds that buy duration at month-end can cap the long-end selloff. Watch whether the 10Y holds above 4.90% into the close."
+    },
+    {
+      "time": "Sat Nov 28",
+      "event": "Fed blackout begins ahead of Dec 8–9 FOMC",
+      "consensus": "—",
+      "prior": "Dec hike ≈99%",
+      "why": "With no Fed speakers until the decision, data alone moves January pricing (≈63%)."
+    },
+    {
+      "time": "Sun Nov 29",
+      "event": "OPEC+ meeting on 2027 quotas",
+      "consensus": "—",
+      "prior": "Brent ≈$97",
+      "why": "Iraq and Kazakhstan want higher capacity baselines. A fight over quotas would add supply into a market already expecting a surplus, and less oil-driven inflation would help the Fed."
+    },
+    {
+      "time": "Tue Dec 1, 9:00 AM",
+      "event": "ISM Manufacturing (Nov); JOLTS (Oct)",
+      "consensus": "ISM ≈55.1 (single source)",
+      "prior": "ISM 55.5; JOLTS 7.52M",
+      "why": "Factory activity running hot at 3.3% core PCE is the hawkish mix that firms a January hike."
+    },
+    {
+      "time": "Wed Dec 2, 7:15 AM",
+      "event": "ADP employment (Nov)",
+      "consensus": "≈86K (single source)",
+      "prior": "—",
+      "why": "This is the first labor read of the week. A soft print supports the argument that weaker data would make the Fed less hawkish."
+    },
+    {
+      "time": "Thu Dec 3, 7:30/9:00 AM",
+      "event": "Initial claims; ISM Services (Nov)",
+      "consensus": "—",
+      "prior": "Claims 189K",
+      "why": "Claims at 189K are close to cycle lows. Services prices paid feed straight into the Fed's sticky-inflation worry."
+    },
+    {
+      "time": "Fri Dec 4, 7:30 AM",
+      "event": "November nonfarm payrolls",
+      "consensus": "≈90K; UR 4.1% (LSEG via Reuters)",
+      "prior": "165K",
+      "why": "This is the last big print before the FOMC. A beat moves the debate to the terminal rate (where the Fed stops hiking), with SOFR futures implying ≈4.6% by late 2027."
+    },
+    {
+      "time": "Next week",
+      "event": "Earnings: Salesforce, Marvell, Snowflake",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Marvell is the AI-silicon read-through after Nvidia's governance shock. Salesforce tests whether software is still paying for the AI buildout."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Bear steepener as safe-haven bid unwinds",
+        "body": "Cash Treasuries reopened weaker: 2Y ≈4.685% (+4bp), 10Y ≈4.918% (+7bp), 30Y ≈5.305% (+6bp) per Saxo, with Bloomberg showing the 10Y at 4.90%. That gives back most of Wednesday's post-PCE rally (2Y 4.637%, 30Y 5.240%) and pushes 2s10s out to ≈23bp.",
+        "simple": "A yield (the interest rate a bond pays) rises when its price falls. On Wednesday investors bought Treasuries for safety while stocks wobbled; today they are selling them to buy stocks back. Long-dated yields rose more than short ones, which is called steepening. For a bank, higher long rates mean mortgages and business loans priced off the 10-year get more expensive.",
+        "source": "Saxo / Bloomberg",
+        "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+      },
+      {
+        "title": "Fed path: Dec 9 priced at ≈99%, January ≈63%",
+        "body": "Fed funds futures imply ≈99% odds of a +25bp hike to 4.00–4.25% on Dec 9 (Reuters), with ≈63% for another in January (CME FedWatch via Fox Business). One-month SOFR futures imply ≈4.1% for December and ≈4.6% for Sep–Oct 2027. The blackout starts Saturday, so next week's ISM, JOLTS and payrolls are the only inputs.",
+        "simple": "The Fed's policy rate sets the cost of overnight borrowing between banks, and it flows through to credit cards, car loans and business credit lines. Markets treat December as decided, so the open question is how many more hikes follow. The 'blackout' is a quiet period when Fed officials stop giving speeches before a meeting, so economic data is the only thing that can move expectations.",
+        "source": "Reuters (via Euronext) / Fox Business / CME",
+        "url": "https://live.euronext.com/en/financial-news/global-stocks-rally-ai-rebound-after-bruising-month-while-treasuries-dip"
+      },
+      {
+        "title": "BoJ and ECB keep global long ends supported",
+        "body": "Tokyo core CPI was 2.9% (16-month high) vs 3.0% consensus, and core-core (ex fresh food and energy) only 2.3%, but Commerzbank says the data still supports a Dec 17–18 BoJ hike. The ECB is priced to hike Dec 17 after October's account showed broad support. USD/JPY ≈159.5 sits under the 160 intervention line.",
+        "simple": "Japan and Europe are raising rates at the same time as the US, so bonds everywhere pay more and there is less spare foreign money to buy Treasuries. That keeps US long-term yields high. When the yen gets weak enough, Japan's government sometimes intervenes, selling dollars to buy yen, which can jolt global bond markets.",
+        "source": "FXStreet / Commerzbank",
+        "url": "https://www.fxstreet.com/news/japanese-yen-flat-lines-as-boj-uncertainty-offsets-hot-tokyo-cpi-and-usd-downtick-202611270546"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "Rates hedging drove CME's 71.5M-contract record",
+        "body": "CME cleared a record 71.5M contracts on Nov 24, led by interest-rate futures and options as traders repriced the Fed from cuts to hikes. CME declared a $1.30 Q4 dividend (record date Dec 11) and shares opened ≈$311.74 Thursday.",
+        "simple": "Futures and options are contracts that let banks, funds and companies lock in or bet on future prices, such as interest rates. When the outlook for the Fed changes this fast, everyone with rate exposure rushes to rehedge, and CME, the Chicago exchange where most of that trading happens, collects a fee on every contract.",
+        "source": "CME Group via Stocktitan / MarketBeat",
+        "url": "https://www.stocktitan.net/news/CME/cme-group-sets-new-daily-volume-record-of-71-5-million-contracts-vdgl4kok2ocd.html"
+      },
+      {
+        "title": "Vol still elevated under the rally",
+        "body": "The VIX was ≈28 into the holiday vs a long-run median of 17.6 (Reuters). Nasdaq futures +2.4–2.8% on thin post-holiday volume looks like short-covering, and strategists quoted by Longbridge say the root causes of the AI selloff haven't been resolved. Expect implied vol to bleed into the half-day but reprice quickly around payrolls.",
+        "simple": "The VIX measures how much protection against big S&P 500 swings costs in the options market. A reading near 28 means investors are still paying up for insurance even though stocks are rising. 'Short-covering' is when traders who bet on a decline buy back to close those bets, which can push prices up without any new optimism behind it.",
+        "source": "Reuters (via The Globe and Mail) / Longbridge",
+        "url": "https://www.theglobeandmail.com/investing/article-wall-streets-week-ahead-sliding-stock-market-confronts-jobs-data-rate/"
+      },
+      {
+        "title": "Half-day mechanics, month-end and Brent expiry",
+        "body": "CME equity index futures close 12:15 PM CT and the bond market at ≈1:00 PM CT. Month-end index extension (passive bond funds buying longer maturities) lands on a thin session. Jan Brent expires Monday, just after Sunday's OPEC+ meeting, so expiry positioning will be lopsided going into it.",
+        "simple": "On a short trading day, a handful of large mechanical orders, such as bond index funds rebalancing at month-end, can move prices more than usual. An oil futures contract that 'expires' stops trading, so traders must close or roll their positions. Having that happen right after a major OPEC decision can exaggerate the price move.",
+        "source": "LP Futures / Saxo",
+        "url": "https://lpfutures.com/thanksgiving-2026-futures-trading-hours/"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold rebounds ≈3% from a 15-month low but stays in a downtrend",
+        "body": "Spot gold is ≈$3,640–3,665 (+2.7–3.2%) and Feb COMEX ≈$3,708 (+4%), up ≈3% on the week after Wednesday's dip below $3,500. It is still headed for a third straight monthly loss of >6% and has been below $4,000 since Nov 11. HSBC flags a move below $3,400 if equities fall further, and a ≈99% December hike plus a firm dollar caps rallies.",
+        "simple": "Gold pays no interest, so when interest rates and the dollar rise it becomes less attractive than bonds or cash. That is why it has slumped as the Fed has turned toward hiking. Today's jump looks more like traders closing bearish bets than a change of trend.",
+        "source": "Reuters (via Longbridge) / Invezz / Saxo",
+        "url": "https://invezz.com/news/2026/11/27/gold-price-today-jumps-4-percent-rebound-52-week-low/"
+      },
+      {
+        "title": "Silver and PGMs outrun gold on the bounce",
+        "body": "Silver is ≈$44.4 (+6.9%, FXStreet), with one futures print at +10% to $44.20, but it is still −37% YTD, with the gold/silver ratio ≈82. Platinum is ≈$1,324–1,379 (+2.6%) and palladium ≈$900–929 (+3.3%), depending on source and timestamp.",
+        "simple": "Silver, platinum and palladium are smaller, more volatile markets than gold, and they are also used in industry (solar panels, car exhaust systems). They fall harder in a selloff and bounce harder in a rebound. A gold/silver ratio of ≈82 means one ounce of gold buys about 82 ounces of silver, so silver is cheap relative to its history.",
+        "source": "FXStreet / Samaa / BullionVault",
+        "url": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202611270930"
+      },
+      {
+        "title": "Copper back above $12,000 as China pulls metal",
+        "body": "LME 3M copper is ≈$12,300 (+3.8%) after dipping below $11,500 earlier in the week, and Investing.com saw >$12,600 later. 11,225t of Asian LME warrant cancellations are headed to China, where physical markets remain tight. That is still ≈16% below the Oct 14 high, and UBS called the holiday bounce technical.",
+        "simple": "Copper is used in wiring, power grids and data centers, so its price is read as a gauge of global growth. A 'warrant cancellation' means someone has asked to take metal out of an exchange warehouse to use it. Big cancellations bound for China suggest real buyers, not only speculators, are behind the rebound.",
+        "source": "Business Recorder / ADMISI / Investing.com",
+        "url": "https://www.brecorder.com/news/40451008/copper-bounces-set-to-end-week-higher-as-ai-jitters-ease"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Anthropic IPO paid 22 banks ≈$550M, only 0.68%",
+      "body": "The final prospectus shows the $81.3B Anthropic IPO paid its 22-bank syndicate ≈$550M, with Goldman and Morgan Stanley taking ≈$113M each for 20.5% of the book. Fees were ≈0.68% with nothing on the greenshoe. Together with SpaceX (≈$500M), the two deals alone give ECM desks >$1B for 2026.",
+      "simple": "When a company first sells shares to the public (an IPO), investment banks underwrite the deal, meaning they line up buyers and guarantee the sale, in return for a cut. Small IPOs pay up to 7%. A giant issuer like Anthropic can push that below 1%, so banks win on deal size, not fee rate.",
+      "source": "Fortune / Reuters (via KELO)",
+      "url": "https://fortune.com/2026/11/19/anthropics-ipo-nets-goldman-sachs-and-morgan-stanley-113-million-apiece-in-fees-eclipsing-their-spacex-paydays/"
+    },
+    {
+      "title": "Boehly group signs $10B share swap for Lukoil's foreign assets",
+      "body": "A Todd Boehly-led consortium backed by the US DFC (the government's development finance arm) agreed to swap ≈$10B of Lukoil securities for the sanctioned Russian major's international portfolio: operations in ≈11 countries producing ≈350K bpd and valued at ≈$16B (down from ≈$22B). It needs Treasury approval and could take up to a year to close.",
+      "simple": "Lukoil is under US sanctions, so its foreign oil fields and refineries have been in limbo. Instead of paying cash, the buyers are paying with Lukoil's own securities. This kind of structured deal produces advisory and financing fees and shows Washington helping to steer who owns energy assets.",
+      "source": "WSJ (via Reuters digest) / Reuters / OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Backed-Consortium-Signs-Deal-for-Lukoils-International-Oil-Empire.html"
+    },
+    {
+      "title": "Community-bank M&A keeps clicking: 165 deals in 2026",
+      "body": "Ameris agreed to buy Lakeland, FL-based Bank of Central Florida (≈$1.2B assets) in an all-stock deal. A Fed-based tracker counts 165 bank acquisitions so far in 2026. That comes on top of Wednesday's $3.2B Hancock Whitney–Trustmark deal.",
+      "simple": "Small and mid-size banks are merging to spread the costs of technology and regulation over a bigger balance sheet. All-stock deals mean the seller's owners take shares in the buyer instead of cash. Faster regulatory approvals this year have kept the pipeline moving even as rates rise.",
+      "source": "Yahoo Finance (Ameris release) / BankRegReports",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ameris-bancorp-enhances-central-florida-125000187.html"
+    },
+    {
+      "title": "Altria weighs a cash offer for Imperial Brands",
+      "body": "Per the WSJ (via the Reuters press digest), Altria is considering a cash bid for smaller London-listed rival Imperial Brands. No price has been reported. A cross-border tobacco deal would be a large, debt-funded bridge-loan and bond financing opportunity.",
+      "simple": "A cash bid of that size usually means the buyer borrows heavily, first with a short-term bridge loan from banks and later by refinancing it with bonds. That produces lending, underwriting and advisory fees for the banks involved. Nothing is agreed yet; it is only being considered.",
+      "source": "WSJ (via Reuters digest on Boursorama)",
+      "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-27-novembre-3853ab83a1e4f8b2b5d91df497c25dbd"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Stock futures rise as Wall Street wraps a volatile holiday week",
+        "body": "CNBC's live blog has futures climbing into the half-day after a week in which the Nasdaq 100 briefly approached bear-market territory. Nasdaq 100 futures are ≈+2.35% (Forbes) and S&P futures ≈+1.7%, led by Nvidia (+≈4%).",
+        "simple": "Futures let investors trade before the stock market opens, so they show which way prices are expected to go. The rebound follows a month of heavy selling in AI stocks. A short Friday session with few traders can exaggerate moves in either direction.",
+        "source": "CNBC (headline) / Forbes",
+        "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Black Friday shoppers hunt for value amid inflation",
+        "body": "Adobe tracked $82.5B of online spending Nov 1–22 (+9.1% y/y) and sees Black Friday at $12.9B (+9.2%) and Cyber Monday at $15.1B (+6.2%). Salesforce says pre-Black Friday discounts were 8% bigger than a year earlier, with average selling prices 1% lower.",
+        "simple": "Online spending is rising, but some of the increase is higher prices rather than people buying more. Bigger discounts suggest retailers had to work harder to draw shoppers. Holiday sales matter because consumer spending is about two-thirds of the US economy.",
+        "source": "CNBC / Adobe / Salesforce",
+        "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+      },
+      {
+        "title": "2Y yield jumped earlier in the week on hike repricing",
+        "body": "On Nov 23 CNBC had the 2Y at 4.69% and the 10Y at 4.932%, with ≈98% odds of a December hike. Today's open puts yields back near those levels after Wednesday's rally.",
+        "simple": "The 2-year Treasury yield tracks expectations for the Fed most closely. It is back where it was on Monday, which means this week's safe-haven buying of bonds has been reversed.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "Judge blocks FCC's early review of ABC station licenses",
+        "body": "A federal judge sided with Disney's ABC and ordered the FCC to halt its early review of eight ABC-owned station licenses, including New York, Los Angeles and Chicago.",
+        "simple": "The FCC licenses TV stations, and it had opened an unusual early review of ABC's. A preliminary injunction is a court order that pauses that action while the case continues. It protects one of Disney's core assets for now.",
+        "source": "WSJ (via Reuters digest on Boursorama) / NYT",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-27-novembre-3853ab83a1e4f8b2b5d91df497c25dbd"
+      },
+      {
+        "title": "Boehly-led group, with a US government arm, to buy Lukoil's foreign assets",
+        "body": "The consortium includes the DFC and is swapping ≈$10B of Lukoil securities for assets valued at ≈$16B across ≈11 countries (≈350K bpd). It still needs Treasury sign-off.",
+        "simple": "The US government is effectively co-sponsoring a buyer for a sanctioned Russian company's overseas oil business. That keeps the oil flowing while moving the profits out of Russian hands.",
+        "source": "WSJ (via Reuters digest) / Reuters",
+        "url": "https://finance.yahoo.com/energy/articles/exclusive-boehly-signs-us-backed-151829156.html"
+      },
+      {
+        "title": "Altria considers cash offer for Imperial Brands",
+        "body": "Altria is weighing a cash bid for London-listed Imperial Brands. No price or timetable has been reported.",
+        "simple": "Two big tobacco companies are exploring a merger in a shrinking industry. A cash deal would mean heavy borrowing, which is work for banks' lending and bond desks.",
+        "source": "WSJ (via Reuters digest on Boursorama)",
+        "url": "https://boursorama.com/bourse/actualites/resume-de-la-presse-wall-street-journal-27-novembre-3853ab83a1e4f8b2b5d91df497c25dbd"
+      },
+      {
+        "title": "Iran's rial collapses under US naval blockade",
+        "body": "The WSJ reports the rial at ≈2.9M per dollar vs ≈32,000 at the 2015 nuclear deal, and Tehran is cutting subsidies. The US reinstated its naval blockade in July after a provisional truce collapsed.",
+        "simple": "A collapsing currency means imports cost far more for ordinary Iranians, which pushes the government to cut spending. Iran's economic stress and Gulf shipping risks feed into the 'risk premium' that keeps oil prices higher.",
+        "source": "WSJ (via Gulf News)",
+        "url": "https://gulfnews.com/world/mena/iran-cuts-subsidies-as-us-blockade-deepens-economic-crisis-1.500762966"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "Chicago's BBB on CreditWatch as council orders finance probe",
+        "body": "S&P put Chicago's BBB GO rating on CreditWatch Negative with about a 1-in-2 chance of a downgrade within 90 days, citing one-time fixes for an $882M corporate-fund gap. The council voted 45–5 for an independent three-year review after CFO Ashlee Gabrysch resigned.",
+        "simple": "A BBB rating is two notches above 'junk'. A downgrade would raise Chicago's borrowing costs and could force some investors to sell its bonds. CreditWatch Negative is a formal warning that a cut may be coming.",
+        "source": "Bond Buyer / CFO Dive / Chicago Sun-Times (Tribune bucket)",
+        "url": "https://www.bondbuyer.com/news/chicago-placed-on-creditwatch-negative-by-s-amp-p-citing-budget-stalemate"
+      },
+      {
+        "title": "$17.6B 2027 budget still stuck on the head tax",
+        "body": "Mayor Johnson's $17.6B 2027 budget keeps the corporate head tax that 28 alders call a nonstarter. Johnson says the council has rejected >$400M of structural revenue, and acting CFO Michael Belsky says a balanced budget avoids a downgrade.",
+        "simple": "A head tax charges large employers per worker. Businesses argue it pushes jobs out of the city, while the mayor says it is needed to close a recurring deficit. The standoff is what S&P is watching.",
+        "source": "Chicago Sun-Times / Bond Buyer (Tribune bucket)",
+        "url": "https://www.bondbuyer.com/news/chicago-debates-budget-revisions-as-review-looms"
+      },
+      {
+        "title": "CME: record volume and a $1.30 dividend",
+        "body": "Chicago-based CME set a 71.5M-contract daily record on Nov 24 on rates hedging and declared a $1.30 Q4 dividend payable Dec 30. CEO Terry Duffy sold 27,000 shares on Nov 18.",
+        "simple": "CME earns per contract traded, so a volatile Fed outlook is good for its revenue. Executive share sales are common and are usually planned in advance, so they aren't necessarily a signal.",
+        "source": "CME Group via Stocktitan / MarketBeat (Tribune bucket)",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-cme-group-inc-cme-shares-sold-by-jump-financial-llc-2026-11-26/"
+      },
+      {
+        "title": "United plans its biggest day since the pandemic on Sunday",
+        "body": "Chicago-based United has 7,021 flights scheduled for Nov 29 after a Nov 16 company-wide IT outage. Hopper puts domestic round-trip fares up 39% y/y.",
+        "simple": "Strong holiday travel at much higher fares is good for airline revenue but shows up in inflation data. Another outage on a peak day would be costly for United.",
+        "source": "The Contrail / Tribune Chronicle (Tribune bucket)",
+        "url": "https://www.thecontrail.org/thanksgiving-flights-2026-airline-seats/"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Nvidia halts advanced AI-chip sales to four Southeast Asian countries",
+        "body": "After a new Commerce Department licensing rule, Nvidia suspended its top-end AI chip shipments to Malaysia, Singapore, Thailand and Indonesia. Washington is trying to stop chips being diverted to China.",
+        "simple": "Southeast Asia has become a hub for data centers, and US officials think some chips sent there end up in China. Cutting off those markets hits Nvidia's sales and adds to doubts about AI-stock earnings.",
+        "source": "NYT (via Reuters digest on Boursorama)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-27-novembre-6b8c01a8b2f9cfa90e8c3ddb3c09f073"
+      },
+      {
+        "title": "Hot inflation keeps the Fed on its hiking path",
+        "body": "The NYT framed Wednesday's 3.3% core PCE as locking in another Fed hike. It also reported that Q3 GDP was revised sharply higher to 4.3%, and that President Trump demanded an investigation of the revision. No probe has been confirmed.",
+        "simple": "Core PCE is the Fed's preferred inflation gauge. At 3.3% it is far above the 2% target, so the Fed keeps raising rates. Questions from politicians about the official data add uncertainty but don't change the numbers.",
+        "source": "NYT (via Reuters digest)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-27-novembre-6b8c01a8b2f9cfa90e8c3ddb3c09f073"
+      },
+      {
+        "title": "Kansas City blocks a tall data center after resident pushback",
+        "body": "The city blocked construction of a tall data center after more than 400 letters from residents opposing it.",
+        "simple": "AI needs huge data centers, which use a lot of power and land, and local opposition is becoming a real constraint. That matters for the utilities, chipmakers and lenders betting on the buildout.",
+        "source": "NYT (via Reuters digest)",
+        "url": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-du-new-york-times-27-novembre-6b8c01a8b2f9cfa90e8c3ddb3c09f073"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Why the curve bear-steepened on a risk-on day",
+      "point": "When stocks bounced 2%, the 10Y rose ≈7bp but the 2Y only ≈4bp. The front end is pinned by a ≈99% Dec hike that's fully priced, so the marginal move is in term premium (the extra yield for holding long bonds) as the haven bid leaves. Ask how the desk thinks about 2s10s at ≈23bp if payrolls beat ≈90K consensus: does the Fed hiking into a slowdown eventually invert it again?"
+    },
+    {
+      "topic": "Gold's problem is real yields, not fear",
+      "point": "Gold is ≈−6% this month even with an AI equity scare, because a hiking Fed and the dollar's third monthly gain raise the opportunity cost of holding a zero-yield asset. Today's +3% came with silver +7% and copper +3.8%, which is short-covering across metals. A good question for a metals desk is whether central-bank buying still sets a floor near $3,400 (HSBC's downside case) or whether ETF outflows dominate."
+    },
+    {
+      "topic": "ECM fee compression at the mega-deal end",
+      "point": "Anthropic's $81.3B IPO paid only ≈0.68% (≈$550M across 22 banks, $113M each to GS and MS), versus up to 7% on small deals. Mega-issuers have pricing power, so banks make it up on volume and follow-on products (converts, hedging, financing). That's a sharp point to raise with capital-markets bankers about where 2027 fee pools actually come from."
+    }
+  ],
+  "caveats": "WebFetch was blocked (CNBC, AOL, Business Standard), so figures come from search snippets of the cited outlets. Index changes are pre-market futures (Forbes early print vs later Reuters numbers differ), and stock levels are Wednesday's close. Treasury yields are early-Friday prints from Saxo, while Bloomberg had the 10Y at 4.90%. Gold, silver, PGM and Brent levels vary by timestamp and contract, so ranges are shown. DXY ≈103.7 is single-source. ISM (≈55.1) and ADP (≈86K) consensus are single-source. WSJ and NYT items come via Reuters press digests (Boursorama) and secondary outlets. The Tribune bucket uses Bond Buyer, the Sun-Times and other coverage of Chicago companies. No Russell 2000 or KBW bank index print was available pre-market.",
+  "updates": []
+}
