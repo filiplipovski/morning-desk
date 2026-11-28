@@ -1,0 +1,501 @@
+{
+  "date": "2026-11-28",
+  "edition": "Weekend edition",
+  "generatedAt": "2026-11-28T12:24:39Z",
+  "headline": "Stocks had their best week since 2022 (S&P +5.6%), but the 2Y rose ≈9bp to 4.70% and the Dec 9 hike is ≈98% priced, so the Fed decision itself is settled and Friday's ≈90K payrolls number will drive pricing for January.",
+  "summary": [
+    "Week recap: S&P 500 +5.6% to 7,298, Dow +5.5% to 50,775 (best week since Oct 2022), Nasdaq ≈+6.7% to 24,130 and Russell 2000 ≈+6.5% to ≈2,750. The rally came after Nvidia's board reinstated Jensen Huang as CEO on Monday (stock +31% that day). The S&P is still ≈3.7% down for November and 6.7% below its Oct 6 record, with one session (Mon Nov 30) left in the month.",
+    "Rates: the curve bear-flattened over the week, with the 2Y ≈+9bp to ≈4.70% and the 10Y only ≈+2bp to ≈4.93%. Wednesday's hot core PCE (3.3% y/y, 0.1pt above forecast) reinforced Dec 9 hike pricing, now ≈98% by most FedWatch snapshots, and roughly two-thirds odds of a January follow-up. Supply was soft at the margin: the $70B 5Y tailed 0.3bp (a record 13th straight tail) and the $44B 7Y tailed 1.0bp.",
+    "Metals: spot gold bounced ≈+3% Friday to ≈$3,660 after a 15-month low midweek, but it is ≈−6% for November, its third straight monthly loss of >5%. Real yields are the anchor: the 10Y TIPS cleared at 2.903% on Nov 19, the highest auction yield since 2002. Copper spiked as much as 6.5% on the LME Friday to >$12,600/t, while the COMEX–LME tariff premium has collapsed to roughly parity.",
+    "Derivatives: CME printed a record 71.5M contracts on Mon Nov 23, including a record 41.4M Treasury futures. The VIX fell ≈34% on the week to 23.8. SOFR options are crowded at the 96.50 strike across Dec26–Jun27, and the Jun27/Dec27 spread has flattened to as low as −12.5bp, so the market is pricing hikes now and cuts later.",
+    "Week ahead: OPEC+ meets Sunday (expected to hold Q1 2027 output flat; the fight is over 2027 baselines with Iraq and Kazakhstan). The Fed is in blackout. ISM Manufacturing Tue (≈55.1 vs 55.5), ADP Wed (≈80K), ISM Services Thu (≈54.7 vs 54.5), then Fri payrolls (≈90K vs 165K; unemployment 4.1%). Euro-area flash CPI Tue (prior 4.0%) and Ueda Monday matter for ECB and BoJ December hikes.",
+    "Banking & deals: Basel III endgame 'take two' is at White House review and would cut CET1 requirements ≈4.8% for the largest banks. Sanofi agreed to buy Insmed for $41B, the year's largest pharma deal. Ameris made its first bank deal in 7 years. US IPOs paused after Anthropic's record $81.3B listing. Private-credit stress persists, with Fitch's default rate at 6.2%."
+  ],
+  "markets_asof": "Fri Nov 27 close (half-day: equities 12:00 PM CT, bonds 1:00 PM CT). Weekend: no trading; CME Globex reopens Sun 5:00 PM CT. Weekly changes vs Fri Nov 20 close.",
+  "markets": [
+    {
+      "label": "S&P 500",
+      "value": "7,298.34",
+      "change": "+1.61% d / +5.6% wk",
+      "dir": "up",
+      "note": "Best week since Apr 2025; ≈−3.7% MTD; Yahoo lists 7,297.49"
+    },
+    {
+      "label": "Dow",
+      "value": "50,774.94",
+      "change": "+1.18% d / ≈+5.5% wk",
+      "dir": "up",
+      "note": "Best week since Oct 2022"
+    },
+    {
+      "label": "Nasdaq Comp",
+      "value": "24,129.50",
+      "change": "+2.31% d / ≈+6.7% wk",
+      "dir": "up",
+      "note": "≈−5% MTD; still on pace for worst Nov since 2008"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "≈2,750",
+      "change": "+1.71% d / ≈+6.5% wk",
+      "dir": "up",
+      "note": "Single source for close"
+    },
+    {
+      "label": "UST 2Y",
+      "value": "≈4.70%",
+      "change": "≈+7bp d / ≈+9bp wk",
+      "dir": "up",
+      "note": "Yahoo 4.71%, CNBC 4.699%"
+    },
+    {
+      "label": "UST 10Y",
+      "value": "≈4.93%",
+      "change": "≈+8bp d / ≈+2bp wk",
+      "dir": "up",
+      "note": "Bear flattener on the week"
+    },
+    {
+      "label": "UST 30Y",
+      "value": "≈5.32%",
+      "change": "≈+7bp d / ≈flat wk",
+      "dir": "flat"
+    },
+    {
+      "label": "Fed funds",
+      "value": "3.75–4.00%",
+      "change": "Dec 9 +25bp ≈98%",
+      "dir": "up",
+      "note": "Snapshots range ≈90–99%; blackout from today"
+    },
+    {
+      "label": "VIX",
+      "value": "23.81",
+      "change": "−11.2% d / ≈−34% wk",
+      "dir": "down",
+      "note": "One source lists 26.36"
+    },
+    {
+      "label": "Gold (spot)",
+      "value": "≈$3,637–3,660",
+      "change": "≈+2–3% d / ≈+3–4% wk",
+      "dir": "up",
+      "note": "≈−6% for Nov; 15-mo low midweek"
+    },
+    {
+      "label": "Silver (spot)",
+      "value": "≈$43.7–43.9",
+      "change": "≈+6% wk",
+      "dir": "up",
+      "note": "Quotes conflict (one has ≈$41.4)"
+    },
+    {
+      "label": "Copper",
+      "value": "COMEX ≈$5.53/lb; LME >$12,600/t",
+      "change": "LME up to +6.5% d",
+      "dir": "up",
+      "note": "Biggest intraday gain since Jan 29"
+    },
+    {
+      "label": "Brent",
+      "value": "$95.44",
+      "change": "−1.2% d / ≈+3% wk",
+      "dir": "up",
+      "note": "First weekly gain of Nov; OPEC+ Sun"
+    },
+    {
+      "label": "WTI",
+      "value": "$83.08",
+      "change": "−0.7% d / ≈−0.9% wk",
+      "dir": "down"
+    },
+    {
+      "label": "Dollar",
+      "value": "DXY ≈103.8",
+      "change": "Steady",
+      "dir": "flat",
+      "note": "USD/JPY ≈159.5, near the 160 intervention line"
+    }
+  ],
+  "calendar": [
+    {
+      "time": "Sun 5:00 PM",
+      "event": "CME Globex reopens: equity index, Treasury, SOFR, metals futures",
+      "consensus": "—",
+      "prior": "—",
+      "why": "First read on whether the relief rally and Friday's bond selloff carry into month-end. Watch ES/NQ, the 10Y note future and gold for a gap."
+    },
+    {
+      "time": "Sun (online)",
+      "event": "OPEC+ meeting: Q1 2027 targets and 2027 baselines",
+      "consensus": "Q1 output held flat",
+      "prior": "—",
+      "why": "A hold is priced. The risk is the quota fight: Iraq wants a higher capacity rating than the ≈4.9M bpd review figure, and Kazakhstan is over quota. A messy outcome would hit Brent, which closed at $95."
+    },
+    {
+      "time": "Sun 7:05 PM",
+      "event": "BoJ Gov. Ueda speech (Nagoya)",
+      "consensus": "—",
+      "prior": "Policy rate 1.25%",
+      "why": "Swaps price ≈70–80% for a Dec 18 hike to 1.50%. A hawkish Ueda supports the yen with USD/JPY ≈159.5 near the intervention line, and JGB moves spill into USTs."
+    },
+    {
+      "time": "Sun 7:30 PM",
+      "event": "China NBS Manufacturing PMI (Nov)",
+      "consensus": "49.4",
+      "prior": "49.3",
+      "why": "A sub-50 reading means contraction, which caps copper's Friday bounce. China is the swing buyer of metals."
+    },
+    {
+      "time": "Mon 8:45 AM",
+      "event": "Chicago PMI (Nov) + month-end rebalancing",
+      "consensus": "—",
+      "prior": "—",
+      "why": "This home-team survey is a preview for Tuesday's ISM. Month-end extension buying usually supports the long end, and the session sets November's final monthly bars."
+    },
+    {
+      "time": "Tue 4:00 AM",
+      "event": "Euro-area flash HICP (Nov)",
+      "consensus": "—",
+      "prior": "4.0%",
+      "why": "An ECB Dec 17 hike is ≈90–96% priced. A hot print would push Bund yields up (10Y ≈3.26%) and feed global term premium."
+    },
+    {
+      "time": "Tue 9:00 AM",
+      "event": "ISM Manufacturing (Nov) + JOLTS (Oct)",
+      "consensus": "≈55.1 / ≈7.5M",
+      "prior": "55.5 / 7.52M",
+      "why": "Strong activity with a firm prices-paid component keeps a January hike live. JOLTS is the Fed's labor-tightness gauge."
+    },
+    {
+      "time": "Tue PM",
+      "event": "Earnings: Marvell, Okta",
+      "consensus": "MRVL rev ≈$3.16B",
+      "prior": "—",
+      "why": "Marvell tests whether the chip rebound holds after the Nvidia Southeast Asia shipment pause."
+    },
+    {
+      "time": "Wed 7:15 AM",
+      "event": "ADP private payrolls (Nov)",
+      "consensus": "≈80K",
+      "prior": "—",
+      "why": "This is the first hard read on November hiring. A miss would steepen the SOFR curve toward 2027 cuts."
+    },
+    {
+      "time": "Wed PM",
+      "event": "Earnings: Salesforce, Snowflake; BMO pre-market",
+      "consensus": "—",
+      "prior": "—",
+      "why": "Salesforce and Snowflake are AI-software read-throughs (SNOW options imply ≈±17%). BMO is a check on bank credit provisions."
+    },
+    {
+      "time": "Thu 7:30 AM",
+      "event": "Initial jobless claims",
+      "consensus": "—",
+      "prior": "189K",
+      "why": "Claims are still very low, which supports the case that the labor market isn't cracking."
+    },
+    {
+      "time": "Thu 9:00 AM",
+      "event": "ISM Services (Nov) + factory orders",
+      "consensus": "≈54.6–54.8",
+      "prior": "54.5",
+      "why": "Services prices paid is the sticky-inflation tell behind core PCE at 3.3%."
+    },
+    {
+      "time": "Thu AM",
+      "event": "Earnings: Kroger, Dollar General, Ulta",
+      "consensus": "KR EPS ≈$1.16",
+      "prior": "—",
+      "why": "Consumer read-through after Black Friday. Online spending was running ≈+13% y/y (Adobe), but with mix trade-downs."
+    },
+    {
+      "time": "Fri 7:30 AM",
+      "event": "November jobs report",
+      "consensus": "NFP ≈90K; UR 4.1%",
+      "prior": "165K; 4.1%",
+      "why": "This is the week's main event. Previews range from 67K to 105K. Dec 9 is priced either way, so the print moves January odds (≈60–67%) and the 2Y."
+    },
+    {
+      "time": "Fri 9:00 AM",
+      "event": "UMich sentiment (prelim Dec)",
+      "consensus": "53.8",
+      "prior": "51.0",
+      "why": "Watch the 1-yr and 5–10-yr inflation expectations, which the Fed cites when inflation runs hot."
+    },
+    {
+      "time": "Next",
+      "event": "FOMC Dec 8–9 (decision Wed Dec 9, 1:00 PM CT)",
+      "consensus": "+25bp to 4.00–4.25% (≈98%)",
+      "prior": "Held Oct (10–2)",
+      "why": "There is no Fed speaker this week (blackout). The dot plot and any 50bp dissent (Waller has floated it) are the swing factors."
+    }
+  ],
+  "desk": {
+    "rates": [
+      {
+        "title": "Holiday-week bear flattener: front end reprices after hot PCE",
+        "body": "The 2Y rose ≈9bp on the week to ≈4.70% while the 10Y gained only ≈2bp to ≈4.93% and the 30Y was ≈flat at 5.32%. October core PCE was 3.3% y/y (0.3% m/m), 0.1pt above forecast, which locked in Dec 9 pricing at ≈98%. About 71bp of hikes is priced by mid-2027.",
+        "simple": "Short-term yields (the interest on short-dated government bonds) track where the Fed is heading, so they rose most after inflation came in hotter than expected. Long yields barely moved, so the curve 'flattened' (the gap between short and long rates narrowed). That's the classic pattern when markets expect the Fed to tighten and growth to slow later, and it squeezes banks that borrow short and lend long.",
+        "source": "Yahoo Finance / CNBC",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/u-treasury-yields-rise-shortened-094900410.html"
+      },
+      {
+        "title": "$183B of 2s/5s/7s: the 5Y and 7Y tailed",
+        "body": "The 2Y ($69B) stopped through by 0.3bp at 4.700% with a 2.65 bid-to-cover. The 5Y ($70B) tailed 0.3bp at 4.719%, its 13th straight tail, with indirects at 54.3% and a record 36.7% from directs. The 7Y ($44B) tailed 1.0bp at 4.708% with a 2.43 cover, below its 2.48 average.",
+        "simple": "At an auction, a 'tail' means the government had to pay a bit more than the market expected to sell its debt, a sign of soft demand. Bid-to-cover is how many dollars of bids came in per dollar sold. Repeated tails suggest investors want extra pay to hold more Treasuries, which keeps borrowing costs high for everyone from homebuyers to companies.",
+        "source": "ZeroHedge / investingLive",
+        "url": "https://www.zerohedge.com/markets/ugly-5y-auction-foreign-demand-slides-resulting-13th-consecutive-tail-record-directs"
+      },
+      {
+        "title": "Real yields near 24-year highs",
+        "body": "The Nov 19 10Y TIPS reopening cleared at a 2.903% real yield, the highest at auction since July 2002, with a ≈2.15% breakeven. In the secondary market it traded ≈2.79% this week, with breakevens near 2.05%.",
+        "simple": "A real yield is the return on an inflation-protected bond after inflation. Close to 3% is very high by recent standards and means money is genuinely expensive. That pressures assets that pay no interest, like gold, and raises the hurdle for any business investment.",
+        "source": "TIPSWatch",
+        "url": "https://tipswatch.com/2026/11/19/10-year-tips-auction-gets-real-yield-of-2-903-highest-in-24-years/"
+      },
+      {
+        "title": "Global tightening: ECB, BoJ both eye December",
+        "body": "An ECB Dec 17 hike is priced ≈96% with the Bund 10Y ≈3.26%, and Pablo Hernández de Cos was picked to succeed Lagarde in February. The BoJ is expected to go from 1.25% to 1.50% on Dec 18 (≈70–80% in swaps) after Tokyo core CPI hit 2.9%. USD/JPY is ≈159.5.",
+        "simple": "Europe and Japan are also raising rates, so global bond yields are rising together. Japanese investors are big buyers of US Treasuries, and higher rates at home give them less reason to buy abroad, which can push US yields up. A weak yen near 160 per dollar risks another government intervention to prop it up.",
+        "source": "Trading Economics / Asia Daily / NYT",
+        "url": "https://tradingeconomics.com/germany/government-bond-yield"
+      }
+    ],
+    "derivatives": [
+      {
+        "title": "CME smashes its daily volume record: 71.5M contracts",
+        "body": "CME traded 71.457M contracts on Mon Nov 23, beating the 67.1M record from Feb 25, 2025. Treasury futures hit their own record at 41.4M, ≈10% above the prior high, and rates futures plus options traded 50.9M. It came the session after the Nov 20 rout (S&P −3.7%, VIX 37) and the Nvidia-led rebound.",
+        "simple": "Futures are contracts to buy or sell something later at a price agreed today. Investors use them to hedge or bet quickly. Record volume means big funds were rushing to reposition after a crash, which earns CME fees on every trade. That's why exchange stocks often do well when markets are chaotic.",
+        "source": "CME Group release via Investing.com",
+        "url": "https://www.investing.com/news/company-news/cme-group-sets-singleday-volume-record-of-715m-contracts-93CH-5048689"
+      },
+      {
+        "title": "SOFR curve: hikes now, cuts later",
+        "body": "SOFR options open interest is crowded at the 96.50 strike (≈3.50% rate) across Dec26, Mar27 and Jun27, built up through call-spread buying. The Jun27/Dec27 futures spread flattened to as low as −12.5bp, its flattest since late July, as the market fades the 2H27 hike premium. Dec26 options expire two days after the FOMC.",
+        "simple": "SOFR futures are bets on the overnight lending rate banks charge each other. Their prices move opposite to rates. Traders are buying cheap insurance that pays off if rates end up lower by mid-2027, meaning they think today's hikes could be reversed if the economy slows.",
+        "source": "Futu News",
+        "url": "https://news.futunn.com/en/post/74356004/us-treasury-traders-are-betting-that-a-federal-reserve-rate"
+      },
+      {
+        "title": "Vol collapses after the crash week",
+        "body": "The VIX closed Friday at 23.81 (−11.2% d, ≈−34% wk) from 37 on Nov 20. The MOVE index (Treasury vol) is reported at ≈95 from ≈106 (single source). The latest CFTC data found (week ending Nov 3) had speculators net short ≈1.28M 5Y contracts, the largest in that report.",
+        "simple": "The VIX measures how much stock-market swings investors expect, and MOVE does the same for bonds. Both dropped fast as panic faded. Big speculative short bets on Treasuries can turn into sharp bond rallies if those traders are forced to buy back at once.",
+        "source": "The Glass Desk / TFTC",
+        "url": "https://theglassdesk.substack.com/p/weekly-market-review-nov-27-2026"
+      }
+    ],
+    "metals": [
+      {
+        "title": "Gold: 15-month low, Friday bounce, third monthly loss",
+        "body": "Spot gold hit ≈$3,427–3,503 midweek (sources differ), its lowest since Aug 2025, then rose ≈2.9% Friday to ≈$3,660. It is ≈−6% for November versus Kitco's $3,898.90 October close, a third straight monthly loss of >5%. It has stayed below $4,000 since Nov 11.",
+        "simple": "Gold pays no interest. When real yields are near 3% and the Fed is hiking, holding gold costs more in income you give up. Forced selling during the stock crash added pressure. Friday's bounce was relief as stocks calmed, not a change in that backdrop.",
+        "source": "Mining.com.au / Kitco",
+        "url": "https://mining.com.au/gold-price-climbs-3-as-tech-stocks-rebound/"
+      },
+      {
+        "title": "ETFs dump, central banks buy",
+        "body": "Global gold ETFs lost $2.15B in the week to Nov 20, the most since June, with ≈12t out of North American funds. WGC estimates Q3 official-sector buying at 321t, only ≈120t of it publicly reported (another source says ≈200t).",
+        "simple": "ETFs (funds that trade like stocks) are where Western investors sell when rates rise. Central banks, led by emerging-market ones, keep buying gold to reduce their reliance on the dollar. That steady official demand is the floor under prices.",
+        "source": "Investing.com / Benzinga",
+        "url": "https://www.investing.com/analysis/golds-215-billion-etf-exodus-highlights-the-cost-of-higher-rates-200692463"
+      },
+      {
+        "title": "Copper: tariff premium gone, violent Friday rebound",
+        "body": "LME copper jumped as much as 6.5% Friday to >$12,600/t, its biggest intraday gain since Jan 29, after hitting a 7-month low of $12,502 on Nov 18. The COMEX–LME spread has collapsed to roughly parity as odds fade for the proposed 15% refined-copper tariff. About 73% of LME stocks sit in US warehouses.",
+        "simple": "Copper had traded at a premium in the US because traders shipped metal there ahead of a possible import tax. As that tax looks less likely, the gap closed. Copper is used in wiring for data centers and power grids, so it now swings with the AI-spending trade.",
+        "source": "Discovery Alert / Crux Investor",
+        "url": "https://discoveryalert.com/analysis/copper-price-rebound-demand-recovery-november-2026/"
+      },
+      {
+        "title": "Silver and PGMs: big bounce, messy prints",
+        "body": "Silver is ≈$43.7–43.9 (Monex/techjuice), ≈+6% on the week from ≈$41.1, though Rio Times has ≈$41.4. Platinum is ≈$1,333 and palladium ≈$902 (Monex, early Fri), versus $1,220/$824 on Nov 25 elsewhere.",
+        "simple": "Silver and platinum-group metals (used in car exhaust filters) trade in thinner markets than gold. They move further in both directions, and on a holiday week price feeds disagree. Treat Monday's COMEX settle as the real number.",
+        "source": "Monex",
+        "url": "https://www.monex.com/liveprices/"
+      }
+    ]
+  },
+  "banking": [
+    {
+      "title": "Basel III endgame 'take two' at White House review",
+      "body": "The FDIC sent the revised capital package (Basel III, G-SIB surcharge, standardized approach) to OIRA on Nov 13. With stress-test changes it would cut CET1 requirements ≈4.8% for the largest banks, 5.2% for Category III/IV and 7.8% for smaller banks. It would take effect two quarters after it is finalized.",
+      "simple": "CET1 is the core equity cushion banks must hold against losses. Lower requirements free up capital for lending, buybacks and trading, especially at big dealer banks. Critics say it leaves less protection in a downturn.",
+      "source": "IndexBox / Freshfields",
+      "url": "https://www.indexbox.io/blog/fdic-submits-revised-basel-iii-endgame-capital-rules-to-white-house-for-review/"
+    },
+    {
+      "title": "Sanofi buys Insmed for $41B",
+      "body": "Sanofi agreed to pay $175/share (≈€37.6B) for Insmed, the largest pharma deal of 2026. It adds the respiratory drugs Brinsupri and Arikayce to offset the coming Dupixent patent cliff.",
+      "simple": "Big drug companies buy smaller ones to replace revenue they will lose when patents expire and generics arrive. Deals this size generate large advisory and financing fees for the investment banks involved.",
+      "source": "SEC 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+    },
+    {
+      "title": "Regional bank M&A: Ameris enters the I-4 corridor",
+      "body": "Ameris (ABCB) is buying Bank of Central Florida (≈$1.2B in assets) in an all-stock deal at 0.6279 ABCB shares, ≈$51.80/share. It is Ameris's first bank deal in 7 years.",
+      "simple": "Mid-size banks buy smaller ones to gain deposits and branches in fast-growing markets like central Florida. Paying in stock rather than cash preserves the buyer's capital. Looser capital rules and faster approvals are reviving this kind of deal.",
+      "source": "Jacksonville Daily Record",
+      "url": "https://www.jaxdailyrecord.com/news/2026/nov/27/ameris-expands-to-i-4-corridor-with-acquisition/"
+    },
+    {
+      "title": "IPO window pauses after Anthropic's record",
+      "body": "No US IPOs priced Thanksgiving week. Anthropic priced Nov 18 at $83, raising $81.3B (a record above SpaceX's $75B), and ended the week ≈11% above its offer price. Renaissance's IPO index is −6.8% YTD vs the S&P's +5.8%. Nigeria's Dangote refinery IPO (≈$47B valuation) is reportedly oversubscribed.",
+      "simple": "An IPO is when a company first sells shares to the public, with banks underwriting (guaranteeing) the sale for a fee. One mega-deal can swamp the calendar. Most recent IPOs trailing the market means investors are picky, which slows fee income for capital-markets desks.",
+      "source": "Renaissance Capital / CNBC",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/122891/us-ipo-weekly-recap-anthropic-delivers-volatile-trading-in-the-quiet"
+    },
+    {
+      "title": "Private credit stress persists",
+      "body": "Fitch's private credit default rate was 6.2% in October, just off the record 6.3% in Q3. Investors in 19 funds asked to withdraw $13.8B in Q3 and got back about 40%. Regional Fed banks are stepping up scrutiny of bank exposure.",
+      "simple": "Private credit is lending by investment funds rather than banks, often to riskier mid-size companies. Rising defaults and investors who can't get their money out are warning signs. Banks lend to these funds, so the stress can spread back to them.",
+      "source": "ABF Journal",
+      "url": "https://www.abfjournal.com/?p=174880"
+    }
+  ],
+  "sources": {
+    "cnbc": [
+      {
+        "title": "Dow closes out its best week since 2022",
+        "body": "The Dow rose ≈592 points Friday to 50,774.94, and the S&P 500 gained 5.6% on the week, its best Thanksgiving week since 2008. Chips and memory led, with Sandisk ≈+10–16%. The week won back ≈60% of the prior week's 8.6% S&P drop.",
+        "simple": "After a crash week driven by fear about AI spending, buyers rushed back once Nvidia's leadership crisis was resolved. Half the damage is repaired, but November is still a losing month.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+      },
+      {
+        "title": "Nvidia reinstates Jensen Huang as CEO",
+        "body": "Nvidia's board brought Huang back 12 days after he resigned, and the stock closed +31% Monday, adding ≈$952B in market value (per CNN). That was the trigger for the week's rally.",
+        "simple": "Nvidia is the most important AI chip company, and its founder leaving had spooked the whole market. His return removed a huge uncertainty, and because Nvidia is so large in the indexes, it lifted everything.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+      },
+      {
+        "title": "Dangote refinery heads for Africa's biggest IPO",
+        "body": "The listing values Nigeria's Dangote refinery at ≈$47B and is reportedly oversubscribed (≈3x), raising ≈$1.5–1.6B with applicants from ≈120 countries.",
+        "simple": "Oversubscribed means investors asked for more shares than were on offer. A successful listing would show global investors are willing to fund big emerging-market energy assets.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html"
+      },
+      {
+        "title": "Musk: Google wants more SpaceX computing capacity",
+        "body": "Google already pays SpaceX $920M a month (Oct 2026–Jun 2029) for computing capacity, and Musk says it wants more.",
+        "simple": "AI companies are so short of computing power that they are renting it from unusual suppliers. That scale of spending is what drives demand for chips, power and copper.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html"
+      }
+    ],
+    "wsj": [
+      {
+        "title": "New Section 301 tariffs strain the China truce",
+        "body": "The administration proposed an extra 20% tariff on China on top of the existing 25% (≈45% on some goods), which could double to 40% if talks stall. The proposal covers 14 partners including the EU and would likely start early 2027. The current truce expires Jan 10.",
+        "simple": "Tariffs are taxes on imports, and they tend to raise prices. That matters for a Fed that is already hiking because inflation is too high. They also threaten metals demand from China.",
+        "source": "Caixin (covering the WSJ print story)",
+        "url": "https://www.caixinglobal.com/2026-11-26/us-proposes-additional-20-tariff-on-china-ahead-of-trade-truce-deadline-102508768.html"
+      },
+      {
+        "title": "Week ahead: jobs data before the Fed's December call",
+        "body": "WSJ's FX and bonds preview frames Friday's payrolls as the last major input before Dec 9. Treasury yields rose in post-Thanksgiving trade.",
+        "simple": "With the hike all but certain, investors care about what comes after. The jobs number will shape bets on whether the Fed keeps going in January.",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754"
+      },
+      {
+        "title": "Allstate joins a wave of corporate tech outages",
+        "body": "Allstate's nationwide systems outage ran into a third day. WSJ grouped it with November outages at Microsoft, AWS, JPMorgan Chase and United. No cause has been confirmed.",
+        "simple": "When a big insurer's systems go down, customers can't file claims or buy policies. A cluster of outages raises questions about operational risk, which bank regulators also police.",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488"
+      },
+      {
+        "title": "Stocks rebound as the AI trade returns",
+        "body": "WSJ's market coverage tracked futures jumping and stocks ending the week strong as investors took a break from AI jitters.",
+        "simple": "The market's direction is still mostly a vote on whether AI spending pays off. A calm week doesn't settle that.",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846"
+      }
+    ],
+    "tribune": [
+      {
+        "title": "CME Group sets an all-time daily volume record",
+        "body": "The Chicago exchange traded 71.5M contracts on Nov 23, after record October ADV in which Treasury futures and options were up 48%.",
+        "simple": "CME earns a fee on every contract, so volatile markets are good for its revenue. It is also the hub where banks and funds hedge rate risk, the business Filip's fellowship touches.",
+        "source": "Crain's Chicago Business coverage / CME release via StockTitan",
+        "url": "https://www.stocktitan.net/news/CME/cme-group-sets-new-daily-volume-record-of-71-5-million-contracts-vdgl4kok2ocd.html"
+      },
+      {
+        "title": "Allstate outage hits day three",
+        "body": "The Glenview-based insurer's nationwide systems outage stretched into a third day as of Nov 25.",
+        "simple": "Long outages cost revenue and customer trust and can bring regulatory questions for a large Illinois financial company.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-allstate-tech-outage-20261125/"
+      },
+      {
+        "title": "Chicago finances probe widens to bond disclosures",
+        "body": "A review of city finances is widening into a probe of the Johnson administration's dealings with Wall Street and how it handled concerns from city finance officials.",
+        "simple": "Chicago is a big municipal-bond borrower with a weak credit rating. Questions about disclosure can raise the interest the city pays and affect the banks that underwrite its bonds.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/politics-policy/ccb-chicago-budget-probe-rfp-20261125/"
+      },
+      {
+        "title": "DRW launches outside asset management",
+        "body": "The Chicago trading firm plans its first business managing outside money, investing in AI computing power and digital assets.",
+        "simple": "Proprietary trading firms like DRW normally trade only their own capital. Taking client money is a strategic shift and shows how Chicago's trading houses are chasing the AI-infrastructure theme.",
+        "source": "Crain's Chicago Business",
+        "url": "https://www.chicagobusiness.com/banking-finance/ccb-drw-asset-management-crypto-compute-20261124/"
+      },
+      {
+        "title": "Boeing wins jet orders; United rallies",
+        "body": "Bloomberg reports Qantas is set to give Boeing most of a ≈20-jet long-haul order (mainly 787s), and Malaysia Aviation ordered 10 787s on Nov 25. United rose 3.4% Friday to $108.09 (+7.0% wk).",
+        "simple": "New wide-body orders support Boeing's recovery, and airline stocks rose as oil stayed below its highs and travel demand held up.",
+        "source": "Bloomberg / GuruFocus",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/qantas-set-to-pick-boeing-for-bulk-of-20-long-range-jet-order"
+      }
+    ],
+    "nyt": [
+      {
+        "title": "Nvidia halts AI-server sales to four Southeast Asian countries",
+        "body": "Nvidia told partners such as Dell and Supermicro to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia while it complies with new US license rules aimed at chips reaching China. The FT broke the story, and the halt's duration is unclear.",
+        "simple": "The US is trying to stop advanced chips reaching China through neighboring countries. This cuts off a fast-growing sales channel, but Friday's chip rally shows investors shrugged it off for now.",
+        "source": "NYT / FT via Investing.com",
+        "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
+      },
+      {
+        "title": "Americans trade down rather than cut back",
+        "body": "With prices rising, holiday shoppers are switching to cheaper goods instead of spending less. Adobe had Black Friday online spending at $9.7B (+12.8% y/y) by 6:30 PM ET, tracking toward $13.0–13.4B.",
+        "simple": "Spending that holds up in dollars, even as people buy cheaper items, keeps the economy and inflation running hot. That is one reason the Fed keeps hiking.",
+        "source": "NYT / Reuters (Adobe data)",
+        "url": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html"
+      },
+      {
+        "title": "ECB picks Hernández de Cos to succeed Lagarde",
+        "body": "The former Bank of Spain governor will take over in early February. Markets price a >90% chance of an ECB hike in December.",
+        "simple": "A new ECB president sets the tone for euro-area rates for years. His views on fighting 4% inflation will move European bond yields and the euro.",
+        "source": "NYT",
+        "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
+      },
+      {
+        "title": "Stocks rally to end a week of wild swings",
+        "body": "NYT covered the S&P's +5.6% week, driven by AI stocks after Huang's return to Nvidia.",
+        "simple": "A week like this shows how much the whole market depends on a handful of AI companies.",
+        "source": "NYT",
+        "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+      }
+    ]
+  },
+  "talking_points": [
+    {
+      "topic": "Bear flattener and auction tails",
+      "point": "The front end did the work this week: the 2Y was up ≈9bp to 4.70% while the 10Y rose ≈2bp to 4.93%, after core PCE printed 3.3%. With Dec 9 ≈98% priced, the more interesting signal is the 5Y's 13th straight tail alongside record direct bidding. My question would be how a desk tells real-money demand weakening apart from dealers just being light on balance sheet, and whether the eSLR change has helped intermediation."
+    },
+    {
+      "topic": "CME record and the SOFR 96.50 strike",
+      "point": "CME's 71.5M-contract day (41.4M Treasury futures) shows that stress now routes through listed rates products. SOFR options open interest is clustered at 96.50 out to Jun27, and Jun27/Dec27 has gone negative, so clients are paying for a hike-then-cut path. It's a good way to ask how the desk prices that convexity and whether the Dec26 options, which expire two days after FOMC, are the preferred hedge."
+    },
+    {
+      "topic": "Gold vs 2.9% real yields",
+      "point": "Gold is down ≈6% in November, its third straight >5% monthly drop, with 10Y TIPS clearing at 2.903%, the highest since 2002. ETF outflows ($2.15B in a week) are fighting central-bank buying (WGC Q3 ≈321t, mostly unreported). The trade to discuss is whether official buying now sets a floor that makes gold less sensitive to real yields than its old correlation implies."
+    }
+  ],
+  "caveats": "Weekend edition: no trading since Friday's half-day session, so tiles are Nov 27 closes and weekly changes are calculated against the Nov 20 closes in last Saturday's brief. WebFetch was blocked for most outlets this run, so most figures come from search-result summaries and smaller aggregators. WSJ and NYT items are built from RSS headlines plus other outlets' coverage, and the Tribune bucket uses Crain's Chicago Business. Conflicts to note: Dec-hike odds range ≈88–99% by snapshot; silver ($41.4 vs $43.9), gold's 15-month low ($3,427 vs $3,503) and PGM prints differ across sources; MOVE comes from a single source; CFTC Treasury positioning is from the Nov 3 week. Week-ahead consensus figures are provisional, so recheck ISM and payrolls Monday. CrowdStrike's report date conflicts across sources and is left off the calendar.",
+  "updates": []
+}
